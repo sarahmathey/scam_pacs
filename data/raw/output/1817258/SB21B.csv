@@ -1,0 +1,58 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00652164,500680330,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-15,434.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500680430,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-07-15,1426.82,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500672050,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-07-01,1594.94,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500680431,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-07-15,4406.96,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500680432,500680431,SB21B,IND,,Ades,Sylvia,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-15,663.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500680433,500680431,SB21B,IND,,Baitman,Benjamin,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-15,1332.20,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500680434,500680431,SB21B,IND,,Kurt,Bond,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-15,1254.36,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500680435,500680431,SB21B,IND,,Pardee,Daniel,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-15,1157.07,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685542,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-07-29,3942.31,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500685680,500685542,SB21B,ORG,Gotham City Diner,,,,,,39 S Broadway,# 10,Fair Lawn,NJ,074105543,,,2024-07-29,43.72,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685690,500685542,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-29,7.22,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685681,500685542,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-07-29,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685691,500685542,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-29,39.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685682,500685542,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-07-29,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685692,500685542,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-29,30.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685693,500685542,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-29,19.03,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685684,500685542,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-07-29,47.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685694,500685542,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-29,181.96,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685685,500685542,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-07-29,66.31,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685695,500685542,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-29,28.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685686,500685542,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-07-29,1.22,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685696,500685542,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-29,21.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685697,500685542,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-29,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685678,500685542,SB21B,ORG,Gotham City Diner,,,,,,39 S Broadway,# 10,Fair Lawn,NJ,074105543,,,2024-07-29,33.61,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685698,500685542,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-29,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685679,500685542,SB21B,ORG,Gotham City Diner,,,,,,39 S Broadway,# 10,Fair Lawn,NJ,074105543,,,2024-07-29,64.04,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685689,500685542,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-29,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500671193,,,ORG,The Frost Group,,,,,,660 Pennsylvania Ave SE,Ste 202,Washington,DC,200034357,,,2024-07-02,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500686744,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-07-31,5808.91,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500686740,500686744,SB21B,IND,,Baitman,Benjamin,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-31,1332.20,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500686741,500686744,SB21B,IND,,Kurt,Bond,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-31,1254.36,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500686742,500686744,SB21B,IND,,Pardee,Daniel,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-31,1157.07,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500686743,500686744,SB21B,IND,,Touchton,Margaret,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-31,1401.95,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500686739,500686744,SB21B,IND,,Ades,Sylvia,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-31,663.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500671194,,,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2024-07-02,327.60,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500685675,,,CCM,Josh Gottheimer for Congress,,,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-31,680.00,0.00,Rent,,C00573949,,,Gottheimer,Josh,,,,H,NJ,05,,,,,,,,
+SB21B,C00652164,500671195,,,ORG,"Olson Remcho, LLP",,,,,,555 Capitol Mall,Ste 400,Sacramento,CA,958144503,,,2024-07-02,216.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500672046,,,ORG,MS Public Affairs LLC,,,,,,38 Rea Avenue Ext,,Hawthorne,NJ,075063334,,,2024-07-03,5000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500686737,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-31,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500672047,,,IND,,Szott,Ryne,C.,,,7 Medford Pl,,Wayne,NJ,074705313,,,2024-07-03,1000.00,0.00,Driving Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500672057,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-07-01,5070.31,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500672052,500672057,SB21B,IND,,Ades,Sylvia,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-01,663.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500672053,500672057,SB21B,IND,,Baitman,Benjamin,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-01,1332.21,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500672054,500672057,SB21B,IND,,Kurt,Bond,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-01,1254.36,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500672055,500672057,SB21B,IND,,Hoffman,Claire,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-01,663.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500672056,500672057,SB21B,IND,,Pardee,Daniel,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-07-01,1157.08,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500686738,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-07-31,1907.32,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500674599,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-07-01,391.49,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500685661,500674599,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-07-01,36.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685663,500674599,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-01,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685654,500674599,SB21B,ORG,The Capital Grille,,,,,,601 Pennsylvania Ave NW,,Washington,DC,200042601,,,2024-07-01,188.40,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685664,500674599,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-01,22.89,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685665,500674599,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-01,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685666,500674599,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-01,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685657,500674599,SB21B,ORG,Fresh Direct Catering,,,,,,2330 Borden Ave,,Long Island City,NY,111014515,,,2024-07-01,305.36,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685667,500674599,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-01,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500685658,500674599,SB21B,ORG,Fresh Direct Catering,,,,,,2330 Borden Ave,,Long Island City,NY,111014515,,,2024-07-01,-305.36,0.00,Vendor Refund,,,,,,,,,,,,,,,,,,,X,*

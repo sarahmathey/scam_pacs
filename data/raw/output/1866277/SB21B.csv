@@ -1,0 +1,390 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00580068,500201010,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,13138.01,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201020,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-25,1893.72,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201030,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-10-31,131555.35,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209630,,,ORG,Merchant Services,,,,,,4000 Coral Ridge Dr,,Pompano Beach,FL,330657614,,,2024-11-04,586.31,0.00,credit card fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208030,,,ORG,Shopify,,,,,,1209 N Orange St,,Wilmington,DE,198011120,,,2024-10-17,33.32,0.00,processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201040,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-08,344350.87,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201050,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-10-24,260537.91,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201060,,,ORG,Movement Cooperative,,,,,,PO Box 20063,,New York,NY,100010005,,,2024-11-08,14483.33,0.00,data services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201070,,,ORG,Shawmut Services LLC,,,,,,90 Canal St,,Boston,MA,021142018,,,2024-10-28,3355091.02,0.00,Field Organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500196290,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-10-18,3581.76,0.00,Contractors - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500196291,500196290,SB21B,IND,,Brown,Janet,,,,768 Lincoln Ave,,Winnetka,IL,600931946,,,2024-10-18,975.51,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196292,500196290,SB21B,IND,,Hall,Joshua,,,,6641 Mariner Dr,Unit 9,Mount Pleasant,WI,534065602,,,2024-10-18,1062.50,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196293,500196290,SB21B,IND,,Martin,Benjamin,,,,2517 N Fratney St,,Milwaukee,WI,532122948,,,2024-10-18,1543.75,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201021,,,ORG,Capital Compliance,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-10-24,7000.00,0.00,accounting & compliance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208031,,,ORG,Nicor Gas,,,,,,PO Box 5407,,Carol Stream,IL,601975407,,,2024-10-30,51.50,0.00,utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201031,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-01,64120.89,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208041,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,45.60,0.00,payroll fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201041,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-13,352786.95,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201051,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-10-25,122680.74,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201061,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-11-08,13600.03,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201071,,,ORG,Show Strategy Inc,,,,,,355 N Canal St,,Chicago,IL,606060006,,,2024-10-31,480.00,0.00,convention exhibit,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201081,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-31,207095.00,0.00,credit card see detail below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201082,500201081,SB21B,ORG,TATANGO,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2024-10-31,207095.00,0.00,digital advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201012,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-03,50173.24,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201022,,,ORG,Capital Compliance,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-11-22,7000.00,0.00,accounting & compliance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201032,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-01,188674.32,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208032,,,ORG,Nicor Gas,,,,,,PO Box 5407,,Carol Stream,IL,601975407,,,2024-11-19,63.67,0.00,utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208042,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,63561.04,0.00,payroll-see detail below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208043,500208042,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,41083.03,0.00,payroll taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208044,500208042,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,1146.04,0.00,insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208045,500208042,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,15733.08,0.00,payroll fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208046,500208042,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,4258.77,0.00,health insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208047,500208042,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,1340.12,0.00,employee benefits,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201042,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-13,489754.52,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201052,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-10-29,162147.36,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201062,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-11-08,57600.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201072,,,ORG,States Made,,,,,,4606 W Jefferson Blvd,Ste B,Los Angeles,CA,900164007,,,2024-10-24,4976.13,0.00,Field supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201013,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,26436.91,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201023,,,ORG,Civis Analytics Inc,,,,,,200 W Monroe St,,Chicago,IL,606065075,,,2024-11-01,6997.80,0.00,field data,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201033,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-01,298166.94,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208033,,,ORG,Gradifi,,,,,,699 Boylston St,,Boston,MA,021162848,,,2024-10-31,293.00,0.00,employee benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201043,,,ORG,Message Digital,,,,,,2054 University Ave,Ste 600,Berkeley,CA,947041076,,,2024-10-30,200000.00,0.00,Digital Organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201053,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-10-31,75292.50,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208053,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,15641.42,0.00,payroll-see detail below,,,,,,,,,,,,,,,,,,,,payroll-see detail below
+SB21B,C00580068,500208054,500208053,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,5784.10,0.00,payroll taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208055,500208053,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,186.60,0.00,insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208056,500208053,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,4207.73,0.00,payroll fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208057,500208053,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,4215.59,0.00,health insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208058,500208053,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,1247.40,0.00,employee benefits,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201063,,,ORG,North Shore Printers,,,,,,535 S Sheridan Rd,,Waukegan,IL,600857538,,,2024-10-25,7300.00,0.00,printing & postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201073,,,ORG,States Made,,,,,,4606 W Jefferson Blvd,Ste B,Los Angeles,CA,900164007,,,2024-11-20,2761.40,0.00,Field supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201083,,,ORG,CIBC Bank,,,,,,1000 Green Bay Rd,,Winnetka,IL,600931722,,,2024-10-22,1306.78,0.00,bank charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201014,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-06,8655.65,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201024,,,ORG,CT Corporation,,,,,,,,New York,NY,10005,,,2024-11-20,219.00,0.00,business registration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201034,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-01,346822.66,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208034,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-10-18,28.80,0.00,payroll fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201044,,,ORG,Message Digital,,,,,,2054 University Ave,Ste 600,Berkeley,CA,947041076,,,2024-11-04,50000.00,0.00,Digital Organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201054,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-11-01,276471.08,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201064,,,ORG,North Shore Printers,,,,,,535 S Sheridan Rd,,Waukegan,IL,600857538,,,2024-11-01,7928.00,0.00,printing & postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500207974,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,74695.41,0.00,Payroll - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500207980,500207974,SB21B,IND,,Stone,Khadidah,,,,50 Cahaba River Parc,Apt 1331,Birmingham,AL,352433256,,,2024-11-01,2096.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207990,500207974,SB21B,IND,,Gonzalez,Julio,,,,5830 Las Virgenes Rd,Apt 445,Calabasas,CA,913022645,,,2024-11-01,4362.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207981,500207974,SB21B,IND,,Taxy,Dori,,,,604 Sheridan Rd,Apt 3W,Evanston,IL,602023137,,,2024-11-01,4061.47,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207991,500207974,SB21B,IND,,Smith,Heather,,,,8434 Lawndale Ave,,Skokie,IL,600762854,,,2024-11-01,3040.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207982,500207974,SB21B,IND,,Tumminello,Kara,,,,37411 N Il Route 59,,Lake Villa,IL,600467328,,,2024-11-01,2819.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207992,500207974,SB21B,IND,,Richardson Rossbach,Emily,,,,154 Shore Dr,,Ogden Dunes,IN,463687749,,,2024-11-01,4240.72,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207983,500207974,SB21B,IND,,Witek,Cory,,,,12990 W Bluemound Rd,Apt 104,Elm Grove,WI,531222611,,,2024-11-01,60.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207993,500207974,SB21B,IND,,Delacruz,Samuel,,,,1342 S Finley Rd,Apt 3L,Lombard,IL,601484324,,,2024-11-01,2076.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207984,500207974,SB21B,IND,,Chan,Spencer,,,,1449 W Catalpa Ave,Apt 1,Chicago,IL,606401252,,,2024-11-01,5140.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207994,500207974,SB21B,IND,,Earley,Elizabeth,,,,24088 N Bridle Trail Rd,,Lake Forest,IL,600453491,,,2024-11-01,770.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207985,500207974,SB21B,IND,,Lucas,Caroline,,,,920 Riverside Dr,Apt 6A,New York,NY,100325464,,,2024-11-01,808.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207995,500207974,SB21B,IND,,Scannell,Kevin,,,,780 S Federal St,Apt 804,Chicago,IL,606051871,,,2024-11-01,1150.16,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207976,500207974,SB21B,IND,,Ajayi,Olayinka,,,,5555 Roswell Rd,Apt N7,Atlanta,GA,303421812,,,2024-11-01,2362.82,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207986,500207974,SB21B,IND,,Morgan,Alexander,,,,1240 W Sims Way,# 259,Port Townsend,WA,983683058,,,2024-11-01,8249.47,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207996,500207974,SB21B,IND,,Sitton,Susan,,,,9 2nd St,,Downers Grove,IL,605155227,,,2024-11-01,1166.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207977,500207974,SB21B,IND,,Banks,Kristopher,,,,10718 Curtis St,,Detroit,MI,482212328,,,2024-11-01,3942.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207987,500207974,SB21B,IND,,Pascal,Harry,,,,1215 Spruce St,,Winnetka,IL,600932147,,,2024-11-01,7185.32,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207997,500207974,SB21B,IND,,Solberg,Michelle,,,,1460 Stonebridge Trl,,Wheaton,IL,601897145,,,2024-11-01,2156.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207978,500207974,SB21B,IND,,Dinwiddie,Andrew,,,,114 Fenimore St,Apt 5F,Brooklyn,NY,112255319,,,2024-11-01,3880.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207988,500207974,SB21B,IND,,Theisen,Hayley,,,,789 Saint Marks Ave,Apt 11B,Brooklyn,NY,112131424,,,2024-11-01,3880.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207998,500207974,SB21B,IND,,Stelnicki,Charles,,,,5303 Commonwealth Ave,,Western Springs,IL,605581763,,,2024-11-01,3322.64,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207979,500207974,SB21B,IND,,Mccollum,Reid,,,,715 S Bodin St,,Hinsdale,IL,605214316,,,2024-11-01,4927.90,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207989,500207974,SB21B,IND,,Clarke,Kameron,,,,1914 Prices Ln,,Alexandria,VA,223082759,,,2024-11-01,2996.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201074,,,ORG,Turnout Education Fund,,,,,,PO Box 68,,Evanston,IL,602040068,,,2024-10-17,30000.00,0.00,charitable contribution,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500196294,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-10-18,72905.88,0.00,Payroll - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500196300,500196294,SB21B,IND,,Ajayi,Olayinka,,,,5555 Roswell Rd,Apt N7,Atlanta,GA,303421812,,,2024-10-18,2096.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196310,500196294,SB21B,IND,,Morgan,Alexander,,,,1240 W Sims Way,# 259,Port Townsend,WA,983683058,,,2024-10-18,8038.47,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196320,500196294,SB21B,IND,,Sitton,Susan,,,,9 2nd St,,Downers Grove,IL,605155227,,,2024-10-18,1463.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196301,500196294,SB21B,IND,,Banks,Kristopher,,,,10718 Curtis St,,Detroit,MI,482212328,,,2024-10-18,3780.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196311,500196294,SB21B,IND,,Pascal,Harry,,,,1215 Spruce St,,Winnetka,IL,600932147,,,2024-10-18,6730.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196321,500196294,SB21B,IND,,Solberg,Michelle,,,,1460 Stonebridge Trl,,Wheaton,IL,601897145,,,2024-10-18,2012.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196302,500196294,SB21B,IND,,Dinwiddie,Andrew,,,,114 Fenimore St,Apt 5F,Brooklyn,NY,112255319,,,2024-10-18,3780.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196312,500196294,SB21B,IND,,Theisen,Hayley,,,,789 Saint Marks Ave,Apt 11B,Brooklyn,NY,112131424,,,2024-10-18,3780.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196322,500196294,SB21B,IND,,Stelnicki,Charles,,,,5303 Commonwealth Ave,,Western Springs,IL,605581763,,,2024-10-18,3080.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196303,500196294,SB21B,IND,,Mccollum,Reid,,,,715 S Bodin St,,Hinsdale,IL,605214316,,,2024-10-18,4827.90,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196313,500196294,SB21B,IND,,Clarke,Kameron,,,,1914 Prices Ln,,Alexandria,VA,223082759,,,2024-10-18,2786.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196304,500196294,SB21B,IND,,Stone,Khadidah,,,,50 Cahaba River Parc,Apt 1331,Birmingham,AL,352433256,,,2024-10-18,2096.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196314,500196294,SB21B,IND,,Gonzalez,Julio,,,,5830 Las Virgenes Rd,Apt 445,Calabasas,CA,913022645,,,2024-10-18,4200.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196305,500196294,SB21B,IND,,Taxy,Dori,,,,604 Sheridan Rd,Apt 3W,Evanston,IL,602023137,,,2024-10-18,3898.97,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196315,500196294,SB21B,IND,,Smith,Heather,,,,8434 Lawndale Ave,,Skokie,IL,600762854,,,2024-10-18,2940.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196306,500196294,SB21B,IND,,Tumminello,Kara,,,,37411 N Il Route 59,,Lake Villa,IL,600467328,,,2024-10-18,2712.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196316,500196294,SB21B,IND,,Richardson Rossbach,Emily,,,,154 Shore Dr,,Ogden Dunes,IN,463687749,,,2024-10-18,4140.72,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196307,500196294,SB21B,IND,,Witek,Cory,,,,12990 W Bluemound Rd,Apt 104,Elm Grove,WI,531222611,,,2024-10-18,182.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196317,500196294,SB21B,IND,,Delacruz,Samuel,,,,1342 S Finley Rd,Apt 3L,Lombard,IL,601484324,,,2024-10-18,1776.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196308,500196294,SB21B,IND,,Chan,Spencer,,,,1449 W Catalpa Ave,Apt 1,Chicago,IL,606401252,,,2024-10-18,5040.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196318,500196294,SB21B,IND,,Earley,Elizabeth,,,,24088 N Bridle Trail Rd,,Lake Forest,IL,600453491,,,2024-10-18,1210.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196309,500196294,SB21B,IND,,Lucas,Caroline,,,,920 Riverside Dr,Apt 6A,New York,NY,100325464,,,2024-10-18,573.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500196319,500196294,SB21B,IND,,Scannell,Kevin,,,,780 S Federal St,Apt 804,Chicago,IL,606051871,,,2024-10-18,1760.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201005,,,ORG,121 W Wacker LLC,,,,,,121 W Wacker Dr,,Chicago,IL,606011781,,,2024-11-01,37849.99,0.00,rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201015,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-10,20842.98,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201025,,,ORG,Engage,,,,,,880 N East St,,Frederick,MD,217015039,,,2024-11-13,1936.48,0.00,mail processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208035,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,62654.17,0.00,payroll-see detail below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208040,500208035,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,103.39,0.00,employee benefits,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208036,500208035,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,41277.78,0.00,payroll taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208037,500208035,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,1138.71,0.00,insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208038,500208035,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,16138.25,0.00,payroll fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208039,500208035,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,3996.04,0.00,health insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201035,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-08,62278.87,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201045,,,ORG,Message Digital,,,,,,2054 University Ave,Ste 600,Berkeley,CA,947041076,,,2024-11-04,450000.00,0.00,Digital Organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201055,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-11-15,140000.00,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201065,,,ORG,ORD Chicago Workspace LLC,,,,,,231 S Frontage Rd,,Burr Ridge,IL,605275849,,,2024-11-01,4837.39,0.00,rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201075,,,ORG,Turnout Education Fund,,,,,,PO Box 68,,Evanston,IL,602040068,,,2024-10-31,20000.00,0.00,charitable contribution,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500207975,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,67684.41,0.00,Payroll - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208000,500207975,SB21B,IND,,Ajayi,Olayinka,,,,5555 Roswell Rd,Apt N7,Atlanta,GA,303421812,,,2024-11-15,2096.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208010,500207975,SB21B,IND,,Pascal,Harry,,,,1215 Spruce St,,Winnetka,IL,600932147,,,2024-11-15,6730.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208020,500207975,SB21B,IND,,Rosen,Kai,,,,6100 Kalmia Dr,,Anchorage,AK,995071263,,,2024-11-15,250.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208001,500207975,SB21B,IND,,Banks,Kristopher,,,,10718 Curtis St,,Detroit,MI,482212328,,,2024-11-15,3780.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208011,500207975,SB21B,IND,,Theisen,Hayley,,,,789 Saint Marks Ave,Apt 11B,Brooklyn,NY,112131424,,,2024-11-15,3780.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208021,500207975,SB21B,IND,,Shepherd,Juliet,,,,2279 Franklin St,# A,Fairbanks,AK,997096236,,,2024-11-15,250.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208002,500207975,SB21B,IND,,Dinwiddie,Andrew,,,,114 Fenimore St,Apt 5F,Brooklyn,NY,112255319,,,2024-11-15,3780.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208012,500207975,SB21B,IND,,Clarke,Kameron,,,,1914 Prices Ln,,Alexandria,VA,223082759,,,2024-11-15,2880.89,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208003,500207975,SB21B,IND,,Mccollum,Reid,,,,715 S Bodin St,,Hinsdale,IL,605214316,,,2024-11-15,4827.90,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208013,500207975,SB21B,IND,,Gonzalez,Julio,,,,5830 Las Virgenes Rd,Apt 445,Calabasas,CA,913022645,,,2024-11-15,4200.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208004,500207975,SB21B,IND,,Stone,Khadidah,,,,50 Cahaba River Parc,Apt 1331,Birmingham,AL,352433256,,,2024-11-15,2096.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208014,500207975,SB21B,IND,,Smith,Heather,,,,8434 Lawndale Ave,,Skokie,IL,600762854,,,2024-11-15,3072.53,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208005,500207975,SB21B,IND,,Taxy,Dori,,,,604 Sheridan Rd,Apt 3W,Evanston,IL,602023137,,,2024-11-15,3898.97,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208015,500207975,SB21B,IND,,Richardson Rossbach,Emily,,,,154 Shore Dr,,Ogden Dunes,IN,463687749,,,2024-11-15,4140.72,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208006,500207975,SB21B,IND,,Tumminello,Kara,,,,37411 N Il Route 59,,Lake Villa,IL,600467328,,,2024-11-15,2542.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208016,500207975,SB21B,IND,,Delacruz,Samuel,,,,1342 S Finley Rd,Apt 3L,Lombard,IL,601484324,,,2024-11-15,1617.22,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208007,500207975,SB21B,IND,,Chan,Spencer,,,,1449 W Catalpa Ave,Apt 1,Chicago,IL,606401252,,,2024-11-15,5040.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208017,500207975,SB21B,IND,,Sitton,Susan,,,,9 2nd St,,Downers Grove,IL,605155227,,,2024-11-15,236.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208008,500207975,SB21B,IND,,Lucas,Caroline,,,,920 Riverside Dr,Apt 6A,New York,NY,100325464,,,2024-11-15,924.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208018,500207975,SB21B,IND,,Solberg,Michelle,,,,1460 Stonebridge Trl,,Wheaton,IL,601897145,,,2024-11-15,1150.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208009,500207975,SB21B,IND,,Morgan,Alexander,,,,1240 W Sims Way,# 259,Port Townsend,WA,983683058,,,2024-11-15,8038.47,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208019,500207975,SB21B,IND,,Stelnicki,Charles,,,,5303 Commonwealth Ave,,Western Springs,IL,605581763,,,2024-11-15,2351.39,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201006,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-20,39621.11,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201016,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-13,12864.83,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201026,,,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104009,,,2024-11-20,46.56,0.00,postage & fulfillment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208026,,,ORG,Paragon Solutions,,,,,,400 N Ashley Dr,,Tampa,FL,336024300,,,2024-10-17,188.09,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201036,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-08,132664.35,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201046,,,ORG,Message Digital,,,,,,2054 University Ave,Ste 600,Berkeley,CA,947041076,,,2024-11-14,406000.00,0.00,Digital Organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209946,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-25,165296.00,0.00,credit card see detail below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209947,500209946,SB21B,ORG,TATANGO,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2024-11-25,165296.00,0.00,digital advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201056,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-11-15,258148.23,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208066,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-31,90280.82,0.00,Credit Card Expenditures - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208100,500208066,SB21B,ORG,C T Corporation,,,,,,111 8th Ave,Fl 13,New York,NY,100115213,,,2024-10-17,452.00,0.00,Filing Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208110,500208066,SB21B,ORG,Comcast,,,,,,1500 McConnor Pkwy,Ste 100,Schaumburg,IL,601734330,,,2024-10-17,-100.00,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208120,500208066,SB21B,ORG,American Express Travel Agency,,,,,,500 W Madison St,,Chicago,IL,606614544,,,2024-10-17,-373.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208140,500208066,SB21B,ORG,Flywheel,,,,,,504 Lavaca St,,Austin,TX,787012900,,,2024-10-17,290.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208150,500208066,SB21B,ORG,Stefani Prime,,,,,,6755 N Cicero Ave,,Lincolnwood,IL,607123302,,,2024-10-20,236.61,0.00,Management Meeting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208170,500208066,SB21B,ORG,Culligan,,,,,,375 W South Frontage Rd,,Bolingbrook,IL,604404872,,,2024-10-25,46.59,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208070,500208066,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-10-17,1631.83,0.00,Software Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208080,500208066,SB21B,ORG,Pirate Ship Postage,,,,,,680 S Cache St,Unit 100,Jackson,WY,830018694,,,2024-10-17,20000.00,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208101,500208066,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-10-17,100.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208111,500208066,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-17,15.76,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208131,500208066,SB21B,ORG,Marriott,,,,,,10 Avenue Of The Arts,,Philadelphia,PA,191022500,,,2024-10-17,371.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208141,500208066,SB21B,ORG,Democratic Data Exchange,,,,,,1380 Monroe St NW,,Washington,DC,200103452,,,2024-10-17,3000.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208071,500208066,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-17,23.35,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208081,500208066,SB21B,ORG,Pirate Ship Postage,,,,,,680 S Cache St,Unit 100,Jackson,WY,830018694,,,2024-10-17,30000.00,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208181,500208066,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-27,1.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208102,500208066,SB21B,ORG,Renewal Membership Fee,,,,,,9620 Executive Center Dr N,Ste 200,Saint Petersburg,FL,337022441,,,2024-10-17,-95.00,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208112,500208066,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-17,28.80,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208122,500208066,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-17,22.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208132,500208066,SB21B,ORG,Marriott,,,,,,10 Avenue Of The Arts,,Philadelphia,PA,191022500,,,2024-10-17,858.36,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208142,500208066,SB21B,ORG,Clipbook Inc,,,,,,700 K St NW,,Washington,DC,200015690,,,2024-10-17,26520.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208162,500208066,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-22,9.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208072,500208066,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-17,24.82,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208103,500208066,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-17,20.74,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208113,500208066,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-17,1045.20,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208123,500208066,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-17,24.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208133,500208066,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-17,1.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208163,500208066,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-22,9.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208073,500208066,SB21B,ORG,Mcmaster Carr,,,,,,600 N County Line Rd,,Elmhurst,IL,601262034,,,2024-10-17,47.96,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208104,500208066,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-17,31.97,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208114,500208066,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-17,3.49,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208124,500208066,SB21B,ORG,Sea Airport Parking,,,,,,17801 International Blvd,,Seatac,WA,981581202,,,2024-10-17,37.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208134,500208066,SB21B,ORG,APPLE,,,,,,12545 Riata Vista Cir,,Austin,TX,787276524,,,2024-10-17,21.77,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208154,500208066,SB21B,ORG,Enterprise Rent A Car,,,,,,Philadelphia AP Onsite,,Philadelphia,PA,19153,,,2024-10-20,285.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208164,500208066,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-22,14.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208074,500208066,SB21B,ORG,Staples,,,,,,7199 S Kingery Hwy,,Willowbrook,IL,605275525,,,2024-10-17,119.88,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208105,500208066,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-17,42.79,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208115,500208066,SB21B,ORG,Heroku,,,,,,415 Mission St,,San Francisco,CA,941052533,,,2024-10-17,36.04,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208135,500208066,SB21B,ORG,Flywheel,,,,,,504 Lavaca St,,Austin,TX,787012900,,,2024-10-17,30.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208145,500208066,SB21B,ORG,ADOBE,,,,,,801 N 34th St,,Seattle,WA,981038882,,,2024-10-18,216.72,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208155,500208066,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-10-20,150.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208165,500208066,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-22,14.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208175,500208066,SB21B,ORG,Hertz,,,,,,5601 N WEST EXPRESSWAY,,Oklahoma City,OK,73132,,,2024-10-26,489.52,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208075,500208066,SB21B,ORG,Mcmaster Carr,,,,,,600 N County Line Rd,,Elmhurst,IL,601262034,,,2024-10-17,149.08,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208095,500208066,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-17,81.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208106,500208066,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-17,48.59,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208116,500208066,SB21B,ORG,TWILIO INC,,,,,,375 Beale St,Fl 3,San Francisco,CA,941052066,,,2024-10-17,40.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208126,500208066,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-17,44.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208136,500208066,SB21B,ORG,APPLE,,,,,,12545 Riata Vista Cir,,Austin,TX,787276524,,,2024-10-17,38.53,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208156,500208066,SB21B,ORG,ComEd,,,,,,10 S Dearborn St,# 51,Chicago,IL,606032300,,,2024-10-21,169.54,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208166,500208066,SB21B,ORG,Comcast,,,,,,1500 McConnor Pkwy,Ste 100,Schaumburg,IL,601734330,,,2024-10-23,273.33,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208076,500208066,SB21B,ORG,ComEd,,,,,,10 S Dearborn St,# 51,Chicago,IL,606032300,,,2024-10-17,239.31,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208176,500208066,SB21B,ORG,Hometown Coffee,,,,,,749 Elm St,,Winnetka,IL,600932524,,,2024-10-27,22.56,0.00,Management Meeting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208096,500208066,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-17,86.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208127,500208066,SB21B,ORG,Union 76,,,,,,411 S Keeler Ave,,Bartlesville,OK,740036620,,,2024-10-17,44.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208137,500208066,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-17,85.39,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208157,500208066,SB21B,ORG,American Express Travel Agency,,,,,,500 W Madison St,,Chicago,IL,606614544,,,2024-10-21,-1551.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208167,500208066,SB21B,ORG,TWILIO INC,,,,,,375 Beale St,Fl 3,San Francisco,CA,941052066,,,2024-10-23,40.02,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208077,500208066,SB21B,ORG,Uline,,,,,,12575 Uline Dr,,Pleasant Prairie,WI,531583686,,,2024-10-17,410.34,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208097,500208066,SB21B,ORG,Enterprise Rent a Car,,,,,,Detroit Metro AP On Site,,Detroit,MI,48242,,,2024-10-17,289.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208108,500208066,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-10-17,546.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208118,500208066,SB21B,ORG,TWILIO INC,,,,,,375 Beale St,Fl 3,San Francisco,CA,941052066,,,2024-10-17,40.02,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208128,500208066,SB21B,ORG,Union 76,,,,,,411 S Keeler Ave,,Bartlesville,OK,740036620,,,2024-10-17,50.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208158,500208066,SB21B,ORG,American Express Travel Agency,,,,,,500 W Madison St,,Chicago,IL,606614544,,,2024-10-21,-1551.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208168,500208066,SB21B,ORG,Shopify,,,,,,1209 N Orange St,,Wilmington,DE,198011120,,,2024-10-23,105.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208078,500208066,SB21B,ORG,Midwest Laser Specialists,,,,,,175 E Crossroads Pkwy,Ste A,Bolingbrook,IL,604403677,,,2024-10-17,558.80,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208098,500208066,SB21B,ORG,WASHPOST,,,,,,1301 K St NW,,Washington,DC,200710004,,,2024-10-17,17.00,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208109,500208066,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-10-17,750.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208119,500208066,SB21B,ORG,TWILIO INC,,,,,,375 Beale St,Fl 3,San Francisco,CA,941052066,,,2024-10-17,89.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208129,500208066,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-17,91.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208159,500208066,SB21B,ORG,Cloudflare,,,,,,101 Townsend St,,San Francisco,CA,941071934,,,2024-10-21,272.50,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208169,500208066,SB21B,ORG,Once Upon a Bagel,,,,,,1050 Gage St,,Winnetka,IL,600931742,,,2024-10-25,24.01,0.00,Management Meeting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208069,500208066,SB21B,ORG,Mailchamp,,,,,,675 Ponce De Leon Ave NE,Ste 500,Atlanta,GA,303081884,,,2024-10-17,147.15,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208079,500208066,SB21B,ORG,Uline,,,,,,12575 Uline Dr,,Pleasant Prairie,WI,531583686,,,2024-10-17,1210.94,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201066,,,ORG,Paragon Solutions,,,,,,400 N Ashley Dr,,Tampa,FL,336024300,,,2024-11-04,20.00,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201076,,,ORG,Turnout Education Fund,,,,,,PO Box 68,,Evanston,IL,602040068,,,2024-11-14,50000.00,0.00,charitable contribution,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208186,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,28.80,0.00,payroll fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201007,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-23,35208.59,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201017,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-17,14126.10,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209627,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-31,524.34,0.00,bank charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201027,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-10-25,73006.25,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208027,,,ORG,Paragon Solutions,,,,,,400 N Ashley Dr,,Tampa,FL,336024300,,,2024-10-17,114.75,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201037,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-08,177478.78,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201047,,,ORG,Message Digital,,,,,,2054 University Ave,Ste 600,Berkeley,CA,947041076,,,2024-11-15,259165.05,0.00,Digital Organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201057,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-11-20,259165.05,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201077,,,ORG,Turnout Education Fund,,,,,,PO Box 68,,Evanston,IL,602040068,,,2024-11-25,30000.00,0.00,charitable contribution,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208187,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-22,408.78,0.00,payroll see detail below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208190,500208187,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-22,25.58,0.00,payroll fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208188,500208187,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-22,369.87,0.00,payroll taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208189,500208187,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-22,13.33,0.00,insuracne,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201008,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,43450.59,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201018,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-20,7444.54,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209628,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-20,456.35,0.00,bank charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208028,,,ORG,Paragon Solutions,,,,,,400 N Ashley Dr,,Tampa,FL,336024300,,,2024-11-04,111.73,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201028,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-10-25,203502.27,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209938,,,ORG,Rally by Relentless,,,,,,2093 Philadelphia Pike,,Claymont,DE,197032424,,,2024-11-13,-2255055.56,0.00,"Relational Organizing (IE paid  11/13/24, See schedule E)",,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201038,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-08,199054.28,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208548,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-25,3496.43,0.00,Credit Card Expenditures - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209110,500208548,SB21B,ORG,TWILIO INC,,,,,,375 Beale St,Fl 3,San Francisco,CA,941052066,,,2024-11-05,89.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209120,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-06,42.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209030,500208548,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,Fl 4WEST,Washington,DC,200011401,,,2024-10-29,137.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209040,500208548,SB21B,ORG,Roost East Market,,,,,,1523 N Front St,,Philadelphia,PA,191223907,,,2024-10-31,264.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209140,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-07,66.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209050,500208548,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-01,28.80,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209150,500208548,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-11-11,28.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209060,500208548,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,Fl 4WEST,Washington,DC,200011401,,,2024-11-02,-27.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209160,500208548,SB21B,ORG,ADOBE,,,,,,801 N 34th St,,Seattle,WA,981038882,,,2024-11-18,216.72,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209070,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-02,42.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209080,500208548,SB21B,ORG,TWILIO INC,,,,,,375 Beale St,Fl 3,San Francisco,CA,941052066,,,2024-11-03,40.88,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209090,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-04,26.13,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209121,500208548,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-06,33.06,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209131,500208548,SB21B,ORG,Avis,,,,,,Send All Mail To,,Garden City,NY,11530,,,2024-11-06,126.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209031,500208548,SB21B,ORG,Avis,,,,,,300 Centre Pointe Dr,,Virginia Beach,VA,234624415,,,2024-10-29,464.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209041,500208548,SB21B,ORG,Hot,,,,,,18 Bartol St,,San Francisco,CA,941334501,,,2024-10-31,1538.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209141,500208548,SB21B,ORG,Sea Airport Parking,,,,,,17801 International Blvd,,Seatac,WA,981581202,,,2024-11-07,209.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209051,500208548,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-01,85.67,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209151,500208548,SB21B,ORG,Mailchamp,,,,,,675 Ponce De Leon Ave NE,Ste 500,Atlanta,GA,303081884,,,2024-11-12,147.15,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209161,500208548,SB21B,ORG,Once Upon a Bagel,,,,,,1050 Gage St,,Winnetka,IL,600931742,,,2024-11-19,24.22,0.00,Management Meeting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209171,500208548,SB21B,ORG,NY Times,,,,,,620 8th Ave,,New York,NY,100181618,,,2024-11-25,79.84,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209081,500208548,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-11-03,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209102,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-04,49.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209042,500208548,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-11-01,1631.83,0.00,Software Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209142,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-07,279.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209052,500208548,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-01,1033.54,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209152,500208548,SB21B,ORG,NY Times,,,,,,620 8th Ave,,New York,NY,100181618,,,2024-11-12,23.00,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209162,500208548,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-11-20,150.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209172,500208548,SB21B,ORG,APPLE,,,,,,12545 Riata Vista Cir,,Austin,TX,787276524,,,2024-11-25,19.99,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209092,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-04,49.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209103,500208548,SB21B,ORG,LOT A EPS,,,,,,10000 W Ohare Ave,,Chicago,IL,606666000,,,2024-11-04,140.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209023,500208548,SB21B,ORG,Once Upon a Bagel,,,,,,1050 Gage St,,Winnetka,IL,600931742,,,2024-10-29,22.13,0.00,Management Meeting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209033,500208548,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-30,12.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209133,500208548,SB21B,ORG,Hilton,,,,,,1100 Pennsylvania Ave NW,,Washington,DC,200042501,,,2024-11-06,758.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209043,500208548,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-11-01,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209143,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-07,1686.88,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209053,500208548,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-01,3.49,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209153,500208548,SB21B,ORG,WALL ST JOURNAL,,,,,,4300 RTE 1 N,,Monmouth Junction,NJ,08852,,,2024-11-12,59.99,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209163,500208548,SB21B,ORG,Ryan Farm,,,,,,739 Telegraph Ln,,Friday Harbor,WA,982507197,,,2024-11-20,720.00,0.00,Office Event,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209173,500208548,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-25,22.04,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209093,500208548,SB21B,ORG,NY Times,,,,,,620 8th Ave,,New York,NY,100181618,,,2024-11-04,152.00,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209104,500208548,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-11-04,483.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209114,500208548,SB21B,ORG,Avis,,,,,,Send All Mail To,,Garden City,NY,11530,,,2024-11-05,520.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209034,500208548,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-10-30,12.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209134,500208548,SB21B,ORG,Avis,,,,,,Send All Mail To,,Garden City,NY,11530,,,2024-11-06,924.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209144,500208548,SB21B,ORG,WASHPOST,,,,,,1301 K St NW,,Washington,DC,200710004,,,2024-11-08,17.00,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209074,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-03,39.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209174,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-25,-8.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209084,500208548,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-11-03,19.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209094,500208548,SB21B,ORG,American Express Travel Agency,,,,,,500 W Madison St,,Chicago,IL,606614544,,,2024-11-04,-1216.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209115,500208548,SB21B,ORG,Flywheel,,,,,,504 Lavaca St,,Austin,TX,787012900,,,2024-11-05,30.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209125,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-06,32.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209035,500208548,SB21B,ORG,Flywheel,,,,,,504 Lavaca St,,Austin,TX,787012900,,,2024-10-30,290.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209135,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-07,11.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209145,500208548,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-08,126.73,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209065,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-02,10.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209165,500208548,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-11-22,85.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209085,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-03,49.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209116,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-06,39.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209036,500208548,SB21B,ORG,NY Times,,,,,,620 8th Ave,,New York,NY,100181618,,,2024-10-31,23.00,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209136,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-07,20.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209046,500208548,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-11-01,52.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209056,500208548,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-11-01,29.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209156,500208548,SB21B,ORG,Pirate Ship Postage,,,,,,680 S Cache St,Unit 100,Jackson,WY,830018694,,,2024-11-14,-12000.00,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209076,500208548,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-11-03,29.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209086,500208548,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,Fl 4WEST,Washington,DC,200011401,,,2024-11-03,94.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209107,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-05,39.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209117,500208548,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-11-06,44.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209127,500208548,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-11-06,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209037,500208548,SB21B,ORG,WALL ST JOURNAL,,,,,,4300 RTE 1 N,,Monmouth Junction,NJ,08852,,,2024-10-31,38.99,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209137,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-07,121.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209147,500208548,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-11,14.32,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209057,500208548,SB21B,ORG,APPLE,,,,,,12545 Riata Vista Cir,,Austin,TX,787276524,,,2024-11-01,38.53,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209157,500208548,SB21B,ORG,Once Upon a Bagel,,,,,,1050 Gage St,,Winnetka,IL,600931742,,,2024-11-15,23.35,0.00,Management Meeting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209067,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-02,28.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209077,500208548,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-11-03,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209087,500208548,SB21B,ORG,Nom Nom Llc,,,,,,1210 Walnut St,,Chester Heights,PA,19017,,,2024-11-03,270.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209097,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-04,8.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209128,500208548,SB21B,ORG,Union 76,,,,,,411 S Keeler Ave,,Bartlesville,OK,740036620,,,2024-11-06,63.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209038,500208548,SB21B,ORG,WALL ST JOURNAL,,,,,,4300 RTE 1 N,,Monmouth Junction,NJ,08852,,,2024-10-31,59.99,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209138,500208548,SB21B,ORG,WALL ST JOURNAL,,,,,,4300 RTE 1 N,,Monmouth Junction,NJ,08852,,,2024-11-07,38.99,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209048,500208548,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-11-01,546.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209148,500208548,SB21B,ORG,Heroku,,,,,,415 Mission St,,San Francisco,CA,941052533,,,2024-11-11,36.04,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209158,500208548,SB21B,ORG,Squarespace,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2024-11-16,12.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209168,500208548,SB21B,ORG,Shopify,,,,,,1209 N Orange St,,Wilmington,DE,198011120,,,2024-11-22,105.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209078,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-03,35.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209109,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-05,39.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209119,500208548,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-11-06,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209129,500208548,SB21B,ORG,Canopy,,,,,,1180 Ludlow St,,Philadelphia,PA,191074222,,,2024-11-06,81.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209029,500208548,SB21B,ORG,American Express Travel Agency,,,,,,500 W Madison St,,Chicago,IL,606614544,,,2024-10-29,-438.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209139,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-07,16.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209049,500208548,SB21B,ORG,GOOGLE,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-01,5.07,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209059,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-02,39.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209159,500208548,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-11-17,100.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209069,500208548,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-11-02,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209169,500208548,SB21B,ORG,Comcast,,,,,,1500 McConnor Pkwy,Ste 100,Schaumburg,IL,601734330,,,2024-11-23,273.45,0.00,Office Communication,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209079,500208548,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-03,94.17,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500209089,500208548,SB21B,ORG,1100 Market St,,,,,,1100 Market St,,Philadelphia,PA,191073601,,,2024-11-04,49.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201048,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-10-17,123587.76,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208048,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-08,36439.05,0.00,payroll-see detail below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208050,500208048,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-08,970.03,0.00,insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208051,500208048,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-08,46.02,0.00,payroll fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208052,500208048,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-08,30.00,0.00,employee benefits,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208049,500208048,SB21B,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-08,35393.00,0.00,payroll taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207958,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-01,12012.70,0.00,Contractors - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500207960,500207958,SB21B,IND,,Brown,Janet,,,,768 Lincoln Ave,,Winnetka,IL,600931946,,,2024-11-01,785.70,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207970,500207958,SB21B,IND,,Whitley,Rebecca,,,,59 Turnberry Ln,,Hopkinton,NH,032293432,,,2024-11-01,1000.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207961,500207958,SB21B,IND,,Hall,Joshua,,,,6641 Mariner Dr,Unit 9,Mount Pleasant,WI,534065602,,,2024-11-01,1175.00,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207962,500207958,SB21B,IND,,Martin,Benjamin,,,,2517 N Fratney St,,Milwaukee,WI,532122948,,,2024-11-01,1552.00,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207963,500207958,SB21B,IND,,Aguilar,Cesar,,,,2201 W Hayward Ave,,Phoenix,AZ,850216830,,,2024-11-01,1000.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207964,500207958,SB21B,IND,,Anthony,Sarah,,,,505 Wendover Dr,,Lansing,MI,489065584,,,2024-11-01,1000.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207965,500207958,SB21B,IND,,Camilleri,Darrin,,,,2964 Harrison Ave,,Trenton,MI,481832438,,,2024-11-01,1500.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207966,500207958,SB21B,IND,,Clemmons,Ashton,,,,1607 Beechtree Rd,,Greensboro,NC,274083701,,,2024-11-01,1000.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207967,500207958,SB21B,IND,,Esteves,Jason,,,,2255 Adams Dr NW,,Atlanta,GA,303181917,,,2024-11-01,1000.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207968,500207958,SB21B,IND,,Jauregui,Sandra,,,,68 Apricot Ridge Ave,,Las Vegas,NV,891835010,,,2024-11-01,1000.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207969,500207958,SB21B,IND,,OMara,Jennifer,,,,618 Prospect Rd,,Springfield,PA,190642820,,,2024-11-01,1000.00,0.00,Political Consultant,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201058,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-11-22,195266.20,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201068,,,ORG,Rally by Relentless,,,,,,2093 Philadelphia Pike,,Claymont,DE,197032424,,,2024-11-13,581776.04,0.00,relational organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201078,,,ORG,Windward Strategies,,,,,,5713 Overlea Rd,,Bethesda,MD,208161918,,,2024-11-04,5000.00,0.00,printing and postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201009,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-30,45720.96,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201019,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-24,9810.78,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208029,,,ORG,Paragon Solutions,,,,,,400 N Ashley Dr,,Tampa,FL,336024300,,,2024-11-04,20.00,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201029,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-10-25,239358.04,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500209629,,,ORG,Merchant Services,,,,,,4000 Coral Ridge Dr,,Pompano Beach,FL,330657614,,,2024-10-17,1037.63,0.00,credit card fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201039,,,ORG,GDA Wins,,,,,,3430 Connecticut Ave NW,,Washington,DC,200087558,,,2024-11-08,304204.66,0.00,voter mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201049,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-10-24,143121.56,0.00,digital organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201059,,,ORG,Mothership Strategies,,,,,,4315 50th St NW,,Washington,DC,200164369,,,2024-11-14,343055.34,0.00,fundraising consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500207959,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-15,2497.35,0.00,Contractors - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500207971,500207959,SB21B,IND,,Brown,Janet,,,,768 Lincoln Ave,,Winnetka,IL,600931946,,,2024-11-15,622.35,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207972,500207959,SB21B,IND,,Hall,Joshua,,,,6641 Mariner Dr,Unit 9,Mount Pleasant,WI,534065602,,,2024-11-15,537.50,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207973,500207959,SB21B,IND,,Martin,Benjamin,,,,2517 N Fratney St,,Milwaukee,WI,532122948,,,2024-11-15,1337.50,0.00,Contractor - Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500201069,,,ORG,Rally by Relentless,,,,,,2093 Philadelphia Pike,,Claymont,DE,197032424,,,2024-11-13,5731423.96,0.00,relational organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201079,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-31,5000.00,0.00,credit card see detail below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500201080,500201079,SB21B,ORG,TATANGO,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2024-10-31,5000.00,0.00,digital advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500207999,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-11-22,500.00,0.00,Payroll - See Detail Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00580068,500208022,500207999,SB21B,IND,,Rosen,Kai,,,,6100 Kalmia Dr,,Anchorage,AK,995071263,,,2024-11-22,250.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00580068,500208023,500207999,SB21B,IND,,Shepherd,Juliet,,,,2279 Franklin St,# A,Fairbanks,AK,997096236,,,2024-11-22,250.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*

@@ -1,0 +1,26 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00746560,500264101,,,IND,,Bryant,Tom,,,,777 6Th St NW,Fl 8,Washington,DC,200013723,,,2024-03-14,285.00,0.00,Reimbursement - Event Registration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500264884,500264101,SB21B,ORG,Digital Campaign Summit,,,,,,101 Mgm National Ave,,Forest Heights,MD,207454731,,,2024-03-14,285.00,0.00,Event Registration,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00746560,500262972,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-02-15,2500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263394,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-02-27,2500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500264746,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-03-05,2500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500262312,,,IND,,Gould,Tessa,,,,628 14Th St NE,Apt 1,Washington,DC,200025658,,,2024-01-30,4000.00,0.00,Political Strategy Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500262971,,,IND,,Gould,Tessa,,,,628 14Th St NE,Apt 1,Washington,DC,200025658,,,2024-02-15,1000.00,0.00,Political Strategy Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263149,,,IND,,Gould,Tessa,,,,628 14Th St NE,Apt 1,Washington,DC,200025658,,,2024-02-20,5000.00,0.00,Political Strategy Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263225,,,IND,,Gould,Tessa,,,,628 14Th St NE,Apt 1,Washington,DC,200025658,,,2024-02-23,1574.82,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263223,500263225,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-02-23,1162.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00746560,500263224,500263225,SB21B,ORG,Expedia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2024-02-23,412.62,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00746560,500264745,,,IND,,Gould,Tessa,,,,628 14Th St NE,Apt 1,Washington,DC,200025658,,,2024-03-05,5000.00,0.00,Political Strategy Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263834,,,IND,,Gould,Tessa,,,,628 14Th St NE,Apt 1,Washington,DC,200025658,,,2024-03-08,2414.07,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263836,500263834,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-03-08,722.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00746560,500263835,500263834,SB21B,ORG,Hertz Rental Car,,,,,,8501 Williams Rd,,Estero,FL,339283325,,,2024-03-08,1691.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00746560,500264623,,,IND,,Gould,Tessa,,,,628 14Th St NE,Apt 1,Washington,DC,200025658,,,2024-03-28,5000.00,0.00,Political Strategy Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500261989,,,ORG,Intuit,,,,,,250 E Eagles Gate Dr,,Eagle,ID,836167504,,,2024-01-24,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500261990,,,ORG,Intuit,,,,,,250 E Eagles Gate Dr,,Eagle,ID,836167504,,,2024-01-26,10.58,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263270,,,ORG,Intuit,,,,,,250 E Eagles Gate Dr,,Eagle,ID,836167504,,,2024-02-26,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500264540,,,ORG,Intuit,,,,,,250 E Eagles Gate Dr,,Eagle,ID,836167504,,,2024-03-25,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500264100,,,ORG,KCM Consulting LLC,,,,,,7734 Toland Ave,,Los Angeles,CA,900453241,,,2024-03-14,5250.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263451,,,ORG,Mandate Media,,,,,,4407 S Corbett Ave,,Portland,OR,972394206,,,2024-02-29,4500.00,0.00,Digital Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263395,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-02-27,3180.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500262311,,,ORG,Schimanski & Associates,,,,,,3412 P St NW,,Washington,DC,200072705,,,2024-01-30,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00746560,500263450,,,ORG,Voxtopica LLC,,,,,,200 Prosperity Dr,# 1065,Knoxville,TN,379234718,,,2024-02-27,10000.00,0.00,Podcast Production,,,,,,,,,,,,,,,,,,,,

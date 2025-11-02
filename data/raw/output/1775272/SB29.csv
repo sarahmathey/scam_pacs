@@ -1,0 +1,36 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00855379,500633644,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-01-26,246.93,0.00,Bank Fee; IE only account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500639891,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-02-27,95.00,0.00,Bank Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500647375,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-03-27,115.46,0.00,Bank Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500634061,,,ORG,Blue Husky Group LLC,,,,,,5351 Medlock Corners Dr,,Norcross,GA,300922943,,,2024-02-10,2308.41,0.00,Travel Reimbursement;IE-Only Account,002,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500653011,500634061,SB29,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-02-09,857.84,0.00,Airfare; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653032,500634061,SB29,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-02-09,10.00,0.00,Food/Beverage; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653039,500634061,SB29,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-02-09,421.20,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653040,500634061,SB29,ORG,Miami Life Cars,,,,,,4111 NW 27th St,,Miami,FL,331425605,,,2024-02-09,545.31,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653027,500634061,SB29,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-02-09,54.99,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653028,500634061,SB29,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-02-09,64.94,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653034,500634061,SB29,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-02-09,19.46,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653035,500634061,SB29,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-02-09,33.90,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653036,500634061,SB29,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-02-09,12.15,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653037,500634061,SB29,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-02-09,37.93,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500653038,500634061,SB29,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-02-09,68.94,0.00,Travel; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00855379,500639928,,,ORG,Blue Husky Group LLC,,,,,,5351 Medlock Corners Dr,,Norcross,GA,300922943,,,2024-03-06,6000.00,0.00,Political Strategy Consulting; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500626502,,,ORG,Curry House,,,,,,6207 E Providence Ave,,Fresno,CA,937278957,,,2024-01-04,1500.00,0.00,Food/Beverage; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500639918,,,ORG,Fiske Consulting LLC,,,,,,4101 Central Ave NE,,Albuquerque,NM,871081466,,,2024-03-06,4000.00,0.00,Fundraising Consulting; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500639888,,,ORG,Global Strategy Group LLC,,,,,,215 Park Ave S,Fl 15,New York,NY,100031612,,,2024-02-20,30000.00,0.00,Survey Research; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500647370,,,ORG,Global Strategy Group LLC,,,,,,215 Park Ave S,Fl 15,New York,NY,100031612,,,2024-03-19,31500.00,0.00,Survey Research; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500647374,,,ORG,Global Strategy Group LLC,,,,,,215 Park Ave S,Fl 15,New York,NY,100031612,,,2024-03-25,8000.00,0.00,Survey Research; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500639930,,,ORG,Mosaic Communications,,,,,,2938 26th St N,,Arlington,VA,222074959,,,2024-03-06,1250.00,0.00,Design Production; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500626495,,,ORG,Movement Compliance LLC,,,,,,20836 Hall Rd,# 194,Clinton Township,MI,480387227,,,2024-01-04,1000.00,0.00,Compliance Consulting; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500633020,,,ORG,Movement Compliance LLC,,,,,,20836 Hall Rd,# 194,Clinton Township,MI,480387227,,,2024-01-30,1500.00,0.00,Compliance Consulting; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500639890,,,ORG,Movement Compliance LLC,,,,,,20836 Hall Rd,# 194,Clinton Township,MI,480387227,,,2024-02-26,500.00,0.00,Compliance Consulting; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500633649,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-01-24,6124.22,0.00,Software; IE only account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500639887,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-02-12,10207.03,0.00,Software; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500626496,,,ORG,Red Horse Strategies,,,,,,55 Washington St,Ste 702,Brooklyn,NY,112011063,,,2024-01-19,2000.00,0.00,Website Development; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500626500,,,ORG,Regency Event Center,,,,,,1600 Willow Ave,,Clovis,CA,936123212,,,2024-01-04,2000.00,0.00,Fundraising Event; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500633638,,,ORG,Stanford Campaigns,,,,,,3400 Oak Grove Ave,Ste 215,Dallas,TX,752043095,P2024,,2024-02-02,11250.00,0.00,Research Consulting; IE only account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500647372,,,ORG,Stanford Campaigns,,,,,,3400 Oak Grove Ave,Ste 215,Dallas,TX,752043095,P2024,,2024-03-20,11610.00,0.00,Research Consulting; IE only account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500634062,,,ORG,Venable LLP,,,,,,PO Box 62727,,Baltimore,MD,212642727,,,2024-02-09,2592.50,0.00,Legal Fees; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500634063,,,ORG,Venable LLP,,,,,,PO Box 62727,,Baltimore,MD,212642727,,,2024-02-09,7122.00,0.00,Legal Fees; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500639926,,,ORG,Venable LLP,,,,,,PO Box 62727,,Baltimore,MD,212642727,,,2024-03-06,592.50,0.00,Legal Fees; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00855379,500647377,,,ORG,Venable LLP,,,,,,PO Box 62727,,Baltimore,MD,212642727,,,2024-03-29,414.00,0.00,Legal Fees; IE-Only Account,,,,,,,,,,,,,,,,,,,,

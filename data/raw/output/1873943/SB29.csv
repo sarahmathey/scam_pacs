@@ -1,0 +1,42 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00893362,500147648,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-01,781.59,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147649,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-02,510.43,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147650,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-04,651.45,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147651,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-08,285.22,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147652,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-10,320.41,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147654,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,464.53,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147655,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,433.04,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147656,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-18,385.33,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147657,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-25,312.66,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500147658,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,106.15,0.00,Service Fee; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500148080,,,ORG,Dark Room Enterprises LLC,,,,,,225 Park St,,Montclair,NJ,070423915,,,2024-12-31,14749.00,0.00,Video Production; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500148085,,,ORG,Ramp Business Corporation,,,,,,28 W 23rd St,Fl 2,New York,NY,100105260,,,2024-12-10,50000.00,0.00,Pre Payment of Credit Card Usage; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500148088,,,ORG,Ramp Business Corporation,,,,,,28 W 23rd St,Fl 2,New York,NY,100105260,,,2024-12-30,100000.00,0.00,Pre-Payment for Credit Card Usage; IE-Only Account,,,,,,,,,,,,,,,,,,,,
+SB29,C00893362,500148710,500148088,SB29,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-12,1076.94,0.00,Travel/Airfare; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148711,500148088,SB29,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-15,1076.94,0.00,Travel/Airfare; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148720,500148088,SB29,ORG,Hyatt,,,,,,400 New Jersey Ave NW,,Washington,DC,200012002,,,2024-12-11,1409.74,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148724,500148088,SB29,ORG,Hyatt,,,,,,400 New Jersey Ave NW,,Washington,DC,200012002,,,2024-12-11,1929.00,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148721,500148088,SB29,ORG,Hyatt,,,,,,400 New Jersey Ave NW,,Washington,DC,200012002,,,2024-12-12,28.01,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148723,500148088,SB29,ORG,Hyatt,,,,,,1800 E Putnam Ave,,Old Greenwich,CT,068701320,,,2024-12-12,550.12,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148722,500148088,SB29,ORG,Hyatt,,,,,,400 New Jersey Ave NW,,Washington,DC,200012002,,,2024-12-13,27.40,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148725,500148088,SB29,ORG,Hyatt,,,,,,400 New Jersey Ave NW,,Washington,DC,200012002,,,2024-12-18,264.55,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148726,500148088,SB29,ORG,Hyatt,,,,,,400 New Jersey Ave NW,,Washington,DC,200012002,,,2024-12-18,230.75,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148727,500148088,SB29,ORG,Libra Labs LLC,,,,,,6800 Montour Dr,,Falls Church,VA,220431744,,,2024-12-12,500.00,0.00,Software & apps; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148731,500148088,SB29,ORG,TVEyes,,,,,,1150 Post Rd,,Fairfield,CT,068246006,,,2024-12-13,500.00,0.00,Software & apps; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148732,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-11,76.75,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148733,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-18,24.10,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148734,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-18,9.93,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148735,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-18,5.00,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148736,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-18,52.24,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148737,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-18,16.74,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148738,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-18,3.00,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148739,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-18,40.43,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148740,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-19,20.98,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148741,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-19,17.82,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148742,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-19,5.00,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148743,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-19,9.84,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148744,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-19,3.00,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148745,500148088,SB29,ORG,Uber,,,,,,1455 3rd St,,San Francisco,CA,941582210,,,2024-12-19,20.85,0.00,Travel/Shared Rides; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148749,500148088,SB29,ORG,YOTEL Washington DC,,,,,,415 New Jersey Ave NW,,Washington,DC,200012001,,,2024-12-10,612.74,0.00,Lodging; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148752,500148088,SB29,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-12-12,232.00,0.00,Software & apps; IE-Only Account,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00893362,500148081,,,PAC,YOUNG DEMOCRATS OF AMERICA POLITICAL ACTION COMMITTEE,,,,,,PO Box 77496,,Washington,DC,200138496,,,2024-12-06,10000.00,0.00,Contribution; IE-Only Account,,C00515064,YOUNG DEMOCRATS OF AMERICA POLITICAL ACTION COMMITTEE,,,,,,,,,,,,,,,,,

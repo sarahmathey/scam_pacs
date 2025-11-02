@@ -1,0 +1,360 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00658476,500172803,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-04-03,6869.29,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172799,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,G2023,,2023-04-03,90280.04,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172777,,,ORG,"Mark Spengler, LLC",,,,,,324 U St NW,,Washington,DC,200011722,G2023,,2023-04-05,144.87,0.00,Travel,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00658476,500172787,500172777,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-04-03,20.69,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172788,500172777,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-04-03,18.98,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172786,500172777,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-04-05,11.74,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172778,,,ORG,"Mark Spengler, LLC",,,,,,324 U St NW,,Washington,DC,200011722,G2023,,2023-04-05,402.99,0.00,Travel,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00658476,500172791,500172778,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-04-03,15.24,0.00,Food & Beverages,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172792,500172778,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-04-03,195.00,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172794,500172778,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-04-03,56.87,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172804,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-04-11,5000.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172781,,,ORG,One Teaspoon Of Yum,,,,,,1306 Petree St,Apt 439,El Cajon,CA,920202333,G2023,,2023-04-11,1607.79,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172779,,,ORG,Sameday Health,,,,,,523 Victoria Ave,,Venice,CA,902914832,G2023,,2023-04-11,4485.00,0.00,Lab Testing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172805,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-04-12,6000.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172765,,,ORG,"Lori Silverman, LLC",,,,,,1008 Hillwood Ave,,Falls Church,VA,220422423,G2023,,2023-04-12,8000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172766,,,ORG,"Lori Silverman, LLC",,,,,,1008 Hillwood Ave,,Falls Church,VA,220422423,G2023,,2023-04-12,164.43,0.00,Food & Beverages,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00658476,500172776,,,ORG,Virant Diagnostics Inc,,,,,,11002 Veirs Mill Rd,Ste 404,Wheaton,MD,209025919,G2023,,2023-04-13,479.50,0.00,Lab Testing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172763,,,ORG,DC Treasurer,,,,,,1350 Pennsylvania Ave NW,,Washington,DC,200043003,G2023,,2023-04-14,250.00,0.00,Tax-state/local sales and use,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172774,,,ORG,Pardo Consulting Group,,,,,,501 NE 109Th St,,Miami,FL,331617146,G2023,,2023-04-14,10059.86,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172773,,,ORG,Paypool LLC,,,,,,75 Remittance Dr,Dept 6168,Chicago,IL,606756168,G2023,,2023-04-14,210.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172590,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,022382110,G2023,,2023-04-16,1.98,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172806,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-04-18,4000.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172783,,,ORG,Leon C. Brunson LLC,,,,,,2417 Nugget Ln,,Tallahassee,FL,323033734,G2023,,2023-04-18,2698.25,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172780,,,ORG,MaBella,,,,,,3142 E Plaza Blvd,Ste E,National City,CA,919503941,G2023,,2023-04-18,6829.93,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172801,,,ORG,MaBella,,,,,,3142 E Plaza Blvd,Ste E,National City,CA,919503941,G2023,,2023-04-18,-6829.93,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,,Voided check; reissued 4/18/23
+SB21B,C00658476,500172800,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,G2023,,2023-04-26,243.15,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172782,,,ORG,Left Coast Consulting LLC,,,,,,22870 Carriage Dr,,Reno,NV,895217811,G2023,,2023-04-26,8000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172775,,,ORG,Schaffer,,,,,,5269 W Pico Blvd,,Los Angeles,CA,900194043,G2023,,2023-04-27,5729.04,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500172760,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,G2023,,2023-04-28,158726.57,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00658476,500172812,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-02-27,62.58,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173109,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-02-27,151.39,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172874,500172760,SB21B,ORG,Car Service,,,,,,34 Rochford Ave,Waltham Abbey EN91SE United Kingdo,M,ZZ,00000,G2023,,2023-02-28,1030.70,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173086,500172760,SB21B,ORG,The Hotel Washington,,,,,,515 15Th St NW,,Washington,DC,200041006,G2023,,2023-02-28,4482.94,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173142,500172760,SB21B,ORG,Winstons,,,,,,160 Southampton St,,Boston,MA,021182714,G2023,,2023-02-28,245.00,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172813,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-01,240.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172891,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172892,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172893,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172894,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172895,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,254.52,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172896,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,254.52,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172897,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,298.88,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172898,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,449.58,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172899,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,451.93,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172900,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,493.26,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172901,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-01,493.26,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173029,500172760,SB21B,ORG,EuroStar,,,,,,Times House,Bravingtons Walk,London N1 9AW United Kingdom,ZZ,00000,G2023,,2023-03-01,476.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173051,500172760,SB21B,ORG,Loews New Orleans Hotel,,,,,,300 Poydras St,,New Orleans,LA,701303216,G2023,,2023-03-01,678.08,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172867,500172760,SB21B,ORG,Private Car Service Paris,,,,,,222 Merchandise Mart Plz,,Chicago,IL,606541103,G2023,,2023-03-01,1689.31,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173070,500172760,SB21B,ORG,San Francisco AV Rentals,,,,,,683 E Brokaw Rd,,San Jose,CA,951121005,G2023,,2023-03-01,2207.00,0.00,Audio Visual Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173087,500172760,SB21B,ORG,The Hotel Washington,,,,,,515 15Th St NW,,Washington,DC,200041006,G2023,,2023-03-01,1132.56,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173110,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-01,231.52,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173111,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-01,620.68,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173112,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-01,885.80,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173141,500172760,SB21B,ORG,Westin Chicago River North,,,,,,320 N Dearborn St,,Chicago,IL,606545010,G2023,,2023-03-01,-596.52,0.00,Travel; Lodging; Credit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172902,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-02,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172903,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-02,270.04,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172904,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-02,271.27,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172905,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-02,292.54,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172906,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-02,292.79,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172907,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-02,306.10,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172908,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-02,604.94,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173031,500172760,SB21B,ORG,Fairmont Olympic Hotel,,,,,,411 University St,,Seattle,WA,981012507,G2023,,2023-03-02,5753.13,0.00,Event production & site rentals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173052,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-02,37.91,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173071,500172760,SB21B,ORG,Shuttlefinder.Com,,,,,,1640 5Th St,Ste 202,Santa Monica,CA,904013325,G2023,,2023-03-02,285.21,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173072,500172760,SB21B,ORG,"Soiree Valet Parking Service, Inc",,,,,,1470 Howard St,,San Francisco,CA,941032523,G2023,,2023-03-02,2137.50,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173499,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-02,66.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173113,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-02,378.01,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173143,500172760,SB21B,ORG,Winstons,,,,,,160 Southampton St,,Boston,MA,021182714,G2023,,2023-03-02,245.00,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172814,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-03,224.57,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172871,500172760,SB21B,ORG,Brooklyn Blooms Floral Boutique,,,,,,433 Nostrand Ave,,Brooklyn,NY,112161715,G2023,,2023-03-03,146.97,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172872,500172760,SB21B,ORG,Brooklyn Blooms Floral Boutique,,,,,,433 Nostrand Ave,,Brooklyn,NY,112161715,G2023,,2023-03-03,163.31,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172909,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-03,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172910,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-03,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173030,500172760,SB21B,ORG,Fairmont Hotel,,,,,,950 Mason St,,San Francisco,CA,941086000,G2023,,2023-03-03,943.58,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173053,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-03,38.94,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173054,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-03,53.08,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173055,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-03,55.90,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173083,500172760,SB21B,ORG,The Clift Sonesta,,,,,,495 Geary St,,San Francisco,CA,941021222,G2023,,2023-03-03,242.97,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173500,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-03,14.74,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173501,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-03,16.15,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173502,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-03,62.16,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173503,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-03,117.98,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173114,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-03,284.24,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172878,500172760,SB21B,ORG,Curb-Taxi,,,,,,2 Vts Verifone Way,Ride,Long Island City,NY,11101,G2023,,2023-03-04,39.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173056,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-04,26.25,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172815,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-06,203.59,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172816,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-06,715.80,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172875,500172760,SB21B,ORG,Car Service,,,,,,34 Rochford Ave,Waltham Abbey EN91SE United Kingdo,M,ZZ,00000,G2023,,2023-03-06,84.30,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172911,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-06,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172912,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-06,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172817,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-07,295.91,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172818,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-07,295.91,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172819,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-07,295.91,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172889,500172760,SB21B,ORG,Dry N Wet LLC,,,,,,20259 NE 15Th Ct,,Miami,FL,331792710,G2023,,2023-03-07,1482.24,0.00,Audio Visual Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172913,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-07,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172914,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-07,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172915,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-07,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172916,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-07,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172917,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-07,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173115,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-07,322.71,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173116,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-07,423.86,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172809,500172760,SB21B,ORG,Amazon.Com,,,,,,1516 2Nd Ave,,Seattle,WA,981011543,G2023,,2023-03-08,161.04,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172820,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-08,402.77,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172890,500172760,SB21B,ORG,Edmonds Plaza Florist,,,,,,120 E 3Rd Ave,,San Mateo,CA,944014013,G2023,,2023-03-08,995.00,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172918,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-08,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172919,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-08,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172920,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-08,178.84,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172921,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-08,210.59,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172922,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-08,327.39,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173034,500172760,SB21B,ORG,Go 2 Events,,,,,,20533 Biscayne Blvd,Ste 448,Aventura,FL,331801529,G2023,,2023-03-08,1500.00,0.00,Audio Visual Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173035,500172760,SB21B,ORG,Gustavo Fernandez Photography,,,,,,601 NE 23Rd St,Apt 1503,Miami,FL,331374999,G2023,,2023-03-08,1200.00,0.00,Photography,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173036,500172760,SB21B,ORG,Hilton Houston North,,,,,,12400 Greenspoint Dr,,Houston,TX,770601902,G2023,,2023-03-08,11000.00,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173057,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-08,39.44,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173117,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-08,302.58,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173144,500172760,SB21B,ORG,Winstons,,,,,,160 Southampton St,,Boston,MA,021182714,G2023,,2023-03-08,245.00,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172821,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-09,254.42,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172822,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-09,308.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172823,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-09,308.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172824,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-09,367.20,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172923,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172924,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172925,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172926,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172927,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172928,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172929,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172930,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172931,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172932,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172933,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172934,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-09,196.64,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173058,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-09,14.97,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173074,500172760,SB21B,ORG,Southwest Airlines,,,,,,Attn Supvr CR Cd Billings,,Dallas,TX,75235,G2023,,2023-03-09,357.98,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173094,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-09,43.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173118,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-09,185.33,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173119,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-09,331.94,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173120,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-09,378.95,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173121,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-09,423.86,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173122,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-09,483.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173123,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-09,720.93,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173139,500172760,SB21B,ORG,Vault Security Corp,,,,,,10353 Caribbean Blvd,,Cutler Bay,FL,331891401,G2023,,2023-03-09,2161.08,0.00,Event production & site rentals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173145,500172760,SB21B,ORG,Winstons,,,,,,160 Southampton St,,Boston,MA,021182714,G2023,,2023-03-09,245.00,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173146,500172760,SB21B,ORG,Winstons,,,,,,160 Southampton St,,Boston,MA,021182714,G2023,,2023-03-09,245.00,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172825,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-10,450.82,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172935,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-10,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172936,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-10,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172937,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-10,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172938,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-10,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172939,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-10,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172940,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-10,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173044,500172760,SB21B,ORG,Jetblue Airlines,,,,,,6322 S 3000 E,,Salt Lake City,UT,841216922,G2023,,2023-03-10,-269.30,0.00,Travel; Airfare; Credit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173045,500172760,SB21B,ORG,Jetblue Airlines,,,,,,6322 S 3000 E,,Salt Lake City,UT,841216922,G2023,,2023-03-10,269.30,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173059,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-10,21.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173075,500172760,SB21B,ORG,Southwest Airlines,,,,,,Attn Supvr CR Cd Billings,,Dallas,TX,75235,G2023,,2023-03-10,217.98,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173124,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-10,423.86,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173125,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-10,423.86,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173126,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-10,652.82,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172855,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-11,161.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172856,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-11,206.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172941,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-11,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172942,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-11,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172943,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-11,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172944,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-11,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172945,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-11,864.26,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173046,500172760,SB21B,ORG,Jetblue Airlines,,,,,,6322 S 3000 E,,Salt Lake City,UT,841216922,G2023,,2023-03-11,229.30,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173047,500172760,SB21B,ORG,Jetblue Airlines,,,,,,6322 S 3000 E,,Salt Lake City,UT,841216922,G2023,,2023-03-11,859.80,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172857,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-12,183.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172858,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-12,303.30,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172946,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-12,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172947,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-12,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172948,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-12,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172949,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-12,53.52,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172950,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-12,233.29,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172951,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-12,445.48,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173127,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-12,302.58,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172859,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-13,183.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172860,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-13,183.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172952,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172953,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172954,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172955,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172956,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,85.38,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172957,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,175.34,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172958,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,241.84,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172959,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,412.58,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172960,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,424.35,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172961,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,464.27,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172962,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-13,466.94,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173049,500172760,SB21B,ORG,Omni La Mansion Del Rio,,,,,,112 College St,,San Antonio,TX,782051811,G2023,,2023-03-13,2247.02,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173065,500172760,SB21B,ORG,Omni Montelucia,,,,,,4949 E Lincoln Dr,,Paradise Valley,AZ,852534139,G2023,,2023-03-13,9520.00,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173080,500172760,SB21B,ORG,Spirit Airlines,,,,,,18121 E 8 Mile Rd,,Eastpointe,MI,480213245,G2023,,2023-03-13,403.89,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173093,500172760,SB21B,ORG,Trattoria Del Lupo,,,,,,3950 Las Vegas Blvd S,,Las Vegas,NV,891191005,G2023,,2023-03-13,5000.00,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173096,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-13,29.90,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173097,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-13,36.40,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173128,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-13,212.56,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173129,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-13,331.94,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172861,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-14,183.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172862,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-14,183.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172863,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-14,337.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172864,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-14,337.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172869,500172760,SB21B,ORG,Black Creek Catering And Events,,,,,,-,,Devine,TX,78016,G2023,,2023-03-14,4492.38,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172880,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-14,389.96,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172963,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172964,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172965,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172966,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172967,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172968,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,212.88,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172969,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,212.88,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172970,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,221.46,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172971,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-14,273.79,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173039,500172760,SB21B,ORG,Hilton San Deigo Airport,,,,,,1960 Harbor Island Dr,,San Diego,CA,921011013,G2023,,2023-03-14,386.73,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173050,500172760,SB21B,ORG,Las Vegas Parking Inc,,,,,,7285 Dean Martin Dr,Ste 180,Las Vegas,NV,891185208,G2023,,2023-03-14,650.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173066,500172760,SB21B,ORG,Preferred Valet Parking,,,,,,1761 Hotel Cir S,,San Diego,CA,921083318,G2023,,2023-03-14,1019.70,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173098,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-14,10.19,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173099,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-14,12.94,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173100,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-14,50.95,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173147,500172760,SB21B,ORG,Wolfgang Puck Bar & Grill,,,,,,3799 Las Vegas Blvd S,,Las Vegas,NV,891094319,G2023,,2023-03-14,11548.75,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172826,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-15,284.41,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172827,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-15,295.91,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172865,500172760,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-03-15,72.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172879,500172760,SB21B,ORG,Curb-Taxi,,,,,,2 Vts Verifone Way,Ride,Long Island City,NY,11101,G2023,,2023-03-15,52.50,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172972,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-15,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172973,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-15,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172974,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-15,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173060,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-15,11.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173061,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-15,62.86,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173095,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-15,55.98,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173101,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-15,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173107,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-15,8.00,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173108,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-15,10.00,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173148,500172760,SB21B,ORG,Wolfgang Puck Bar & Grill,,,,,,3799 Las Vegas Blvd S,,Las Vegas,NV,891094319,G2023,,2023-03-15,149.13,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172808,500172760,SB21B,ORG,Alquan LLC,,,,,,12 Manning Ave,Fl 1,Jersey City,NJ,073043607,G2023,,2023-03-16,800.00,0.00,Photography,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172881,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-16,440.84,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172975,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-16,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172976,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-16,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172977,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-16,769.71,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173038,500172760,SB21B,ORG,Hilton San Antonio Airport,,,,,,611 NW Loop 410,,San Antonio,TX,782165504,G2023,,2023-03-16,458.54,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173062,500172760,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,G2023,,2023-03-16,45.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173088,500172760,SB21B,ORG,The Hotel Washington,,,,,,515 15Th St NW,,Washington,DC,200041006,G2023,,2023-03-16,1132.56,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173089,500172760,SB21B,ORG,The Hotel Washington,,,,,,515 15Th St NW,,Washington,DC,200041006,G2023,,2023-03-16,24202.50,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172828,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-17,133.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172829,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-17,178.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172830,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-17,347.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172831,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-17,347.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172832,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-17,417.61,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172833,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-17,417.61,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172834,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-17,442.86,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172882,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-17,434.82,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172888,500172760,SB21B,ORG,Drew Altizer Photography,,,,,,1949 Green St,Apt 2,San Francisco,CA,941234829,G2023,,2023-03-17,1542.00,0.00,Photography,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172978,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172979,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172980,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172981,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172982,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172983,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172984,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172985,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172986,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172987,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172988,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172989,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-17,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173130,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-17,148.59,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173131,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-17,185.16,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173132,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-17,337.19,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173133,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-17,337.19,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173073,500172760,SB21B,ORG,South Bay Scenic LLC,,,,,,1613 Laurel Ln,,West Sacramento,CA,956912605,G2023,,2023-03-19,1270.00,0.00,Audio Visual Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172835,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-20,178.10,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172836,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-20,284.41,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172837,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-20,347.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172838,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-20,347.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172839,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-20,347.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172840,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-20,347.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172883,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-20,180.53,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172884,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-20,440.84,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172885,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-20,440.84,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172990,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172991,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172992,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172993,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172994,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172995,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172996,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172997,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172998,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172999,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-20,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173068,500172760,SB21B,ORG,Rendon Photography & Fine Art,,,,,,733 S Alamo St,,San Antonio,TX,782053461,G2023,,2023-03-20,400.00,0.00,Photography,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173084,500172760,SB21B,ORG,The Hay-Adams,,,,,,16Th & H St NW,,Washington,DC,20006,G2023,,2023-03-20,7489.50,0.00,Event production & site rentals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173091,500172760,SB21B,ORG,Toulies En Fleur,,,,,,4601 Robey Way,,Woodbridge,VA,221925533,G2023,,2023-03-20,275.00,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173092,500172760,SB21B,ORG,Toulies En Fleur,,,,,,4601 Robey Way,,Woodbridge,VA,221925533,G2023,,2023-03-20,375.00,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173134,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-20,462.00,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172854,500172760,SB21B,ORG,"Amp Audio Visual Values, LLC",,,,,,5201 Bella Vista Rd,,Drexel Hill,PA,19026,G2023,,2023-03-21,4925.00,0.00,Audio Visual Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173000,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-21,320.94,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173001,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-21,405.98,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173032,500172760,SB21B,ORG,Fairmont Olympic Hotel,,,,,,411 University St,,Seattle,WA,981012507,G2023,,2023-03-21,1199.55,0.00,Event production & site rentals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173102,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-21,5.06,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173103,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-21,33.75,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172841,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-22,103.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172842,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-22,198.60,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172843,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-22,217.58,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173002,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-22,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173003,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-22,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173004,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-22,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173005,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-22,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173006,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-22,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173076,500172760,SB21B,ORG,Southwest Airlines,,,,,,Attn Supvr CR Cd Billings,,Dallas,TX,75235,G2023,,2023-03-22,74.98,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173077,500172760,SB21B,ORG,Southwest Airlines,,,,,,Attn Supvr CR Cd Billings,,Dallas,TX,75235,G2023,,2023-03-22,183.98,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173104,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-22,12.71,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173105,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-22,31.21,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172844,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-23,30.42,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172845,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-23,158.19,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172846,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-23,265.50,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172847,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-23,298.00,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172886,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-23,390.93,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172887,500172760,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,Dept 975,Atlanta,GA,303206001,G2023,,2023-03-23,544.96,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173007,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-23,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173008,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-23,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173009,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-23,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173010,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-23,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173011,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-23,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173012,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-23,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173013,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-23,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173106,500172760,SB21B,ORG,Uber,,,,,,1456 Market St,,San Francisco,CA,941026004,G2023,,2023-03-23,46.76,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173135,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-23,143.60,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173149,500172760,SB21B,ORG,Wolfgang Puck Bar & Grill,,,,,,3799 Las Vegas Blvd S,,Las Vegas,NV,891094319,G2023,,2023-03-23,-902.49,0.00,"Catering, Food & Beverages; Credit",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172848,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-24,306.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172849,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-24,663.82,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172873,500172760,SB21B,ORG,Brooklyn Blooms Floral Boutique,,,,,,433 Nostrand Ave,,Brooklyn,NY,112161715,G2023,,2023-03-24,163.31,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173014,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-24,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173015,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-24,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173085,500172760,SB21B,ORG,The Hay-Adams,,,,,,16Th & H St NW,,Washington,DC,20006,G2023,,2023-03-24,348.36,0.00,Event production & site rentals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173090,500172760,SB21B,ORG,The Hotel Washington,,,,,,515 15Th St NW,,Washington,DC,200041006,G2023,,2023-03-24,-1132.56,0.00,Travel; Lodging; Credit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173048,500172760,SB21B,ORG,JSP Entertainment LLC,,,,,,4914 NW Loop 410,,San Antonio,TX,782296124,G2023,,2023-03-26,1768.35,0.00,Audio Visual Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172850,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-27,452.58,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173016,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-27,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173017,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-27,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173018,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-27,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173078,500172760,SB21B,ORG,Southwest Airlines,,,,,,Attn Supvr CR Cd Billings,,Dallas,TX,75235,G2023,,2023-03-27,210.98,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173079,500172760,SB21B,ORG,Southwest Airlines,,,,,,Attn Supvr CR Cd Billings,,Dallas,TX,75235,G2023,,2023-03-27,274.97,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173019,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-28,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173020,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-28,512.72,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173037,500172760,SB21B,ORG,Hilton Houston North,,,,,,12400 Greenspoint Dr,,Houston,TX,770601902,G2023,,2023-03-28,-11000.00,0.00,Travel; Lodging; Credit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173136,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-28,212.91,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172851,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-29,304.83,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172852,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-29,366.17,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172853,500172760,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,G2023,,2023-03-29,564.14,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173021,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173022,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173023,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173024,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,8.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173025,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,398.08,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173026,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,407.37,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173027,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,407.37,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173028,500172760,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,G2023,,2023-03-29,407.37,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173040,500172760,SB21B,ORG,Hotel Duval,,,,,,415 N Monroe St,,Tallahassee,FL,323011257,G2023,,2023-03-29,731.85,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172868,500172760,SB21B,ORG,Private Car Service Paris,,,,,,222 Merchandise Mart Plz,,Chicago,IL,606541103,G2023,,2023-03-29,430.34,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500173137,500172760,SB21B,ORG,United Airlines,,,,,,1200 E Algonquin Rd,,Arlington Heights,IL,600054712,G2023,,2023-03-29,273.22,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500172591,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,022382110,G2023,,2023-04-30,0.99,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,

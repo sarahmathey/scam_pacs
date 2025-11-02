@@ -1,0 +1,17 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00831917,500413883,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-06-30,997.38,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500409007,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-04-26,95.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500410859,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-05-24,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500413841,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-06-28,40.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500409129,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-05-06,5765.31,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500409331,,,PTY,DCCC,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2024-05-09,30081.79,0.00,"Reimbursement - Catering, Facility Rental, Travel",,C00000935,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500409335,500409331,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-05-09,293.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831917,500409333,500409331,SB21B,ORG,Egencia,,,,,,3150 139th Ave SE,,Bellevue,WA,980054046,,,2024-05-09,512.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831917,500409336,500409331,SB21B,ORG,Hotels.com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-05-09,476.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831917,500409334,500409331,SB21B,ORG,JetBlue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2024-05-09,889.89,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831917,500409337,500409331,SB21B,ORG,The Liberty Hotel,,,,,,215 Charles St,,Boston,MA,021143001,,,2024-05-09,27909.28,0.00,Catering and Facility Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831917,500409005,,,ORG,Intuit,,,,,,2700 Coast Ave,Ste 520,Mountain View,CA,940431140,,,2024-04-02,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500409128,,,ORG,Intuit,,,,,,2700 Coast Ave,Ste 520,Mountain View,CA,940431140,,,2024-05-02,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500411195,,,ORG,Intuit,,,,,,2700 Coast Ave,Ste 520,Mountain View,CA,940431140,,,2024-06-03,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500409006,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-04-22,318.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831917,500409330,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-05-09,318.00,0.00,Software,,,,,,,,,,,,,,,,,,,,

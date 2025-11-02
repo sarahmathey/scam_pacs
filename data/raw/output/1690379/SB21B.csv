@@ -1,0 +1,93 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00337733,500056795,,,ORG,Am Ex Simply Cash,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-01-12,12554.67,0.00,12/20/22 credit card charges,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056813,500056795,SB21B,ORG,Am Ex Simply Cash,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-01-12,-250.07,0.00,"credit card refund, cash back program",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056829,500056795,SB21B,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-01-12,653.20,0.00,12/9/22 Office Supplies,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056868,500056795,SB21B,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-01-12,16.32,0.00,11/21/22 Office Supplies,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056862,500056795,SB21B,ORG,"Delta Airlines, Inc.",,,,,,PO Box 20706,,Atlanta,GA,303206001,,,2023-01-12,347.20,0.00,"12/13/22 Travel, Airfare",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056851,500056795,SB21B,ORG,Diplomat Hotel,,,,,,3555 S Ocean Dr,,Hollywood,FL,330192827,,,2023-01-12,496.07,0.00,"12/19/22 conf hotel, deposit",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056852,500056795,SB21B,ORG,Diplomat Hotel,,,,,,3555 S Ocean Dr,,Hollywood,FL,330192827,,,2023-01-12,496.07,0.00,"12/19/22 conf hotel, deposit",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056853,500056795,SB21B,ORG,Diplomat Hotel,,,,,,3555 S Ocean Dr,,Hollywood,FL,330192827,,,2023-01-12,496.07,0.00,"12/19/22 conf hotel, deposit",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056863,500056795,SB21B,ORG,Diplomat Hotel,,,,,,3555 S Ocean Dr,,Hollywood,FL,330192827,,,2023-01-12,496.07,0.00,"12/19/22 conf hotel, deposit",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056823,500056795,SB21B,ORG,District Social,,,,,,252 W 37th St,,New York,NY,100186636,,,2023-01-12,617.31,0.00,11/28/22 meeting meal,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056887,500056795,SB21B,ORG,Five Below Rego Park,,,,,,6135 Junction Blvd,,Rego Park,NY,113742771,,,2023-01-12,248.07,0.00,12/11/22 toys for holiday event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056888,500056795,SB21B,ORG,Five Below Rego Park,,,,,,6135 Junction Blvd,,Rego Park,NY,113742771,,,2023-01-12,208.15,0.00,12/11/22 toys for holiday event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056889,500056795,SB21B,ORG,Five Below Rego Park,,,,,,6135 Junction Blvd,,Rego Park,NY,113742771,,,2023-01-12,211.76,0.00,12/11/22 toys for holiday event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056874,500056795,SB21B,ORG,Golden Mango,,,,,,2300 Randall Ave,,Bronx,NY,104731242,,,2023-01-12,1034.80,0.00,"11/22/22 meeting, meal",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056848,500056795,SB21B,ORG,Grandma's Place,,,,,,84 W120th St,,Hamlin,NY,10027,,,2023-01-12,250.00,0.00,12/15/22 toys for holiday event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056865,500056795,SB21B,ORG,Ideal Food Basket,,,,,,9930 Corona Ave,,Corona,NY,113683140,,,2023-01-12,1200.00,0.00,"11/18/22 Turkeys, holiday event",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056841,500056795,SB21B,ORG,Lincoln Garage/Meyers Parking,,,,,,323 W 34th St,,New York,NY,100012402,,,2023-01-12,457.60,0.00,12/4/22 monthly parking,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056816,500056795,SB21B,ORG,Nation Builder,,,,,,520 S Grand Ave,,Los Angeles,CA,900712600,,,2023-01-12,1942.60,0.00,11/22/22 Database provider,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056838,500056795,SB21B,ORG,Ready Refresh,,,,,,PO Box 856192,,Louisville,KY,402856192,,,2023-01-12,119.70,0.00,12/2/22 Office Water,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056845,500056795,SB21B,ORG,Ready Refresh,,,,,,PO Box 856192,,Louisville,KY,402856192,,,2023-01-12,84.93,0.00,12/13/22 Office Water,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056814,500056795,SB21B,ORG,Simpletexting,,,,,,1815 Purdy Ave,,Miami Beach,FL,331391425,,,2023-01-12,-978.79,0.00,"Refund, duplicate billing",001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056821,500056795,SB21B,ORG,Simpletexting,,,,,,1815 Purdy Ave,,Miami Beach,FL,331391425,,,2023-01-12,978.79,0.00,11/26/22 texting service,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056822,500056795,SB21B,ORG,Simpletexting,,,,,,1815 Purdy Ave,,Miami Beach,FL,331391425,,,2023-01-12,22.06,0.00,11/26/22 texting service,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056896,500056795,SB21B,ORG,Target Flushing,,,,,,4024 College Point Blvd,,Flushing,NY,113545111,,,2023-01-12,499.11,0.00,12/16/22 toys for holiday event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056864,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,15.35,0.00,11/18/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056866,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,41.09,0.00,11/19/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056867,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,83.60,0.00,11/20/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056869,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,22.42,0.00,11/21/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056870,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,25.87,0.00,11/21/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056871,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,8.41,0.00,11/22/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056872,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,10.13,0.00,11/22/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056873,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,44.29,0.00,11/22/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056875,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,15.87,0.00,11/23/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056876,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,16.67,0.00,11/24/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056877,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,37.56,0.00,11/25/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056878,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,30.72,0.00,11/27/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056879,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,57.13,0.00,11/30/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056880,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,51.44,0.00,12/1/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056881,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,15.94,0.00,12/1/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056882,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,51.42,0.00,12/1/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056883,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,33.67,0.00,12/2/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056884,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,60.09,0.00,12/3/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056885,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,15.54,0.00,12/9/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056886,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,24.70,0.00,12/9/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056890,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,105.23,0.00,12/13/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056892,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,18.23,0.00,12/14/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056894,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,80.36,0.00,12/16/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056897,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,32.37,0.00,12/19/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056898,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,41.42,0.00,12/20/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056899,500056795,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-12,49.84,0.00,12/20/22 car svc to/from work event,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00337733,500056798,,,ORG,AT & T,,,,,,PO Box 9001310,,Louisville,KY,402901310,,,2023-01-12,649.46,0.00,Cell Service Acct 287021550145,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056796,,,ORG,De Lage Landen,,,,,,PO Box 4162,,Philadelphia,PA,191440162,,,2023-01-12,418.10,0.00,"1/23 copier lease fee, post upgrade",001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056812,,,ORG,De Lage Landen,,,,,,PO Box 4162,,Philadelphia,PA,191440162,,,2023-01-30,418.10,0.00,"2/23 copier lease fee, post upgrade",001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056764,,,IND,,Espinal,Aridia,,,,10816 48th Ave,Apt 2-R,Corona,NY,113684782,,,2023-01-04,1573.40,0.00,employee wages w/e 12/30/22,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056771,,,IND,,Espinal,Aridia,,,,10816 48th Ave,Apt 2-R,Corona,NY,113684782,,,2023-01-11,1573.42,0.00,employee wages w/e 1/6/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056772,,,IND,,Espinal,Aridia,,,,10816 48th Ave,Apt 2-R,Corona,NY,113684782,,,2023-01-18,1573.40,0.00,employee wages w/e 1/13/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056776,,,IND,,Espinal,Aridia,,,,10816 48th Ave,Apt 2-R,Corona,NY,113684782,,,2023-01-25,1573.41,0.00,employee wages w/e 1/20/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056780,,,IND,,Espinal,Aridia,,,,10816 48th Ave,Apt 2-R,Corona,NY,113684782,,,2023-01-31,1573.40,0.00,employee wages w/e 1/27/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056765,,,IND,,Kohler,Kris,,,,41 Trout Creek Rd,,Germantown,NY,125265508,,,2023-01-04,1935.84,0.00,employee wages w/e 12/30/22,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056770,,,IND,,Kohler,Kris,,,,41 Trout Creek Rd,,Germantown,NY,125265508,,,2023-01-11,1935.85,0.00,employee wages w/e 1/6/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056773,,,IND,,Kohler,Kris,,,,41 Trout Creek Rd,,Germantown,NY,125265508,,,2023-01-18,1935.84,0.00,employee wages w/e 1/13/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056777,,,IND,,Kohler,Kris,,,,41 Trout Creek Rd,,Germantown,NY,125265508,,,2023-01-25,1935.84,0.00,employee wages w/e 1/20/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056781,,,IND,,Kohler,Kris,,,,41 Trout Creek Rd,,Germantown,NY,125265508,,,2023-01-31,1935.84,0.00,employee wages w/e 1/27/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056800,,,ORG,LiUNA PAC,,,,,,PO Box 92500,,Washington,DC,200902500,,,2023-01-12,33170.93,0.00,11/22 xfer to affiliated PAC,008,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056807,,,ORG,LiUNA PAC,,,,,,PO Box 92500,,Washington,DC,200902500,,,2023-01-23,33216.70,0.00,12/22 xfer to affiliated PAC,008,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056805,,,ORG,LIUNA Staff & Affiliates Pension Fund,,,,,,905 16th St NW,,Washington,DC,200061703,,,2023-01-20,18146.93,0.00,12/22 Employee Pension Benefits,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056809,,,ORG,Mason Tenders' D.C. Trust Funds,,,,,,520 8th Ave,Rm 650,New York,NY,100186539,,,2023-01-23,12446.26,0.00,1/23 rent & related charges,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056797,,,ORG,Mason Tenders' D.C. Welfare Fund,,,,,,520 8th Ave,Rm 600,New York,NY,100184196,,,2023-01-12,2711.26,0.00,12/22 Admin Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056766,,,IND,,McGuire,Mike,,,,160 E 27th St,Apt 2B,New York,NY,100169022,,,2023-01-04,2295.83,0.00,employee wages w/e 12/30/22,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056769,,,IND,,McGuire,Mike,,,,160 E 27th St,Apt 2B,New York,NY,100169022,,,2023-01-11,2295.82,0.00,employee wages w/e 1/6/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056774,,,IND,,McGuire,Mike,,,,160 E 27th St,Apt 2B,New York,NY,100169022,,,2023-01-18,2295.82,0.00,employee wages w/e 1/13/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056778,,,IND,,McGuire,Mike,,,,160 E 27th St,Apt 2B,New York,NY,100169022,,,2023-01-25,2295.83,0.00,employee wages w/e 1/20/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056782,,,IND,,McGuire,Mike,,,,160 E 27th St,Apt 2B,New York,NY,100169022,,,2023-01-31,2295.83,0.00,employee wages w/e 1/27/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056789,,,IND,,McKenna,Elizabeth,,,,4043 62nd St,,Woodside,NY,113774962,,,2023-01-26,1710.00,0.00,"Newsletter design, text setup & management Inv 11223",001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056799,,,ORG,MTDC of Greater NY PAC Gen Acct,,,,,,266 W 37th St,,New York,NY,100186609,,,2023-01-12,20000.00,0.00,xfer for non federal purposes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056794,,,ORG,MTDCPAC General Account,,,,,,266 W 37th St,,New York,NY,100186609,,,2023-01-12,20000.00,0.00,xfer to non-fed acct for non-fed purposes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056801,,,PAC,NYSL PAC,,,,,,18 Corporate Woods Blvd,# ALBANY,Albany,NY,122112522,,,2023-01-12,33170.93,0.00,11/22 xfer to affiliated PAC,008,C00220566,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056808,,,PAC,NYSL PAC,,,,,,18 Corporate Woods Blvd,# ALBANY,Albany,NY,122112522,,,2023-01-23,33216.70,0.00,12/22 xfer to affiliated PAC,008,C00220566,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056790,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-04,97.37,0.00,Payroll Fees w/e 12/30/22,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056791,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-04,4892.67,0.00,Payroll Taxes w/e 12/30/22,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056792,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-11,4891.55,0.00,Payroll Taxes w/e 1/6/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056793,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-11,249.87,0.00,Payroll Fees w/e 1/6/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056803,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-18,97.37,0.00,Payroll Fees w/e 1/13/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056804,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-18,4859.88,0.00,Payroll Taxes w/e 1/13/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056806,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-20,84.01,0.00,2023 Payroll Taxes outstanding liability,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056810,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-25,4787.00,0.00,Payroll Taxes w/e 1/20/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056811,,,ORG,Paychex,,,,,,1175 John St,,West Henrietta,NY,145869102,,,2023-01-25,97.37,0.00,Payroll Fees w/e 1/20/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056767,,,IND,,Slaughter,Josh,,,,28 Dawn Dr,,Shirley,NY,119671746,,,2023-01-04,1339.86,0.00,employee wages w/e 12/30/22,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056768,,,IND,,Slaughter,Josh,,,,28 Dawn Dr,,Shirley,NY,119671746,,,2023-01-11,1339.86,0.00,employee wages w/e 1/6/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056775,,,IND,,Slaughter,Josh,,,,28 Dawn Dr,,Shirley,NY,119671746,,,2023-01-18,1339.85,0.00,employee wages w/e 1/13/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056779,,,IND,,Slaughter,Josh,,,,28 Dawn Dr,,Shirley,NY,119671746,,,2023-01-25,1339.86,0.00,employee wages w/e 1/20/23,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00337733,500056783,,,IND,,Slaughter,Josh,,,,28 Dawn Dr,,Shirley,NY,119671746,,,2023-01-31,1339.86,0.00,employee wages w/e 1/27/23,001,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,129 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00674093,500117357,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-03,273.07,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500117358,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-06,212.17,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500117360,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-08,288.84,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500117361,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-09,264.98,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500119751,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-13,319.38,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500117966,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-15,242.61,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118298,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-16,140.46,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118738,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,82.33,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118443,500118738,SB21B,ORG,"Amazon.Com, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-16,9.86,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118359,500118738,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,4.95,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118360,500118738,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,17.72,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118361,500118738,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,19.80,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118739,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,2179.55,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118336,500118739,SB21B,ORG,"Amazon.Com, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-16,0.51,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118370,500118739,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,288.99,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118371,500118739,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,350.00,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118335,500118739,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-16,167.90,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118397,500118739,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-16,203.35,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118332,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,21.60,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118338,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,5.50,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118339,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,7.65,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118340,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,21.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118341,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,30.61,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118345,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,5.74,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118346,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,22.98,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118351,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,4.56,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118387,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,25.09,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118391,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,16.94,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118392,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,39.75,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118393,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,4.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118394,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,4.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118395,500118739,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,7.95,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118347,500118739,SB21B,ORG,The Bouqs Company,,,,,,4094 Glencoe Ave,,Marina Del Rey,CA,902925608,,,2024-10-16,136.73,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118420,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,44.78,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118421,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,35.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118422,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,45.19,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118423,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,27.49,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118424,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,18.78,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118425,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,23.02,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118442,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,50.52,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118446,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,32.48,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118748,500118739,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,43.52,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118740,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,1568.96,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118369,500118740,SB21B,ORG,"Amazon.Com, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-16,31.41,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118396,500118740,SB21B,ORG,"Amazon.Com, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-16,23.17,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118448,500118740,SB21B,ORG,"Amazon.Com, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-16,27.28,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118404,500118740,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,303.99,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118407,500118740,SB21B,ORG,Canva,,,,,,2140 S Dupont Hwy,,Camden,DE,199341249,,,2024-10-16,14.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118449,500118740,SB21B,ORG,Canva,,,,,,2140 S Dupont Hwy,,Camden,DE,199341249,,,2024-10-16,14.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118368,500118740,SB21B,ORG,Dropbox,,,,,,333 Brannan St,,San Francisco,CA,941071810,,,2024-10-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118413,500118740,SB21B,ORG,Dropbox,,,,,,333 Brannan St,,San Francisco,CA,941071810,,,2024-10-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118409,500118740,SB21B,ORG,GoDaddy.Com,,,,,,14455 N Hayden Rd,Ste 219,Scottsdale,AZ,852606993,,,2024-10-16,70.51,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118450,500118740,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-16,198.43,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118352,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,26.61,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118353,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,8.46,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118354,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,18.22,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118355,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,26.43,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118356,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,33.86,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118358,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,4.43,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118363,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,62.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118364,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,32.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118365,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,27.74,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118366,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,8.22,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118386,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,16.73,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118388,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,35.02,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118389,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,5.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118390,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,9.93,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118398,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,12.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118399,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,17.88,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118400,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,3.58,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118401,500118740,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,4.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118411,500118740,SB21B,ORG,MailChimp,,,,,,405 N Angier Ave NE,,Atlanta,GA,303083139,,,2024-10-16,47.70,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118441,500118740,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,42.20,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118405,500118740,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-16,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118406,500118740,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-16,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118367,500118740,SB21B,ORG,"Zoom, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-16,16.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118385,500118740,SB21B,ORG,"Zoom, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-16,16.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118414,500118740,SB21B,ORG,"Zoom, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-16,16.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118741,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,820.76,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118372,500118741,SB21B,ORG,Canva,,,,,,2140 S Dupont Hwy,,Camden,DE,199341249,,,2024-10-16,14.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118382,500118741,SB21B,ORG,Dropbox,,,,,,333 Brannan St,,San Francisco,CA,941071810,,,2024-10-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118374,500118741,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118375,500118741,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,11.67,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118376,500118741,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,13.83,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118377,500118741,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118380,500118741,SB21B,ORG,MailChimp,,,,,,405 N Angier Ave NE,,Atlanta,GA,303083139,,,2024-10-16,47.70,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118384,500118741,SB21B,ORG,Vistaprint,,,,,,275 Wyman St,,Waltham,MA,024511200,,,2024-10-16,164.64,0.00,Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118378,500118741,SB21B,ORG,Wild Days,,,,,,1201 K St NW,,Washington,DC,200054011,,,2024-10-16,97.40,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118383,500118741,SB21B,ORG,"Zoom, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-16,169.49,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118742,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,4595.49,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118322,500118742,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-10-16,15.89,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118323,500118742,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-10-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118325,500118742,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-10-16,15.89,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118326,500118742,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-10-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118324,500118742,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-16,318.05,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118415,500118742,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2024-10-16,254.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118319,500118742,SB21B,ORG,Canva,,,,,,2140 S Dupont Hwy,,Camden,DE,199341249,,,2024-10-16,14.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118315,500118742,SB21B,ORG,Dropbox,,,,,,333 Brannan St,,San Francisco,CA,941071810,,,2024-10-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118416,500118742,SB21B,ORG,Expedia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2024-10-16,324.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118313,500118742,SB21B,ORG,Hyatt Regency,,,,,,151 E Wacker Dr,,Chicago,IL,606013764,,,2024-10-16,346.16,0.00,Hotel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118321,500118742,SB21B,ORG,Hyatt Regency,,,,,,151 E Wacker Dr,,Chicago,IL,606013764,,,2024-10-16,1068.26,0.00,Hotel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118445,500118742,SB21B,ORG,Hyatt Regency,,,,,,151 E Wacker Dr,,Chicago,IL,606013764,,,2024-10-16,301.94,0.00,Hotel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118329,500118742,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,3.54,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118330,500118742,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,4.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118331,500118742,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-16,17.71,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118316,500118742,SB21B,ORG,MailChimp,,,,,,405 N Angier Ave NE,,Atlanta,GA,303083139,,,2024-10-16,47.70,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118419,500118742,SB21B,ORG,Tokyo Listening Bar,,,,,,127 Macdougal St,,New York,NY,100121076,,,2024-10-16,171.36,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118426,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,24.76,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118427,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,25.29,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118428,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,29.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118430,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,14.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118431,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,5.19,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118432,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,25.77,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118433,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,25.15,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118434,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,14.97,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118435,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,58.32,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118437,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,16.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118438,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,40.59,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118439,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,71.22,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118440,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,32.54,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118447,500118742,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-16,49.19,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118314,500118742,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-16,530.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118362,500118742,SB21B,ORG,Vistaprint,,,,,,275 Wyman St,,Waltham,MA,024511200,,,2024-10-16,95.63,0.00,Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500118294,,,ORG,Brady Campaign To Prevent Gun Violence,,,,,,840 1St St NE,Ste 400,Washington,DC,200028040,,,2024-10-16,2500.00,0.00,Payment for Estimated Staff Time and Overhead,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118297,,,ORG,GPS Impact,,,,,,112 SE 4Th St,Unit 202,Des Moines,IA,503094858,,,2024-10-16,7244.50,0.00,Digital Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118772,,,ORG,Hovercast,,,,,,3838 N RAVENSWOOD Ave,Ste 218,Chicago,IL,60613,G2024,,2024-10-01,-7500.00,0.00,Website and Video Conference Production,003,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB21B,C00674093,500118296,,,ORG,MissionWired,,,,,,650 Massachusetts Ave NW,,Washington,DC,200013796,,,2024-10-16,22500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500118295,,,ORG,"Zack DiGregorio, LLC",,,,,,1458 Columbia Rd NW,,Washington,DC,200094770,,,2024-10-16,1000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,

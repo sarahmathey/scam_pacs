@@ -1,0 +1,34 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00771238,500409750,,,ORG,Actblue,,,,,,366 Summer St,,Somerville,MA,021443132,P2028,,2024-12-02,98.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409751,,,ORG,Actblue,,,,,,366 Summer St,,Somerville,MA,021443132,P2028,,2024-12-09,59.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409752,,,ORG,Actblue,,,,,,366 Summer St,,Somerville,MA,021443132,P2028,,2024-12-16,59.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409737,,,ORG,First National Bank Of Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-12-06,2422.78,0.00,Credit Card Payment - See Memo Itemization,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409754,500409737,SB21B,ORG,ARIA Resort & Casino,,,,,,3730 Las Vegas Blvd S,,Las Vegas,NV,891584300,P2028,,2024-12-06,444.79,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409763,500409737,SB21B,ORG,First National Bank Of Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,P2028,,2024-12-06,90.67,0.00,Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409764,500409737,SB21B,ORG,First National Bank Of Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,P2028,,2024-12-06,293.89,0.00,Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409761,500409737,SB21B,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,P2028,,2024-12-06,270.10,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409765,500409737,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,P2028,,2024-12-06,148.39,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409766,500409737,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,P2028,,2024-12-06,219.53,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409767,500409737,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,P2028,,2024-12-06,20.42,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409768,500409737,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,P2028,,2024-12-06,20.81,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409769,500409737,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,P2028,,2024-12-06,36.68,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409770,500409737,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,P2028,,2024-12-06,10.68,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409771,500409737,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,P2028,,2024-12-06,45.85,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409775,500409737,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,P2028,,2024-12-06,240.98,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409778,500409737,SB21B,ORG,Uber Technologies Inc.,,,,,,1455 Market St,,San Francisco,CA,941031331,P2028,,2024-12-06,85.59,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409779,500409737,SB21B,ORG,Uber Technologies Inc.,,,,,,1455 Market St,,San Francisco,CA,941031331,P2028,,2024-12-06,12.46,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409780,500409737,SB21B,ORG,Uber Technologies Inc.,,,,,,1455 Market St,,San Francisco,CA,941031331,P2028,,2024-12-06,25.91,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409781,500409737,SB21B,ORG,Uber Technologies Inc.,,,,,,1455 Market St,,San Francisco,CA,941031331,P2028,,2024-12-06,11.97,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409782,500409737,SB21B,ORG,Uber Technologies Inc.,,,,,,1455 Market St,,San Francisco,CA,941031331,P2028,,2024-12-06,10.19,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409783,500409737,SB21B,ORG,United Airlines,,,,,,2255 E 220Th St,,Long Beach,CA,908101639,P2028,,2024-12-06,215.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409784,500409737,SB21B,ORG,United Airlines,,,,,,2255 E 220Th St,,Long Beach,CA,908101639,P2028,,2024-12-06,-215.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409745,,,ORG,Kaufman Legal Group,,,,,,777 S Figueroa St,Ste 4050,Los Angeles,CA,900175864,P2028,,2024-12-02,6500.00,0.00,Legal & Treasury Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409743,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,P2028,,2024-12-03,300.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409748,,,ORG,"SGR Consulting, LLC",,,,,,465 California St,Ste 425,San Francisco,CA,941041852,P2028,,2024-12-30,10000.00,0.00,Fundraising Consulting Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409753,,,IND,,Stiles,Alexandra,,,,1759 U St NW,,Washington,DC,200091703,,,2024-12-30,356.50,0.00,Reimbursement - See Memo Itemization Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00771238,500409818,500409753,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-12-06,23.96,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409817,500409753,SB21B,ORG,Uber Technologies Inc.,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-06,25.79,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409815,500409753,SB21B,ORG,United States Postal Service,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,,2024-12-06,52.80,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409785,500409753,SB21B,ORG,United States Postal Service,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,,2024-12-30,219.65,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409820,500409753,SB21B,ORG,"Whole Foods Market, Inc",,,,,,550 Bowie St,,Austin,TX,787034644,,,2024-12-06,34.30,0.00,Food & Beverage Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00771238,500409749,,,ORG,Thrive Strategies,,,,,,919 Florida Ave NW,Apt 504,Washington,DC,200015047,P2028,,2024-12-03,7000.00,0.00,Fundraising and Media Consulting Fees,,,,,,,,,,,,,,,,,,,,

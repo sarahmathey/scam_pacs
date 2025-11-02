@@ -1,0 +1,65 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00789834,B-37779,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-04-04,79.00,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37945,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,,,2023-04-04,150.00,,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37794,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-04-09,3803.85,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37797,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2023-04-10,5412.60,,Credit Card Payment - See Memo's if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37798,B-37797,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-04-10,399.90,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37799,B-37797,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-04-10,218.90,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37800,B-37797,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-04-10,125.00,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37801,B-37797,,ORG,Attitude New York,,,,,,48-50 34th St,,Long Island City,NY,11101,,,2023-04-10,1262.03,,Car Service,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37802,B-37797,,ORG,Bernardus Lodge & Spa,,,,,,415 West Carmel Valley Road,,Carmel Valley,CA,93924,,,2023-04-10,1723.23,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37803,B-37797,,ORG,Delta Airlines,,,,,,1030 Delta BLVD,,Atlanta,GA,303206001,,,2023-04-10,163.90,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37804,B-37797,,ORG,Rosewood Sand Hill,,,,,,2825 Sand Hill Rd,,Menlo Park,CA,94025,,,2023-04-10,114.61,,Travel Meals,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37805,B-37797,,ORG,Rosewood Sand Hill,,,,,,2825 Sand Hill Rd,,Menlo Park,CA,94025,,,2023-04-10,1116.72,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37806,B-37797,,ORG,Westin - Starwood Hotels & Resorts,,,,,,1 Star Point,,Stamford,CT,06902,,,2023-04-10,288.31,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37807,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,c/o Better Call Katie 2607 Monroe ,,Washington,DC,20018,,,2023-04-10,8495.24,,Fundraising - Event & Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37851,,,IND,,Bursky,Jane,,,,325 Stanwich Road,,Greenwich,CT,06830,,,2023-04-12,687.02,,IN KIND: In-kind Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37828,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,c/o Better Call Katie 2607 Monroe ,,Washington,DC,20018,,,2023-04-15,2706.24,,Fundraising - Event & Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37850,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-04-16,4651.14,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37952,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2023-04-20,3262.80,,Credit Card Payment - See Memo's if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37953,B-37952,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-04-20,210.00,,Airline Fee,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37954,B-37952,,ORG,Attitude New York,,,,,,48-50 34th St,,Long Island City,NY,11101,,,2023-04-20,1018.31,,Car Service,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37955,B-37952,,ORG,Corporate Paris,,,,,,31 rue de Neuilly,,Clichy  FRANCE,,92110,,,2023-04-20,2034.49,,Car Service,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-37865,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-04-23,1050.70,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37901,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-04-30,4410.18,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37944,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,,,2023-05-02,150.00,,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37937,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-05-07,3436.50,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38029,,,IND,,Rhodes,Jeffrey,,,,481 Old Ranch Road,,Park City,UT,84098,,,2023-05-09,2270.46,,IN KIND: Inkind Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37946,,,ORG,Santa Rosa Partners LLC,,,,,,251 Little Falls Drive,,Wilmington,DE,19808,,,2023-05-10,9215.93,,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37960,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-05-14,965.78,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37986,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,c/o Better Call Katie 2607 Monroe ,,Washington,DC,20018,,,2023-05-17,5342.85,,Fundraising - Event & Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-37985,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-05-21,916.40,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-43118,,,ORG,"Democracy Engine, Inc.",,,,,,"850 Quincy St, NW #402",,Washington,DC,20011,,,2023-05-26,200.30,,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38035,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-05-28,3616.23,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38037,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-05-31,730.75,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38052,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2023-05-31,4262.25,,Credit Card Payment - See Memo's if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38053,B-38052,,ORG,Attitude New York,,,,,,48-50 34th St,,Long Island City,NY,11101,,,2023-05-31,3455.45,,Car Service,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-38054,B-38052,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-05-31,558.90,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-38055,B-38052,,ORG,United Airlines,,,,,,PO Box 6120,,Rapid City,SD,57709,,,2023-05-31,247.90,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-48123,,,ORG,"Democracy Engine, Inc.",,,,,,"850 Quincy St, NW #402",,Washington,DC,20011,,,2023-05-31,200.30,,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38051,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,,,2023-06-02,150.00,,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38049,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-06-04,387.10,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38085,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-06-11,1951.30,,Earmarked through ACTBlue,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-48129,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,c/o Better Call Katie 2607 Monroe ,,Washington,DC,20018,,,2023-06-15,6387.61,,Fundraising - Event & Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-48130,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2023-06-16,6748.47,,Credit Card Payment - See Memo's if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-48131,B-48130,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-06-16,800.70,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-48132,B-48130,,ORG,Attitude New York,,,,,,48-50 34th St,,Long Island City,NY,11101,,,2023-06-16,2449.13,,Car Service,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-48133,B-48130,,ORG,Attitude New York,,,,,,48-50 34th St,,Long Island City,NY,11101,,,2023-06-16,924.50,,Car Service,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-48134,B-48130,,ORG,United Airlines,,,,,,PO Box 6120,,Rapid City,SD,57709,,,2023-06-16,859.55,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-48135,B-48130,,ORG,W Hotels Worldwide - Starwood Hotels & Resorts,,,,,,One StarPoint,,Stamford,CT,06902,,,2023-06-16,1204.63,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-48136,B-48130,,ORG,"Whole Foods Market, Inc.",,,,,,550 Bowie Street,,Austin,TX,787034644,,,2023-06-16,509.96,,Event Catering,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53140,,,ORG,"Democracy Engine, Inc.",,,,,,"850 Quincy St, NW #402",,Washington,DC,20011,,,2023-06-16,132.30,,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-38115,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-06-18,2737.36,,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-53718,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-06-25,1267.95,,Earmarked through ACTBlue,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-53714,,,ORG,Santa Rosa Partners LLC,,,,,,251 Little Falls Drive,,Wilmington,DE,19808,,,2023-06-26,7296.76,,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-53720,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2023-06-28,4092.41,,Credit Card Payment - See Memo's if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-53721,B-53720,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-06-27,222.90,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53722,B-53720,,ORG,Attitude New York,,,,,,48-50 34th St,,Long Island City,NY,11101,,,2023-06-27,778.72,,Car Service,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53723,B-53720,,ORG,Delta Airlines,,,,,,1030 Delta BLVD,,Atlanta,GA,303206001,,,2023-06-27,623.40,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53724,B-53720,,ORG,"Marriott International, Inc.",,,,,,600 Unicorn Park Dr,,Woburn,MA,01801,,,2023-06-27,367.47,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53725,B-53720,,ORG,"Marriott International, Inc.",,,,,,600 Unicorn Park Dr,,Woburn,MA,01801,,,2023-06-27,386.25,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53726,B-53720,,ORG,The New York Edition,,,,,,5 Madison Avenue,,New York,NY,10010,,,2023-06-27,951.34,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53742,B-53720,,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,76155,,,2023-06-28,218.90,,Airfare,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53743,B-53720,,ORG,W Hotels Worldwide - Starwood Hotels & Resorts,,,,,,One StarPoint,,Stamford,CT,06902,,,2023-06-28,543.43,,Lodging,,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Barclays Card Services
+SB21B,C00789834,B-53774,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,02238,,,2023-06-30,1627.40,,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00789834,B-53794,,,ORG,Santa Rosa Partners LLC,,,,,,251 Little Falls Drive,,Wilmington,DE,19808,,,2023-06-30,6568.75,,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,

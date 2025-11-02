@@ -1,0 +1,28 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00830687,500986004,,,ORG,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-12-08,9.88,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500986005,,,ORG,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-12-15,0.24,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500986006,,,ORG,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-12-22,0.99,0.00,credit card processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983854,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,P2030,,2024-11-27,400.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983855,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,P2030,,2024-12-30,155.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983857,,,IND,,Baldwin,Tammy,,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-20,3418.16,0.00,"Travel - Airfare, Lodging",,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500985621,500983857,SB21B,ORG,Aloft Green Bay,,,,,,465 Pilgrim Way,,Green Bay,WI,543045295,P2030,,2024-12-20,145.53,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985630,500983857,SB21B,ORG,Aloft Green Bay,,,,,,465 Pilgrim Way,,Green Bay,WI,543045295,P2030,,2024-12-20,152.53,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985624,500983857,SB21B,ORG,Aloft Milwaukee Downtown,,,,,,1230 N Old World 3Rd St,,Milwaukee,WI,532124034,P2030,,2024-12-20,183.92,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985625,500983857,SB21B,ORG,Aloft Milwaukee Downtown,,,,,,1230 N Old World 3Rd St,,Milwaukee,WI,532124034,P2030,,2024-12-20,234.62,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985631,500983857,SB21B,ORG,Aloft Milwaukee Downtown,,,,,,1230 N Old World 3Rd St,,Milwaukee,WI,532124034,P2030,,2024-12-20,271.83,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985633,500983857,SB21B,ORG,Aloft Milwaukee Downtown,,,,,,1230 N Old World 3Rd St,,Milwaukee,WI,532124034,P2030,,2024-12-20,192.43,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985620,500983857,SB21B,ORG,Best Western Chequamegon,,,,,,101 Lake Shore Dr W,,Ashland,WI,548061646,P2030,,2024-12-20,217.69,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985629,500983857,SB21B,ORG,Best Western Chequamegon,,,,,,101 Lake Shore Dr W,,Ashland,WI,548061646,P2030,,2024-12-20,178.09,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985618,500983857,SB21B,ORG,Delta Airlines,,,,,,PO Box 20706,,Atlanta,GA,303206001,P2030,,2024-12-20,633.97,0.00,Travel - Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985623,500983857,SB21B,ORG,Hampton Inn - Wausau,,,,,,615 S 24Th Ave,,Wausau,WI,544015226,P2030,,2024-12-20,221.35,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500985627,500983857,SB21B,ORG,Holiday Inn Appleton,,,,,,1565 N Casaloma Dr,,Appleton,WI,549138244,P2030,,2024-12-20,206.14,0.00,Travel - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00830687,500983861,,,ORG,Father Fats Public House & Chef's Kitchen,,,,,,945 Clark St,,Stevens Point,WI,544812928,P2030,,2024-12-20,237.38,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983852,,,ORG,FPC Live,,,,,,155 E Wilson St,Ste 100,Madison,WI,537033489,P2030,,2024-12-20,15621.89,0.00,Campaign Event Venue Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983851,,,ORG,"Madeline Island Enterprises, LLC",,,,,,PO Box 482,,La Pointe,WI,548500482,P2030,,2024-12-03,1848.00,0.00,Treasury Management and Financial Operations,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983859,,,ORG,Mark Spengler LLC,,,,,,324 U St NW,,Washington,DC,200011722,P2030,,2024-12-27,2030.00,0.00,National Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983853,,,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,P2030,,2024-12-20,300.00,0.00,Quarterly Software License,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983850,,,ORG,Spector Roh Strategies LLC,,,,,,316 W Washington Ave,Ste 675,Madison,WI,537034064,P2030,,2024-12-02,14925.00,0.00,Operations and Political Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500977926,,,ORG,TAMMY BALDWIN FOR SENATE,,,,,,PO Box 696,,Madison,WI,537010696,G2024,,2024-12-05,28903.00,0.00,Staff Time Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983856,,,ORG,The Coopers Tavern,,,,,,20 W Mifflin St,,Madison,WI,537032523,P2030,,2024-11-27,586.71,0.00,Campaign Event Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983860,,,ORG,The Deliciouser LLC,,,,,,931 E Main St,,Madison,WI,537032954,P2030,,2024-12-20,2397.49,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00830687,500983858,,,ORG,The Kauffman Group,,,,,,323 7Th St SE,,Washington,DC,200034307,P2030,,2024-12-03,22000.00,0.00,National Fundraising,,,,,,,,,,,,,,,,,,,,

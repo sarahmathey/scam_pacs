@@ -1,0 +1,27 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00502096,500906361,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2024-01-19,4367.42,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500906359,500906361,SB21B,ORG,Apple,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2024-01-19,3725.90,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500906362,500906361,SB21B,ORG,Famous Daves,,,,,,G3558 Miller Rd,,Flint,MI,485071236,,,2024-01-19,346.04,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500919184,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2024-02-20,2203.84,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919192,500919184,SB21B,ORG,Circa At Navy Yard,,,,,,99 M St SE,Ste 100,Washington,DC,200033957,,,2024-02-20,400.62,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500919189,500919184,SB21B,ORG,Delta Air,,,,,,PO Box 20706,,Atlanta,GA,303206001,,,2024-02-20,907.43,0.00,Air Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500919191,500919184,SB21B,ORG,The Buccaneer Resort,,,,,,5007 Estate Christiansted,,St Croix,VI,00824,,,2024-02-20,680.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500919185,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2024-03-14,2252.31,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919196,500919185,SB21B,ORG,The Buccaneer Resort,,,,,,5007 Estate Christiansted,,St Croix,VI,00824,,,2024-03-14,1219.64,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500919195,500919185,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-03-14,254.13,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500919197,500919185,SB21B,ORG,Westin Atlanta,,,,,,210 Peachtree St NW,,Atlanta,GA,303031704,,,2024-03-14,308.81,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500906347,,,ORG,Blue Wave Political Partners,,,,,,401 2Nd Ave S,Ste 303,Seattle,WA,981042862,,,2024-01-05,1339.93,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919174,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2024-01-09,2019.30,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500906351,,,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2024-01-05,854.98,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919176,,,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2024-02-22,835.31,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500917138,,,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2024-03-31,666.01,0.00,Dues,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500906350,,,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-01-05,300.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919179,,,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-03-18,300.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919183,,,CCM,PASCRELL FOR CONGRESS,,,,,,PO Box 100,,Teaneck,NJ,076660100,P2024,,2024-03-29,1000.00,0.00,Contribution,,C00313510,,,PASCRELL,WILLIAM,JR.,,,H,NJ,09,,,,,,,,
+SB21B,C00502096,500906349,,,IND,,Rivard,Mitchell,,,,PO Box 248,,Flint,MI,485010248,,,2024-01-05,2000.00,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919171,,,IND,,Rivard,Mitchell,,,,PO Box 248,,Flint,MI,485010248,,,2024-02-02,2000.00,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919172,,,IND,,Rivard,Mitchell,,,,PO Box 248,,Flint,MI,485010248,,,2024-03-05,2000.00,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500906348,,,IND,,Tippett,Jeffrey,D,,,8077 Hawkcrest Dr,,Grand Blanc,MI,484392422,,,2024-01-05,833.33,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919169,,,IND,,Tippett,Jeffrey,D,,,8077 Hawkcrest Dr,,Grand Blanc,MI,484392422,,,2024-02-01,833.33,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500919170,,,IND,,Tippett,Jeffrey,D,,,8077 Hawkcrest Dr,,Grand Blanc,MI,484392422,,,2024-03-01,833.33,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,13486042I,13486042,SA11C,PAC,UNITED STATES BEET SUGAR ASSOCIATION POLITICAL ACTION COMMITTEE,,,,,,50 F St NW,Ste 675,Washington,DC,200011533,,,2024-03-28,603.20,0.00,Site Rental,,C00063586,,,,,,,,,,,,,,,,,,* In-Kind Received

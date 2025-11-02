@@ -1,0 +1,79 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00697441,500086200,,,ORG,American Express,,,,,,500 W Madison St,Ste 1000,Chicago,IL,606612559,,,2023-05-30,215.47,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086201,500086200,SB21B,ORG,All Secure Airport Storage,,,,,,22858 Lincoln Way W,,South Bend,IN,46628,,,2023-05-30,42.50,0.00,Storage Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086203,500086200,SB21B,ORG,Render,,,,,,655 5Th St,Apt 19,San Francisco,CA,941071577,,,2023-05-30,53.50,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086204,500086200,SB21B,ORG,Google,,,,,,Bldg 41,,Mountain View,CA,94043,,,2023-05-30,111.95,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086210,,,ORG,DC Treasurer,,,,,,1101 4Th St SW,Ste 270,Washington,DC,200244457,,,2023-04-17,522.00,0.00,Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086230,,,ORG,"Paychex, Inc.",,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-04-14,50.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086240,,,ORG,Steamship Strategies LLC,,,,,,1332 15Th St NW,Apt 44,Washington,DC,200052929,,,2023-02-03,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086250,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-31,313.04,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086160,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-15,2.68,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086270,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-26,52.55,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086190,,,ORG,American Express,,,,,,500 W Madison St,Ste 1000,Chicago,IL,606612559,,,2023-03-29,215.46,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086191,500086190,SB21B,ORG,All Secure Airport Storage,,,,,,22858 Lincoln Way W,,South Bend,IN,46628,,,2023-03-29,42.50,0.00,Storage Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086192,500086190,SB21B,ORG,Google,,,,,,Bldg 41,,Mountain View,CA,94043,,,2023-03-29,111.94,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086194,500086190,SB21B,ORG,Render,,,,,,655 5Th St,Apt 19,San Francisco,CA,941071577,,,2023-03-29,53.50,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086211,,,ORG,United States Treasury,,,,,,1500 Pennsylvania Ave NW,,Washington,DC,202200001,,,2023-04-17,1247.00,0.00,Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086231,,,ORG,"Paychex, Inc.",,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-05-12,50.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086241,,,ORG,Steamship Strategies LLC,,,,,,1332 15Th St NW,Apt 44,Washington,DC,200052929,,,2023-03-07,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086261,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-30,0.99,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086271,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-19,2.97,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086212,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-02-22,1237.50,0.00,Legal Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086232,,,ORG,"Paychex, Inc.",,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-06-16,50.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086242,,,ORG,Steamship Strategies LLC,,,,,,1332 15Th St NW,Apt 44,Washington,DC,200052929,,,2023-05-02,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086262,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-23,4.27,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086272,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-12,21.38,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086213,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-05-02,250.00,0.00,Filing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086233,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15Th St NW,Ste 247,Washington,DC,200051502,,,2023-01-24,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086243,,,ORG,Steamship Strategies LLC,,,,,,1332 15Th St NW,Apt 44,Washington,DC,200052929,,,2023-05-09,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086263,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-16,2.62,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086273,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-05,31.88,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086214,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-05-17,1062.00,0.00,Legal Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086234,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15Th St NW,Ste 247,Washington,DC,200051502,,,2023-02-22,1014.67,0.00,Compliance Services and Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086244,,,ORG,Steamship Strategies LLC,,,,,,1332 15Th St NW,Apt 44,Washington,DC,200052929,,,2023-06-20,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086254,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-18,0.90,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086264,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-09,4.37,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086274,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-03,0.80,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086184,,,ORG,American Express,,,,,,500 W Madison St,Ste 1000,Chicago,IL,606612559,,,2023-02-22,186.96,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086186,500086184,SB21B,ORG,All Secure Airport Storage,,,,,,22858 Lincoln Way W,,South Bend,IN,46628,,,2023-02-22,42.50,0.00,Storage Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086187,500086184,SB21B,ORG,Google,,,,,,Bldg 41,,Mountain View,CA,94043,,,2023-02-22,111.94,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086188,500086184,SB21B,ORG,Render,,,,,,655 5Th St,Apt 19,San Francisco,CA,941071577,,,2023-02-22,25.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086205,,,ORG,American Express,,,,,,500 W Madison St,Ste 1000,Chicago,IL,606612559,,,2023-06-28,215.50,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086206,500086205,SB21B,ORG,All Secure Airport Storage,,,,,,22858 Lincoln Way W,,South Bend,IN,46628,,,2023-06-28,42.50,0.00,Storage Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086208,500086205,SB21B,ORG,Render,,,,,,655 5Th St,Apt 19,San Francisco,CA,941071577,,,2023-06-28,53.50,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086209,500086205,SB21B,ORG,Google,,,,,,Bldg 41,,Mountain View,CA,94043,,,2023-06-28,111.98,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086215,,,ORG,"EveryAction, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-01-24,370.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086235,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15Th St NW,Ste 247,Washington,DC,200051502,,,2023-03-07,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086245,,,ORG,Weymouth Watson,,,,,,1110 6Th St NE,Unit 4,Washington,DC,200023451,,,2023-05-18,5750.00,0.00,Event Coordination Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086255,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-11,6.36,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086265,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-31,0.70,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086275,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-23,17.11,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086195,,,ORG,American Express,,,,,,500 W Madison St,Ste 1000,Chicago,IL,606612559,,,2023-04-28,215.79,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086196,500086195,SB21B,ORG,All Secure Airport Storage,,,,,,22858 Lincoln Way W,,South Bend,IN,46628,,,2023-04-28,42.50,0.00,Storage Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086197,500086195,SB21B,ORG,Google,,,,,,Bldg 41,,Mountain View,CA,94043,,,2023-04-28,112.27,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086199,500086195,SB21B,ORG,Render,,,,,,655 5Th St,Apt 19,San Francisco,CA,941071577,,,2023-04-28,53.50,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086216,,,ORG,"EveryAction, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-05-16,1110.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086236,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15Th St NW,Ste 247,Washington,DC,200051502,,,2023-05-02,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086246,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-17,3.57,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086256,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-04,0.30,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086266,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-12,3.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086217,,,ORG,"EveryAction, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-05-17,370.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086227,,,ORG,"Paychex, Inc.",,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-13,50.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086237,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15Th St NW,Ste 247,Washington,DC,200051502,,,2023-05-09,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086247,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-22,7.15,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086257,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-31,7.22,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086267,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-26,0.20,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086177,,,ORG,American Express,,,,,,500 W Madison St,Ste 1000,Chicago,IL,606612559,,,2023-01-16,165.71,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086180,500086177,SB21B,ORG,All Secure Airport Storage,,,,,,22858 Lincoln Way W,,South Bend,IN,46628,,,2023-01-16,42.50,0.00,Storage Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086182,500086177,SB21B,ORG,Google,,,,,,Bldg 41,,Mountain View,CA,94043,,,2023-01-16,111.93,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086183,500086177,SB21B,ORG,Render,,,,,,655 5Th St,Apt 19,San Francisco,CA,941071577,,,2023-01-16,25.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00697441,500086218,,,ORG,"EveryAction, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-06-28,370.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086228,,,ORG,"Paychex, Inc.",,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-02-17,50.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086238,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15Th St NW,Ste 247,Washington,DC,200051502,,,2023-06-20,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086248,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-26,10.43,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086258,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-28,5.57,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086268,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-05,40.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086219,,,IND,,Matt,Nathan,,,,4949 SW Landing Dr,Unit 107,Portland,OR,972395919,,,2023-01-24,975.00,0.00,Design Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086229,,,ORG,"Paychex, Inc.",,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-03-17,50.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086239,,,ORG,Steamship Strategies LLC,,,,,,1332 15Th St NW,Apt 44,Washington,DC,200052929,,,2023-01-18,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00697441,500086269,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-28,4.73,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,

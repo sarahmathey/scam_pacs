@@ -1,0 +1,41 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00637504,500340582,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-07-10,25.73,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500340236,500340582,SB21B,ORG,The News & Observer,,,,,,421 Fayetteville St,Ste 104,Raleigh,NC,276013010,,,2023-07-10,25.73,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00637504,500631234,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-08-10,25.73,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631233,500631234,SB21B,ORG,The News & Observer,,,,,,421 Fayetteville St,Ste 104,Raleigh,NC,276013010,,,2023-08-10,25.73,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00637504,500631236,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-09-11,25.73,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631235,500631236,SB21B,ORG,The News & Observer,,,,,,421 Fayetteville St,Ste 104,Raleigh,NC,276013010,,,2023-09-11,25.73,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00637504,500631274,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-10-10,396.73,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631281,500631274,SB21B,ORG,Cook Company,,,,,,600 New Hampshire Ave NW,,Washington,DC,200372403,,,2023-10-10,371.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00637504,500631273,500631274,SB21B,ORG,The News & Observer,,,,,,421 Fayetteville St,Ste 104,Raleigh,NC,276013010,,,2023-10-10,25.73,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00637504,500631238,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-11-10,25.73,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631237,500631238,SB21B,ORG,The News & Observer,,,,,,421 Fayetteville St,Ste 104,Raleigh,NC,276013010,,,2023-11-10,25.73,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00637504,500631241,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-12-11,25.73,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631240,500631241,SB21B,ORG,The News & Observer,,,,,,421 Fayetteville St,Ste 104,Raleigh,NC,276013010,,,2023-12-11,25.73,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00637504,500339979,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-07-03,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500340675,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-07-10,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500340927,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-07-17,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500340089,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-07-24,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500341237,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-07-31,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631212,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-08-07,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631213,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-08-14,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631214,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-08-21,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631215,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-08-28,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631216,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-09-01,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631217,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-09-05,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631218,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-09-11,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631219,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-09-25,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631220,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-10-02,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631221,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-10-10,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631222,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-10-16,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631223,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-10-23,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631224,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-10-30,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631275,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-11-06,50.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631225,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-11-13,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631226,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-11-20,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631227,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-11-27,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631228,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-12-01,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631229,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-12-04,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631230,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-12-11,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631231,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-12-18,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00637504,500631232,,,ORG,CityFirst Bank,,,,,,PO Box 73236,,Washington,DC,200563236,,,2023-12-25,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,

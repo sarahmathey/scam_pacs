@@ -1,0 +1,26 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00395889,VNH42A0E866,,,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-01-03,39.17,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E825,,,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-01-12,151.49,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E858,,,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-01-23,90.80,0.00,ComEd,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E840,,,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-01-24,120.54,0.00,Northshore Gas - Waukegan Office,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E7F4,,,ORG,Cardmember Services,,,,,,PO Box 15298,,Wilmington,DE,198505298,G2023,,2023-01-28,650.79,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E7Y3,VNH42A0E7F4,SB21B,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-01-28,87.21,0.00,Telephone Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E7Z1,VNH42A0E7F4,SB21B,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-01-28,39.66,0.00,Telephone Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E7J8,VNH42A0E7F4,SB21B,ORG,NGP Software,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,G2023,,2023-01-28,178.20,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E7T1,VNH42A0E7F4,SB21B,ORG,NGP Software,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,G2023,,2023-01-28,178.50,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E7V9,VNH42A0E7F4,SB21B,ORG,Vonage America Inc,,,,,,23 Main St,,Holmdel,NJ,077332136,G2023,,2023-01-28,72.78,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E8F7,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-02-02,51.21,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8G5,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-02-13,156.01,0.00,Comcast,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8H3,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-02-20,138.40,0.00,Utility NorthShore Gas,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8J1,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-02-20,778.98,0.00,ComEd,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E874,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-02-28,526.09,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8A8,VNH42A0E874,SB21B,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-02-28,186.24,0.00,Telephone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E8B6,VNH42A0E874,SB21B,ORG,AT&T,,,,,,175 E Houston St,,San Antonio,TX,782052255,G2023,,2023-02-28,79.53,0.00,Telephone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E890,VNH42A0E874,SB21B,ORG,Vonage America Inc,,,,,,23 Main St,,Holmdel,NJ,077332136,G2023,,2023-02-28,73.57,0.00,Telephone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E8R8,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-03-02,38.16,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8S6,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-03-13,156.01,0.00,Utility Cable,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8T4,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-03-21,82.00,0.00,North Shore Gas,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8V2,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-03-21,89.79,0.00,Utility ComEd,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8K9,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2023,,2023-03-28,304.69,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,VNH42A0E8M7,VNH42A0E8K9,SB21B,ORG,NGP Software,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,G2023,,2023-03-28,178.50,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,VNH42A0E8N5,VNH42A0E8K9,SB21B,ORG,Vonage America Inc,,,,,,23 Main St,,Holmdel,NJ,077332136,G2023,,2023-03-28,73.57,0.00,Telephone Services,,,,,,,,,,,,,,,,,,,X,*

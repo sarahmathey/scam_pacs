@@ -1,0 +1,114 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00654053,500120449,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,12.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120450,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,12.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120452,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,18.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120454,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,205.40,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120455,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,50.25,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120456,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,12.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120457,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,15.25,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121416,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,12.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121417,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,12.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121419,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,148.34,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121420,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,12.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121421,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,17.00,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121296,,,ORG,American Express,,,,,,200 Vesey St,,Atlanta,GA,30354,,,2024-12-16,411.32,0.00,"Non-Contribution Account: Credit Card Payment, See Memo Entries If Itemized",,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121301,500121296,SB29,ORG,American Express,,,,,,200 Vesey St,,Atlanta,GA,30354,,,2024-11-21,157.57,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121363,500121296,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-19,14.81,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121345,500121296,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-11-18,45.63,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121344,500121296,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-11-19,10.91,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121342,500121296,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-11-20,32.45,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121343,500121296,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-11-20,45.45,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121297,,,ORG,American Express,,,,,,200 Vesey St,,Atlanta,GA,30354,,,2024-12-20,23367.89,0.00,"Non-Contribution Account: Credit Card Payment, See Memo Entries If Itemized",,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121303,500121297,SB29,ORG,Aloft Phoenix,,,,,,4450 E Washington St,,Phoenix,AZ,850341913,,,2024-11-27,382.96,0.00,Non-Contribution Account: Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121319,500121297,SB29,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-12-13,4.34,0.00,Non-Contribution Account: Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121300,500121297,SB29,ORG,American Express,,,,,,200 Vesey St,,Atlanta,GA,30354,,,2024-11-21,192.43,0.00,Non-Contribution Account: Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121328,500121297,SB29,ORG,Budget Rent-A-Car,,,,,,300 Centre Pointe 300 Dr,,Virginia Beach,VA,23462,,,2024-11-26,164.96,0.00,Non-Contribution Account: Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121327,500121297,SB29,ORG,Budget Rent-A-Car,,,,,,300 Centre Pointe 300 Dr,,Virginia Beach,VA,23462,,,2024-11-27,-17.45,0.00,Non-Contribution Account: Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121367,500121297,SB29,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-11-26,388.95,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121366,500121297,SB29,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-11,278.48,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121334,500121297,SB29,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-14,12.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121365,500121297,SB29,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-20,348.48,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121364,500121297,SB29,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-21,-348.48,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121324,500121297,SB29,ORG,"Github, Inc.",,,,,,275 Brannan St,,San Francisco,CA,941072016,,,2024-11-29,40.00,0.00,Non-Contribution Account: Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121305,500121297,SB29,ORG,Hotels.com,,,,,,10190 Covington Cross Dr,Ste 200,Las Vegas,NV,891447044,,,2024-12-02,368.71,0.00,Non-Contribution Account: Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121304,500121297,SB29,ORG,Hotels.com,,,,,,10190 Covington Cross Dr,Ste 200,Las Vegas,NV,891447044,,,2024-12-11,194.22,0.00,Non-Contribution Account: Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121361,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-04,12.83,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121362,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-04,61.13,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121358,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-06,11.43,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121359,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-06,54.32,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121360,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-06,56.67,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121357,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-10,29.07,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121355,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-11,19.79,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121356,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-11,134.17,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121353,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-12,43.44,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121354,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-12,62.03,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121352,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-14,151.29,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121350,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-15,20.70,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121351,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-15,25.15,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121347,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-17,5.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121348,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-17,10.99,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121349,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-17,51.67,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121346,500121297,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-18,0.05,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121326,500121297,SB29,ORG,Mixmax,,,,,,75 Chattanooga St,,San Francisco,CA,941143024,,,2024-12-11,816.00,0.00,Non-Contribution Account: Subscriptions,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121302,500121297,SB29,ORG,Moxy Phoenix,,,,,,116 S Central Ave,,Phoenix,AZ,850042405,,,2024-12-12,637.65,0.00,Non-Contribution Account: Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121373,500121297,SB29,ORG,Southwest Airlines,,,,,,PO Box 36611,,Dallas,TX,752351611,,,2024-11-25,-174.98,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121374,500121297,SB29,ORG,Southwest Airlines,,,,,,PO Box 36611,,Dallas,TX,752351611,,,2024-11-25,174.98,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121372,500121297,SB29,ORG,Southwest Airlines,,,,,,PO Box 36611,,Dallas,TX,752351611,,,2024-11-26,220.02,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121371,500121297,SB29,ORG,Southwest Airlines,,,,,,PO Box 36611,,Dallas,TX,752351611,,,2024-12-02,104.99,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121370,500121297,SB29,ORG,Southwest Airlines,,,,,,PO Box 36611,,Dallas,TX,752351611,,,2024-12-04,30.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121340,500121297,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-05,17.94,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121341,500121297,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-05,20.52,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121337,500121297,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-06,6.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121338,500121297,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-06,30.08,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121339,500121297,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-06,76.41,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121336,500121297,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-14,42.49,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121335,500121297,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-17,11.07,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121369,500121297,SB29,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-11-24,269.48,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121368,500121297,SB29,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-11-26,418.47,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121378,500121297,SB29,ORG,We Work,,,,,,430 S Fairview Ave,,Santa Barbara,CA,931173637,,,2024-12-02,17175.00,0.00,Non-Contribution Account: Venue Rental,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121415,,,ORG,Bully Pulpit Interactive,,,,,,1445 New York Ave NW,Fl 5,Washington,DC,200052267,,,2024-12-31,12500.00,0.00,Non-Contribution Account: Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121221,,,ORG,Culture of Giving Back,,,,,,PO Box 11592,,Denver,CO,802110592,,,2024-12-17,3094.48,0.00,Non-Contribution Account: Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121241,,,ORG,Culture of Giving Back,,,,,,PO Box 11592,,Denver,CO,802110592,,,2024-12-31,5627.74,0.00,Non-Contribution Account: Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120433,,,IND,,Elauria,Nolan,,,,7930 Willoughby Ave,Apt 4,West Hollywood,CA,900467138,,,2024-12-04,5200.00,0.00,Non-Contribution Account: Data Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121245,,,IND,,Elauria,Nolan,,,,7930 Willoughby Ave,Apt 4,West Hollywood,CA,900467138,,,2024-12-31,5200.00,0.00,Non-Contribution Account: Data Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121229,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-12-20,331.50,0.00,Non-Contribution Account: Legal Services,,C00651109,State Government Citizens' Campaign,,,,,,,,,,,,,,,,,In-kind Contribution Made
+SB29,C00654053,500121239,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-12-31,221.00,0.00,Non-Contribution Account: Legal Services,,C00651109,State Government Citizens' Campaign,,,,,,,,,,,,,,,,,In-kind Contribution Made
+SB29,C00654053,500120425,,,ORG,Epsilon Delta Analytics,,,,,,1345 S Capitol St SW,Apt 201,Washington,DC,200033573,,,2024-12-02,2100.00,0.00,Non-Contribution Account: Data Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121250,,,COM,Friends of JJ Singh,,,,,,42275 Riggins Ridge Ter,,Brambleton,VA,201487452,,,2024-12-26,15000.00,0.00,Non-Contribution Account: Nonfederal Contribution,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500119742,,,IND,,Gambino,Rachael,,,,886 Lombardy Dr,,Lansdale,PA,194463116,,,2024-11-26,3125.00,0.00,Non-Contribution Account: Development Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121182,,,IND,,Gambino,Rachael,,,,886 Lombardy Dr,,Lansdale,PA,194463116,,,2024-12-12,3125.00,0.00,Non-Contribution Account: Development Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121246,,,IND,,Gambino,Rachael,,,,886 Lombardy Dr,,Lansdale,PA,194463116,,,2024-12-31,3125.00,0.00,Non-Contribution Account: Development Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120427,,,ORG,Grapevine,,,,,,305 W Broadway,# 110,New York,NY,100135306,,,2024-12-02,8471.67,0.00,Non-Contribution Account: Software,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120428,,,ORG,Grapevine,,,,,,305 W Broadway,# 110,New York,NY,100135306,,,2024-12-02,17559.31,0.00,Non-Contribution Account: Software,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121236,,,ORG,Grapevine,,,,,,305 W Broadway,# 110,New York,NY,100135306,,,2024-12-27,354.95,0.00,Non-Contribution Account: Software,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121237,,,ORG,Grapevine,,,,,,305 W Broadway,# 110,New York,NY,100135306,,,2024-12-27,599.14,0.00,Non-Contribution Account: Software,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121429,,,IND,,Howard,Tia,,,,PO Box 15845,,Washington,DC,200030845,,,2024-11-27,2919.85,0.00,"Non-Contribution Account: Travel & Lodging Reimbursement, See Memo Entries If Itemized",,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121436,500121429,SB29,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-09,136.54,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121437,500121429,SB29,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-09,148.80,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121434,500121429,SB29,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-10,249.20,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121433,500121429,SB29,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-10-21,526.96,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121435,500121429,SB29,ORG,PUBLIC Hotel,,,,,,215 Chrystie St,,New York,NY,100021239,,,2024-10-09,1751.20,0.00,Non-Contribution Account: Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121230,,,ORG,JLG Strategies LLC,,,,,,47 Joralemon St,Apt 2,Brooklyn,NY,112014003,,,2024-12-20,15000.00,0.00,Non-Contribution Account: Development Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121249,,,COM,Kannan for Virginia,,,,,,41767 Heinz Ct,,Brambleton,VA,201485803,,,2024-12-26,15000.00,0.00,Non-Contribution Account: Nonfederal Contribution,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120432,,,IND,,Lettiere,Nicole,,,,1124 12th St,Apt C,Santa Monica,CA,904036307,,,2024-12-04,6532.33,0.00,Non-Contribution Account: Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121244,,,IND,,Lettiere,Nicole,,,,1124 12th St,Apt C,Santa Monica,CA,904036307,,,2024-12-31,12944.37,0.00,Non-Contribution Account: Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120426,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2024-12-02,8751.46,0.00,Non-Contribution Account: Bookkeeping and Compliance,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121234,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2024-12-18,2209.21,0.00,Non-Contribution Account: Bookkeeping and Compliance,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121235,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2024-12-27,8774.09,0.00,Non-Contribution Account: Bookkeeping and Compliance,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121231,,,IND,,Moran,Helen,,,,1313 S Quieto Ct,,Denver,CO,802233327,,,2024-12-20,3300.00,0.00,Non-Contribution Account: Research Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121243,,,IND,,Moran,Helen,,,,1313 S Quieto Ct,,Denver,CO,802233327,,,2024-12-31,3300.00,0.00,Non-Contribution Account: Research Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120431,,,IND,,Ndiaye,Khady,,,,1241 Englemere Blvd,,Toms River,NJ,087571528,,,2024-12-04,2206.13,0.00,Non-Contribution Account: Development Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121232,,,IND,,Ndiaye,Khady,,,,1241 Englemere Blvd,,Toms River,NJ,087571528,,,2024-12-20,2206.12,0.00,Non-Contribution Account: Development Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121183,,,IND,,Nixon,Laura,,,,1619 Hopkins St,Apt 204,Berkeley,CA,947072701,,,2024-12-12,5500.00,0.00,Non-Contribution Account: Data Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121233,,,IND,,Nixon,Laura,,,,1619 Hopkins St,Apt 204,Berkeley,CA,947072701,,,2024-12-20,6422.14,0.00,Non-Contribution Account: Data Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121240,,,ORG,"Premier Political Compliance, Inc.",,,,,,700 13th St NW,Ste 800,Washington,DC,200055938,,,2024-12-31,1250.00,0.00,Non-Contribution Account: Compliance Services,,C00651109,State Government Citizens' Campaign,,,,,,,,,,,,,,,,,In-kind Contribution Made
+SB29,C00654053,500120424,,,IND,,Schiff,Adam,J.,,,18035 Collins St,,Encino,CA,913161032,,,2024-12-02,3850.00,0.00,Non-Contribution Account: Development Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121189,,,ORG,States Made,,,,,,2641 S Harcourt Ave,,Los Angeles,CA,900162826,,,2024-12-11,345.39,0.00,Non-Contribution Account: Merchandise,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500120430,,,ORG,"Stilts Designs, LLC",,,,,,3623 Crossings Dr,Ste 217,Prescott,AZ,863057101,,,2024-12-04,400.00,0.00,Non-Contribution Account: Website Maintenance,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121242,,,ORG,"Stilts Designs, LLC",,,,,,3623 Crossings Dr,Ste 217,Prescott,AZ,863057101,,,2024-12-31,1000.00,0.00,Non-Contribution Account: Website Maintenance,,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121430,,,IND,,Walker,Melissa,,,,PO Box 15845,,Washington,DC,200030845,,,2024-11-27,238.96,0.00,"Non-Contribution Account: Lodging Reimbursement, See Memo Entries If Itemized",,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121444,500121430,SB29,ORG,Hilton Garden Inn Philadelphia,,,,,,1100 Arch St,,Philadelphia,PA,191072376,,,2024-11-04,238.96,0.00,Non-Contribution Account: Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121431,,,IND,,Walker,Melissa,,,,PO Box 15845,,Washington,DC,200030845,,,2024-12-18,455.76,0.00,"Non-Contribution Account: Travel & Meals Reimbursement, See Memo Entries If Itemized",,,,,,,,,,,,,,,,,,,,
+SB29,C00654053,500121441,500121431,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-11,288.28,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121439,500121431,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-13,134.65,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00654053,500121428,,,IND,,Walker,Melissa,,,,PO Box 15845,,Washington,DC,200030845,,,2024-12-25,10.84,0.00,"Non-Contribution Account: Meals Reimbursement, See Memo Entries If Itemized",,,,,,,,,,,,,,,,,,,,

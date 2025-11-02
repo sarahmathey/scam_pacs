@@ -1,0 +1,23 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00806893,500082575,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-01,888.88,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082578,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-02,451.25,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082579,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-03,1998.22,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082580,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-06,629.05,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082581,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-08,244.91,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082583,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-13,401.10,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082584,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-16,130.90,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082653,,,IND,,Buckland,Christa,,,,418 SE 21St Ave,,Portland,OR,972141603,,,2024-10-08,459.95,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082659,,,IND,,Buckland,Christa,,,,418 SE 21St Ave,,Portland,OR,972141603,,,2024-10-08,382.97,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082661,500082659,SB21B,ORG,"Airbnb, Inc.",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-10-08,382.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00806893,500082566,,,ORG,Democrats.Com LLC,,,,,,20 E 17Th St,Fl 6,New York,NY,100031914,,,2024-10-10,48543.00,0.00,Direct Marketing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082570,,,IND,,Foley,Margaret,,,,4045 SE Grant St,,Portland,OR,972145934,,,2024-10-04,6500.00,0.00,Communications and Research Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,18455605I,18455605,SA11AI,IND,,Fonda,Jane,S.,,,1718 Peachtree St NW,Ste 465,Atlanta,GA,303092469,,,2024-10-15,514.98,0.00,Travel,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00806893,18455608I,18455608,SA11AI,IND,,Fonda,Jane,S.,,,1718 Peachtree St NW,Ste 465,Atlanta,GA,303092469,,,2024-10-15,184.80,0.00,Travel,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00806893,18455609I,18455609,SA11AI,IND,,Fonda,Jane,S.,,,1718 Peachtree St NW,Ste 465,Atlanta,GA,303092469,,,2024-10-15,571.80,0.00,Travel,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00806893,500082648,,,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-10-09,8250.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082649,500082648,SB21B,IND,,Buckland,Christa,,,,418 SE 21St Ave,,Portland,OR,972141603,,,2024-10-09,375.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00806893,500082650,500082648,SB21B,IND,,Eames,Brit,,,,776 Antone St NW,,Atlanta,GA,303187645,,,2024-10-09,1979.17,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00806893,500082652,500082648,SB21B,IND,,Lane Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2024-10-09,1770.83,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00806893,500082651,500082648,SB21B,IND,,Rowe,Dan,,,,1969 SW Park Ave,,Portland,OR,972013111,,,2024-10-09,4125.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00806893,500082599,,,ORG,Rollin' With Dolan Consulting LLC,,,,,,PO Box 1287,,Colfax,CA,957131287,,,2024-10-08,9000.00,0.00,Strategic Consulting Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00806893,500082565,,,ORG,States Made LLC,,,,,,4606 W Jefferson Blvd,Ste B,Los Angeles,CA,900164007,,,2024-10-03,258.15,0.00,Committee Merchandise,,,,,,,,,,,,,,,,,,,,

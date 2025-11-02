@@ -1,0 +1,40 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00575662,VPEPTA9ZCW7,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-01-03,50.88,0.00,Email Tools,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDT4,,,ORG,NGPVAN,,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2023-01-03,265.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDM7,,,ORG,Nationbuilder,,,,,,520 S Grand Ave,Fl 2,Los Angeles,CA,900712600,,,2023-01-09,37.10,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZD09,,,ORG,Paychex,,,,,,11710 Beltsville Dr,Ste 100,Beltsville,MD,207053102,,,2023-01-10,61.48,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZCH0,,,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-01-15,1279.15,0.00,Compliance Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZE93,VPEPTA9ZCH0,SB21B,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-01-15,1000.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZEA1,VPEPTA9ZCH0,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-01-15,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZCX5,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-02-02,50.88,0.00,Email Tools,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDV2,,,ORG,NGPVAN,,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2023-02-06,265.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDN5,,,ORG,Nationbuilder,,,,,,520 S Grand Ave,Fl 2,Los Angeles,CA,900712600,,,2023-02-07,37.10,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZD17,,,ORG,Paychex,,,,,,11710 Beltsville Dr,Ste 100,Beltsville,MD,207053102,,,2023-02-10,145.75,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDZ4,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-03-02,50.88,0.00,Website,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDW0,,,ORG,NGPVAN,,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2023-03-03,265.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDP3,,,ORG,Nationbuilder,,,,,,520 S Grand Ave,Fl 2,Los Angeles,CA,900712600,,,2023-03-07,37.10,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZCF4,,,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-03-24,308.30,0.00,Compliance Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZE43,VPEPTA9ZCF4,SB21B,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-03-24,250.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZE51,VPEPTA9ZCF4,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-03-24,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZE69,VPEPTA9ZCF4,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-03-24,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZCG2,,,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-03-24,279.15,0.00,Compliance Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZE77,VPEPTA9ZCG2,SB21B,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-03-24,250.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZE85,VPEPTA9ZCG2,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-03-24,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZCJ8,,,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-03-24,2.65,0.00,Compliance Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZCY3,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-03,50.88,0.00,Email Tools,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDX8,,,ORG,NGPVAN,,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2023-04-03,265.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZDQ0,,,ORG,Nationbuilder,,,,,,520 S Grand Ave,Fl 2,Los Angeles,CA,900712600,,,2023-04-07,37.10,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZCK6,,,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-04-14,302.38,0.00,Compliance Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZE19,VPEPTA9ZCK6,SB21B,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-04-14,250.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZE35,VPEPTA9ZCK6,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-04-14,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZDY6,,,ORG,Go Daddy,,,,,,14455 N Hayden Rd,Ste 219,Scottsdale,AZ,852606993,,,2023-04-19,386.72,0.00,Website,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZCZ1,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-05-02,50.88,0.00,Email Tools,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9YH67,,,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-05-04,279.15,0.00,Consulting Fees and Reimbursed Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9YH75,VPEPTA9YH67,SB21B,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-05-04,250.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9YH83,VPEPTA9YH67,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-05-04,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZDR8,,,ORG,Nationbuilder,,,,,,520 S Grand Ave,Fl 2,Los Angeles,CA,900712600,,,2023-05-08,37.10,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9ZE02,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-06-02,50.88,0.00,Website,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9YN58,,,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-06-07,281.64,0.00,Consulting Feed and Reimbursed Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00575662,VPEPTA9YN66,VPEPTA9YN58,SB21B,ORG,Angerholzer Broz Consulting,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-06-07,250.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9YN74,VPEPTA9YN58,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-06-07,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00575662,VPEPTA9ZDS6,,,ORG,Nationbuilder,,,,,,520 S Grand Ave,Fl 2,Los Angeles,CA,900712600,,,2023-06-07,37.10,0.00,Software,,,,,,,,,,,,,,,,,,,,

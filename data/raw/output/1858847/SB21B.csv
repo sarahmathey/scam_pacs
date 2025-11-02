@@ -1,0 +1,167 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00484642,500174700,,,ORG,"Global Strategy Group, LLC",,,,,,215 Park Ave S,Fl 15,New York,NY,100031612,,,2024-11-05,96098.22,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174900,,,ORG,Integral Resources,,,,,,PO Box 783018,,Philadelphia,PA,191783018,,,2024-11-05,110792.50,0.00,Telemarketing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174710,,,ORG,"Impact Research, Inc.",,,,,,260 Commerce St,Fl 4,Montgomery,AL,361042546,,,2024-11-08,51000.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174720,,,ORG,American Express Business Card,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-21,28668.42,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500175410,500174720,SB21B,ORG,Canopy by Hilton Washington DC The Wharf,,,,,,975 7th St SW,,Washington,DC,200243437,,,2024-10-21,680.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175440,500174720,SB21B,ORG,Altro Paradiso,,,,,,234 Spring St,,New York,NY,100131521,,,2024-10-21,432.59,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174750,500174720,SB21B,ORG,RingCentral,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2024-10-21,82.57,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175411,500174720,SB21B,ORG,Capital Grille,,,,,,601 Pennsylvania Ave NW,,Washington,DC,200042601,,,2024-10-21,2944.29,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174731,500174720,SB21B,ORG,Comcast Corporation,,,,,,1701 John F Kennedy Blvd,,Philadelphia,PA,191032833,,,2024-10-21,98.23,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174722,500174720,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-10-21,47.48,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175422,500174720,SB21B,ORG,LexisNexis,,,,,,555 W 5th St,Ste 4500,Los Angeles,CA,900133003,,,2024-10-21,1113.00,0.00,Research,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174732,500174720,SB21B,ORG,Wall Street Journal,,,,,,1211 Avenue Of The Americas,,New York,NY,100368701,,,2024-10-21,11.57,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175413,500174720,SB21B,ORG,Creative Mobile Technologies,,,,,,4250 24th St,,Long Island City,NY,111014608,,,2024-10-21,143.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175423,500174720,SB21B,ORG,Loews Hotels,,,,,,667 Madison Ave,Fl 6,New York,NY,100658029,,,2024-10-21,1581.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174753,500174720,SB21B,ORG,Raleigh News & Observer,,,,,,421 Fayetteville St,,Raleigh,NC,276011792,,,2024-10-21,14.56,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175404,500174720,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,# MD5374,Fort Worth,TX,761552605,,,2024-10-21,1435.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175414,500174720,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Long Island City,NY,111064923,,,2024-10-21,339.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174724,500174720,SB21B,ORG,Amazon.com,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-21,59.79,0.00,Computer Software & Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175434,500174720,SB21B,ORG,RPM Italian,,,,,,650 K St NW,,Washington,DC,200011341,,,2024-10-21,1344.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175444,500174720,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-21,2046.36,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174754,500174720,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-10-21,70.01,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175405,500174720,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2024-10-21,1787.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175435,500174720,SB21B,ORG,Sheraton Hotels & Resorts,,,,,,1 Star Pt,,Stamford,CT,069028911,,,2024-10-21,316.31,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174745,500174720,SB21B,ORG,Microsoft Corporation,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2024-10-21,824.68,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175445,500174720,SB21B,ORG,United Airlines,,,,,,5600 Mannheim Rd,,Chicago,IL,606661007,,,2024-10-21,3844.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175406,500174720,SB21B,ORG,Authorize.net,,,,,,PO Box 8999,,San Francisco,CA,941288999,,,2024-10-21,43.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175416,500174720,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-10-21,513.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174746,500174720,SB21B,ORG,Park Receipts,,,,,,5000 Legacy Dr,,Plano,TX,750243100,,,2024-10-21,159.82,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175407,500174720,SB21B,ORG,Bistro Bis,,,,,,15 E St NW,,Washington,DC,200011501,,,2024-10-21,1673.28,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175417,500174720,SB21B,ORG,Fairfield Inn,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-10-21,370.13,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175437,500174720,SB21B,ORG,The Iron Horse Hotel,,,,,,500 W Florida St,,Milwaukee,WI,532041534,,,2024-10-21,245.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174747,500174720,SB21B,ORG,PayPal,,,,,,2211 N 1st St,,San Jose,CA,951312021,,,2024-10-21,12.63,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175447,500174720,SB21B,ORG,Washington Express,,,,,,12240 Indian Creek Ct,Ste 100,Beltsville,MD,207051242,,,2024-10-21,23.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175408,500174720,SB21B,ORG,Box.net,,,,,,900 Jefferson Ave,,Redwood City,CA,940631837,,,2024-10-21,332.42,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175418,500174720,SB21B,ORG,Four Seasons Hotel,,,,,,200 International Dr,,Baltimore,MD,212024650,,,2024-10-21,4105.13,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175438,500174720,SB21B,ORG,The Smith,,,,,,1900 Broadway,,New York,NY,100237004,,,2024-10-21,120.17,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174748,500174720,SB21B,ORG,Intero Digital Marketing Agency,,,,,,5475 Mark Dabling Blvd,Ste 210,Colorado Springs,CO,809183848,,,2024-10-21,781.20,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175439,500174720,SB21B,ORG,Westin Hotels,,,,,,777 Westchester Ave,,White Plains,NY,106043520,,,2024-10-21,234.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174930,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-29,10.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174940,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-10-28,1648.07,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174660,,,ORG,"Impact Research, Inc.",,,,,,260 Commerce St,Fl 4,Montgomery,AL,361042546,,,2024-11-04,47052.98,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174670,,,ORG,Blue Rose Research,,,,,,1800 M St NW,,Washington,DC,200365802,,,2024-11-04,124660.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174180,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-10-21,576.07,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174680,,,ORG,Nexus Direct,,,,,,101 W Main St,Ste 400,Norfolk,VA,235101646,,,2024-11-04,518510.94,0.00,Direct Mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174690,,,ORG,The Majority Institute LLC,,,,,,1550 Wewatta St,Fl 2,Denver,CO,802026299,,,2024-11-04,387025.39,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174901,,,ORG,Integral Resources,,,,,,PO Box 783018,,Philadelphia,PA,191783018,,,2024-10-18,36754.00,0.00,Telemarketing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174931,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-29,90.16,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174641,,,ORG,M Simpson Consulting,,,,,,1052 5th Ave,,Helena,MT,596014444,,,2024-10-21,10000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174941,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-10-31,800.40,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500175451,,,ORG,American Express Business Card,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-11-18,19673.60,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500175510,500175451,SB21B,ORG,Washington Express,,,,,,12240 Indian Creek Ct,Ste 100,Beltsville,MD,207051242,,,2024-11-18,481.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175460,500175451,SB21B,ORG,"DoorDash, Inc.",,,,,,901 Market St,Ste 600,San Francisco,CA,941031740,,,2024-11-18,219.55,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175501,500175451,SB21B,ORG,The Lexington Hotel,,,,,,511 Lexington Ave,,New York,NY,100172058,,,2024-11-18,391.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175491,500175451,SB21B,ORG,Microsoft Corporation,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2024-11-18,1546.18,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175512,500175451,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-11-18,137.52,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175452,500175451,SB21B,ORG,Amazon.com,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-18,264.13,0.00,Computer Software & Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175472,500175451,SB21B,ORG,Evvia,,,,,,420 Emerson St,,Palo Alto,CA,943011604,,,2024-11-18,557.14,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175482,500175451,SB21B,ORG,JetBlue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2024-11-18,2505.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175503,500175451,SB21B,ORG,The Smith,,,,,,1900 Broadway,,New York,NY,100237004,,,2024-11-18,2033.12,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175453,500175451,SB21B,ORG,Apple Inc.,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2024-11-18,29.34,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175473,500175451,SB21B,ORG,FedEx Corporation,,,,,,942 Shady Grove Rd S,,Memphis,TN,381204117,,,2024-11-18,185.49,0.00,Printing & Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175483,500175451,SB21B,ORG,Kimpton Hotel Group,,,,,,222 Kearny St,Ste 200,San Francisco,CA,941084537,,,2024-11-18,1956.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175493,500175451,SB21B,ORG,Raleigh News & Observer,,,,,,421 Fayetteville St,,Raleigh,NC,276011792,,,2024-11-18,28.59,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175504,500175451,SB21B,ORG,Central Park Bistro,,,,,,181 E 4th Ave,,San Mateo,CA,944014003,,,2024-11-18,254.12,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175464,500175451,SB21B,ORG,Comcast Corporation,,,,,,1701 John F Kennedy Blvd,,Philadelphia,PA,191032833,,,2024-11-18,192.96,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175474,500175451,SB21B,ORG,Four Seasons Hotel,,,,,,200 International Dr,,Baltimore,MD,212024650,,,2024-11-18,561.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175484,500175451,SB21B,ORG,LexisNexis,,,,,,555 W 5th St,Ste 4500,Los Angeles,CA,900133003,,,2024-11-18,1113.00,0.00,Research,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175465,500175451,SB21B,ORG,Creative Mobile Technologies,,,,,,4250 24th St,,Long Island City,NY,111014608,,,2024-11-18,122.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175495,500175451,SB21B,ORG,Parkreceipts.com,,,,,,5000 Legacy Dr,,Plano,TX,750243100,,,2024-11-18,313.93,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175456,500175451,SB21B,ORG,Authorize.net,,,,,,PO Box 8999,,San Francisco,CA,941288999,,,2024-11-18,43.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175466,500175451,SB21B,ORG,CT Corporation,,,,,,PO Box 4349,,Carol Stream,IL,601974349,,,2024-11-18,499.00,0.00,Registered Agent Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175486,500175451,SB21B,ORG,Loews Hotels,,,,,,667 Madison Ave,Fl 6,New York,NY,100658029,,,2024-11-18,197.19,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175496,500175451,SB21B,ORG,PayPal,,,,,,2211 N 1st St,,San Jose,CA,951312021,,,2024-11-18,24.75,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175507,500175451,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-11-18,2917.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175467,500175451,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Long Island City,NY,111064923,,,2024-11-18,344.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175508,500175451,SB21B,ORG,United Airlines,,,,,,5600 Mannheim Rd,,Chicago,IL,606661007,,,2024-11-18,307.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175468,500175451,SB21B,ORG,Wall Street Journal,,,,,,1211 Avenue Of The Americas,,New York,NY,100368701,,,2024-11-18,22.73,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175498,500175451,SB21B,ORG,Aman New York,,,,,,730 5th Ave,,New York,NY,100194105,,,2024-11-18,251.62,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175449,500175451,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-11-18,93.26,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175459,500175451,SB21B,ORG,Box.net,,,,,,900 Jefferson Ave,,Redwood City,CA,940631837,,,2024-11-18,652.96,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500175499,500175451,SB21B,ORG,RingCentral,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2024-11-18,162.44,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00484642,500174661,,,ORG,"Impact Research, Inc.",,,,,,260 Commerce St,Fl 4,Montgomery,AL,361042546,,,2024-11-04,85600.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174671,,,ORG,"Fulkerson, Kennedy, & Company",,,,,,600 Pennsylvania Ave SE,Ste 201,Washington,DC,200034316,,,2024-11-06,24000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174681,,,ORG,"Normington, Petts, & Associates",,,,,,1100 H St NW,Ste 900,Washington,DC,200055954,,,2024-11-06,51169.25,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174902,,,ORG,First Data Merchant Services,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2024-11-04,52126.93,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174702,,,ORG,Nexus Direct,,,,,,101 W Main St,Ste 400,Norfolk,VA,235101646,,,2024-11-05,543309.70,0.00,Direct Mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174712,,,ORG,"Message Global, LLC",,,,,,700 Pennsylvania Ave SE,Ste 2106,Washington,DC,200032493,,,2024-11-12,5000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174932,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-10-28,20321.78,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174642,,,ORG,Authentic Campaigns,,,,,,1121 5th St NW,,Washington,DC,200013605,,,2024-11-01,30000.00,0.00,List Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174942,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-04,138.25,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174672,,,ORG,The Messina Group,,,,,,1155 Connecticut Ave NW,Ste 400,Washington,DC,200364334,,,2024-11-05,15000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174682,,,ORG,Blue Rose Research,,,,,,1800 M St NW,,Washington,DC,200365802,,,2024-11-04,302860.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174692,,,ORG,"TruVerse, Inc.",,,,,,221 Main St,Unit 324,Los Altos,CA,940239007,,,2024-11-06,10155.26,0.00,Text Messaging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174903,,,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2024-10-21,13197.00,0.00,Database & Email Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174703,,,ORG,The Majority Institute LLC,,,,,,1550 Wewatta St,Fl 2,Denver,CO,802026299,,,2024-11-05,447180.71,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174713,,,ORG,"Engage, LLC",,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-11-12,17003.50,0.00,Caging Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174933,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-10-31,19707.59,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174643,,,ORG,CESC 1101 17th Street LLC,,,,,,1101 17th St NW,,Washington,DC,200364704,,,2024-11-05,7697.90,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174943,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-06,20.18,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174663,,,ORG,SPB Strategies LLC,,,,,,344 W Penn Pl,,Pittsburgh,PA,152242224,,,2024-11-05,14200.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174683,,,ORG,Peters Consulting LLC,,,,,,4531 Hollywood Blvd,,Los Angeles,CA,900274355,,,2024-11-05,1680.00,0.00,Online Content & Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174693,,,ORG,40 North Advocacy LLC,,,,,,7157 Camp Hill Rd,,Ft Washington,PA,190342205,,,2024-11-05,5000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174704,,,ORG,"Fulkerson, Kennedy, & Company",,,,,,600 Pennsylvania Ave SE,Ste 201,Washington,DC,200034316,,,2024-11-12,5168.23,0.00,Travel & Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174904,,,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2024-11-12,13197.00,0.00,Database & Email Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174914,,,ORG,The Yard,,,,,,106 W 32nd St,,New York,NY,100010074,,,2024-11-01,3000.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174714,,,ORG,SPB Strategies LLC,,,,,,344 W Penn Pl,,Pittsburgh,PA,152242224,,,2024-11-12,19320.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500175514,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-25,2185.20,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174934,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-04,8317.82,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174944,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-11,54.77,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174644,,,ORG,"Cogent Communication, Inc.",,,,,,PO Box 791087,,Baltimore,MD,212791087,,,2024-11-06,900.00,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174694,,,ORG,Community Tech Alliance,,,,,,4315 50th St NW,Ste 100,Washington,DC,200164369,,,2024-11-05,8211.80,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174705,,,ORG,"Fairbank Maslin Maullin Metz & Associates, Inc.",,,,,,2425 Colorado Ave,Ste 180,Santa Monica,CA,904043004,,,2024-11-12,30000.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174805,,,ORG,Groundswell Public,,,,,,200 SE 6th St,,Des Moines,IA,503094824,,,2024-11-06,9415.48,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174905,,,ORG,"Normington, Petts, & Associates",,,,,,1100 H St NW,Ste 900,Washington,DC,200055954,,,2024-11-06,45337.50,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174915,,,ORG,Wavecrest Consulting and Analytics LLC,,,,,,5809 N Santa Monica Blvd,,Milwaukee,WI,532174617,,,2024-11-06,7000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174715,,,ORG,BNG Research,,,,,,3458 Kenneth Dr,,Palo Alto,CA,943034218,,,2024-11-08,33142.86,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174935,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-06,2804.66,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174645,,,ORG,"Engage, LLC",,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-11-05,11878.28,0.00,Caging Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174945,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-18,53.14,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174655,,,ORG,"Hart Research Associates, Inc.",,,,,,1724 Connecticut Ave NW,,Washington,DC,200091103,,,2024-11-05,31000.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174675,,,IND,,Lafave,Lori,B.,,,200 E Jefferson St,,Falls Church,VA,220463531,,,2024-11-05,22000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174685,,,IND,,Jolley,Rebecca,,,,2042 Country Cove Ct,,Las Vegas,NV,891351554,,,2024-11-05,7500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174895,,,ORG,Authentic Campaigns,,,,,,1121 5th St NW,,Washington,DC,200013605,,,2024-11-04,52539.00,0.00,Digital Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174695,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-11-05,33568.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174706,,,ORG,Greenberg Quinlan Rosner,,,,,,10 G St NE,Ste 500,Washington,DC,200024228,,,2024-11-12,242875.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174716,,,ORG,The Messina Group,,,,,,1155 Connecticut Ave NW,Ste 400,Washington,DC,200364334,,,2024-11-12,15000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174926,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-18,62500.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174936,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-11,1006.45,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174636,,,ORG,Community Tech Alliance,,,,,,4315 50th St NW,Ste 100,Washington,DC,200164369,,,2024-10-18,8195.90,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174946,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-25,36.07,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174646,,,ORG,"Fairbank Maslin Maullin Metz & Associates, Inc.",,,,,,2425 Colorado Ave,Ste 180,Santa Monica,CA,904043004,,,2024-11-06,30000.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174666,,,ORG,BNG Research,,,,,,3458 Kenneth Dr,,Palo Alto,CA,943034218,,,2024-11-04,33142.86,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174186,,,ORG,Democracy Engine,,,,,,2125 14th St NW,Apt 101W,Washington,DC,200094497,,,2024-10-22,200.30,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174686,,,ORG,Secure Blue LLC,,,,,,1201 Britania Ln,,Annapolis,MD,214034354,,,2024-11-05,5000.00,0.00,Technology Security,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174696,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-11-05,94.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174896,,,ORG,Blue Rose Research,,,,,,1800 M St NW,,Washington,DC,200365802,,,2024-11-08,211865.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174907,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2024-10-30,229112.73,0.00,"Compliance, Political, Research, and Fundraising Consulting",,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174707,,,ORG,"Global Strategy Group, LLC",,,,,,215 Park Ave S,Fl 15,New York,NY,100031612,,,2024-11-08,74320.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174717,,,ORG,The Majority Institute LLC,,,,,,1550 Wewatta St,Fl 2,Denver,CO,802026299,,,2024-11-08,753707.50,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174927,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-18,14000.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174637,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-10-21,25872.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174937,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-18,587.11,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174947,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-25,1.39,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174647,,,ORG,"Fulkerson, Kennedy, & Company",,,,,,600 Pennsylvania Ave SE,Ste 201,Washington,DC,200034316,,,2024-11-06,24000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174657,,,ORG,"Civis Analytics, Inc.",,,,,,PO Box 4042,,Chicago,IL,606544042,,,2024-11-05,5000.00,0.00,Data Analytics,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174677,,,ORG,M Simpson Consulting,,,,,,1052 5th Ave,,Helena,MT,596014444,,,2024-11-05,10000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174897,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-11-12,55000.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174697,,,ORG,"Fairbank Maslin Maullin Metz & Associates, Inc.",,,,,,2425 Colorado Ave,Ste 180,Santa Monica,CA,904043004,,,2024-11-05,80000.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174708,,,ORG,"Hart Research Associates, Inc.",,,,,,1724 Connecticut Ave NW,,Washington,DC,200091103,,,2024-11-08,144000.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174718,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2024-11-22,234815.72,0.00,"Compliance, Political, Research, and Fundraising Consulting",,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174928,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-25,12500.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174638,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-10-24,23.91,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174938,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-25,747.54,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174648,,,ORG,Greg Schultz LLC,,,,,,1524 T St NW,,Washington,DC,200093910,,,2024-11-05,9000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174658,,,ORG,High Volume Imaging,,,,,,971 Sevarden Ln,,Crownsville,MD,210321231,,,2024-11-06,123.39,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174898,,,ORG,"GIV-Exec-Jet, LLC",,,,,,800 3rd Ave,Fl 5,New York,NY,100227865,,,2024-10-24,2665.44,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174698,,,ORG,GBAO Strategies,,,,,,1701 K St NW,Ste 600,Washington,DC,200063821,,,2024-11-05,50000.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174709,,,ORG,High Volume Imaging,,,,,,971 Sevarden Ln,,Crownsville,MD,210321231,,,2024-11-12,142.09,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,6140329I,6140329,SA11AI,ORG,"Management Services, Inc.",,,,,,250 Delaware Ave,,Buffalo,NY,142022014,,,2024-10-17,9883.14,0.00,Travel,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00484642,500174929,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-29,4491.62,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174639,,,ORG,"Engage, LLC",,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-10-21,13699.03,0.00,Caging Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174939,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-11-25,142.12,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174179,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-10-21,8553.14,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174689,,,ORG,The Majority Institute LLC,,,,,,1550 Wewatta St,Fl 2,Denver,CO,802026299,,,2024-11-04,158045.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174699,,,ORG,Greenberg Quinlan Rosner,,,,,,10 G St NE,Ste 500,Washington,DC,200024228,,,2024-11-05,69600.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00484642,500174899,,,ORG,Integral Resources,,,,,,PO Box 783018,,Philadelphia,PA,191783018,,,2024-11-08,58863.50,0.00,Telemarketing,,,,,,,,,,,,,,,,,,,,

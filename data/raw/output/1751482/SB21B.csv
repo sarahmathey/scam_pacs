@@ -1,0 +1,70 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00692111,500697608,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-16,19.75,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697609,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-27,39.50,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697610,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-19,110.60,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697611,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-26,79.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697612,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-17,395.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697628,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2023-07-07,2364.00,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697674,500697628,SB21B,ORG,Apres Event Decor,,,,,,5801 Clearwater Dr,,Minnetonka,MN,553438988,,,2023-06-14,1220.00,0.00,Event Expense - Decor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697673,500697628,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-06-06,1144.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697629,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2023-08-14,3892.11,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697680,500697629,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-06-22,1075.20,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697681,500697629,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-19,1075.20,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697692,500697629,SB21B,ORG,Hotel Viking,,,,,,1 Bellevue Ave,,Newport,RI,028403205,,,2023-06-25,1286.72,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697675,500697629,SB21B,ORG,Renee's Limousines,,,,,,12813 Industrial Park Blvd,,Minneapolis,MN,554413910,,,2023-06-21,400.00,0.00,Event Expense - Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697630,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2023-09-13,4907.37,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697696,500697630,SB21B,ORG,Chowgirls Catering,,,,,,336 Hoover St NE,,Minneapolis,MN,554132940,,,2023-08-13,3786.37,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697697,500697630,SB21B,ORG,Renee's Limousines,,,,,,12813 Industrial Park Blvd,,Minneapolis,MN,554413910,,,2023-08-18,1121.00,0.00,Event Expense - Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697631,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2023-10-06,5454.85,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697677,500697631,SB21B,ORG,Apres Event Decor,,,,,,5801 Clearwater Dr,,Minnetonka,MN,553438988,,,2023-08-22,1389.00,0.00,Event Expense - Decor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697678,500697631,SB21B,ORG,Apres Event Decor,,,,,,5801 Clearwater Dr,,Minnetonka,MN,553438988,,,2023-08-23,82.56,0.00,Event Expense - Decor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697682,500697631,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-08-23,200.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697683,500697631,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-08-23,875.20,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697687,500697631,SB21B,ORG,Chowgirls Catering,,,,,,336 Hoover St NE,,Minneapolis,MN,554132940,,,2023-08-23,819.49,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697688,500697631,SB21B,ORG,Delta,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-08-25,822.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697689,500697631,SB21B,ORG,Hine Restaurants,,,,,,3307 M St NW,,Washington,DC,200073539,,,2023-09-18,1237.50,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697632,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2023-11-07,2227.39,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697684,500697632,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-10-02,1084.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697685,500697632,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-10-02,1084.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697633,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2023-12-13,3559.00,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697686,500697633,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-11-07,1084.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697690,500697633,SB21B,ORG,Hine Restaurants,,,,,,3307 M St NW,,Washington,DC,200073539,,,2023-10-26,1237.50,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697691,500697633,SB21B,ORG,Hine Restaurants,,,,,,3307 M St NW,,Washington,DC,200073539,,,2023-11-03,1237.50,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500697645,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2023-07-03,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697646,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2023-08-04,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697647,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2023-09-01,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697648,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2023-10-03,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697649,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2023-11-03,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697650,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2023-12-04,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697651,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2023-07-21,720.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697652,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2023-08-04,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697653,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2023-09-01,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697654,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2023-10-03,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697655,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2023-11-03,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697656,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2023-12-04,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697662,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-09-01,976.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697658,,,IND,,Lomonaco,Jeff,,,,5821 4Th St NW,,Washington,DC,200112130,,,2023-08-24,7500.00,0.00,Management Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697659,,,IND,,Lomonaco,Jeff,,,,5821 4Th St NW,,Washington,DC,200112130,,,2023-10-03,3750.00,0.00,Management Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697660,,,IND,,Necheles,Shea,,,,1 Scott Cir NW,,Washington,DC,200362207,,,2023-10-03,375.00,0.00,Administration Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697661,,,IND,,Necheles,Shea,,,,1 Scott Cir NW,,Washington,DC,200362207,,,2023-12-04,145.00,0.00,Administration Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697663,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-08-04,300.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697664,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-10-04,300.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697657,,,ORG,Petersen Group,,,,,,9347 Wildflower Rd,,Pine City,MN,550634698,,,2023-07-03,13500.00,0.00,Management Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697670,,,ORG,Petersen Group,,,,,,9347 Wildflower Rd,,Pine City,MN,550634698,,,2023-10-03,13928.12,0.00,Management Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697666,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2023-07-03,8192.28,0.00,"Fundraising Services, Event Expenses - Catering, Travel, Shipping",,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697667,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2023-08-01,6232.46,0.00,"Fundraising Services, Event Expenses - Catering, Shipping",,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697668,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2023-09-01,9096.05,0.00,"Fundraising Services, Event Expenses - Catering, Travel, Shipping",,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697669,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2023-10-02,5000.00,0.00,Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697671,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2023-11-01,7674.39,0.00,"Fundraising Services, Event Expenses - Catering, Travel, Shipping",,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697672,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2023-12-01,6438.66,0.00,"Fundraising Services, Event Expenses - Catering, Shipping",,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697634,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-07-10,150.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697635,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-07-17,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697636,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-08-10,70.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697637,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-08-28,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697638,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-09-11,60.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697639,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-10-10,120.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697640,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-11-09,73.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697641,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-11-20,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697642,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-11-27,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697643,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-12-18,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500697644,,,ORG,Sunrise Banks,,,,,,2300 Como Ave,,Saint Paul,MN,551081722,,,2023-12-29,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,

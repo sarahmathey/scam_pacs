@@ -1,0 +1,48 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00348607,500557479,,,ORG,"192 Lexington Avenue, LLC",,,,,,8 W 40Th St,Fl 3,New York,NY,100183902,,,2024-11-01,2390.39,0.00,Rent & Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557480,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-19,197.67,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557485,500557480,SB21B,ORG,Time Warner Cable Of NYC,,,,,,PO Box 9227,,Uniondale,NY,115559227,,,2024-10-19,197.67,0.00,Telephone/Cable,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557481,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-19,778.25,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557490,500557481,SB21B,ORG,"Adobe Systems, Inc.",,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-10-19,626.86,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557486,500557481,SB21B,ORG,Curb Taxi,,,,,,1111 34Th Ave,,Astoria,NY,111064923,,,2024-10-19,33.67,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557487,500557481,SB21B,ORG,Curb Taxi,,,,,,1111 34Th Ave,,Astoria,NY,111064923,,,2024-10-19,26.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557488,500557481,SB21B,ORG,Curb Taxi,,,,,,1111 34Th Ave,,Astoria,NY,111064923,,,2024-10-19,26.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557491,500557481,SB21B,ORG,UPS,,,,,,1202 Lexington Ave,,New York,NY,100281439,,,2024-10-19,32.40,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557492,500557481,SB21B,ORG,UPS,,,,,,1202 Lexington Ave,,New York,NY,100281439,,,2024-10-19,32.54,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557483,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-11-19,197.67,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557482,500557483,SB21B,ORG,Time Warner Cable Of NYC,,,,,,PO Box 9227,,Uniondale,NY,115559227,,,2024-11-01,197.67,0.00,Telephone/Cable,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557484,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-11-19,1386.20,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557495,500557484,SB21B,ORG,Curb Taxi,,,,,,1111 34Th Ave,,Astoria,NY,111064923,,,2024-11-19,45.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557496,500557484,SB21B,ORG,Curb Taxi,,,,,,1111 34Th Ave,,Astoria,NY,111064923,,,2024-11-19,21.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557497,500557484,SB21B,ORG,Sistina Restaurant Inc.,,,,,,24 E 81St St,Apt 2A,New York,NY,100280227,,,2024-11-19,514.81,0.00,Meetings/Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557503,500557484,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 11,San Francisco,CA,941031355,,,2024-11-19,111.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557504,500557484,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 11,San Francisco,CA,941031355,,,2024-11-19,170.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557505,500557484,SB21B,ORG,United Airlines,,,,,,600 Jefferson St,Dept HQJ-CM,Houston,TX,770027363,,,2024-11-19,334.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557508,500557484,SB21B,ORG,United Airlines,,,,,,600 Jefferson St,Dept HQJ-CM,Houston,TX,770027363,,,2024-11-19,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557512,500557484,SB21B,ORG,UPS,,,,,,1202 Lexington Ave,,New York,NY,100281439,,,2024-11-19,32.36,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557514,500557484,SB21B,ORG,UPS,,,,,,1202 Lexington Ave,,New York,NY,100281439,,,2024-11-19,42.64,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557515,500557484,SB21B,ORG,UPS,,,,,,1202 Lexington Ave,,New York,NY,100281439,,,2024-11-19,32.19,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557517,500557484,SB21B,ORG,UPS,,,,,,1202 Lexington Ave,,New York,NY,100281439,,,2024-11-19,32.26,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557729,,,ORG,Citizens Bank,,,,,,720 S Main St,,Sharon,MA,020672841,,,2024-11-18,82.75,0.00,Bank Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557520,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-10-17,140.40,0.00,Professional Services-Legal,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557521,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-11-20,327.60,0.00,Professional Services-Legal,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557522,,,ORG,Empire BlueCross,,,,,,PO Box 11792,,Newark,NJ,071014792,,,2024-11-01,2606.11,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500545345,,,ORG,Express EMPS,,,,,,PO Box 6600,,Hagerstown,MD,217416600,,,2024-11-05,19.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557730,,,ORG,Express EMPS,,,,,,PO Box 6600,,Hagerstown,MD,217416600,,,2024-11-05,59.90,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557523,,,ORG,Fulkerson Kennedy & Company,,,,,,220 I St NE,Ste 250,Washington,DC,200024693,,,2024-10-22,8147.00,0.00,Reception-Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557524,,,ORG,Fulkerson Kennedy & Company,,,,,,220 I St NE,Ste 250,Washington,DC,200024693,,,2024-11-01,10500.00,0.00,Consulting Services-Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557525,,,ORG,Guardian,,,,,,PO Box 824404,,Philadelphia,PA,191824404,,,2024-11-08,129.88,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557691,,,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-10-31,14145.77,0.00,Payroll Payment (See Below if Itemized),,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557693,500557691,SB21B,IND,,Bart,Samuel,E.,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-10-31,3049.25,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557694,500557691,SB21B,IND,,Kutryb,Nicholas,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-10-31,4028.38,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557695,500557691,SB21B,IND,,Newton,Samuel,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-10-31,1461.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557692,500557691,SB21B,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-10-31,5606.38,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557727,,,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-11-12,87.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557703,,,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-11-15,14151.07,0.00,Payroll Payment (See Below if Itemized),,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557698,500557703,SB21B,IND,,Bart,Samuel,E.,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-11-15,3054.55,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557700,500557703,SB21B,IND,,Kutryb,Nicholas,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-11-15,4028.37,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557702,500557703,SB21B,IND,,Newton,Samuel,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-11-15,1461.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557697,500557703,SB21B,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-11-15,5606.39,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500557684,,,ORG,"Secure Blue, LLC",,,,,,1201 Britania Ln,,Annapolis,MD,214034354,,,2024-11-01,495.00,0.00,Computer Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557687,,,ORG,"Verdolino & Lowey, P.C.",,,,,,124 Washington St,Ste 101,Foxboro,MA,020351368,,,2024-10-17,3049.33,0.00,Professional Services-Accounting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500557688,,,ORG,"Verdolino & Lowey, P.C.",,,,,,124 Washington St,Ste 101,Foxboro,MA,020351368,,,2024-11-20,1936.88,0.00,Professional Services-Accounting,,,,,,,,,,,,,,,,,,,,

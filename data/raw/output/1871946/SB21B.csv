@@ -1,0 +1,30 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00576975,500404915,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-12-10,39.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404886,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,246.75,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404887,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,64.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404890,,,IND,,Chavez-Fernandez,Raphael,,,,PO Box 1710,,Phoenix,AZ,850011710,,,2024-12-13,31815.00,0.00,PAC Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404889,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,800 N Wakefield St,,Arlington,VA,222031517,,,2024-12-30,12500.00,0.00,PAC Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404888,,,ORG,"Political Compliance Management Services, LLC",,,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-12-30,2025.00,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404892,,,IND,,Tabaie,Mariam,,,,620 N Vermont St,,Arlington,VA,222032021,,,2024-12-03,4091.76,0.00,Fundraising Event Reimbursement - see below if itemized:,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404891,500404892,SB21B,ORG,S-3 Group,,,,,,418 C St NE,,Washington,DC,200025818,,,2024-12-03,350.00,0.00,Fundraising Event Venue Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404893,500404892,SB21B,ORG,Windows Catering Company,,,,,,5724 General Washington Dr,,Alexandria,VA,223122407,,,2024-12-03,3741.76,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404914,,,IND,,Tabaie,Mariam,,,,620 N Vermont St,,Arlington,VA,222032021,,,2024-12-30,1277.55,0.00,Travel and Event Reimbursement - see below if itemized:,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576975,500404894,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,31.36,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404895,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,36.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404898,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,68.41,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404899,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,79.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404900,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,46.02,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404901,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,89.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404902,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,22.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404903,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,25.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404904,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,30.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404905,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,32.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404906,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,35.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404907,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,25.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404908,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,23.81,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404909,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,29.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404910,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,59.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404911,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,84.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404912,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,70.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404913,500404914,SB21B,ORG,Uber,,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-12-30,102.04,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576975,500404897,500404914,SB21B,ORG,Windows Catering Company,,,,,,5724 General Washington Dr,,Alexandria,VA,223122407,,,2024-12-30,353.71,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*

@@ -1,0 +1,17 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00640623,500364116,,,ORG,2130 Highland Ave S LLC,,,,,,PO Box 968,,Birmingham,AL,352010968,,,2024-11-01,2000.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500368073,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-10-20,4.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500369086,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-10-27,21.49,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500369868,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-10-31,3.90,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500370393,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-11-03,7.65,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500370392,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-11-05,1.71,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500370391,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-11-10,4.76,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500371648,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-11-17,7.05,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500373230,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-11-24,21.75,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500373229,,,ORG,ACTBLUE,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-11-25,1.59,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500361877,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-29,92.00,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500364115,,,IND,,Florence,Tyler,,,,6236 Dorsett Woods Dr,,Mount Olive,AL,351173644,,,2024-11-01,750.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500369625,,,IND,,Jones,G. Douglas,,,,3424 Westbury Rd,,Mountain Brk,AL,352231438,,,2024-10-31,1605.21,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00640623,500369620,500369625,SB21B,ORG,Alida A Tribute Portfolio,,,,,,412 Williamson St,,Savannah,GA,314011176,,,2024-10-31,754.18,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00640623,500369619,500369625,SB21B,ORG,Budget Rent A Car Of Birmingham,,,,,,5344 Messer Airport Hwy,,Birmingham,AL,352121528,,,2024-10-31,625.21,0.00,Car Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00640623,500373224,,,ORG,US Postal Service,,,,,,3900 Montclair Rd,Fl 1,Birmingham,AL,352132429,,,2024-11-25,182.00,0.00,PO Box Rental,,,,,,,,,,,,,,,,,,,,

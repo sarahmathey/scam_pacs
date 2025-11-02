@@ -1,0 +1,55 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00513176,500471195,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-02,471.48,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500471196,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-02,44.70,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473678,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-09,356.54,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500474375,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-16,1141.59,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500476592,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-23,3214.88,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500476593,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-30,1110.36,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500476594,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,252.17,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473848,,,ORG,Aisle 518,,,,,,2045 W Grand Ave,Ste B,Chicago,IL,606121577,,,2024-12-09,16000.00,0.00,Digital Ad Buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475654,,,ORG,Aisle 518,,,,,,2045 W Grand Ave,Ste B,Chicago,IL,606121577,,,2024-12-23,14222.00,0.00,Digital Ad Buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500469925,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,150.75,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473135,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,12.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473136,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,12.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475651,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,12.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475652,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,12.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475653,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,135.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500476474,,,ORG,American Express Company,,,,,,3 WORLD FINANCIAL CTR 200 VESEY St,,New York,NY,102850001,,,2024-12-13,559.67,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500476477,500476474,SB21B,ORG,Comcast,,,,,,1701 John F Kennedy Blvd,Fl 30,Philadelphia,PA,191032855,,,2024-12-13,114.32,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500476476,500476474,SB21B,ORG,New York Times,,,,,,242 W 41st St,,New York,NY,100367203,,,2024-12-13,26.50,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500476475,500476474,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-12-13,27.71,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500473139,,,ORG,DC Health Link,,,,,,645 H St NE,,Washington,DC,200024347,,,2024-12-03,2073.96,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500469926,,,ORG,Fidelity Investments Institutional Operations Company,,,,,,PO Box 770002,,Cincinnati,OH,452771102,,,2024-11-29,1008.66,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473847,,,ORG,Fidelity Investments Institutional Operations Company,,,,,,PO Box 770002,,Cincinnati,OH,452771102,,,2024-12-13,1008.66,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475655,,,ORG,Fidelity Investments Institutional Operations Company,,,,,,PO Box 770002,,Cincinnati,OH,452771102,,,2024-12-24,1008.66,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500469936,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-11-28,8411.46,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500469935,500469936,SB21B,IND,,Bailey,Ernest,,,,1827 Kilbourne Pl NW,,Washington,DC,200102622,,,2024-11-28,2248.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500469931,500469936,SB21B,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2024-11-28,3440.16,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500469934,500469936,SB21B,IND,,Darner,Michael,,,,1303 John St,,Baltimore,MD,212174116,,,2024-11-28,787.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500469932,500469936,SB21B,IND,,Hines,Gillian,,,,2778 N Milwaukee Ave,Apt 217,Chicago,IL,606471323,,,2024-11-28,1935.56,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500469939,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-11-28,4363.89,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500469941,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-11-28,36.15,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500469940,500469941,SB21B,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2024-11-28,36.15,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500473138,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-03,122.11,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473850,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-12,4363.91,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473852,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-12,36.15,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473851,500473852,SB21B,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2024-12-12,36.15,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500473857,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-12,8411.45,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473853,500473857,SB21B,IND,,Bailey,Ernest,,,,1827 Kilbourne Pl NW,,Washington,DC,200102622,,,2024-12-12,2248.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500473854,500473857,SB21B,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2024-12-12,3440.16,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500473855,500473857,SB21B,IND,,Darner,Michael,,,,1303 John St,,Baltimore,MD,212174116,,,2024-12-12,787.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500473856,500473857,SB21B,IND,,Hines,Gillian,,,,2778 N Milwaukee Ave,Apt 217,Chicago,IL,606471323,,,2024-12-12,1935.56,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500475667,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-26,4440.73,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475670,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-26,36.15,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475669,500475670,SB21B,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2024-12-26,36.15,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500475680,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-26,8571.37,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475676,500475680,SB21B,IND,,Bailey,Ernest,,,,1827 Kilbourne Pl NW,,Washington,DC,200102622,,,2024-12-26,2248.39,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500475677,500475680,SB21B,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2024-12-26,3600.08,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500475678,500475680,SB21B,IND,,Darner,Michael,,,,1303 John St,,Baltimore,MD,212174116,,,2024-12-26,787.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500475679,500475680,SB21B,IND,,Hines,Gillian,,,,2778 N Milwaukee Ave,Apt 217,Chicago,IL,606471323,,,2024-12-26,1935.56,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500473141,,,ORG,International Association of Machinists and Aerospace Workers,,,,,,9000 Machinists Pl,,Upper Marlboro,MD,207722675,,,2024-12-02,3000.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473849,,,ORG,Katz Compliance,,,,,,PO Box 33079,,Washington,DC,200330079,,,2024-12-09,3077.10,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473140,,,ORG,Kieloch Consulting,,,,,,228 2nd St SE,,Washington,DC,200031943,,,2024-12-02,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500473142,,,ORG,LexisNexis,,,,,,230 Park Ave,Fl 7,New York,NY,101690935,,,2024-12-06,408.10,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475665,,,ORG,The Fried Rice Collective,,,,,,423 8th St SE,,Washington,DC,200032833,,,2024-12-20,1341.78,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500475656,,,ORG,Washington Gas,,,,,,PO Box 37747,,Philadelphia,PA,191015047,,,2024-12-26,39.35,0.00,Utilities,,,,,,,,,,,,,,,,,,,,

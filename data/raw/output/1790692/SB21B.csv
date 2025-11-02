@@ -1,0 +1,37 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00692111,500711865,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-28,79.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711866,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-31,79.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711867,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-04,39.50,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711868,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-18,79.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711869,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-17,59.25,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711870,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-31,276.50,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711833,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2024-01-05,2711.75,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711872,500711833,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-11-22,1084.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711874,500711833,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-12-15,1084.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711876,500711833,SB21B,ORG,Hine Restaurants,,,,,,3307 M St NW,,Washington,DC,200073539,,,2023-12-07,343.75,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711834,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2024-02-05,1539.80,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711877,500711834,SB21B,ORG,Hine Restaurants,,,,,,3307 M St NW,,Washington,DC,200073539,,,2024-01-11,900.35,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711880,500711834,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-01-17,45.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711881,500711834,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-01-17,266.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711882,500711834,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-01-17,79.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711883,500711834,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-01-21,249.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711835,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2024-03-12,2459.00,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711875,500711835,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-02-06,1084.00,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711878,500711835,SB21B,ORG,Hine Restaurants,,,,,,3307 M St NW,,Washington,DC,200073539,,,2024-01-23,687.50,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711879,500711835,SB21B,ORG,Hine Restaurants,,,,,,3307 M St NW,,Washington,DC,200073539,,,2024-01-26,687.50,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711836,,,ORG,American Express,,,,,,PO Box 1,,Los Angeles,CA,900780001,,,2024-03-18,851.19,0.00,Credit Card Payment - See Memo,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711884,500711836,SB21B,ORG,American Airlines,,,,,,DFW AIRPORT,,Fort Worth,TX,76155,,,2024-03-18,851.19,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00692111,500711837,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2024-01-05,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711838,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2024-02-05,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711839,,,ORG,Campaign Compliance LLC,,,,,,201 W Mitchell St,Pmb 30,Petoskey,MI,497702325,,,2024-03-04,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711845,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2024-01-05,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711846,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2024-02-02,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711847,,,IND,,Curtiss,Grace,,,,1601 Argonne Pl NW,Apt 529,Washington,DC,200095955,,,2024-03-04,360.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711848,,,IND,,Lomonaco,Jeff,,,,5821 4Th St NW,,Washington,DC,200112130,,,2024-01-05,3750.00,0.00,Management Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711849,,,ORG,Minneapolis Club,,,,,,729 2Nd Ave S,,Minneapolis,MN,554022463,,,2024-01-31,2449.79,0.00,Event Expense - Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711852,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-01-16,300.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711853,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-03-19,300.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711854,,,ORG,Petersen Group,,,,,,9347 Wildflower Rd,,Pine City,MN,550634698,,,2024-01-02,13500.00,0.00,Management Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711857,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2024-01-02,5827.24,0.00,"Fundraising Services, Travel, Shipping",,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711858,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2024-02-01,5000.00,0.00,Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00692111,500711859,,,ORG,Schimanski & Associates,,,,,,303 Massachusetts Ave NE,,Washington,DC,200025701,,,2024-03-01,9397.49,0.00,"Fundraising Services - Catering, Travel, Shipping",,,,,,,,,,,,,,,,,,,,

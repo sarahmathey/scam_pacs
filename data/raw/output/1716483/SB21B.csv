@@ -1,0 +1,70 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00633248,500036458,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-01,80.67,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500039323,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-08,1598.47,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500039458,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-15,1363.24,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500039585,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-22,848.51,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500039852,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-29,1253.32,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500041657,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-31,650.12,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056662,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-01-26,185.57,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056663,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-01-26,297.90,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056665,,,ORG,Athenium Analytics,,,,,,1 Washington St,Ste 5145,Dover,NH,038203977,,,2023-01-27,14400.36,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056666,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-01-12,10045.47,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056667,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-01-27,8000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056668,,,ORG,Change Research,,,,,,1510 Walnut St,Ste E,Berkeley,CA,947091565,,,2023-01-26,15800.00,0.00,Research,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056669,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2023-01-12,1775.20,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056670,,,ORG,Norris Strategies LLC,,,,,,2333 E Norris St,,Philadelphia,PA,191251928,,,2023-01-12,5000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056671,,,ORG,Pantheon Analytics,,,,,,2616 38Th Ave SW,,Seattle,WA,981262111,,,2023-01-13,2250.00,0.00,Analytics Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056672,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-03,65.93,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056658,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-12,23618.62,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056687,500056658,SB21B,IND,,Carl,Emma,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-12,2552.14,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056688,500056658,SB21B,IND,,Coady,John,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-12,1907.69,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056689,500056658,SB21B,IND,,Dakwale,Saurabh,,,,60 N 23Rd St,Apt 906,Philadelphia,PA,191031586,,,2023-01-12,1748.96,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056690,500056658,SB21B,IND,,Morrow,Joshua,,,,4872 River Rd,,New Hope,PA,189389738,,,2023-01-12,2605.54,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056691,500056658,SB21B,IND,,Polyak,Erik,,,,400 Massachusetts Ave NW,Apt 616,Washington,DC,200016808,,,2023-01-12,2463.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056692,500056658,SB21B,IND,,Proctor,Kenneth,Drew,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-12,1632.85,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056693,500056658,SB21B,IND,,Rivera,Ariana,,,,812 N 48Th St,,McAllen,TX,785013736,,,2023-01-12,1461.93,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056694,500056658,SB21B,IND,,Rodriguez-Vazquez,Esteban,,,,1118 Park Rd NW,,Washington,DC,200102291,,,2023-01-12,3502.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056695,500056658,SB21B,IND,,Sarkozi,Jacob,,,,9 Walnut Pl,,Briarcliff Manor,NY,105102629,,,2023-01-12,1589.40,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056696,500056658,SB21B,IND,,Trosky,Olan,,,,1806 6Th St NW,,Washington,DC,200015108,,,2023-01-12,2274.08,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056697,500056658,SB21B,IND,,Young,Benjamin,,,,221 Deerfield Dr,,Hamden,CT,065181706,,,2023-01-12,1880.21,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056673,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-13,1668.34,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056674,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-13,4137.29,0.00,Retirement Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056675,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-13,12082.61,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056659,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-30,29859.62,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056698,500056659,SB21B,IND,,Boice,Owen,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,946.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056699,500056659,SB21B,IND,,Carl,Emma,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,2552.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056700,500056659,SB21B,IND,,Coady,John,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,1907.68,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056701,500056659,SB21B,IND,,Dakwale,Saurabh,,,,60 N 23Rd St,Apt 906,Philadelphia,PA,191031586,,,2023-01-30,1748.96,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056703,500056659,SB21B,IND,,Felix,Lina,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,1087.61,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056702,500056659,SB21B,IND,,Hazrati,Annabel,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,404.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056704,500056659,SB21B,IND,,Morrow,Joshua,,,,4872 River Rd,,New Hope,PA,189389738,,,2023-01-30,2605.53,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056705,500056659,SB21B,IND,,Muza-Hendrix,Michaela,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,1579.56,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056706,500056659,SB21B,IND,,Parks,Kaitlyn,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,805.87,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056707,500056659,SB21B,IND,,Polyak,Erik,,,,400 Massachusetts Ave NW,Apt 616,Washington,DC,200016808,,,2023-01-30,2463.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056708,500056659,SB21B,IND,,Proctor,Kenneth,Drew,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,1632.85,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056709,500056659,SB21B,IND,,Rivera,Ariana,,,,812 N 48Th St,,McAllen,TX,785013736,,,2023-01-30,1461.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056710,500056659,SB21B,IND,,Rodriguez-Vazquez,Esteban,,,,1118 Park Rd NW,,Washington,DC,200102291,,,2023-01-30,3502.66,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056711,500056659,SB21B,IND,,Roy,Graham,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,753.96,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056712,500056659,SB21B,IND,,Sarkozi,Jacob,,,,9 Walnut Pl,,Briarcliff Manor,NY,105102629,,,2023-01-30,1589.40,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056713,500056659,SB21B,IND,,Trosky,Olan,,,,1806 6Th St NW,,Washington,DC,200015108,,,2023-01-30,2274.08,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056714,500056659,SB21B,IND,,Young,Benjamin,,,,221 Deerfield Dr,,Hamden,CT,065181706,,,2023-01-30,1880.21,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056715,500056659,SB21B,IND,,Zhang,Geoffrey,,,,PO Box 14560,,Washington,DC,200444560,,,2023-01-30,663.10,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056676,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-31,15716.52,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056677,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-31,123.60,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056678,,,ORG,Paychex Of New York LLC,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-01-31,4137.29,0.00,Retirement Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056679,,,ORG,"Popek Compliance, PLLC",,,,,,330 Poplar Ln,,Mason,MI,488548310,,,2023-01-12,600.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056680,,,ORG,"Popek Compliance, PLLC",,,,,,330 Poplar Ln,,Mason,MI,488548310,,,2023-01-27,300.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056657,,,ORG,Ramp,,,,,,71 5Th Ave,,New York,NY,100033004,,,2023-01-10,44344.95,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500056716,500056657,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-01-10,219.20,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056721,500056657,SB21B,ORG,Hotwire,,,,,,655 Montgomery St,Ste 600,San Francisco,CA,941112627,,,2023-01-10,339.32,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056725,500056657,SB21B,ORG,"New Blue Interactive, LLC",,,,,,4201 Connecticut Ave NW,Ste 400,Washington,DC,200081128,,,2023-01-10,2500.00,0.00,Consultant - Digital,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056726,500056657,SB21B,ORG,"New Blue Interactive, LLC",,,,,,4201 Connecticut Ave NW,Ste 400,Washington,DC,200081128,,,2023-01-10,10250.00,0.00,Consultant - Digital,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056727,500056657,SB21B,ORG,"New Blue Interactive, LLC",,,,,,4201 Connecticut Ave NW,Ste 400,Washington,DC,200081128,,,2023-01-10,10250.00,0.00,Consultant - Digital,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056728,500056657,SB21B,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-01-10,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056729,500056657,SB21B,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-01-10,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056730,500056657,SB21B,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-01-10,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056731,500056657,SB21B,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-01-10,14999.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056732,500056657,SB21B,ORG,RCN,,,,,,650 College Rd E,Ste 3100,Princeton,NJ,085406629,,,2023-01-10,1310.00,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056733,500056657,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-01-10,530.00,0.00,Text Messaging Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056734,500056657,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-01-10,3181.06,0.00,Text Messaging Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500056681,,,ORG,RWT Production,,,,,,8932 Orange Hunt Ln,,Annandale,VA,220034125,,,2023-01-12,25760.00,0.00,Postage,,,,,,,,,,,,,,,,,,,,

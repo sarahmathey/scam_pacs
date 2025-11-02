@@ -1,0 +1,521 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00573709,500510413,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-01,3169.89,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510483,500510413,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-01,1500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510484,500510413,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-01,500.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510485,500510413,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-07-01,26.50,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510486,500510413,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-01,9.94,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510487,500510413,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-01,14.46,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510488,500510413,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-01,23.19,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510489,500510413,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-01,12.41,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510490,500510413,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-01,12.70,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510491,500510413,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-01,11.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510492,500510413,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-01,9.25,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510414,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-07-03,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510438,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-07-06,58.49,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510427,,,ORG,Internal Revenue Service,,,,,,PO Box 409101,,Ogden,UT,844099101,,,2023-07-07,4163.94,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510415,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-07-10,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510460,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2023-07-10,33.33,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510439,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-07-11,2150.01,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510440,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-07-13,78.00,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500487830,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-17,2067.24,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500487831,500487830,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-17,1500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500487935,500487830,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-17,500.00,0.00,Bookkeeping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500488025,500487830,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-07-17,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500482513,500487830,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-17,9.70,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500487782,500487830,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-17,28.39,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510339,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-07-19,5270.52,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510527,500510339,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-07-19,199.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510618,500510339,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-07-19,175.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510628,500510339,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-07-19,22.75,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510629,500510339,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-07-19,332.47,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510630,500510339,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-07-19,19.14,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510631,500510339,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-07-19,11.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510655,500510339,SB21B,ORG,JetBlue Airways,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-07-19,-526.40,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510656,500510339,SB21B,ORG,JetBlue Airways,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-07-19,664.39,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510670,500510339,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-07-19,17.27,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510671,500510339,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-07-19,15.44,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510672,500510339,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-07-19,76.30,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510521,500510339,SB21B,ORG,Nationals Park,,,,,,1500 S Capitol St SE,,Washington,DC,200033599,,,2023-07-19,126.94,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510729,500510339,SB21B,ORG,San Francisco Airport Marriott Waterfront,,,,,,1800 Bayshore Hwy,,Burlingame,CA,940101203,,,2023-07-19,14.76,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510730,500510339,SB21B,ORG,San Francisco Airport Marriott Waterfront,,,,,,1800 Bayshore Hwy,,Burlingame,CA,940101203,,,2023-07-19,495.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510731,500510339,SB21B,ORG,San Francisco Airport Marriott Waterfront,,,,,,1800 Bayshore Hwy,,Burlingame,CA,940101203,,,2023-07-19,584.54,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510737,500510339,SB21B,ORG,Ship Sticks,,,,,,324 Datura St,Ste 400,West Palm Beach,FL,334015417,,,2023-07-19,167.94,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510738,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,8.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510739,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,323.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510740,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,323.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510741,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,-283.98,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510742,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,283.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510743,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,183.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510744,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,323.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510745,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,323.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510746,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,-323.98,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510747,500510339,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-07-19,-323.98,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510782,500510339,SB21B,ORG,"The Ritz-Carlton, Laguna Niguel",,,,,,1 Ritz Carlton Dr,,Dana Point,CA,926294205,,,2023-07-19,338.83,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510784,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,9.71,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510785,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,10.97,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510786,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,20.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510787,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,13.49,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510788,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,13.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510789,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,11.96,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510790,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,14.19,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510791,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,48.15,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510792,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,10.96,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510793,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,22.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510794,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,18.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510795,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,16.01,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510796,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,57.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510797,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,53.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510798,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,14.96,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510799,500510339,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-19,20.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510861,500510339,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-07-19,8.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510862,500510339,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-07-19,228.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510863,500510339,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-07-19,18.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510864,500510339,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-07-19,8.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510865,500510339,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-07-19,533.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510866,500510339,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-07-19,453.80,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510867,500510339,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-07-19,-390.40,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510896,500510339,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-07-19,8.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510426,,,ORG,Fun Artists,,,,,,580 Nevada St,Ste N,Redlands,CA,923733141,,,2023-07-24,1070.60,0.00,T-Shirts,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510475,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-27,2110.74,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510476,500510475,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-27,1500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510477,500510475,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-07-27,500.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510478,500510475,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-07-27,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510481,500510475,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-27,14.94,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510482,500510475,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-27,18.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510433,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-07-31,109.18,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510450,,,ORG,Mary Plasencia,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-08-01,6385.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510467,,,IND,,Medzhibovsky,Boris,,,,331 1/2 La Paloma St,,Redlands,CA,923736013,,,2023-08-01,2095.80,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510441,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-08-03,58.48,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510428,,,ORG,Internal Revenue Service,,,,,,PO Box 409101,,Ogden,UT,844099101,,,2023-08-04,4163.98,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510416,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-08-07,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510461,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2023-08-14,33.33,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510338,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-08-18,15585.25,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510528,500510338,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-08-18,8.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510529,500510338,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-08-18,208.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510531,500510338,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-08-18,278.51,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510532,500510338,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-08-18,-308.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510533,500510338,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-08-18,816.40,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510553,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,206.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510554,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,206.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510555,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,233.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510556,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,1348.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510557,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,276.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510558,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,1348.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510559,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,-233.00,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510560,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,-1348.00,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510561,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,233.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510562,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,-233.00,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510563,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,233.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510564,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,123.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510565,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,-233.00,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510566,500510338,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-18,45.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510580,500510338,SB21B,ORG,Bandon Dunes Hotel,,,,,,57744 Round Lake Rd,,Bandon,OR,974116360,,,2023-08-18,-3139.56,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510599,500510338,SB21B,ORG,Chloe,,,,,,1331 4Th St SE,,Washington,DC,200034459,,,2023-08-18,405.24,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510602,500510338,SB21B,ORG,Circa Navy Yard,,,,,,99 M St SE,Ste 100,Washington,DC,200033957,,,2023-08-18,29.20,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510603,500510338,SB21B,ORG,Circa Navy Yard,,,,,,99 M St SE,Ste 100,Washington,DC,200033957,,,2023-08-18,271.87,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510605,500510338,SB21B,ORG,Conrad Hotel,,,,,,950 New York Ave NW,,Washington,DC,200013894,,,2023-08-18,220.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510606,500510338,SB21B,ORG,Conrad Hotel,,,,,,950 New York Ave NW,,Washington,DC,200013894,,,2023-08-18,2722.07,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510607,500510338,SB21B,ORG,Conrad Hotel,,,,,,950 New York Ave NW,,Washington,DC,200013894,,,2023-08-18,1596.63,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510619,500510338,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-08-18,145.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510644,500510338,SB21B,ORG,Harvest Tide,,,,,,212 7Th St SE,,Washington,DC,200034311,,,2023-08-18,2865.17,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510650,500510338,SB21B,ORG,Hotels.Com,,,,,,5400 Lbj Fwy,Ste 500,Dallas,TX,752401019,,,2023-08-18,628.16,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510652,500510338,SB21B,ORG,Jackie American Bistro,,,,,,79 Potomac Ave SE,,Washington,DC,200033848,,,2023-08-18,100.00,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510657,500510338,SB21B,ORG,JetBlue Airways,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-08-18,526.40,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510658,500510338,SB21B,ORG,JetBlue Airways,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-08-18,526.40,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510659,500510338,SB21B,ORG,JetBlue Airways,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-08-18,173.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510666,500510338,SB21B,ORG,"Le Meridien New York, Central Park",,,,,,120 W 57Th St,,New York,NY,100193320,,,2023-08-18,1205.39,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510668,500510338,SB21B,ORG,Lotte New York Palace,,,,,,455 Madison Ave,,New York,NY,100226845,,,2023-08-18,232.58,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510673,500510338,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-08-18,126.58,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510674,500510338,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-08-18,54.44,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510675,500510338,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-08-18,46.39,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510676,500510338,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-08-18,16.81,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510707,500510338,SB21B,ORG,Mortgage Bankers Association,,,,,,1919 M St NW,Fl 5,Washington,DC,200363572,,,2023-08-18,250.00,0.00,Event Venue,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510708,500510338,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-08-18,1057.80,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510723,500510338,SB21B,ORG,Paraiso,,,,,,1101 Pennsylvania Ave SE,Unit 1,Washington,DC,200032277,,,2023-08-18,526.68,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510748,500510338,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-08-18,233.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510765,500510338,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-08-18,9.52,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510800,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,25.94,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510801,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,26.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510802,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,9.53,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510803,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,14.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510804,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,5.44,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510805,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,23.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510806,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,14.28,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510807,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,16.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510808,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,30.04,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510809,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,8.88,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510810,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,18.94,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510811,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,10.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510812,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,11.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510813,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,13.92,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510814,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,17.92,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510815,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,9.71,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510816,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,22.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510817,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,40.59,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510818,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,11.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510819,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,19.74,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510820,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,11.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510821,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,11.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510822,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,26.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510823,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,9.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510824,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,33.74,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510825,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,14.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510826,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,26.79,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510827,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,19.72,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510828,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,36.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510829,500510338,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-18,2.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510868,500510338,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-08-18,213.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510869,500510338,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-08-18,149.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510870,500510338,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-08-18,1379.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510897,500510338,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-08-18,25.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510898,500510338,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-08-18,19.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510434,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-08-29,114.48,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510403,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-30,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510451,,,ORG,Mary Plasencia,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-09-01,6385.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510468,,,IND,,Medzhibovsky,Boris,,,,331 1/2 La Paloma St,,Redlands,CA,923736013,,,2023-09-01,2095.80,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510442,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-09-06,58.49,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510429,,,ORG,Internal Revenue Service,,,,,,PO Box 409101,,Ogden,UT,844099101,,,2023-09-07,4163.96,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510474,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-09-08,2484.61,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510493,500510474,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-09-08,1500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510494,500510474,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-09-08,500.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510500,500510474,SB21B,ORG,Corner Bakery,,,,,,500 N Capitol St NW,,Washington,DC,200011531,,,2023-09-08,27.86,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510510,500510474,SB21B,ORG,Corner Bakery,,,,,,500 N Capitol St NW,,Washington,DC,200011531,,,2023-09-08,255.00,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510495,500510474,SB21B,ORG,DC United Game,,,,,,100 Potomac Ave SW,,Washington,DC,200242999,,,2023-09-08,198.25,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510508,500510474,SB21B,ORG,DC United Game,,,,,,100 Potomac Ave SW,,Washington,DC,200242999,,,2023-09-08,59.40,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510497,500510474,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-09-08,26.50,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510506,500510474,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-08,22.48,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510509,500510474,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-08,29.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510499,500510474,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-08,28.55,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510501,500510474,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-08,20.30,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510502,500510474,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-08,10.28,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510503,500510474,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-08,33.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510504,500510474,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-08,9.25,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510505,500510474,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-08,9.25,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510507,500510474,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-08,10.30,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510417,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-09-08,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510462,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2023-09-11,33.33,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510418,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-09-12,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510337,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-09-18,10731.44,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510907,500510337,SB21B,ORG,AC Hotel By Marriott Portland      OR,,,,,,888 SW 3Rd Ave,,Portland,OR,972042405,,,2023-09-18,429.22,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510908,500510337,SB21B,ORG,AC Hotel By Marriott Portland      OR,,,,,,888 SW 3Rd Ave,,Portland,OR,972042405,,,2023-09-18,478.22,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510909,500510337,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-09-18,-464.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510910,500510337,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-09-18,-364.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510911,500510337,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-09-18,-738.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510912,500510337,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-09-18,364.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510913,500510337,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-09-18,738.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510914,500510337,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-09-18,464.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510915,500510337,SB21B,ORG,Aloft Louisville Downtown,,,,,,102 W Main St,,Louisville,KY,402021344,,,2023-09-18,203.13,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510916,500510337,SB21B,ORG,Aloft Louisville Downtown,,,,,,102 W Main St,,Louisville,KY,402021344,,,2023-09-18,540.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510917,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,530.70,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510918,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,215.11,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510919,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,-465.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510920,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,465.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510921,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,-465.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510922,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,465.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510923,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,482.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510924,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,94.89,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510925,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,-308.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510926,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,306.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510927,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,308.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510928,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,29.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510929,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,35.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510930,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,318.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510931,500510337,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,324.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510932,500510337,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-09-18,293.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510939,500510337,SB21B,ORG,Charles Hotel Cambridge MA,,,,,,1 Bennett St,,Cambridge,MA,021385707,,,2023-09-18,486.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510941,500510337,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-09-18,758.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510942,500510337,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-09-18,485.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510943,500510337,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-09-18,113.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510944,500510337,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-09-18,-485.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510945,500510337,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-09-18,-175.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510948,500510337,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-09-18,96.08,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510949,500510337,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-09-18,119.59,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510950,500510337,SB21B,ORG,Frontier Airlines,,,,,,4545 Airport Way,,Denver,CO,802395716,,,2023-09-18,285.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510951,500510337,SB21B,ORG,Hertz,,,,,,711 S Hope St,,Los Angeles,CA,900173803,,,2023-09-18,213.43,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510954,500510337,SB21B,ORG,Hotels.Com,,,,,,5400 Lbj Fwy,Ste 500,Dallas,TX,752401019,,,2023-09-18,-413.94,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510955,500510337,SB21B,ORG,Hotels.Com,,,,,,5400 Lbj Fwy,Ste 500,Dallas,TX,752401019,,,2023-09-18,413.94,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510958,500510337,SB21B,ORG,JetBlue Airways,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-09-18,-664.39,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510984,500510337,SB21B,ORG,Lodge At Torrey Pines,,,,,,11480 N Torrey Pines Rd,,La Jolla,CA,920371045,,,2023-09-18,2570.57,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510985,500510337,SB21B,ORG,Lodge At Torrey Pines,,,,,,11480 N Torrey Pines Rd,,La Jolla,CA,920371045,,,2023-09-18,25.08,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510986,500510337,SB21B,ORG,Lodge At Torrey Pines,,,,,,11480 N Torrey Pines Rd,,La Jolla,CA,920371045,,,2023-09-18,138.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510959,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,48.26,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510960,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,51.39,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510961,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,47.21,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510962,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,5.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510963,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,37.88,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510964,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,34.40,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510965,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,6.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510966,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,9.97,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510967,500510337,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,47.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510974,500510337,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-09-18,8.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510975,500510337,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-09-18,-183.98,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510976,500510337,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-09-18,475.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510977,500510337,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-09-18,138.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510978,500510337,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-09-18,6.50,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510979,500510337,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-09-18,8.64,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510980,500510337,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-09-18,6.31,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510987,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,51.05,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510988,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,8.40,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510989,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,16.46,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510990,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,20.59,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510991,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,22.04,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510992,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,54.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510993,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,17.79,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510994,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,7.16,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510995,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,8.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510996,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,10.66,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510997,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,12.97,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510998,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,33.96,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510999,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,24.37,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511000,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,55.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511001,500510337,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-09-18,16.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511002,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,-470.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511003,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,8.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511004,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,470.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511005,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,470.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511006,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,8.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511007,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,-1379.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511008,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,528.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511009,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,-244.73,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511010,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,-547.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511011,500510337,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-09-18,547.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511012,500510337,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-09-18,25.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511013,500510337,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-09-18,25.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511014,500510337,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-09-18,16.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511015,500510337,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-09-18,12.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510419,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-09-28,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510443,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-09-29,114.48,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510452,,,ORG,Mary Plasencia,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-09-29,6385.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510469,,,IND,,Medzhibovsky,Boris,,,,331 1/2 La Paloma St,,Redlands,CA,923736013,,,2023-09-29,2663.18,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510404,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-30,130.35,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510420,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-10-02,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510473,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-10-04,2103.20,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510517,500510473,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-10-04,1500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510518,500510473,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-10-04,500.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510519,500510473,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-04,103.20,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510444,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-05,97.71,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510421,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-10-06,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510430,,,ORG,Internal Revenue Service,,,,,,PO Box 409101,,Ogden,UT,844099101,,,2023-10-06,4353.97,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510463,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2023-10-10,33.33,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510445,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-11,2150.01,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510456,,,ORG,MSL Strategies,,,,,,4315 Brookfield Dr,,Charlotte,NC,282106305,,,2023-10-12,3750.00,0.00,Strategic Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510446,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-13,78.00,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510405,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-19,663.60,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510336,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-10-19,10260.72,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510534,500510336,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-10-18,158.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510535,500510336,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-10-18,-318.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510536,500510336,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-10-18,-212.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510537,500510336,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-10-18,212.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510538,500510336,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-10-18,212.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510539,500510336,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-10-18,393.19,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510577,500510336,SB21B,ORG,Avalon Hotel,,,,,,9400 W Olympic Blvd,,Beverly Hills,CA,902124552,,,2023-10-18,428.88,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510578,500510336,SB21B,ORG,Avalon Hotel,,,,,,9400 W Olympic Blvd,,Beverly Hills,CA,902124552,,,2023-10-18,375.88,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510581,500510336,SB21B,ORG,Bandon Dunes Hotel,,,,,,57744 Round Lake Rd,,Bandon,OR,974116360,,,2023-10-18,1779.48,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510642,500510336,SB21B,ORG,Harry's Reserve,,,,,,909 New Jersey Ave SE,,Washington,DC,200033382,,,2023-10-18,137.80,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510643,500510336,SB21B,ORG,Harry's Reserve,,,,,,909 New Jersey Ave SE,,Washington,DC,200033382,,,2023-10-18,187.51,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510651,500510336,SB21B,ORG,Hungry Marketplace,,,,,,4420 Fairfax Dr,Ste 102,Arlington,VA,222031628,,,2023-10-18,73.00,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510653,500510336,SB21B,ORG,Jackie American Bistro,,,,,,79 Potomac Ave SE,,Washington,DC,200033848,,,2023-10-18,1886.88,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510654,500510336,SB21B,ORG,Jackie American Bistro,,,,,,79 Potomac Ave SE,,Washington,DC,200033848,,,2023-10-18,1179.74,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510677,500510336,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-10-18,19.13,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510698,500510336,SB21B,ORG,Main Event Caterers,,,,,,3870 S Four Mile Run Dr,,Arlington,VA,222062329,,,2023-10-18,1942.38,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510709,500510336,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-10-18,807.00,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510749,500510336,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-10-18,188.97,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510750,500510336,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-10-18,-188.97,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510751,500510336,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-10-18,-279.98,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510775,500510336,SB21B,ORG,The Cliffs Hotel And Spa,,,,,,2757 Shell Beach Rd,,Pismo Beach,CA,934491602,,,2023-10-18,875.78,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510830,500510336,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-10-18,36.97,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510831,500510336,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-10-18,12.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510832,500510336,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-10-18,13.89,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510872,500510336,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-10-18,-458.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510873,500510336,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-10-18,178.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510874,500510336,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-10-18,522.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510875,500510336,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-10-18,458.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510876,500510336,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-10-18,428.70,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510877,500510336,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-10-18,-703.00,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510435,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-30,114.48,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510453,,,ORG,Mary Plasencia,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-11-01,6385.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510470,,,IND,,Medzhibovsky,Boris,,,,331 1/2 La Paloma St,,Redlands,CA,923736013,,,2023-11-01,2663.20,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510457,,,ORG,MSL Strategies,,,,,,4315 Brookfield Dr,,Charlotte,NC,282106305,,,2023-11-01,3750.00,0.00,Strategic Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510422,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-11-07,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510447,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-11-07,97.70,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510431,,,ORG,Internal Revenue Service,,,,,,PO Box 409101,,Ogden,UT,844099101,,,2023-11-08,4353.95,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510406,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-09,39.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510464,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2023-11-13,33.33,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510335,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-11-20,13545.58,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510520,500510335,SB21B,ORG,11 Howard Hotel,,,,,,11 Howard St,,New York,NY,100133111,,,2023-11-20,1278.46,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510526,500510335,SB21B,ORG,Agua 301 Restaurant,,,,,,301 Water St SE,,Washington,DC,200033734,,,2023-11-20,295.10,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510540,500510335,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-11-20,240.16,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510541,500510335,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-11-20,116.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510542,500510335,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-11-20,-477.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510543,500510335,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-11-20,323.70,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510544,500510335,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-11-20,-468.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510545,500510335,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-11-20,477.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510546,500510335,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-11-20,468.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510551,500510335,SB21B,ORG,American Trucking Association,,,,,,80 M St SE,Ste 800,Washington,DC,200033557,,,2023-11-20,250.00,0.00,Event Venue,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510567,500510335,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-11-20,337.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510568,500510335,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-11-20,-337.00,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510569,500510335,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-11-20,206.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510570,500510335,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-11-20,4.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510571,500510335,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-11-20,199.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510572,500510335,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-11-20,337.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510573,500510335,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-11-20,-337.00,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510579,500510335,SB21B,ORG,Avis Rent A Car,,,,,,1615 W Redlands Blvd,Ste C,Redlands,CA,923738085,,,2023-11-20,142.45,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510604,500510335,SB21B,ORG,Circa Navy Yard,,,,,,99 M St SE,Ste 100,Washington,DC,200033957,,,2023-11-20,306.85,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510645,500510335,SB21B,ORG,Harvest Tide,,,,,,212 7Th St SE,,Washington,DC,200034311,,,2023-11-20,4381.63,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510647,500510335,SB21B,ORG,Hotel Andaluz,,,,,,125 2Nd St NW,,Albuquerque,NM,871023329,,,2023-11-20,275.43,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510783,500510335,SB21B,ORG,Lodge At Torrey Pines,,,,,,11480 N Torrey Pines Rd,,La Jolla,CA,920371045,,,2023-11-20,114.55,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510678,500510335,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-11-20,59.87,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510679,500510335,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-11-20,15.78,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510680,500510335,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-11-20,32.85,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510681,500510335,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-11-20,10.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510703,500510335,SB21B,ORG,Mi Vida,,,,,,98 District Sq SW,,Washington,DC,200242491,,,2023-11-20,1453.00,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510710,500510335,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-11-20,675.00,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510711,500510335,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-11-20,586.56,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510752,500510335,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-11-20,352.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510753,500510335,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-11-20,279.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510754,500510335,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-11-20,8.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510755,500510335,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-11-20,8.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510766,500510335,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-11-20,9.61,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510767,500510335,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-11-20,11.99,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510778,500510335,SB21B,ORG,The Eating Room,,,,,,107 E Citrus Ave,,Redlands,CA,923734741,,,2023-11-20,84.75,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510833,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,5.75,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510834,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,13.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510835,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,98.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510836,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,17.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510837,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,38.34,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510838,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,9.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510839,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,5.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510840,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,18.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510841,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,14.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510842,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,18.88,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510843,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,13.94,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510844,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,18.61,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510845,500510335,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-20,16.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510878,500510335,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-11-20,8.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510879,500510335,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-11-20,223.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510880,500510335,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-11-20,157.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510881,500510335,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-11-20,703.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510895,500510335,SB21B,ORG,Vera Cocina,,,,,,2002 Fenwick St NE,,Washington,DC,200021714,,,2023-11-20,301.60,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510899,500510335,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-11-20,12.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510466,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-11-27,530.00,0.00,Campaign Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510472,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-11-29,4152.54,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510511,500510472,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-11-29,1500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510512,500510472,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-11-29,500.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510514,500510472,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-11-29,1500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510515,500510472,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-11-29,500.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510513,500510472,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-11-29,66.78,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510516,500510472,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-11-29,66.78,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510436,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-11-29,114.48,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510407,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-30,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510448,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-12-01,2663.18,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510454,,,ORG,Mary Plasencia,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-12-01,6385.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510449,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-12-05,97.71,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510458,,,ORG,MSL Strategies,,,,,,4315 Brookfield Dr,,Charlotte,NC,282106305,,,2023-12-05,3750.00,0.00,Strategic Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510432,,,ORG,Internal Revenue Service,,,,,,PO Box 409101,,Ogden,UT,844099101,,,2023-12-06,4353.97,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510423,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-12-07,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510425,,,ORG,Blue Dog PAC,,,,,,PO Box 83142,,Gaithersburg,MD,208833142,,,2023-12-07,2500.00,0.00,Political Contribution,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510424,,,ORG,"Bank Of America, N.A.",,,,,,10 N TRYON St,,Charlotte,NC,282550001,,,2023-12-08,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510465,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2023-12-11,33.33,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510408,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-18,395.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510334,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-19,7690.16,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510547,500510334,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-12-19,556.69,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510548,500510334,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-12-19,411.69,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510549,500510334,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-12-19,205.85,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510600,500510334,SB21B,ORG,Chloe,,,,,,1331 4Th St SE,,Washington,DC,200034459,,,2023-12-19,775.33,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510608,500510334,SB21B,ORG,Consumer Electronics Townhouse,,,,,,1919 S Eads St,,Arlington,VA,222023028,,,2023-12-19,400.00,0.00,Fundraiser Venue Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510620,500510334,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-12-19,428.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510621,500510334,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-12-19,-428.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510632,500510334,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-12-19,9.34,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510633,500510334,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-12-19,286.11,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510634,500510334,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-12-19,75.63,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510646,500510334,SB21B,ORG,Hilton New York,,,,,,136 W 42Nd St,,New York,NY,100367803,,,2023-12-19,312.17,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510682,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,53.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510683,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,5.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510684,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,13.58,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510685,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,31.36,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510686,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,18.72,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510687,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,29.87,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510688,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,60.83,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510689,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,24.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510690,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,6.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510691,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,32.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510692,500510334,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-19,43.58,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510704,500510334,SB21B,ORG,Mi Vida,,,,,,98 District Sq SW,,Washington,DC,200242491,,,2023-12-19,1453.19,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510705,500510334,SB21B,ORG,Mi Vida,,,,,,98 District Sq SW,,Washington,DC,200242491,,,2023-12-19,102.16,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510712,500510334,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-12-19,396.00,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510713,500510334,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-12-19,298.80,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510718,500510334,SB21B,ORG,NOMO SOHO Hotel,,,,,,9 Crosby St,,New York,NY,100133102,,,2023-12-19,853.86,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510732,500510334,SB21B,ORG,San Francisco Airport Marriott Waterfront,,,,,,1800 Bayshore Hwy,,Burlingame,CA,940101203,,,2023-12-19,227.42,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510756,500510334,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-19,50.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510757,500510334,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-19,726.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510768,500510334,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-12-19,4.93,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510776,500510334,SB21B,ORG,The Eastern,,,,,,360 7Th St SE,,Washington,DC,200032504,,,2023-12-19,1375.00,0.00,Fundraiser Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510846,500510334,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-19,25.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510847,500510334,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-19,8.56,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510848,500510334,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-19,23.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510849,500510334,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-19,11.81,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510850,500510334,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-19,10.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510851,500510334,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-19,8.94,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510852,500510334,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-19,62.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510882,500510334,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-19,-522.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510883,500510334,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-19,321.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510884,500510334,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-19,8.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510885,500510334,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-19,-638.91,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510886,500510334,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-19,638.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510887,500510334,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-19,-638.91,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510888,500510334,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-19,-522.20,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510900,500510334,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-12-19,29.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510901,500510334,SB21B,ORG,"Viasat, Inc.",,,,,,6155 El Camino Real,,Carlsbad,CA,920091602,,,2023-12-19,19.00,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510409,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-21,197.55,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510333,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-21,23938.29,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510626,500510333,SB21B,PAC,DIGIDEMS PAC,,,,,,750 N San Vicente Blvd,Ste 800,West Hollywood,CA,900695788,,,2023-12-19,5000.00,0.00,Political Contribution,,C00679191,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510771,500510333,SB21B,CCM,Suozzi For Congress,,,,,,PO Box 669,,Glen Cove,NY,115420669,O2024,Special General,2023-12-19,5000.00,0.00,Political Contribution,,C00607200,,,SUOZZI,THOMAS,,,,H,NY,03,,,,,,,X,*
+SB21B,C00573709,500510530,500510333,SB21B,ORG,Ambassador Hotel Kansas City,,,,,,1111 Grand Blvd,,Kansas City,MO,641062404,,,2023-12-20,310.10,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510550,500510333,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-12-20,1771.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510595,500510333,SB21B,ORG,Charese J. Entertainment,,,,,,,,Washington,DC,,,,2023-12-20,730.00,0.00,Fundraiser Event Entertainment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510596,500510333,SB21B,ORG,Charese J. Entertainment,,,,,,Address Requested,,WASHINGTON,DC,20003,,,2023-12-20,730.00,0.00,Fundraiser Event Entertainment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510622,500510333,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-12-20,-338.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510623,500510333,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-12-20,338.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510624,500510333,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-12-20,338.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510662,500510333,SB21B,ORG,Knead Hospitality & Designs,,,,,,915 F St NW,,Washington,DC,200041493,,,2023-12-20,1453.00,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510667,500510333,SB21B,ORG,Los Angeles Airport,,,,,,1 World Way,,Los Angeles,CA,900455803,,,2023-12-20,279.86,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510693,500510333,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-20,14.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510694,500510333,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-20,17.05,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510696,500510333,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-20,15.93,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510715,500510333,SB21B,ORG,Nemacolin,,,,,,1001 Lafayette Dr,,Farmington,PA,154379754,,,2023-12-20,1537.40,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510717,500510333,SB21B,ORG,Nemacolin,,,,,,1001 Lafayette Dr,,Farmington,PA,154379754,,,2023-12-20,-1412.46,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510758,500510333,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-20,-583.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510760,500510333,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-20,-558.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510761,500510333,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-20,583.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510764,500510333,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-20,558.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510769,500510333,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,Ste 800,Seattle,WA,981341435,,,2023-12-20,14.45,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510773,500510333,SB21B,ORG,Tatte Bakery,,,,,,1200 New Hampshire Ave NW,,Washington,DC,200366802,,,2023-12-20,709.80,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510777,500510333,SB21B,ORG,The Eastern,,,,,,360 7Th St SE,,Washington,DC,200032504,,,2023-12-20,3093.75,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510779,500510333,SB21B,ORG,The Eating Room,,,,,,107 E Citrus Ave,,Redlands,CA,923734741,,,2023-12-20,54.04,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510853,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,49.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510854,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,8.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510855,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,21.02,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510856,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,4.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510857,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,18.80,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510858,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,15.15,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510859,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,8.40,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510860,500510333,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-20,19.92,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510889,500510333,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-20,-223.90,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510890,500510333,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,Ste MEZZ,Chicago,IL,606011732,,,2023-12-20,854.20,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510410,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-25,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510459,,,ORG,MSL Strategies,,,,,,4315 Brookfield Dr,,Charlotte,NC,282106305,,,2023-12-26,3750.00,0.00,Strategic Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510437,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-12-29,114.48,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510455,,,ORG,Mary Plasencia,,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-12-29,6442.73,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510471,,,IND,,Medzhibovsky,Boris,,,,331 1/2 La Paloma St,,Redlands,CA,923736013,,,2023-12-29,2674.30,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510411,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-31,39.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510412,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-31,722.85,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500511017,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-31,33525.36,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500510617,500511017,SB21B,ORG,Democratic Congressional Campaign Committee,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-12-21,30000.00,0.00,Political Contribution,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510635,500511017,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2023-12-23,145.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510770,500511017,SB21B,CCM,SUMMER LEE FOR CONGRESS,,,,,,PO Box 82620,,Pittsburgh,PA,152180620,P2024,,2023-12-29,2000.00,0.00,Political Contribution,,C00791780,,,LEE,SUMMER,,,,H,PA,12,,,,,,,X,*
+SB21B,C00573709,500511018,500511017,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-12-31,317.98,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500511019,500511017,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-31,250.00,0.00,Annual Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510695,500511017,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-31,13.99,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510759,500511017,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-31,223.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510762,500511017,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-31,268.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500510763,500511017,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-12-31,223.90,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*

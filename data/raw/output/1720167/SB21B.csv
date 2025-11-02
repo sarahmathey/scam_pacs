@@ -1,0 +1,81 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00740597,500039700,,,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-06-02,27.29,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038210,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-13,1.92,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500037920,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-02-23,40.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039730,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-20,0.99,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038040,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,4078.98,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038050,500038040,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-02-06,34.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038060,500038040,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-02-06,337.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038061,500038040,SB21B,ORG,citizenM New York Bowery Hotel,,,,,,189 Bowery,,New York,NY,100022811,,,2023-02-06,380.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038052,500038040,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,39.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038062,500038040,SB21B,ORG,citizenM New York Bowery Hotel,,,,,,189 Bowery,,New York,NY,100022811,,,2023-02-06,438.37,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038063,500038040,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-02-06,674.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038064,500038040,SB21B,ORG,Carey Global Network,,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2023-02-06,1071.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038055,500038040,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-02-06,152.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038065,500038040,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-02-06,1287.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038056,500038040,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-02-06,185.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038057,500038040,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-02-06,199.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038048,500038040,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-02-06,-1327.20,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038058,500038040,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-02-06,206.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038059,500038040,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-02-06,230.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500039680,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-05,3.95,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500035321,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-03,114.55,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039831,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-30,19.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038431,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-03-24,0.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038041,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,6994.10,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038046,500038041,SB21B,ORG,Fundamental DTLA,,,,,,750 S Grand Ave,Unit 30,Los Angeles,CA,900173813,,,2023-02-06,3497.05,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038047,500038041,SB21B,ORG,Fundamental DTLA,,,,,,750 S Grand Ave,Unit 30,Los Angeles,CA,900173813,,,2023-02-06,3497.05,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500037081,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-13,4.09,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036791,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-01-26,324.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038012,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-28,0.48,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039332,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-24,41.53,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038042,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,38.82,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500035772,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2023-01-09,2000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039692,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2023-05-09,135.14,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500035813,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-01-06,2365.00,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500035822,500035813,SB21B,ORG,Soundhouse Rentals,,,,,,117 Banker St,,Brooklyn,NY,112223147,,,2023-01-06,2365.00,0.00,Event Production,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500037723,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-21,1.98,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038043,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,28.00,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039743,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-26,7.27,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039704,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-12,1.72,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039414,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-08,66.54,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500037924,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-27,7.65,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038034,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-06,3.95,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038044,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,1407.58,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038074,500038044,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,39.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038077,500038044,SB21B,ORG,Soundhouse Rentals,,,,,,117 Banker St,,Brooklyn,NY,112223147,,,2023-02-06,125.00,0.00,Event Production,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038078,500038044,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-02-06,138.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038069,500038044,SB21B,ORG,Cordial Craft Wines,,,,,,35 Sutton Sq SW,,Washington,DC,200243410,,,2023-02-06,-947.09,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038079,500038044,SB21B,ORG,Cordial Craft Wines,,,,,,35 Sutton Sq SW,,Washington,DC,200243410,,,2023-02-06,1822.51,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500035715,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-09,4.94,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039525,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-22,45.67,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038425,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-27,7.65,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038045,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-02-06,219.93,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038080,500038045,SB21B,ORG,Ode a la Rose,,,,,,2414 Douglas St NE,,Washington,DC,200182100,,,2023-02-06,219.93,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500039665,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-30,3.08,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038336,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-20,1.98,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038846,,,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-04-03,27.27,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039346,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-24,46.11,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036956,,,ORG,"Premiere Valet Services, Inc.",,,,,,3255 Cahuenga Blvd W,Ste 303,Los Angeles,CA,900681780,,,2023-02-07,700.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500038017,,,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-03-02,28.69,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039427,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-15,1.52,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039827,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-06-26,75.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036937,,,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-02-02,38.01,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500035637,,,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-01-03,376.08,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036947,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-31,0.48,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039667,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-05-26,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036797,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-30,12.11,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500037708,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-01,3.26,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039408,,,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-05-02,27.27,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039128,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-17,22.21,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036958,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-06,3.95,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036468,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-17,4.09,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500035798,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-01-06,2377.02,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500035810,500035798,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-01-06,258.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500035804,500035798,SB21B,ORG,Grazie Grazie,,,,,,85 District Sq SW,,Washington,DC,200242490,,,2023-01-06,330.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500035807,500035798,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2023-01-06,303.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500035808,500035798,SB21B,ORG,citizenM New York Bowery Hotel,,,,,,189 Bowery,,New York,NY,100022811,,,2023-01-10,388.22,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500035809,500035798,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-01-06,1097.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00740597,500038439,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-31,0.48,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500036479,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-23,49.08,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00740597,500039099,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-10,43.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,

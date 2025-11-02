@@ -1,0 +1,76 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00785816,500469760,,,ORG,Paragon,,,,,,1101 Connecticut Ave NW,Ste 450,Washington,DC,200364359,,,2023-05-02,1614.88,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469080,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-06-13,12699.03,0.00,Credit Card Payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469100,500469080,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2023-06-13,826.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469101,500469080,SB21B,ORG,Hyatt At Olive 8,,,,,,1635 8Th Ave,,Seattle,WA,981011822,,,2023-06-13,228.37,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469111,500469080,SB21B,ORG,NYC Taxi,,,,,,4125 36Th St,,Long Island City,NY,111011701,,,2023-06-13,37.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469121,500469080,SB21B,ORG,UrbanStems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2023-06-13,93.04,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469102,500469080,SB21B,ORG,Loews Hotels,,,,,,667 Madison Ave,,New York,NY,100658029,,,2023-06-13,110.54,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469112,500469080,SB21B,ORG,NYC Taxi,,,,,,4125 36Th St,,Long Island City,NY,111011701,,,2023-06-13,175.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469122,500469080,SB21B,ORG,UrbanStems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2023-06-13,114.27,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469103,500469080,SB21B,ORG,Loews Hotels,,,,,,667 Madison Ave,,New York,NY,100658029,,,2023-06-13,2037.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469113,500469080,SB21B,ORG,NYC Taxi,,,,,,4125 36Th St,,Long Island City,NY,111011701,,,2023-06-13,35.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469083,500469080,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-13,30.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469114,500469080,SB21B,ORG,Publix,,,,,,2067 N Atlantic Ave,# 3,Cocoa Beach,FL,329313312,,,2023-06-13,300.29,0.00,Fundraising Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469084,500469080,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-13,204.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469105,500469080,SB21B,ORG,Marta Manhattan,,,,,,29 E 29Th St,,New York,NY,100167902,,,2023-06-13,2738.62,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469115,500469080,SB21B,ORG,Publix,,,,,,2067 N Atlantic Ave,# 3,Cocoa Beach,FL,329313312,,,2023-06-13,200.09,0.00,Fundraising Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469085,500469080,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-13,248.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469095,500469080,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2023-06-13,442.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469106,500469080,SB21B,ORG,Marta Manhattan,,,,,,29 E 29Th St,,New York,NY,100167902,,,2023-06-13,500.00,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469086,500469080,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-13,139.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469096,500469080,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2023-06-13,651.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469117,500469080,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-06-13,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469087,500469080,SB21B,ORG,Budget Rent A Car,,,,,,5102 W Latham St,,Phoenix,AZ,850431770,,,2023-06-13,831.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469097,500469080,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2023-06-13,18.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469118,500469080,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-06-13,17.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469098,500469080,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2023-06-13,651.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469089,500469080,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Dept 982,Atlanta,GA,303541989,,,2023-06-13,1177.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469099,500469080,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2023-06-13,448.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500470190,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-05-26,31.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469290,,,IND,,Brown,Emma,S,,,PO Box 27202,,Tucson,AZ,857267202,,,2023-04-17,776.80,0.00,Reimbursement - vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469289,500469290,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-11,776.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469761,,,ORG,Carroll Consulting Group LLC,,,,,,2824 E Avalon Dr,,Phoenix,AZ,850167502,,,2023-05-01,3250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469771,,,ORG,NGP VAN Inc,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-05-25,643.46,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469762,,,ORG,Carroll Consulting Group LLC,,,,,,2824 E Avalon Dr,,Phoenix,AZ,850167502,,,2023-05-31,3250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500463372,,,IND,,Wilson,Chloe,,,,PO Box 27202,,Tucson,AZ,857267202,,,2023-04-05,1444.51,0.00,Reimbursement - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500463370,500463372,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,P2028,,2023-03-20,25.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500463355,500463372,SB21B,ORG,Taverna,,,,,,800 Emerson St,,Palo Alto,CA,943012412,,,2023-03-19,252.14,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500463357,500463372,SB21B,ORG,Madera,,,,,,2825 Sand Hill Rd,,Menlo Park,CA,940257022,,,2023-03-20,639.21,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500463367,500463372,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-03-16,63.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500463368,500463372,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-03-16,24.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469353,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2023-04-17,13364.52,0.00,Reimbursement - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469371,500469353,SB21B,ORG,Sloan Park,,,,,,2330 W Rio Salado Pkwy,,Mesa,AZ,852013604,,,2023-03-24,2214.12,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469502,500469353,SB21B,ORG,JW Marriott Camelback Inn Scottsdale,,,,,,402 E LINCOLN Dr,,Scottsdale,AZ,85253,,,2023-03-27,2194.17,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469373,500469353,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-03-24,27.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469504,500469353,SB21B,ORG,Scottsdale Town Car Service,,,,,,7302 E Helm Dr,,Scottsdale,AZ,852603185,,,2023-03-25,288.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469505,500469353,SB21B,ORG,Eastern Point Collective,,,,,,300 7Th St SE,,Washington,DC,200032504,,,2023-03-02,1375.00,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469375,500469353,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-03-24,22.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469506,500469353,SB21B,ORG,REI Co-Op Arizona Adventure Center,,,,,,17465 N 93Rd St,,Scottsdale,AZ,852556324,,,2023-03-09,520.00,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469376,500469353,SB21B,ORG,Sabas Transportation Black Car Service LLC,,,,,,3539 E Corona Ave,,Phoenix,AZ,850402841,,,2023-03-24,342.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469507,500469353,SB21B,ORG,Shirt Co,,,,,,4524 S Saint Peters Pkwy,,Saint Peters,MO,633047342,,,2023-03-10,2151.50,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469357,500469353,SB21B,ORG,REI Co-Op Arizona Adventure Center,,,,,,17465 N 93Rd St,,Scottsdale,AZ,852556324,,,2023-03-23,52.00,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469377,500469353,SB21B,ORG,Olive & Ivy,,,,,,7135 E Camelback Rd,Ste 195,Scottsdale,AZ,852511284,,,2023-03-24,3574.05,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469368,500469353,SB21B,ORG,REI Co-Op Arizona Adventure Center,,,,,,17465 N 93Rd St,,Scottsdale,AZ,852556324,,,2023-03-23,520.00,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469763,,,ORG,Precision Valet,,,,,,4340 E Indian School Rd,Ste 12-165,Phoenix,AZ,850185360,,,2023-05-02,750.00,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500463373,,,IND,,Wilson,Chloe,,,,PO Box 27202,,Tucson,AZ,857267202,,,2023-04-07,50.94,0.00,Mileage Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469784,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2023-05-25,572.83,0.00,Reimbursement - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469783,500469784,SB21B,ORG,Marriott Tucson-University,,,,,,880 E 2Nd St,,Tucson,AZ,857194838,,,2023-04-02,572.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469755,,,ORG,Divvy,,,,,,13707 S 200 W,Ste 100,Draper,UT,840202443,,,2023-05-25,992.38,0.00,Credit Card Payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469750,500469755,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Dept 982,Atlanta,GA,303541989,,,2023-05-25,40.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469751,500469755,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-05-25,106.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469752,500469755,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-05-25,106.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469753,500469755,SB21B,ORG,Loews Hotels,,,,,,667 Madison Ave,,New York,NY,100658029,,,2023-05-25,176.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469754,500469755,SB21B,ORG,Loews Hotels,,,,,,667 Madison Ave,,New York,NY,100658029,,,2023-05-25,176.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469756,500469755,SB21B,ORG,Ridgewood Car Services,,,,,,49 Wyckoff Ave,,Brooklyn,NY,112378001,,,2023-05-25,384.41,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469757,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-26,271.30,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500470187,,,ORG,Paragon,,,,,,1101 Connecticut Ave NW,Ste 450,Washington,DC,200364359,,,2023-06-02,1019.83,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469758,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-05-26,31.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469768,,,IND,,Wilson,Chloe,,,,PO Box 27202,,Tucson,AZ,857267202,,,2023-05-25,182.89,0.00,Reimbursement - vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469766,500469768,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-04-08,68.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469767,500469768,SB21B,ORG,Uber,,,,,,455 Market St,Ste 400,San Francisco,CA,941052455,,,2023-04-08,17.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500470188,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2023-06-28,15000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469749,,,IND,,Brown,Emma,S,,,PO Box 27202,,Tucson,AZ,857267202,,,2023-05-15,700.00,0.00,Reimbursement - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500469748,500469749,SB21B,ORG,AT&T,,,,,,208 S Akard St,,Dallas,TX,752024206,,,2023-05-04,700.00,0.00,Cell Phone Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500469759,,,ORG,Paragon,,,,,,1101 Connecticut Ave NW,Ste 450,Washington,DC,200364359,,,2023-04-03,3647.09,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500470189,,,IND,,Cox,Jennifer,,,,PO Box 27202,,Tucson,AZ,857267202,,,2023-06-30,3975.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,

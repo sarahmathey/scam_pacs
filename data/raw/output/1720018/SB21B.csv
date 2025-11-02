@@ -1,0 +1,38 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00439992,500200400,,,ORG,American Express,,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2023-06-13,6155.51,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500200451,500200400,SB21B,ORG,Hershey Lodge,,,,,,325 University Dr,,Hershey,PA,170332800,,,2023-06-13,-1000.00,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500200452,500200400,SB21B,ORG,Hershey Lodge,,,,,,325 University Dr,,Hershey,PA,170332800,,,2023-06-13,3.76,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500200453,500200400,SB21B,ORG,Hershey Lodge,,,,,,325 University Dr,,Hershey,PA,170332800,,,2023-06-13,5951.47,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500200454,500200400,SB21B,ORG,Hershey Park,,,,,,100 W Hersheypark Dr,,Hershey,PA,170332727,,,2023-06-13,-659.25,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500200455,500200400,SB21B,ORG,Fenicci's,,,,,,102 W Chocolate Ave,,Hershey,PA,170331524,,,2023-06-13,1859.53,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500196420,,,ORG,"Campaign Finance Consultants, Inc.",,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2023-05-25,5086.62,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500160040,,,ORG,American Express,,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2023-03-13,1000.00,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500160041,500160040,SB21B,ORG,Hershey Lodge,,,,,,325 University Dr,,Hershey,PA,170332800,,,2023-03-13,1000.00,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500160070,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2023-03-27,79.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500200531,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2023-06-20,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500160003,,,ORG,"Campaign Finance Consultants, Inc.",,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2023-03-10,6086.62,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500149603,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-04-18,4753.68,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500196513,,,ORG,American Express,,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2023-05-15,1977.75,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500196514,500196513,SB21B,ORG,Hershey Park,,,,,,100 W Hersheypark Dr,,Hershey,PA,170332727,,,2023-05-15,1977.75,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500201783,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2023-06-30,592.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500201183,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2023-06-26,30.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500159904,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2023-01-26,110.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500159964,,,ORG,"Campaign Finance Consultants, Inc.",,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2023-02-13,6127.53,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500199764,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-06-08,48.87,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500160074,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-04-04,2000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500199655,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2023-06-05,79.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500191216,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-05-12,427.28,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500200536,,,ORG,"Campaign Finance Consultants, Inc.",,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2023-06-21,5070.40,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500159886,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-02-01,1501.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500196517,,,ORG,Hershey Park,,,,,,100 W Hersheypark Dr,,Hershey,PA,170332727,,,2023-05-17,14.81,0.00,Fundraising Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00439992,500149647,,,ORG,"Campaign Finance Consultants, Inc.",,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2023-04-24,5086.62,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500160067,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2023-03-24,10.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500199667,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-06-05,2000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500196677,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2023-05-26,46.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500153328,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-04-24,492.17,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500190928,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-05-05,2000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500160058,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-03-23,2000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500159888,,,ORG,"Campaign Finance Consultants, Inc.",,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2023-02-01,6067.53,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500160088,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2023-04-03,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500153359,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2023-04-26,25.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00439992,500159989,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2023-02-23,45.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,

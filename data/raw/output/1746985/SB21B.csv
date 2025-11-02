@@ -1,0 +1,46 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00835041,500050648,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-04,195.82,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050649,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-11,121.57,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050650,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-18,400.26,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050651,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-25,489.92,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050652,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-30,124.90,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050581,,,ORG,AMALGAMATED BANK,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-06-26,12.01,0.00,BANK FEES,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050588,,,ORG,AMAZON,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-06-05,54.97,0.00,CAMPAIGN MATERIALS,006,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050589,,,ORG,AMAZON,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-06-07,63.96,0.00,CAMPAIGN MATERIALS,006,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050587,,,ORG,AMAZON,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-06-16,24.25,0.00,CAMPAIGN MATERIALS,006,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050590,,,ORG,AMAZON,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-06-20,127.94,0.00,CAMPAIGN MATERIALS,006,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,2329813I,2329813,SA11AI,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-04,18.89,0.00,In-Kind Catering,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00835041,500050742,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-08,10000.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050771,500050742,SB21B,ORG,Pantograph Labs,,,,,,2121 Broadway,Unit 188035,Sacramento,CA,958185001,,,2023-06-08,10000.00,0.00,DIGITAL CONSULTING,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051368,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-16,9.13,0.00,Staff Reimbursement,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050697,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,50.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050696,500050697,SB21B,ORG,Blue Utopia,,,,,,PO Box 4486,,Seattle,WA,981940486,,,2023-06-01,50.00,0.00,Software,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050699,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,350.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050698,500050699,SB21B,ORG,Wildflower,,,,,,6903 Deatonhill Dr.,#24,Austin,TX,787455133,,,2023-06-01,350.00,0.00,Digital Consulting,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050701,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,42.31,0.00,Staff reimbursement - see below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050700,500050701,SB21B,ORG,Door Dash,,,,,,901 Market St,,San Francisco,CA,941031729,,,2023-06-02,42.31,0.00,Catering,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050703,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,25.13,0.00,Staff Reimbursement - See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050702,500050703,SB21B,ORG,AMAZON,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-06-06,25.13,0.00,Committee Supplies,006,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050705,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,38.83,0.00,Staff Reimbursement - See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050704,500050705,SB21B,ORG,Barista's Coffee,,,,,,CENTRAL Sq,,Linwood,NJ,08221,,,2023-06-08,38.83,0.00,Catering,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050707,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,6.01,0.00,Staff Reimbursement - See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050706,500050707,SB21B,ORG,AMAZON,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-06-10,6.01,0.00,Committee Materials,006,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050709,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,7.16,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050769,500050709,SB21B,ORG,NAME CHEAP,,,,,,4600 E Washington St,Ste,Phoenix,AZ,850341903,,,2023-06-12,7.16,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050728,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,1500.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050749,500050728,SB21B,ORG,AGP Strategies,,,,,,2 Mass Ave. NE,PO BOX # 75443,Washington,DC,200130443,,,2023-06-01,1500.00,0.00,DIGITAL CONSULTING,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050735,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,2713.60,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050745,500050735,SB21B,ORG,ACTION SQUARED,,,,,,1900 L St NW,Ste 900,Washington,DC,200365005,,,2023-06-08,2713.60,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050737,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,3333.33,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050761,500050737,SB21B,ORG,Civic Shout,,,,,,16192 Coastal Hwy,,Lewes,DE,199583608,,,2023-06-27,3333.33,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050741,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-06-30,5940.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050763,500050741,SB21B,ORG,CLIPBOOK,,,,,,4288 Spruce Hill Ln,,Bloomfield Hills,MI,483013705,,,2023-06-21,5940.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500053082,,,ORG,Blue Utopia,,,,,,PO Box 4486,,Seattle,WA,981940486,,,2023-06-01,300.00,0.00,Staff Advance Memo Entry: Software,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050689,,,ORG,FOGLAMP,,,,,,650 Massachusetts Ave NW,Fl 6,Washington,DC,200013705,,,2023-06-26,1909.98,0.00,DIGITAL CONSULTING,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050603,,,ORG,FRAISER,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2023-06-02,2500.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050600,,,ORG,FRAISER,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2023-06-16,194.17,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050615,,,ORG,Pantograph Labs,,,,,,2121 Broadway,Unit 188035,Sacramento,CA,958185001,,,2023-06-08,233.00,0.00,DIGITAL CONSULTING,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050624,,,ORG,SQUARESPACE,,,,,,8 Clarkson St,,New York,NY,100144301,,,2023-06-08,246.85,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050625,,,ORG,STRATEGY & HUSTLE,,,,,,3216 Central Ave NE,,Washington,DC,200182624,,,2023-06-09,1022.50,0.00,ADVERTISING EXPENSES,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051311,,,ORG,STRATEGY & HUSTLE,,,,,,3216 Central Ave NE,,Washington,DC,200182624,,,2023-06-09,0.82,0.00,Transaction to validate account for direct deposit.,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050628,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2023-06-26,4524.27,0.00,SOFTWARE,004,,,,,,,,,,,,,,,,,,,

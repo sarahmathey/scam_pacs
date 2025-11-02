@@ -1,0 +1,101 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00578609,500552698,,,ORG,Accessible Gourmet,,,,,,8000 Darbys Run,,Chagrin Falls,OH,440234838,,,2024-10-17,312.50,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552699,,,ORG,Accessible Gourmet,,,,,,8000 Darbys Run,,Chagrin Falls,OH,440234838,,,2024-10-31,430.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500545740,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-20,10996.03,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500547499,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-23,12110.90,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500548362,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,12533.72,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500549000,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-30,12337.85,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500549440,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,2066.66,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500549711,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-03,3245.55,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500551991,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,69.56,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552700,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-10-29,364.29,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552701,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-31,50563.75,0.00,"Credit Card Payment, Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552790,500552701,SB21B,ORG,1820 Candle Co,,,,,,135 N Market St,,East Palestine,OH,444132018,,,2024-10-31,48.20,0.00,Gifts for Supporters,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552791,500552701,SB21B,ORG,1820 Candle Co,,,,,,135 N Market St,,East Palestine,OH,444132018,,,2024-10-31,48.20,0.00,Gifts for Supporters,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552792,500552701,SB21B,ORG,1820 Candle Co,,,,,,135 N Market St,,East Palestine,OH,444132018,,,2024-10-31,48.20,0.00,Gifts for Supporters,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552793,500552701,SB21B,ORG,1820 Candle Co,,,,,,135 N Market St,,East Palestine,OH,444132018,,,2024-10-31,48.20,0.00,Gifts for Supporters,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552794,500552701,SB21B,ORG,1820 Candle Co,,,,,,135 N Market St,,East Palestine,OH,444132018,,,2024-10-31,48.20,0.00,Gifts for Supporters,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552766,500552701,SB21B,ORG,1899 Social Club,,,,,,20040 Van Aken Blvd,,Shaker Heights,OH,441223621,,,2024-10-31,2000.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552767,500552701,SB21B,ORG,American Airlines,,,,,,PO Box 619612,,Dallas,TX,752619612,,,2024-10-31,1140.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552768,500552701,SB21B,ORG,Brick House Blue,,,,,,6605 Longshore St,Ste 240,Dublin,OH,430172774,,,2024-10-31,437.50,0.00,Venue Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552769,500552701,SB21B,ORG,Butcher And The Brewer,,,,,,2043 E 4Th St,,Cleveland,OH,441151023,,,2024-10-31,2529.99,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552770,500552701,SB21B,ORG,Courtyard Indianapolis,,,,,,601 W Washington St,,Indianapolis,IN,462042712,,,2024-10-31,277.29,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552771,500552701,SB21B,ORG,Courtyard Indianapolis,,,,,,601 W Washington St,,Indianapolis,IN,462042712,,,2024-10-31,31.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552772,500552701,SB21B,ORG,Dayton Live,,,,,,138 N Main St,,Dayton,OH,454021710,,,2024-10-31,4980.00,0.00,Venue Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552773,500552701,SB21B,ORG,Fast Eddies,,,,,,59 Main St,,Bellville,OH,448131040,,,2024-10-31,750.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552774,500552701,SB21B,ORG,Freedom A La Cart,,,,,,595 Van Buren Dr,,Columbus,OH,432232230,,,2024-10-31,388.50,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552775,500552701,SB21B,ORG,Grumpy's,,,,,,34 S Huron St,,Toledo,OH,436048706,,,2024-10-31,1900.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552776,500552701,SB21B,ORG,Hilton Columbus Downtown,,,,,,402 N HIGH St,,Columbus,OH,43215,,,2024-10-31,8500.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552777,500552701,SB21B,ORG,Hilton Columbus Downtown,,,,,,402 N HIGH St,,Columbus,OH,43215,,,2024-10-31,-277.50,0.00,Catering Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552778,500552701,SB21B,ORG,Hyatt Regency,,,,,,3777 La Jolla Village Dr,,San Diego,CA,921221080,,,2024-10-31,309.72,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552779,500552701,SB21B,ORG,Hyatt Regency,,,,,,3777 La Jolla Village Dr,,San Diego,CA,921221080,,,2024-10-31,285.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552780,500552701,SB21B,ORG,Hyatt Regency,,,,,,3777 La Jolla Village Dr,,San Diego,CA,921221080,,,2024-10-31,404.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552781,500552701,SB21B,ORG,Lindey's,,,,,,169 E Beck St,,Columbus,OH,432061182,,,2024-10-31,2086.80,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552782,500552701,SB21B,ORG,Little Miami River Catering,,,,,,2700 E River Rd,Ste A,Moraine,OH,454391536,,,2024-10-31,1780.59,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552783,500552701,SB21B,ORG,Luxe Hotel,,,,,,11461 W Sunset Blvd,,Los Angeles,CA,900492031,,,2024-10-31,450.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552784,500552701,SB21B,ORG,Luxe Hotel,,,,,,11461 W Sunset Blvd,,Los Angeles,CA,900492031,,,2024-10-31,265.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552785,500552701,SB21B,ORG,Luxe Hotel,,,,,,11461 W Sunset Blvd,,Los Angeles,CA,900492031,,,2024-10-31,293.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552786,500552701,SB21B,ORG,Luxe Hotel,,,,,,11461 W Sunset Blvd,,Los Angeles,CA,900492031,,,2024-10-31,265.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552787,500552701,SB21B,ORG,Memorial Hall,,,,,,1225 Elm St,,Cincinnati,OH,452027531,,,2024-10-31,-207.00,0.00,Catering Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552788,500552701,SB21B,ORG,Panera Bread,,,,,,2750 Martin Rd,,Dublin,OH,430172094,,,2024-10-31,596.07,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552789,500552701,SB21B,ORG,Papa Joe's Iacomini's,,,,,,1561 Akron Peninsula Rd,,Akron,OH,443135159,,,2024-10-31,473.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552798,500552701,SB21B,ORG,Sweet Potato Catering,,,,,,1302 W Monroe St,,Sandusky,OH,448702247,,,2024-10-31,1041.51,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552800,500552701,SB21B,ORG,The Met,,,,,,306 N Main St,,Lima,OH,458014435,,,2024-10-31,799.60,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552801,500552701,SB21B,ORG,Together & Company,,,,,,550 S High St,,Columbus,OH,432155607,,,2024-10-31,442.44,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552802,500552701,SB21B,ORG,Together & Company,,,,,,550 S High St,,Columbus,OH,432155607,,,2024-10-31,9584.55,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552804,500552701,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-10-31,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552805,500552701,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-10-31,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552806,500552701,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-10-31,724.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552807,500552701,SB21B,ORG,Westin Cincinnati,,,,,,21 E 5Th St,,Cincinnati,OH,452023114,,,2024-10-31,6693.71,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552808,500552701,SB21B,ORG,Westside Bowl,,,,,,2617 Mahoning Ave,,Youngstown,OH,445092334,,,2024-10-31,859.84,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552729,,,IND,,Bermeo,Abigail,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,195.64,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552702,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-11-01,5082.72,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552730,,,IND,,Cho,Hyun,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,217.74,0.00,"Reimbursement, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552746,500552730,SB21B,ORG,Whitepages,,,,,,2033 6Th Ave,Ste 1100,Seattle,WA,981212590,,,2024-10-31,217.74,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552745,,,IND,,Cho,Hyun,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,366.30,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552731,,,IND,,Doss,Alec,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,255.17,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552703,,,CCM,Friends Of Sherrod Brown,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-10-21,21943.84,0.00,Payroll Allocation,,C00264697,,,Brown,Sherrod,,,,S,OH,00,,,,,,,,
+SB21B,C00578609,500552704,,,CCM,Friends Of Sherrod Brown,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-11-04,28107.52,0.00,Payroll Allocation,,C00264697,,,Brown,Sherrod,,,,S,OH,00,,,,,,,,
+SB21B,C00578609,500552705,,,CCM,Friends Of Sherrod Brown,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-11-18,21544.10,0.00,Payroll Allocation,,C00264697,,,Brown,Sherrod,,,,S,OH,00,,,,,,,,
+SB21B,C00578609,500552706,,,ORG,GPS Operations Inc,,,,,,1502 Cassil Pl,Ste II,Los Angeles,CA,900287106,,,2024-10-31,10108.96,0.00,Security Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552732,,,IND,,Gravagna,Grant,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,121.50,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552739,,,IND,,Gravagna,Grant,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-11-01,226.02,0.00,"Reimbursement, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552763,500552739,SB21B,ORG,Heinen's,,,,,,2180 S Green Rd,,Cleveland,OH,441213326,,,2024-11-01,226.02,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552740,,,IND,,Gravagna,Grant,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-11-04,249.76,0.00,"Reimbursement, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552764,500552740,SB21B,ORG,Heinen's,,,,,,2180 S Green Rd,,Cleveland,OH,441213326,,,2024-11-04,217.73,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552707,,,ORG,Great Lakes Valet LLC,,,,,,8580 Crow Dr,,Macedonia,OH,440561964,,,2024-10-31,600.00,0.00,Valet Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552733,,,IND,,Griggs,Hayley,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,1025.78,0.00,"Reimbursement, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552747,500552733,SB21B,ORG,American Legion Post 217,,,,,,1265 4Th Ave,,Sidney,OH,453657026,,,2024-10-31,1025.78,0.00,Venue Rental & Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552744,,,IND,,Griggs,Hayley,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,440.88,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552708,,,ORG,JBW Consulting LLC,,,,,,11 Cypress Dr,,Woodbury,NY,117971501,,,2024-10-31,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552709,,,ORG,JBW Consulting LLC,,,,,,11 Cypress Dr,,Woodbury,NY,117971501,,,2024-11-18,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552734,,,IND,,Johnson,Leah,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,621.76,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552735,,,IND,,Jones,Kelen,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,657.27,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552736,,,IND,,Kauffman,Kimberly,A.,,,323 7Th St SE,,Washington,DC,200034307,,,2024-10-31,126.76,0.00,"Reimbursement, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552748,500552736,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-31,51.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552737,,,IND,,Kramer,Josh,,,,323 7Th St SE,,Washington,DC,200034307,,,2024-10-31,391.73,0.00,"Reimbursement, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552750,500552737,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-31,26.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552751,500552737,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-31,42.08,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552752,500552737,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-31,70.41,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552755,500552737,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-31,47.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552758,500552737,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-31,65.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552754,500552737,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-10-31,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552757,500552737,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-10-31,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552742,,,IND,,Kramer,Josh,,,,323 7Th St SE,,Washington,DC,200034307,,,2024-11-18,201.93,0.00,"Reimbursement, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552759,500552742,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-11-18,43.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552760,500552742,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-11-18,61.18,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552761,500552742,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-11-18,29.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552762,500552742,SB21B,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-11-18,55.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00578609,500552710,,,ORG,Left Coast Strategies Inc,,,,,,25953 Stafford Canyon Rd,Unit B,Stevenson Ranch,CA,913811530,,,2024-10-31,27842.36,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552711,,,ORG,Left Coast Strategies Inc,,,,,,25953 Stafford Canyon Rd,Unit B,Stevenson Ranch,CA,913811530,,,2024-11-13,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552712,,,ORG,LEMS Group,,,,,,5000 Euclid Ave,Ste 303,Cleveland,OH,441033754,,,2024-10-31,27004.00,0.00,Security Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552713,,,ORG,LEMS Group,,,,,,5000 Euclid Ave,Ste 303,Cleveland,OH,441033754,,,2024-11-13,4249.00,0.00,Security Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552714,,,ORG,McCann Protective Services,,,,,,5318 Seabury St,,Elmhurst,NY,113734430,,,2024-11-13,6680.12,0.00,Security Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552715,,,ORG,"NGP VAN, Inc.",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055701,,,2024-11-15,318.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552741,,,IND,,Padilla,Kimberly,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-11-13,617.74,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500555909,,,ORG,Queen City Club,,,,,,331 E 4Th St,,Cincinnati,OH,452024266,,,2024-11-21,-338.12,0.00,Void 8/21/24 payment; not reissued - issued in error,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552738,,,IND,,Stahl,Regen,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-31,321.50,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552716,,,ORG,The Kauffman Group,,,,,,323 7Th St SE,,Washington,DC,200034307,,,2024-11-01,22000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552717,,,ORG,Velocity Direct,,,,,,6410 Eastland Rd,Ste G,Cleveland,OH,441421306,,,2024-10-31,5210.98,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552728,,,IND,,Volker,Anne,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-10-17,544.70,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00578609,500552743,,,IND,,Volker,Anne,,,,3867 Medina Rd,Ste 289,Akron,OH,443334525,,,2024-11-18,277.00,0.00,Mileage,,,,,,,,,,,,,,,,,,,,

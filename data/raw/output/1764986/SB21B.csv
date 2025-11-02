@@ -1,0 +1,48 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00652164,500634040,,,ORG,MS Public Affairs LLC,,,,,,38 Rea Avenue Ext,,Hawthorne,NJ,075063334,,,2024-02-13,5000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500634041,,,ORG,Silver Strategies & Communications Group,,,,,,204 Hillside Ave,,Wyckoff,NJ,074813205,,,2024-02-13,3750.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500631661,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-02-29,1061.96,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500634171,,,IND,,Szott,Ryne,C.,,,7 Medford Pl,,Wayne,NJ,074705313,,,2024-02-13,500.00,0.00,Driving Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640791,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-12,395.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500631662,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-02-01,2492.12,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500631663,500631662,SB21B,IND,,Chamas,Madison,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-01,813.74,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500631664,500631662,SB21B,IND,,Martin,Edward,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-01,238.53,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500631665,500631662,SB21B,IND,,Pardee,Daniel,,,,2801 Adams Mill Rd NW,Apt 403,Washington,DC,200092213,,,2024-02-01,1157.48,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500631666,500631662,SB21B,IND,,Smith,Jamie,,,,918 Stokes Ave,,Collingswood,NJ,081083239,,,2024-02-01,282.37,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640792,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-29,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640793,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-02-06,5718.28,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640800,500640793,SB21B,ORG,Bethesda Bagels,,,,,,120 M St SE,,Washington,DC,200033515,,,2024-02-06,59.39,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640810,500640793,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-06,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640801,500640793,SB21B,ORG,Tunnicliff's Tavern,,,,,,222 7th St SE,,Washington,DC,200034306,,,2024-02-06,1419.40,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640811,500640793,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-06,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640813,500640793,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-02-06,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640804,500640793,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-02-06,1501.50,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640814,500640793,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-02-06,125.00,0.00,Membership Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640805,500640793,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-06,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640806,500640793,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-06,11.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640807,500640793,SB21B,ORG,Mountain Jitney,,,,,,450 Main St,,Park City,UT,840605400,,,2024-02-06,413.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640799,500640793,SB21B,ORG,Call Your Mother,,,,,,3301 Georgia Ave NW,,Washington,DC,200102512,,,2024-02-06,514.80,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500638714,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-02-26,591.58,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640830,500638714,SB21B,ORG,Canyons Village at Park City,,,,,,4000 Canyons Resort Dr,,Park City,UT,840986546,,,2024-02-26,12.71,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640831,500638714,SB21B,ORG,Canyons Village at Park City,,,,,,4000 Canyons Resort Dr,,Park City,UT,840986546,,,2024-02-26,26.35,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640832,500638714,SB21B,ORG,Asurion,,,,,,648 Grassmere Park,Ste 300,Nashville,TN,372113667,,,2024-02-26,279.00,0.00,Travel Insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640833,500638714,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-02-26,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640826,500638714,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-26,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640827,500638714,SB21B,ORG,Canyons Village at Park City,,,,,,4000 Canyons Resort Dr,,Park City,UT,840986546,,,2024-02-26,24.01,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640828,500638714,SB21B,ORG,Canyons Village at Park City,,,,,,4000 Canyons Resort Dr,,Park City,UT,840986546,,,2024-02-26,78.70,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640794,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-02-28,417.67,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640825,500640794,SB21B,ORG,Canyons Village at Park City,,,,,,4000 Canyons Resort Dr,,Park City,UT,840986546,,,2024-02-28,417.67,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500636615,,,IND,,Brossard,Chelsea,,,,949 1st St SE,Apt 1225,Washington,DC,200034885,,,2024-02-22,2750.00,0.00,Political Management Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640795,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-02-01,776.64,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640295,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-02-29,3238.43,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500640291,500640295,SB21B,IND,,Baitman,Benjamin,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-29,1332.68,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640292,500640295,SB21B,IND,,Chamas,Madison,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-29,84.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640293,500640295,SB21B,IND,,Hoffman,Claire,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-29,663.56,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640294,500640295,SB21B,IND,,Pardee,Daniel,,,,2801 Adams Mill Rd NW,Apt 403,Washington,DC,200092213,,,2024-02-29,1157.48,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500640796,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-02-15,1369.79,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500636497,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-02-15,4385.37,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500636612,500636497,SB21B,IND,,Baitman,Benjamin,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-15,1694.13,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500636614,500636497,SB21B,IND,,Chamas,Madison,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-15,813.74,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500636616,500636497,SB21B,IND,,Hoffman,Claire,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-02-15,720.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500636617,500636497,SB21B,IND,,Pardee,Daniel,,,,2801 Adams Mill Rd NW,Apt 403,Washington,DC,200092213,,,2024-02-15,1157.48,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634038,,,ORG,The Frost Group,,,,,,660 Pennsylvania Ave SE,Ste 202,Washington,DC,200034357,,,2024-02-13,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,

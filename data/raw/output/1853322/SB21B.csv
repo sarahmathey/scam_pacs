@@ -1,0 +1,143 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00768200,SB21B-1391,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-07-02,3175.33,0.00,Generic Cmte. Events/Meetings,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1391-10000,SB21B-1391,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-02,92.83,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1391-20000,SB21B-1391,SB21B,ORG,Hyatt Reg Washington Event,,,,,,"5400 LBJ Fwy., Ste. 500",,Dallas,TX,75240,,,2024-07-02,2910.60,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1391-30000,SB21B-1391,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-02,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1391-40000,SB21B-1391,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-02,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1392,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-07-02,44.00,0.00,Travel ,002,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1392-10000,SB21B-1392,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave. NE,,Washington,DC,20002,,,2024-07-02,35.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1392-20000,SB21B-1392,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-07-02,9.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1393,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-07-02,375.00,0.00,Travel ,002,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1393-10000,SB21B-1393,SB21B,ORG,Michelle Tovar,,,,,,430 S Capitol St. SE,Fl. 2,Washington,DC,20003,,,2024-07-02,187.50,0.00,Per Diem ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1393-20000,SB21B-1393,SB21B,ORG,Ryan DeJoy,,,,,,430 S Capitol St. SE,Fl. 2,Washington,DC,20003,,,2024-07-02,187.50,0.00,Per Diem ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1410,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-07-07,2520.38,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1400,,,ORG,The Strathdee Group LLC ,,,,,,517 14th St. NE,,Washington,DC,20002,,,2024-07-10,377.84,0.00,Travel ,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1401,,,ORG,Inspired Catering Inc. ,,,,,,6 Mountain Farms Rd.,,West Hartford,CT,06117,,,2024-07-10,10711.38,0.00,Generic Cmte. Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1419,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-07-14,1915.75,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1453,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-07-21,2962.50,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1441,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-07-23,31.03,0.00,Generic Cmte. Printing,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1441-10000,SB21B-1441,SB21B,ORG,Fedex,,,,,,544 Farmington Ave.,,Hartford,CT,06105,,,2024-07-23,3.23,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1441-20000,SB21B-1441,SB21B,ORG,Fedex,,,,,,544 Farmington Ave.,,Hartford,CT,06105,,,2024-07-23,27.80,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-07-23,1748.57,0.00,Generic Cmte. Events/Meetings,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1442-10000,SB21B-1442,SB21B,ORG,Blackrock Hy Catering,,,,,,50 Hudson Yards,,New York,NY,10001,,,2024-07-23,523.96,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-20000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-30000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-40000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-50000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-60000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,107.26,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-70000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-80000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-90000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-100000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-110000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-120000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-130000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-140000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1442-150000,SB21B-1442,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-07-23,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-07-23,1393.57,0.00,Travel ,002,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1443-10000,SB21B-1443,SB21B,ORG,Aga Service Company,,,,,,9950 Mayland Dr.,,Richmond,VA,23233,,,2024-07-23,9.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-20000,SB21B-1443,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave. NE,,Washington,DC,20002,,,2024-07-23,42.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-30000,SB21B-1443,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave. NE,,Washington,DC,20002,,,2024-07-23,124.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-40000,SB21B-1443,SB21B,ORG,Egencia,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-07-23,539.39,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-50000,SB21B-1443,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-07-23,13.65,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-60000,SB21B-1443,SB21B,ORG,San Vicente Bungalows,,,,,,845 N San Vicente Blvd.,,West Hollywood,CA,94103,,,2024-07-23,110.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-70000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,18.19,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-80000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,11.03,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-90000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,3.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-100000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,3.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-110000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,16.78,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-120000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,3.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-130000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,20.94,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-140000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,4.18,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-150000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,106.98,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-160000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,54.91,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-170000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,16.04,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-180000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,8.23,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-190000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,38.91,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-200000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,10.93,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-210000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,26.97,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-220000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,32.98,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-230000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,24.94,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-240000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,47.85,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-250000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,5.83,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-260000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,1.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-270000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,4.94,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-280000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,4.04,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-290000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,5.83,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-300000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,3.74,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-310000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,7.17,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-320000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,7.46,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-330000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,8.99,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-340000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,7.91,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-350000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,33.97,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-360000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,3.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-370000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,6.79,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-380000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,3.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1443-390000,SB21B-1443,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-07-23,3.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1460,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-07-28,3211.35,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1473,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-07-30,3468.10,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1477,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-07-31,395.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1474,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-07-31,75.00,0.00,Travel ,002,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1474-10000,SB21B-1474,SB21B,ORG,Kimberly Villalobos,,,,,,430 S Capitol St. SE,Fl. 2,Washington,DC,20003,,,2024-07-31,75.00,0.00,Per Diem ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1490,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-08-04,853.20,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1496,,,ORG,Democracy Engine LLC ,,,,,,237 Florida Ave. NW,,Washington,DC,20001,,,2024-08-07,2500.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1507,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-08-11,2737.63,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1515,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-08-18,809.75,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1518,,,ORG,Democracy Engine LLC ,,,,,,237 Florida Ave. NW,,Washington,DC,20001,,,2024-08-19,953.10,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1542,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-08-25,3596.48,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1552,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-08-29,1066.50,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1555,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-08-31,7998.75,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1568,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-09-01,632.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1562,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-09-05,515.70,0.00,Generic Cmte. Events/Meetings,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1562-10000,SB21B-1562,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-05,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1562-20000,SB21B-1562,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-05,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1562-30000,SB21B-1562,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-05,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1562-40000,SB21B-1562,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-05,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1562-50000,SB21B-1562,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-05,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1562-60000,SB21B-1562,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-05,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1563,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-09-05,18.25,0.00,Generic Cmte. Printing,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1563-10000,SB21B-1563,SB21B,ORG,Fedex,,,,,,"905 E Washington St., Ste. 101",,Petaluma,CA,94952,,,2024-09-05,18.25,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-09-05,3410.25,0.00,Travel ,002,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1564-10000,SB21B-1564,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd.,,Fort Worth,TX,76155,,,2024-09-05,286.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-20000,SB21B-1564,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd.,,Fort Worth,TX,76155,,,2024-09-05,362.94,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-30000,SB21B-1564,SB21B,ORG,Delta,,,,,,1030 Delta Blvd.,,Atlanta,GA,30320,,,2024-09-05,305.15,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-40000,SB21B-1564,SB21B,ORG,Egencia,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-05,358.34,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-50000,SB21B-1564,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-05,11.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-60000,SB21B-1564,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-05,2.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-70000,SB21B-1564,SB21B,ORG,Exxon,,,,,,450 Larkfield Rd.,,East Northport,NY,11731,,,2024-09-05,30.01,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-80000,SB21B-1564,SB21B,ORG,St. Regis Hotel,,,,,,1919 Briar Oaks Ln.,,Houston,TX,77027,,,2024-09-05,1886.81,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-90000,SB21B-1564,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-09-05,134.79,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-100000,SB21B-1564,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2024-09-05,20.21,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-110000,SB21B-1564,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-05,11.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1564-120000,SB21B-1564,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-05,2.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1588,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-09-08,3209.66,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1611,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-09-15,2781.99,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1627,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-09-22,2917.01,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1635,,,ORG,"Corcoran Caterers, Inc. ",,,,,,2401 Montgomery St.,,Silver Spring,MD,20910,,,2024-09-24,6988.48,0.00,Generic Cmte. Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1667,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-09-29,7003.35,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1670,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2024-09-30,829.50,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-1640,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-09-30,246.85,0.00,Generic Cmte. Events/Meetings,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1640-10000,SB21B-1640,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-30,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1640-20000,SB21B-1640,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-30,74.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1640-30000,SB21B-1640,SB21B,ORG,Goldbelly,,,,,,"27 Union Sq. W, Unit 500",,New York,NY,10003,,,2024-09-30,85.95,0.00,Generic Cmte. Events/Meetings,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1641,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-09-30,7.90,0.00,Generic Cmte. Printing,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1641-10000,SB21B-1641,SB21B,ORG,UPS,,,,,,1717 N Akard St.,,Dallas,TX,75201,,,2024-09-30,7.90,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2024-09-30,865.29,0.00,Travel ,002,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-1642-10000,SB21B-1642,SB21B,ORG,AA Wifi,,,,,,1 Skyview Dr.,,Fort Worth,TX,76155,,,2024-09-30,19.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-20000,SB21B-1642,SB21B,ORG,AA Wifi,,,,,,1 Skyview Dr.,,Fort Worth,TX,76155,,,2024-09-30,21.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-30000,SB21B-1642,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr.,,Fort Worth,TX,76155,,,2024-09-30,75.01,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-40000,SB21B-1642,SB21B,ORG,Egencia,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-30,179.17,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-50000,SB21B-1642,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-30,2.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-60000,SB21B-1642,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2024-09-30,11.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-70000,SB21B-1642,SB21B,ORG,Fairmont Hotels,,,,,,1717 N Akard St.,,Dallas,TX,75201,,,2024-09-30,35.32,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-80000,SB21B-1642,SB21B,ORG,Fairmont Hotels,,,,,,1717 N Akard St.,,Dallas,TX,75201,,,2024-09-30,283.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-90000,SB21B-1642,SB21B,ORG,Fairmont Hotels,,,,,,1717 N Akard St.,,Dallas,TX,75201,,,2024-09-30,15.16,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-100000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,40.55,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-110000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,21.74,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-120000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,6.08,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-130000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,50.94,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-140000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,19.06,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-150000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,21.78,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-160000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,58.22,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-170000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,3.26,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-1642-180000,SB21B-1642,SB21B,ORG,Uber,,,,,,"1455 Market St., Unit 400",,San Francisco,CA,94103,,,2024-09-30,3.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry

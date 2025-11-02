@@ -1,0 +1,33 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00652164,500611113,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-01-05,8233.62,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500634140,500611113,SB21B,ORG,Bethesda Bagels,,,,,,120 M St SE,,Washington,DC,200033515,,,2024-01-05,439.56,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634150,500611113,SB21B,ORG,Mac Murphy's,,,,,,8 Godwin Ave,,Ridgewood,NJ,074503706,,,2024-01-05,315.28,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634170,500611113,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-01-05,5.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634141,500611113,SB21B,ORG,The Capital Grille,,,,,,601 Pennsylvania Ave NW,,Washington,DC,200042601,,,2024-01-05,24.80,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634142,500611113,SB21B,ORG,The Capital Grille,,,,,,601 Pennsylvania Ave NW,,Washington,DC,200042601,,,2024-01-05,232.25,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634143,500611113,SB21B,ORG,The Capital Grille,,,,,,601 Pennsylvania Ave NW,,Washington,DC,200042601,,,2024-01-05,78.45,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634145,500611113,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-01-05,498.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634166,500611113,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-01-05,198.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634167,500611113,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-01-05,36.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634168,500611113,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-01-05,27.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634139,500611113,SB21B,ORG,Hard Rock Hotel & Casino,,,,,,1000 Boardwalk,,Atlantic City,NJ,084017415,,,2024-01-05,5760.25,0.00,Venue Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500634169,500611113,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-01-05,5.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500609543,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-01-02,905.01,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500609454,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-01-02,3111.05,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500609450,500609454,SB21B,IND,,Chamas,Madison,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-01-02,817.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500609451,500609454,SB21B,IND,,Martin,Edward,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-01-02,565.49,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500609452,500609454,SB21B,IND,,Pardee,Daniel,,,,2801 Adams Mill Rd NW,Apt 403,Washington,DC,200092213,,,2024-01-02,1162.74,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500609453,500609454,SB21B,IND,,Smith,Jamie,,,,918 Stokes Ave,,Collingswood,NJ,081083239,,,2024-01-02,565.49,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500614665,,,ORG,The Frost Group,,,,,,660 Pennsylvania Ave SE,Ste 202,Washington,DC,200034357,,,2024-01-17,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500614666,,,IND,,Szott,Ryne,C.,,,7 Medford Pl,,Wayne,NJ,074705313,,,2024-01-16,500.00,0.00,Driving Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500631667,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-01-25,62.82,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500614667,,,ORG,MS Public Affairs LLC,,,,,,38 Rea Avenue Ext,,Hawthorne,NJ,075063334,,,2024-01-16,5000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500619948,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-01-12,918.66,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500614929,,,IND,,Szott,Ryne,C.,,,7 Medford Pl,,Wayne,NJ,074705313,,,2024-01-17,500.00,0.00,Driving Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500614639,,,IND,,Martin,Edward,Jassi,,,25 Laurel Pl,,Montclair,NJ,070431212,,,2024-01-17,352.94,0.00,Travel Reimbursement - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500614642,500614639,SB21B,ORG,AmTrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2024-01-17,320.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500619949,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-01-12,3097.42,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500619950,500619949,SB21B,IND,,Chamas,Madison,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-01-12,813.74,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500619951,500619949,SB21B,IND,,Martin,Edward,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-01-12,563.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500619952,500619949,SB21B,IND,,Pardee,Daniel,,,,2801 Adams Mill Rd NW,Apt 403,Washington,DC,200092213,,,2024-01-12,1157.48,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500619953,500619949,SB21B,IND,,Smith,Jamie,,,,918 Stokes Ave,,Collingswood,NJ,081083239,,,2024-01-12,563.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*

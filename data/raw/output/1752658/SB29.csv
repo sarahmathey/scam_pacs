@@ -1,0 +1,932 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00725820,500159325,,,ORG,202 Consulting Solutions LLC,,,,,,1050 30Th St NW,,Washington,DC,200073822,,,2023-07-13,7413.12,0.00,TV Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160723,,,ORG,202 Consulting Solutions LLC,,,,,,1050 30Th St NW,,Washington,DC,200073822,,,2023-07-20,17000.00,0.00,TV Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160724,,,ORG,202 Consulting Solutions LLC,,,,,,1050 30Th St NW,,Washington,DC,200073822,,,2023-07-20,1365.76,0.00,TV Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164807,,,ORG,202 Consulting Solutions LLC,,,,,,1050 30Th St NW,,Washington,DC,200073822,,,2023-11-06,11112.00,0.00,TV Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165778,,,ORG,202 Consulting Solutions LLC,,,,,,1050 30Th St NW,,Washington,DC,200073822,,,2023-11-09,3704.00,0.00,TV Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158860,,,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-07-05,339.96,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160688,,,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-08-03,339.96,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163058,,,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-09-05,339.96,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163747,,,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-10-03,339.96,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164808,,,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-11-03,339.96,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159131,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-01,16102.31,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159132,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-01,3486.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159151,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-01,27286.13,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159150,500159151,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-07-01,2630.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159152,500159151,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-07-01,3910.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159153,500159151,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-07-01,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159154,500159151,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-07-01,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159155,500159151,SB29,IND,,Strand,Terrace,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-07-01,5259.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159156,500159151,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-07-01,2731.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159157,500159151,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-07-01,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159028,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-07,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159133,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-14,3486.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159134,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-14,16102.29,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159136,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-14,27286.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159135,500159136,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-07-14,2630.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159137,500159136,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-07-14,3910.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159145,500159136,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-07-14,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159146,500159136,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-07-14,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159147,500159136,SB29,IND,,Strand,Terrace,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-07-14,5259.72,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159148,500159136,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-07-14,2731.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159149,500159136,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-07-14,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159434,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-14,43.20,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159419,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-21,376.37,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160721,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-28,279.68,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160722,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-07-28,409.89,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161238,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-01,27286.13,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161239,500161238,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-08-01,2630.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161240,500161238,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-08-01,3910.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161241,500161238,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-08-01,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161242,500161238,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-08-01,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161243,500161238,SB29,IND,,Strand,Terrace,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-08-01,5259.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161244,500161238,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-08-01,2731.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161245,500161238,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-08-01,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162015,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-01,16102.31,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163364,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-03,3486.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160965,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-11,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161246,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-15,27304.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161247,500161246,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-08-15,2630.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161248,500161246,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-08-15,3910.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161249,500161246,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-08-15,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161250,500161246,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-08-15,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161251,500161246,SB29,IND,,Strand,Terrace,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-08-15,5278.32,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161252,500161246,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-08-15,2731.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500161253,500161246,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-08-15,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162016,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-15,16083.69,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167153,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-15,27304.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167152,500167153,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-08-15,2630.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500167154,500167153,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-08-15,3910.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500167155,500167153,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-08-15,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500167156,500167153,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-08-15,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500167157,500167153,SB29,IND,,Strand,Terrace,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-08-15,5278.32,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500167159,500167153,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-08-15,2731.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500167158,500167153,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-08-15,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163721,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-17,3486.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163722,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-18,3486.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167160,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-18,47.44,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161786,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-08-25,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161789,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-01,278.54,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162017,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-01,16051.31,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162967,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-01,27350.02,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162966,500162967,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-09-01,2630.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162968,500162967,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-09-01,3922.99,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162969,500162967,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-09-01,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162970,500162967,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-09-01,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162971,500162967,SB29,IND,,Strand,Terrace,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-09-01,5310.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162972,500162967,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-09-01,2731.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162973,500162967,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-09-01,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162293,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-06,3486.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162965,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-08,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162964,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-15,12748.67,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162976,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-15,22244.14,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162975,500162976,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-09-15,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162977,500162976,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-09-15,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162978,500162976,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-09-15,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162979,500162976,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-09-15,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162980,500162976,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-09-15,2772.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500162981,500162976,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-09-15,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163082,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-19,2610.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163352,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-22,398.41,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163341,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-29,272.71,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163803,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-29,24289.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163802,500163803,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-09-29,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163804,500163803,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-09-29,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163805,500163803,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-09-29,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163809,500163803,SB29,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-09-29,2045.15,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163806,500163803,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-09-29,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163807,500163803,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-09-29,2772.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500163808,500163803,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-09-29,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500167093,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-09-29,13454.69,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166443,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-03,2610.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163761,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-06,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164494,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-14,24185.23,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164500,500164494,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-10-14,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164503,500164494,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-10-14,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164504,500164494,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-10-14,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164505,500164494,SB29,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-10-14,1941.09,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164514,500164494,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-10-14,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164516,500164494,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-10-14,2772.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164517,500164494,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-10-14,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166442,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-14,13433.75,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164814,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-18,2860.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164521,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-20,376.37,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164522,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-26,291.02,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164523,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-10-27,286.40,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163811,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-01,13433.75,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164797,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-01,24185.23,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164796,500164797,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-11-01,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164798,500164797,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-11-01,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164809,500164797,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-11-01,4036.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164810,500164797,SB29,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-11-01,1941.09,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164811,500164797,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-11-01,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164812,500164797,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-11-01,2772.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164813,500164797,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-11-01,5628.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500164815,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-03,2860.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165781,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-10,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165906,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-15,24780.43,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165910,500165906,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-11-15,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500165912,500165906,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-11-15,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500165913,500165906,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-11-15,4333.66,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500165914,500165906,SB29,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-11-15,1941.09,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500165916,500165906,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-11-15,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500165917,500165906,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-11-15,2772.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500165918,500165906,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-11-15,5926.31,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168392,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-15,12240.35,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166804,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-17,2860.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166805,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-17,56.92,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166806,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-11-24,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166540,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-01,25131.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166542,500166540,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-12-01,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166543,500166540,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-12-01,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166544,500166540,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-12-01,4501.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166545,500166540,SB29,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-12-01,1941.09,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166546,500166540,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-12-01,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166547,500166540,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-12-01,2789.13,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166548,500166540,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-12-01,6093.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500166803,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-01,11542.21,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166814,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-01,281.82,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167045,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-05,2860.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167044,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-08,319.45,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168007,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-15,25131.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168009,500168007,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-12-15,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168010,500168007,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-12-15,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168011,500168007,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-12-15,4501.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168012,500168007,SB29,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-12-15,1941.09,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168013,500168007,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-12-15,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168014,500168007,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-12-15,2789.13,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168015,500168007,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-12-15,6093.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168008,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-15,11542.21,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168956,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-19,2860.00,0.00,401K Benefits,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168550,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-22,376.37,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168549,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-29,11542.21,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168551,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-29,280.60,0.00,Payroll Service Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168594,,,ORG,ADP,,,,,,600 Corporate Pointe,,Culver City,CA,902307600,,,2023-12-29,25131.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168595,500168594,SB29,IND,,Germain,Philip,,,,21606 Grovepark Dr,,Saugus,CA,913501612,,,2023-12-29,2779.75,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168596,500168594,SB29,IND,,Graeter,Brandon,,,,22 Scholes St,Apt 3R,Brooklyn,NY,112061840,,,2023-12-29,3937.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168597,500168594,SB29,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-12-29,4501.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168598,500168594,SB29,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-12-29,1941.09,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168599,500168594,SB29,IND,,Salkowitz,Kate,,,,400 K St NW,Apt 712,Washington,DC,200013085,,,2023-12-29,3089.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168600,500168594,SB29,IND,,Taylor,Jeffrey,,,,142 Olentangy St,,Columbus,OH,432022341,,,2023-12-29,2789.13,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168601,500168594,SB29,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-12-29,6093.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution account
+SB29,C00725820,500159025,,,ORG,Amazon.Com,,,,,,440 Terry Ave N,,Seattle,WA,981700003,,,2023-07-03,16.62,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160695,,,ORG,Amazon.Com,,,,,,440 Terry Ave N,,Seattle,WA,981700003,,,2023-08-03,15.75,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162320,,,ORG,Amazon.Com,,,,,,440 Terry Ave N,,Seattle,WA,981700003,,,2023-09-05,7.37,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163757,,,ORG,Amazon.Com,,,,,,440 Terry Ave N,,Seattle,WA,981700003,,,2023-10-03,7.16,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166438,,,ORG,Amazon.Com,,,,,,440 Terry Ave N,,Seattle,WA,981700003,,,2023-11-20,0.49,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159023,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-07-07,9.99,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160744,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-08-09,9.99,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162322,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-09-08,9.99,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163348,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-10-02,49.99,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163759,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-10-09,9.99,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164277,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-10-13,2.99,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164278,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-10-16,16.95,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166429,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-11-14,19.94,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166430,,,ORG,Apple Store,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2023-11-20,99.99,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160669,,,ORG,ARC South LLC,,,,,,113 S Service Rd,,Jericho,NY,117531046,,,2023-07-31,46410.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161762,,,ORG,Avis,,,,,,379 Parsippany Rd,,Parsippany,NJ,070545111,,,2023-08-22,613.92,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163296,,,ORG,Avis,,,,,,379 Parsippany Rd,,Parsippany,NJ,070545111,,,2023-10-02,385.52,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166424,,,ORG,Avis,,,,,,379 Parsippany Rd,,Parsippany,NJ,070545111,,,2023-11-17,14.57,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162454,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-08-01,26600.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162455,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-08-08,11000.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162456,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-09-11,8400.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163034,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-09-19,2600.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166448,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-10-11,10500.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164275,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-10-18,4200.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168393,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-11-20,4200.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167046,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-12-05,4200.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168016,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-12-13,5550.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168573,,,ORG,Big If True Media LLC,,,,,,3526 Calumet Trl,,Michigan City,IN,463601055,,,2023-12-28,4200.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163345,,,ORG,Blacklane,,,,,,Feurigstrasse 59,,Berlin 10827 Germany,ZZ,00000,,,2023-09-29,200.36,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163346,,,ORG,Blacklane,,,,,,Feurigstrasse 59,,Berlin 10827 Germany,ZZ,00000,,,2023-09-29,146.41,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163754,,,ORG,Blacklane,,,,,,Feurigstrasse 59,,Berlin 10827 Germany,ZZ,00000,,,2023-10-02,186.59,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163755,,,ORG,Blacklane,,,,,,Feurigstrasse 59,,Berlin 10827 Germany,ZZ,00000,,,2023-10-02,221.07,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164518,,,ORG,"Books-A-Millions, Inc",,,,,,402 Industrial Ln,,Birmingham,AL,352114465,,,2023-10-25,19199.88,0.00,Fundraising Expenses,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164769,,,ORG,"Books-A-Millions, Inc",,,,,,402 Industrial Ln,,Birmingham,AL,352114465,,,2023-11-02,5913.18,0.00,Fundraising Expenses,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159169,,,ORG,Boost Outdoor Media,,,,,,300 Brickstone Sq,Ste 201,Andover,MA,018101497,,,2023-07-12,5500.00,0.00,Digital Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159024,,,ORG,Canva,,,,,,75 E Santa Clara St,,San Jose,CA,951131827,,,2023-07-07,22.53,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159029,,,ORG,Capitol Compliance Associates Inc,,,,,,PO Box 15293,,Washington,DC,200030293,,,2023-07-06,25000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160733,,,ORG,Capitol Compliance Associates Inc,,,,,,PO Box 15293,,Washington,DC,200030293,,,2023-08-08,25000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162398,,,ORG,Capitol Compliance Associates Inc,,,,,,PO Box 15293,,Washington,DC,200030293,,,2023-09-11,25000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166449,,,ORG,Capitol Compliance Associates Inc,,,,,,PO Box 15293,,Washington,DC,200030293,,,2023-10-10,25000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166425,,,ORG,Capitol Compliance Associates Inc,,,,,,PO Box 15293,,Washington,DC,200030293,,,2023-11-17,14539.69,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167042,,,ORG,Capitol Compliance Associates Inc,,,,,,PO Box 15293,,Washington,DC,200030293,,,2023-12-05,14569.78,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160546,,,IND,,Caron,Katherine,,,,79 Greenhaven Rd,,Rye,NY,105802249,,,2023-08-01,2500.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161898,,,IND,,Caron,Katherine,,,,79 Greenhaven Rd,,Rye,NY,105802249,,,2023-09-01,2500.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163299,,,IND,,Caron,Katherine,,,,79 Greenhaven Rd,,Rye,NY,105802249,,,2023-09-29,500.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164618,,,IND,,Caron,Katherine,,,,79 Greenhaven Rd,,Rye,NY,105802249,,,2023-11-01,500.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166809,,,IND,,Caron,Katherine,,,,79 Greenhaven Rd,,Rye,NY,105802249,,,2023-12-01,500.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168568,,,IND,,Caron,Katherine,,,,79 Greenhaven Rd,,Rye,NY,105802249,,,2023-12-29,500.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159041,,,IND,,Carter,Hannah,,,,15 Via Asalea,,San Clemente,CA,926735679,,,2023-07-03,952.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163717,,,IND,,Carter,Hannah,,,,15 Via Asalea,,San Clemente,CA,926735679,,,2023-08-01,255.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163335,,,IND,,Carter,Hannah,,,,15 Via Asalea,,San Clemente,CA,926735679,,,2023-09-29,314.50,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160720,,,ORG,Clare Locke LLP,,,,,,10 Prince St,,Alexandria,VA,223143333,,,2023-07-31,31655.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164767,,,ORG,Clare Locke LLP,,,,,,10 Prince St,,Alexandria,VA,223143333,,,2023-11-02,1093.75,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159167,,,ORG,Clockify.Me,,,,,,2100 Geng Rd,Ste 210,Palo Alto,CA,943033307,,,2023-07-12,97.86,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161060,,,ORG,Clockify.Me,,,,,,2100 Geng Rd,Ste 210,Palo Alto,CA,943033307,,,2023-08-12,97.86,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162756,,,ORG,Clockify.Me,,,,,,2100 Geng Rd,Ste 210,Palo Alto,CA,943033307,,,2023-09-12,97.86,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164822,,,ORG,Clockify.Me,,,,,,2100 Geng Rd,Ste 210,Palo Alto,CA,943033307,,,2023-10-12,97.86,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161772,,,ORG,Cloudflare.Com,,,,,,405 Comal St,,Austin,TX,787024865,,,2023-08-04,178.14,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161771,,,ORG,Cloudflare.Com,,,,,,405 Comal St,,Austin,TX,787024865,,,2023-08-09,109.53,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161769,,,ORG,Cloudflare.Com,,,,,,405 Comal St,,Austin,TX,787024865,,,2023-08-10,98.25,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163746,,,ORG,Cloudflare.Com,,,,,,405 Comal St,,Austin,TX,787024865,,,2023-10-03,13.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160725,,,ORG,CNA Insurance,,,,,,421 Office Park Dr,,Mountain Brk,AL,352232411,,,2023-07-24,2653.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168963,,,ORG,Compliance Resource Center,,,,,,5911 Kingstowne Village Pkwy,,Alexandria,VA,223154644,,,2023-12-28,650.00,0.00,Business License Filing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161774,,,ORG,Corpnet.Com,,,,,,31416 Agoura Rd,Ste 118,Westlake Village,CA,913615655,,,2023-08-03,142.00,0.00,State Business Registrations,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161773,,,ORG,Corpnet.Com,,,,,,31416 Agoura Rd,Ste 118,Westlake Village,CA,913615655,,,2023-08-04,448.00,0.00,State Business Registrations,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163720,,,ORG,Corpnet.Com,,,,,,31416 Agoura Rd,Ste 118,Westlake Village,CA,913615655,,,2023-08-10,517.00,0.00,State Business Registrations,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160670,,,ORG,Corporate Filings LLC,,,,,,2345 Storm Cat Ct,,Eldersburg,MD,217846934,,,2023-07-18,9.00,0.00,Business License Filing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161764,,,ORG,Corporate Filings LLC,,,,,,2345 Storm Cat Ct,,Eldersburg,MD,217846934,,,2023-08-18,9.00,0.00,Business License Filing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162895,,,ORG,Corporate Filings LLC,,,,,,2345 Storm Cat Ct,,Eldersburg,MD,217846934,,,2023-09-18,9.00,0.00,Business License Filing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164276,,,ORG,Corporate Filings LLC,,,,,,2345 Storm Cat Ct,,Eldersburg,MD,217846934,,,2023-10-18,9.00,0.00,Business License Filing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166435,,,ORG,Corporate Filings LLC,,,,,,2345 Storm Cat Ct,,Eldersburg,MD,217846934,,,2023-11-17,9.00,0.00,Business License Filing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162757,,,ORG,David Konigsberg LLC,,,,,,103 Warren St,,Hudson,NY,125343118,,,2023-09-11,500.00,0.00,Field Organizing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163292,,,ORG,David Konigsberg LLC,,,,,,103 Warren St,,Hudson,NY,125343118,,,2023-09-29,500.00,0.00,Field Organizing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164620,,,ORG,David Konigsberg LLC,,,,,,103 Warren St,,Hudson,NY,125343118,,,2023-11-01,500.00,0.00,Field Organizing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166808,,,ORG,David Konigsberg LLC,,,,,,103 Warren St,,Hudson,NY,125343118,,,2023-12-01,500.00,0.00,Field Organizing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168567,,,ORG,David Konigsberg LLC,,,,,,103 Warren St,,Hudson,NY,125343118,,,2023-12-29,500.00,0.00,Field Organizing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159039,,,IND,,Donovan,Layne,,,,2436 N 69Th St,,Wauwatosa,WI,532131314,,,2023-07-03,613.87,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160654,,,IND,,Donovan,Layne,,,,2436 N 69Th St,,Wauwatosa,WI,532131314,,,2023-08-01,1125.06,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162288,,,IND,,Donovan,Layne,,,,2436 N 69Th St,,Wauwatosa,WI,532131314,,,2023-09-05,1275.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163339,,,IND,,Donovan,Layne,,,,2436 N 69Th St,,Wauwatosa,WI,532131314,,,2023-09-29,799.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168619,,,ORG,Double Dragon MKE,,,,,,3411 S 108Th St,,Milwaukee,WI,532274025,,,2023-12-20,1000.00,0.00,Event Rental Space,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164818,,,ORG,Dropbox,,,,,,333 Brannan St,,San Francisco,CA,941071810,,,2023-11-01,155.41,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159111,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,,Washington,DC,200015823,,,2023-07-11,10962.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160964,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,,Washington,DC,200015823,,,2023-08-11,2353.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162755,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,,Washington,DC,200015823,,,2023-09-13,7231.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164273,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,,Washington,DC,200015823,,,2023-10-16,15807.15,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164274,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,,Washington,DC,200015823,,,2023-10-16,1756.35,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166428,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,,Washington,DC,200015823,,,2023-11-20,6687.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168017,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,,Washington,DC,200015823,,,2023-12-13,5391.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162291,,,IND,,Everett,Kyana,,,,707 Seigle Ave,Apt 604,Charlotte,NC,282045030,,,2023-09-05,608.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163340,,,IND,,Everett,Kyana,,,,707 Seigle Ave,Apt 604,Charlotte,NC,282045030,,,2023-09-29,503.50,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164679,,,IND,,Everett,Kyana,,,,707 Seigle Ave,Apt 604,Charlotte,NC,282045030,,,2023-11-01,194.75,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166825,,,IND,,Everett,Kyana,,,,707 Seigle Ave,Apt 604,Charlotte,NC,282045030,,,2023-12-01,155.23,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168580,,,IND,,Everett,Kyana,,,,707 Seigle Ave,Apt 604,Charlotte,NC,282045030,,,2023-12-29,200.64,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164041,,,ORG,GoDaddy,,,,,,2150 E Warner Rd,,Tempe,AZ,852843401,,,2023-09-24,174.46,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158805,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-01,14.13,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158806,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-01,1012.83,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159433,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-14,1193.54,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160719,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-19,6.36,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160659,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-02,1012.83,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160660,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-02,14.14,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163723,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-29,12.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162013,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-30,12.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162014,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-09-01,1012.83,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162989,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-09-05,14.18,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163750,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-01,3.82,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163751,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-01,1012.83,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163752,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-01,14.17,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163760,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-01,828.89,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164819,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-01,1012.83,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164820,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-01,6.36,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164821,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-01,13.59,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168957,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-06,3243.48,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168561,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-18,1012.83,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168562,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-21,6.36,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168563,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-22,13.59,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159109,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-07-11,1853.59,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160718,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-07-31,6475.79,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161097,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-08-14,4193.47,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161693,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-08-23,536.04,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162326,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-09-08,2047.28,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163342,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-09-29,6002.78,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163738,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-10-05,4462.71,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166447,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-10-10,2798.40,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164513,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-10-24,14013.71,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164515,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-10-24,18495.22,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164766,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-11-02,5739.91,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165780,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-11-09,17369.86,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168018,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-12-13,14640.00,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168576,,,ORG,Grossman Marketing Group,,,,,,30 Cobble Hill Rd,,Somerville,MA,021434412,,,2023-12-20,813.07,0.00,Campaign Merchandise,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159416,,,ORG,Holland & Hart LLP,,,,,,222 S Main St,Ste 2200,Salt Lake City,UT,841012194,,,2023-07-14,9416.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160717,,,ORG,Holland & Hart LLP,,,,,,222 S Main St,Ste 2200,Salt Lake City,UT,841012194,,,2023-07-31,287.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162009,,,ORG,Holland & Hart LLP,,,,,,222 S Main St,Ste 2200,Salt Lake City,UT,841012194,,,2023-09-01,3510.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166450,,,ORG,Holland & Hart LLP,,,,,,222 S Main St,Ste 2200,Salt Lake City,UT,841012194,,,2023-10-10,4616.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164770,,,ORG,Holland & Hart LLP,,,,,,222 S Main St,Ste 2200,Salt Lake City,UT,841012194,,,2023-11-02,5750.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168958,,,ORG,Holland & Hart LLP,,,,,,222 S Main St,Ste 2200,Salt Lake City,UT,841012194,,,2023-12-05,4916.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167043,,,ORG,Holland & Hart LLP,,,,,,222 S Main St,Ste 2200,Salt Lake City,UT,841012194,,,2023-12-20,117.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159030,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-07-03,558.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160656,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-08-01,954.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162290,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-09-05,522.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163337,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-09-29,590.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164680,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-11-01,1320.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164816,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-11-01,1320.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166824,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-12-01,1283.20,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168571,,,IND,,Hurley,Alice,,,,508 Upland Pl,,Alexandria,VA,223012742,,,2023-12-29,1360.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159054,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-07-03,50000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160079,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-07-21,869.10,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160645,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-08-01,50000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161891,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-09-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163036,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-09-19,978.20,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163289,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-09-29,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163727,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-10-02,808.20,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163729,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-10-04,1476.26,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164630,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-11-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166818,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-12-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168577,,,ORG,Intrepid Media,,,,,,210 Mill Branch Rd,,Tallahassee,FL,323121504,,,2023-12-29,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160671,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-07-07,90.10,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163719,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-08-07,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162990,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-09-07,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163748,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-10-09,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164825,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-11-07,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167047,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-12-07,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159052,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-07-03,21000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160215,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-07-25,21000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160648,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-07-31,2454.44,0.00,Fundraising Expenses,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161846,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-08-28,21000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162284,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-09-06,1652.42,0.00,Fundraising Expenses,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163290,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-09-29,21000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163737,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-10-05,1438.71,0.00,Fundraising Expenses,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164624,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-11-01,21000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164768,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-11-02,948.06,0.00,Fundraising Expenses,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166813,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-12-01,21000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168019,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-12-13,3401.45,0.00,Fundraising Expenses,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168579,,,ORG,Katz Watson Group Inc,,,,,,201 Massachusetts Ave NE,Ste C8,Washington,DC,200024988,,,2023-12-29,21000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163728,,,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-10-04,566.93,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500172259,500163728,SB29,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2023-10-04,86.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500172260,500163728,SB29,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2023-10-04,215.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500172261,500163728,SB29,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2023-10-04,265.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500168251,,,IND,,Kinney-Urso,Michelle,L.,,,412 W 110Th St,Apt 124,New York,NY,100252407,,,2023-12-15,2505.00,0.00,Event Ticket Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168250,500168251,SB29,ORG,Webby Awards,,,,,,22 W 21St St,Fl 7,New York,NY,100106904,,,2023-12-15,2505.00,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159031,,,IND,,Leach,Brennan,,,,421 Alderbrook Dr,,Wayne,PA,190872247,,,2023-07-03,152.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159044,,,IND,,Lee,Matthew,,,,783 41St Ave,,San Francisco,CA,941213318,,,2023-07-03,3500.00,0.00,TV Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160643,,,IND,,Lee,Matthew,,,,783 41St Ave,,San Francisco,CA,941213318,,,2023-08-01,3500.00,0.00,TV Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161893,,,IND,,Lee,Matthew,,,,783 41St Ave,,San Francisco,CA,941213318,,,2023-09-01,3500.00,0.00,TV Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163288,,,IND,,Lee,Matthew,,,,783 41St Ave,,San Francisco,CA,941213318,,,2023-09-29,3500.00,0.00,TV Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164674,,,IND,,Lee,Matthew,,,,783 41St Ave,,San Francisco,CA,941213318,,,2023-11-01,3500.00,0.00,TV Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166827,,,IND,,Lee,Matthew,,,,783 41St Ave,,San Francisco,CA,941213318,,,2023-12-01,3500.00,0.00,TV Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168585,,,IND,,Lee,Matthew,,,,783 41St Ave,,San Francisco,CA,941213318,,,2023-12-29,3500.00,0.00,TV Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159334,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-07-12,31154.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159362,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-07-13,2000.00,0.00,Digital Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160674,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-07-31,1372.81,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160716,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-07-31,2000.00,0.00,Digital Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163712,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-07-31,4861.20,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163716,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-08-03,28768.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161554,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-08-23,2000.00,0.00,Digital Advertising - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162325,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-09-08,30958.60,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163736,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-10-04,20832.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163739,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-10-04,10000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164501,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-10-24,2500.00,0.00,Digital Advertising- Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164772,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-11-02,27323.48,0.00,Digital Advertising- Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168570,,,ORG,Lever Communications (FKA Joe Trippi & Associates Inc),,,,,,PO Box 93,,Wittman,MD,216760093,,,2023-12-13,61369.00,0.00,Digital Advertising- Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159053,,,IND,,Levine,Riley,,,,8900 W 26Th Ave,,Lakewood,CO,802151759,,,2023-07-03,2113.13,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163714,,,IND,,Levine,Riley,,,,8900 W 26Th Ave,,Lakewood,CO,802151759,,,2023-08-02,569.70,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163060,,,IND,,Levine,Riley,,,,8900 W 26Th Ave,,Lakewood,CO,802151759,,,2023-09-15,596.97,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159435,,,ORG,Liberal Art,,,,,,12909 Short Hills Dr,,Clarksburg,MD,208714504,,,2023-07-12,5000.00,0.00,Website Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159027,,,ORG,"Looking Glass Revision, LLC",,,,,,82 Stonewall Bnd,,San Antonio,TX,782561618,,,2023-07-03,5000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160641,,,ORG,"Looking Glass Revision, LLC",,,,,,82 Stonewall Bnd,,San Antonio,TX,782561618,,,2023-08-01,5000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161895,,,ORG,"Looking Glass Revision, LLC",,,,,,82 Stonewall Bnd,,San Antonio,TX,782561618,,,2023-09-01,5000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163298,,,ORG,"Looking Glass Revision, LLC",,,,,,82 Stonewall Bnd,,San Antonio,TX,782561618,,,2023-09-29,5000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164619,,,ORG,"Looking Glass Revision, LLC",,,,,,82 Stonewall Bnd,,San Antonio,TX,782561618,,,2023-11-01,5000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166807,,,ORG,"Looking Glass Revision, LLC",,,,,,82 Stonewall Bnd,,San Antonio,TX,782561618,,,2023-12-01,5000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159077,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-07-09,900.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160663,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-07-31,143.10,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160745,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-08-09,900.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163724,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-08-29,143.10,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162458,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-09-11,900.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163347,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-09-29,143.10,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163753,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-10-09,900.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164676,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-10-29,143.10,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168959,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-12-08,143.10,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168020,,,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2023-12-11,900.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159329,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-07-13,16975.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160714,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-07-21,5675.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170565,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-07-27,-14625.00,0.00,"Media Production Services-Paid on 5.1.23, Disseminated on 7.27.23",,,,,,,,,,,,,,,,,,,,
+SB29,C00725820,500167161,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-08-08,14925.00,0.00,Media Production-Independent Expenditure Released After Reporting Period,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161264,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-08-15,2000.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161662,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-08-22,16750.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163088,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-09-21,15595.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163343,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-09-29,10025.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164622,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-10-31,15825.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164776,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-11-03,15325.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164777,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-11-03,2500.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165779,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-11-09,15425.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166432,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-11-20,6100.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168581,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-12-15,25000.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168582,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-12-27,11500.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168583,,,ORG,Manhattan Creative Group,,,,,,2710 Walnut St,,Denver,CO,802052233,,,2023-12-29,25000.00,0.00,Media Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159045,,,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-07-03,5000.00,0.00,Content Production and Messaging Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160647,,,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-08-01,5000.00,0.00,Content Production and Messaging Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161879,,,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-09-01,5000.00,0.00,Content Production and Messaging Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163282,,,IND,,Mayne,Riley,,,,11545 Holmes Point Dr NE,,Kirkland,WA,980343446,,,2023-09-29,5000.00,0.00,Content Production and Messaging Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166437,,,ORG,Meier Watkins Phillips Pusch LLP,,,,,,1629 K St NW,Ste 300,Washington,DC,200061631,,,2023-11-20,5000.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158752,,,ORG,Message Mountain Productions,,,,,,185 Mcallister Rd,,Stowe,VT,056724624,,,2023-07-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160552,,,ORG,Message Mountain Productions,,,,,,185 Mcallister Rd,,Stowe,VT,056724624,,,2023-08-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163283,,,ORG,Message Mountain Productions,,,,,,185 Mcallister Rd,,Stowe,VT,056724624,,,2023-09-28,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164827,,,ORG,Message Mountain Productions,,,,,,185 Mcallister Rd,,Stowe,VT,056724624,,,2023-11-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168021,,,ORG,Message Mountain Productions,,,,,,185 Mcallister Rd,,Stowe,VT,056724624,,,2023-12-13,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168586,,,ORG,Message Mountain Productions,,,,,,185 Mcallister Rd,,Stowe,VT,056724624,,,2023-12-29,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159043,,,IND,,Minchak,Greg,,,,1711 Massachusetts Ave NW,Unit 428,Washington,DC,20003,,,2023-07-03,8000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160646,,,IND,,Minchak,Greg,,,,1711 Massachusetts Ave NW,Unit 428,Washington,DC,20003,,,2023-08-01,13000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162982,,,IND,,Minchak,Greg,,,,1711 Massachusetts Ave NW,Unit 428,Washington,DC,20003,,,2023-09-01,8000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163300,,,IND,,Minchak,Greg,,,,1711 Massachusetts Ave NW,Unit 428,Washington,DC,20003,,,2023-09-29,10000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164628,,,IND,,Minchak,Greg,,,,1711 Massachusetts Ave NW,Unit 428,Washington,DC,20003,,,2023-11-01,10000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166817,,,IND,,Minchak,Greg,,,,1711 Massachusetts Ave NW,Unit 428,Washington,DC,20003,,,2023-12-01,10000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168575,,,IND,,Minchak,Greg,,,,1711 Massachusetts Ave NW,Unit 428,Washington,DC,20003,,,2023-12-29,10000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160661,,,ORG,Motion Array,,,,,,235 Ponce De Leon Pl,,Decatur,GA,300303258,,,2023-08-01,239.88,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159032,,,IND,,Murray,Bridger,,,,32 Lincoln Park,,San Anselmo,CA,949602561,,,2023-07-03,34.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159013,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-01,1129.62,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159014,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-03,909.42,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159015,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-04,1142.02,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159849,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-05,484.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159852,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-08,432.26,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159076,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-09,5250.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159853,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-09,360.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159854,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-10,1051.31,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159855,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-11,282.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159856,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-12,504.20,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159857,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-15,274.26,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159858,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-16,304.38,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159859,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-17,1610.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159860,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-18,432.91,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160677,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-19,1284.17,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160678,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-22,327.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160679,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-23,313.03,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160680,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-24,846.82,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160681,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-25,492.51,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160682,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-26,337.82,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160662,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-27,5250.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160683,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-29,366.20,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160684,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-30,627.27,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160685,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-07-31,1425.49,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160736,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-02,518.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160737,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-02,364.20,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160738,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-05,513.17,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160739,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-06,2107.22,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160740,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-07,1037.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161254,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-09,612.15,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161255,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-09,389.01,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161256,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-12,388.71,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161257,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-13,268.82,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161258,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-14,779.77,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161525,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-15,740.86,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161526,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-16,370.38,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161753,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-19,683.18,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161754,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-20,542.17,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161755,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-21,1128.33,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161756,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-22,281.71,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161757,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-23,450.54,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162002,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-26,677.95,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162003,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-27,516.68,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161791,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-28,5250.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162004,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-28,1216.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162005,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-29,564.63,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162301,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-08-30,658.92,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162780,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-03,561.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162781,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-04,647.77,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162782,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-05,1063.98,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162783,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-06,449.93,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162784,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-09,304.36,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162785,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-10,310.28,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162786,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-11,744.67,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162787,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-12,317.94,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163062,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-13,1107.45,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163063,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-16,630.61,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163064,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-17,341.89,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163065,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-18,1235.35,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163179,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-19,1290.12,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163180,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-20,572.43,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163181,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-23,334.31,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163182,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-24,377.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163165,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-25,5250.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163183,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-25,997.56,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163303,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-26,790.72,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163304,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-27,298.49,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163501,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-09-30,400.82,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163762,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-01,363.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163764,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-02,1505.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163766,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-03,313.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163767,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-04,393.63,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164101,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-08,1096.94,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164057,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-09,353.55,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164058,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-10,1754.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164059,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-11,323.33,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164100,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-14,369.69,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164102,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-15,288.14,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164103,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-16,741.10,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164366,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-17,503.79,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164367,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-18,399.14,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164380,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-21,367.95,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164381,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-22,374.45,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164382,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-23,759.55,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164520,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-23,5250.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164525,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-24,372.77,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164526,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-25,613.87,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164746,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-28,710.05,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164747,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-29,646.81,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164748,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-30,1536.67,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164779,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-10-31,275.64,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164780,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-01,532.09,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164790,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-04,427.71,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164791,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-05,388.18,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165762,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-06,1746.73,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165763,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-07,877.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165764,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-08,553.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165765,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-11,694.59,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165766,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-12,436.02,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166086,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-13,1040.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166087,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-14,292.86,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166260,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-15,307.56,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166415,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-18,394.54,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166416,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-19,480.09,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166420,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-20,1535.56,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166417,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-22,726.49,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168397,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-24,5250.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166418,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-25,258.74,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166419,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-26,406.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166555,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-27,1082.29,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166556,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-28,711.97,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166695,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-11-29,657.95,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166950,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-02,1670.38,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166951,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-03,1860.07,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166952,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-04,1423.31,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167003,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-05,855.64,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167004,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-06,688.04,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167150,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-09,530.61,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167151,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-10,545.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167655,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-11,923.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167656,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-12,334.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167814,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-13,1018.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168244,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-16,930.73,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168245,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-17,448.83,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168453,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-18,1934.05,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168454,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-19,823.56,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168485,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-20,948.47,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168486,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-24,801.91,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168487,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-25,1472.17,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168488,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-26,1903.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168660,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-27,1010.18,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168553,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-29,5250.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168661,,,ORG,NationBuilder,,,,,,PO Box 811428,,Los Angeles,CA,900810008,,,2023-12-31,653.44,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159432,,,ORG,New York Times,,,,,,620 Eighth Ave,,New York,NY,100181618,,,2023-07-14,17.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161767,,,ORG,New York Times,,,,,,620 Eighth Ave,,New York,NY,100181618,,,2023-08-11,17.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162319,,,ORG,New York Times,,,,,,620 Eighth Ave,,New York,NY,100181618,,,2023-09-08,17.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163749,,,ORG,New York Times,,,,,,620 Eighth Ave,,New York,NY,100181618,,,2023-10-06,17.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164829,,,ORG,New York Times,,,,,,620 Eighth Ave,,New York,NY,100181618,,,2023-11-02,17.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168554,,,ORG,New York Times,,,,,,620 Eighth Ave,,New York,NY,100181618,,,2023-12-22,20.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168555,,,ORG,New York Times,,,,,,620 Eighth Ave,,New York,NY,100181618,,,2023-12-29,20.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160553,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-08-01,530.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162321,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-09-05,530.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163725,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-10-02,530.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163726,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-10-04,1637.70,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164830,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-11-03,530.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168961,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-12-07,530.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159075,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-07-03,2435.36,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160734,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-08-02,1635.91,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161844,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-08-16,1125.67,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162750,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-09-05,1241.66,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164042,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-09-26,2242.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164054,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-10-01,291.86,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164775,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-11-02,1773.97,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167690,,,ORG,Paypal,,,,,,2211 N 1St St,,San Jose,CA,951312021,,,2023-12-01,2219.96,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160691,,,IND,,Pfeiffer,Ryan,,,,PO Box 67,,Edmonds,WA,980200067,,,2023-08-01,2500.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161897,,,IND,,Pfeiffer,Ryan,,,,PO Box 67,,Edmonds,WA,980200067,,,2023-09-01,2500.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163286,,,IND,,Pfeiffer,Ryan,,,,PO Box 67,,Edmonds,WA,980200067,,,2023-09-29,500.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164617,,,IND,,Pfeiffer,Ryan,,,,PO Box 67,,Edmonds,WA,980200067,,,2023-11-01,500.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166810,,,IND,,Pfeiffer,Ryan,,,,PO Box 67,,Edmonds,WA,980200067,,,2023-12-01,500.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168566,,,IND,,Pfeiffer,Ryan,,,,PO Box 67,,Edmonds,WA,980200067,,,2023-12-29,500.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163353,,,ORG,Philadelphia Insurance Co,,,,,,1 Bala Plz,Ste 100,Bala Cynwyd,PA,190041401,,,2023-09-20,364.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158803,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-07-05,9158.28,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160712,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-07-19,18316.57,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161553,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-08-16,22895.74,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161552,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-08-18,16085.13,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162285,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-09-06,10175.87,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163035,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-09-19,17807.78,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163734,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-10-02,10175.87,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163735,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-10-04,649.18,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166445,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-10-25,15263.81,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164502,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-11-02,5087.94,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166434,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-11-20,20351.76,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168022,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-12-13,10175.88,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168587,,,ORG,Podcast Village LLC,,,,,,2300 Wisconsin Ave NW,Ste 200A,Washington,DC,200071860,,,2023-12-28,15639.51,0.00,Podcast Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168560,,,ORG,Punchbowl News,,,,,,50 Speen St,Ste 202,Framingham,MA,017011802,,,2023-12-21,350.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161899,,,IND,,Quartz,Evelyn,,,,2965 Waverly Dr,Apt 27,Los Angeles,CA,900392077,,,2023-09-01,5646.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163287,,,IND,,Quartz,Evelyn,,,,2965 Waverly Dr,Apt 27,Los Angeles,CA,900392077,,,2023-09-29,7000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164627,,,IND,,Quartz,Evelyn,,,,2965 Waverly Dr,Apt 27,Los Angeles,CA,900392077,,,2023-11-01,7000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166816,,,IND,,Quartz,Evelyn,,,,2965 Waverly Dr,Apt 27,Los Angeles,CA,900392077,,,2023-12-01,7000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168574,,,IND,,Quartz,Evelyn,,,,2965 Waverly Dr,Apt 27,Los Angeles,CA,900392077,,,2023-12-29,7000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168552,,,ORG,Rev.Com,,,,,,1717 W 6Th St,Ste 310,Austin,TX,787034777,,,2023-12-21,500.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160676,,,ORG,"S.R. Labby, LLP",,,,,,1 Liberty Plz,Ste 2301,New York,NY,100061428,,,2023-07-31,30040.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162286,,,ORG,"S.R. Labby, LLP",,,,,,1 Liberty Plz,Ste 2301,New York,NY,100061428,,,2023-09-06,30040.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163732,,,ORG,"S.R. Labby, LLP",,,,,,1 Liberty Plz,Ste 2301,New York,NY,100061428,,,2023-10-03,30041.00,0.00,legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163730,,,ORG,"S.R. Labby, LLP",,,,,,1 Liberty Plz,Ste 2301,New York,NY,100061428,,,2023-10-04,4731.18,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164771,,,ORG,"S.R. Labby, LLP",,,,,,1 Liberty Plz,Ste 2301,New York,NY,100061428,,,2023-11-02,30040.00,0.00,legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167041,,,ORG,"S.R. Labby, LLP",,,,,,1 Liberty Plz,Ste 2301,New York,NY,100061428,,,2023-12-04,30041.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164279,,,ORG,Shelterpoint,,,,,,1225 Franklin Ave,Ste 475,Garden City,NY,115301650,,,2023-10-16,453.21,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158775,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-03,1.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158884,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-05,7.48,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159021,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-05,111.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158885,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-06,1.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159078,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-10,3.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159079,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-11,6.26,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159171,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-12,2.02,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160728,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-12,2.61,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159444,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-17,8.28,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159796,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-18,12.99,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159797,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-19,2.48,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160318,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-20,3.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160319,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-24,2.70,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160320,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-25,8.18,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160321,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-26,1.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160322,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-27,2.48,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160590,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-07-28,2.48,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160639,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-01,12.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160702,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-02,1.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160703,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-03,2.76,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160704,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-04,9.73,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161777,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-04,111.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160705,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-07,7.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160706,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-08,19.27,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160880,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-09,3.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160881,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-10,2.48,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160902,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-11,5.87,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161778,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-11,8.18,0.00,Shipping,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161478,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-14,1.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161479,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-15,8.74,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161480,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-16,44.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161673,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-17,109.26,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161674,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-18,39.84,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161675,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-21,36.60,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161676,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-22,33.97,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161798,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-23,2.68,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161799,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-24,2.15,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161800,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-25,8.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161852,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-26,31.78,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161853,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-27,3.90,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161793,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-28,82.27,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161801,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-29,2679.77,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162279,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-30,77.83,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162282,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-08-31,52.60,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162295,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-01,65.42,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162986,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-03,111.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162298,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-05,48.18,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162299,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-06,105.93,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162306,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-07,12.84,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162987,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-08,1.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163039,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-11,1.89,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163040,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-12,31.10,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163038,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-13,1.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163041,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-14,3.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163044,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-15,3.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163047,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-15,5.67,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163048,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-18,9.38,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163049,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-19,24.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163173,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-20,5.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163174,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-21,19.71,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163175,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-22,1.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163176,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-25,22.58,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163177,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-26,14.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163178,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-27,7.56,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163355,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-28,6.70,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163349,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-09-29,11.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163591,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-02,16.60,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163592,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-03,8.17,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163778,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-03,111.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163593,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-04,5.81,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163594,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-05,7.04,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163768,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-06,1.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163810,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-08,4.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163812,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-10,8.34,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163813,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-11,34.21,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163814,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-12,3.26,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164036,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-13,3.04,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164039,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-16,3.72,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164040,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-17,10.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164270,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-18,2.87,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164289,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-19,64.01,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164342,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-19,10.09,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164343,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-20,20.54,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164373,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-23,3.45,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164472,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-24,27.36,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164473,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-26,3.38,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164524,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-27,3.78,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164531,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-30,9.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164538,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-10-31,35.79,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164760,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-01,5.54,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164773,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-02,3.84,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164831,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-02,111.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164832,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-03,1.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164788,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-06,3.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164836,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-07,15.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165782,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-08,1.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165753,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-09,6.62,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165754,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-09,10.45,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165755,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-10,7.55,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165756,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-13,1.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166018,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-14,17.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166257,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-15,5.01,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166258,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-16,6.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166259,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-17,4.41,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166398,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-20,5.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166399,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-21,11.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166406,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-22,4.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166412,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-24,4.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166413,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-24,4.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166414,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-27,8.90,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166828,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-28,13.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166557,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-29,4.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166558,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-11-30,4.50,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166880,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-01,5.23,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166878,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-04,2.48,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166953,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-05,22.22,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166954,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-06,5.28,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167049,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-07,17.83,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167048,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-08,111.30,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167050,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-08,18.59,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167311,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-11,5.64,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167312,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-12,20.74,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167654,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-13,11.06,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167691,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-14,15.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168023,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-15,2.68,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168048,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-18,11.10,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168400,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-19,18.86,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168951,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-20,10.05,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168491,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-21,3.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168493,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-22,1.37,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168950,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-26,19.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168495,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-27,27.17,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168496,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-28,1.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168949,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2023-12-29,6.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159128,,,ORG,Shutterstock Inc,,,,,,350 5Th Ave,Fl 21,New York,NY,101182100,,,2023-07-10,99.00,0.00,Media Production Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160746,,,ORG,Shutterstock Inc,,,,,,350 5Th Ave,Fl 21,New York,NY,101182100,,,2023-08-09,99.00,0.00,Media Production Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163334,,,ORG,Shutterstock Inc,,,,,,350 5Th Ave,Fl 21,New York,NY,101182100,,,2023-09-11,99.00,0.00,Media Production Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163758,,,ORG,Shutterstock Inc,,,,,,350 5Th Ave,Fl 21,New York,NY,101182100,,,2023-10-09,99.00,0.00,Media Production Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166444,,,ORG,Shutterstock Inc,,,,,,350 5Th Ave,Fl 21,New York,NY,101182100,,,2023-10-10,49250.00,0.00,Media Production Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159040,,,IND,,Slowinski,Mary,,,,2105 Forestview Rd,,Evanston,IL,602012007,,,2023-07-03,408.50,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160655,,,IND,,Slowinski,Mary,,,,2105 Forestview Rd,,Evanston,IL,602012007,,,2023-08-01,901.55,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162289,,,IND,,Slowinski,Mary,,,,2105 Forestview Rd,,Evanston,IL,602012007,,,2023-09-05,997.50,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163338,,,IND,,Slowinski,Mary,,,,2105 Forestview Rd,,Evanston,IL,602012007,,,2023-09-29,650.75,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164681,,,IND,,Slowinski,Mary,,,,2105 Forestview Rd,,Evanston,IL,602012007,,,2023-11-01,631.75,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166823,,,IND,,Slowinski,Mary,,,,2105 Forestview Rd,,Evanston,IL,602012007,,,2023-12-01,401.85,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168584,,,IND,,Slowinski,Mary,,,,2105 Forestview Rd,,Evanston,IL,602012007,,,2023-12-29,826.50,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160690,,,ORG,SpeechifAI,,,,,,580 5Th Ave,Ste 820,New York,NY,100364762,,,2023-07-26,89.10,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160689,,,ORG,SpeechifAI,,,,,,580 5Th Ave,Ste 820,New York,NY,100364762,,,2023-07-27,202.50,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161784,,,ORG,SpeechifAI,,,,,,580 5Th Ave,Ste 820,New York,NY,100364762,,,2023-08-28,202.50,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161785,,,ORG,SpeechifAI,,,,,,580 5Th Ave,Ste 820,New York,NY,100364762,,,2023-08-28,89.10,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159127,,,ORG,Streamyard,,,,,,2810 N Church St,,Wilmington,DE,198024447,,,2023-07-11,53.99,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161768,,,ORG,Streamyard,,,,,,2810 N Church St,,Wilmington,DE,198024447,,,2023-08-11,53.99,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162457,,,ORG,Streamyard,,,,,,2810 N Church St,,Wilmington,DE,198024447,,,2023-09-11,53.99,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163744,,,ORG,Streamyard,,,,,,2810 N Church St,,Wilmington,DE,198024447,,,2023-10-02,948.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164823,,,ORG,Streamyard,,,,,,2810 N Church St,,Wilmington,DE,198024447,,,2023-10-11,53.99,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168395,,,ORG,Streamyard,,,,,,2810 N Church St,,Wilmington,DE,198024447,,,2023-11-13,53.99,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158776,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-03,0.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158777,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-03,167.05,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159080,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-10,665.61,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159082,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-10,0.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159447,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-17,182.14,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159448,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-17,9.28,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160323,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-24,6.96,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160436,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-24,246.15,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160437,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-31,0.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160442,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-07-31,150.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160707,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-07,0.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160708,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-07,367.45,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161058,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-14,8.73,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161059,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-14,499.38,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161700,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-21,0.77,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161702,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-21,206.05,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161796,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-28,6.77,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161797,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-08-28,140.53,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162309,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-05,0.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162310,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-05,294.83,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162789,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-11,0.56,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162790,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-11,515.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163054,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-18,8.83,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163055,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-18,223.55,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163257,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-25,227.22,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163265,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-09-25,6.96,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163665,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-02,116.06,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163763,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-02,0.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163864,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-10,0.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163865,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-10,640.61,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164051,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-16,9.28,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164052,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-16,207.16,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164375,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-23,6.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164376,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-23,200.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164532,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-30,0.16,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164533,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-10-30,162.59,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164786,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-06,296.67,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164787,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-06,0.16,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165757,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-13,1.36,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165758,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-13,483.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166350,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-20,8.14,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166351,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-20,166.46,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166410,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-27,166.94,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166411,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-11-27,6.77,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166859,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-04,0.08,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166877,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-04,284.39,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167148,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-11,1.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167149,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-11,505.05,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168045,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-18,8.14,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168952,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-18,179.41,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170048,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-20,38.72,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170050,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-21,23.76,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170261,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-22,7.92,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168498,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-26,233.14,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168953,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-26,6.96,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170207,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-26,7.04,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170209,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-27,1.32,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170210,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-28,6.16,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500170211,,,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2023-12-29,0.44,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158780,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-07-03,50000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500158781,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-07-03,50000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160644,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-08-01,50000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163718,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-08-08,210.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161892,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-09-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163297,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-09-29,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164678,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-11-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166820,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-12-01,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168024,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-12-13,5198.07,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168588,,,ORG,Summit Strategic Communications LLC,,,,,,6300 Sagewood Dr,Ste H-543,Park City,UT,840987502,,,2023-12-29,25000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159048,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-07-03,8333.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160642,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-08-01,8333.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161894,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-09-01,8333.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167094,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-09-29,8333.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163284,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-11-01,8333.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166826,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-12-01,8333.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500172296,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-12-01,-8333.00,0.00,Bounced Payment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168960,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-12-04,8333.00,0.00,Social Media Consulting: Payment Resubmission,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167053,,,IND,,Tesfu,Sofia,,,,7115 Poplar Ave,,Takoma Park,MD,209124671,,,2023-12-29,8333.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163302,,,ORG,"Tess Strand, LLC",,,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-09-29,19250.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164625,,,ORG,"Tess Strand, LLC",,,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-11-02,17000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167056,,,ORG,"Tess Strand, LLC",,,,,,4365 NW Neskowin Ave,,Portland,OR,972292801,,,2023-12-08,69512.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163214,,,ORG,Third Act Media LLC,,,,,,7804 Fairview Rd,Ste 180,Charlotte,NC,282264998,,,2023-09-27,17550.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163733,,,ORG,Third Act Media LLC,,,,,,7804 Fairview Rd,Ste 180,Charlotte,NC,282264998,,,2023-10-05,18150.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166446,,,ORG,Third Act Media LLC,,,,,,7804 Fairview Rd,Ste 180,Charlotte,NC,282264998,,,2023-10-10,17050.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166431,,,ORG,Third Act Media LLC,,,,,,7804 Fairview Rd,Ste 180,Charlotte,NC,282264998,,,2023-11-20,4000.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168589,,,ORG,Third Act Media LLC,,,,,,7804 Fairview Rd,Ste 180,Charlotte,NC,282264998,,,2023-12-15,25000.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168590,,,ORG,Third Act Media LLC,,,,,,7804 Fairview Rd,Ste 180,Charlotte,NC,282264998,,,2023-12-31,25000.00,0.00,Ad Production - Not Related to Independent Expenditure,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167055,,,ORG,Three Arbor Insurance,,,,,,2828 Old 280 Ct,Ste 126,Vestavia,AL,352432655,,,2023-10-11,6507.50,0.00,Business Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160963,,,ORG,TVEyes Inc,,,,,,1150 Post Rd,,Fairfield,CT,068246040,,,2023-08-11,4590.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159049,,,ORG,"Two Rivers Public Affair, Inc.",,,,,,10018 E Grand River Ave,,Portland,MI,488759433,,,2023-07-03,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160651,,,ORG,"Two Rivers Public Affair, Inc.",,,,,,10018 E Grand River Ave,,Portland,MI,488759433,,,2023-08-01,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161876,,,ORG,"Two Rivers Public Affair, Inc.",,,,,,10018 E Grand River Ave,,Portland,MI,488759433,,,2023-09-01,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163293,,,ORG,"Two Rivers Public Affair, Inc.",,,,,,10018 E Grand River Ave,,Portland,MI,488759433,,,2023-09-29,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164629,,,ORG,"Two Rivers Public Affair, Inc.",,,,,,10018 E Grand River Ave,,Portland,MI,488759433,,,2023-11-01,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166821,,,ORG,"Two Rivers Public Affair, Inc.",,,,,,10018 E Grand River Ave,,Portland,MI,488759433,,,2023-12-01,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168591,,,ORG,"Two Rivers Public Affair, Inc.",,,,,,10018 E Grand River Ave,,Portland,MI,488759433,,,2023-12-29,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162896,,,ORG,Urbanstem,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2023-09-18,139.76,0.00,Gift,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163351,,,ORG,Urbanstem,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2023-09-18,117.82,0.00,Gift,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159050,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-07-03,20000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160649,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-08-01,20000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161878,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-09-01,20000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163089,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-09-21,1413.99,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163291,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-09-29,20000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164272,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-10-18,1686.74,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164623,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-11-01,20000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500165777,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-11-09,408.01,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166812,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-12-01,20000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168592,,,ORG,Veracity Reigns LLC,,,,,,7320 Great Mere Ct,,Manassas,VA,201127554,,,2023-12-29,20000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159051,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-07-03,15000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159417,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-07-14,5013.84,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160652,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-08-01,15000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161875,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-09-01,15000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163294,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-09-29,15000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164626,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-11-01,15000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166815,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-12-01,15000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168025,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-12-13,18500.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168593,,,ORG,Viking Strategies LLC,,,,,,PO Box 101300,,Arlington,VA,222104300,,,2023-12-29,15000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159110,,,ORG,"Voters Of Tomorrow Action, Inc",,,,,,10960 Wilshire Blvd,,Los Angeles,CA,900243702,,,2023-07-11,2500.00,0.00,Event Sponsorship,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159026,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-07-03,8000.00,0.00,Field Organizer,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160640,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-08-01,8000.00,0.00,Field Organizer,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161896,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-09-01,8000.00,0.00,Field Organizer,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163285,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-09-29,8000.00,0.00,Field Organizer,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164495,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-10-24,688.57,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164621,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-11-01,8000.00,0.00,Field Organizer,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166811,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-12-01,8000.00,0.00,Field Organizer,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168569,,,IND,,Westman,Jacqueline,,,,6475 E Pacific Coast Hwy,Unit 247,Long Beach,CA,908034201,,,2023-12-29,8000.00,0.00,Field Organizer,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160673,,,IND,,Wiggins,Ryan,,,,1771 E Mallory St,,Pensacola,FL,325036154,,,2023-07-20,874.40,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500172258,500160673,SB29,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-07-20,874.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00725820,500159042,,,IND,,Wilson,Andrew,,,,1200 Cross Creek Way,Apt 6,Tallahassee,FL,323013667,,,2023-07-03,3750.00,0.00,Corporate Campaign Management,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160650,,,IND,,Wilson,Andrew,,,,1200 Cross Creek Way,Apt 6,Tallahassee,FL,323013667,,,2023-08-01,3750.00,0.00,Corporate Campaign Management,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161877,,,IND,,Wilson,Andrew,,,,1200 Cross Creek Way,Apt 6,Tallahassee,FL,323013667,,,2023-09-01,3750.00,0.00,Corporate Campaign Management,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163301,,,IND,,Wilson,Andrew,,,,1200 Cross Creek Way,Apt 6,Tallahassee,FL,323013667,,,2023-09-29,8000.00,0.00,Corporate Campaign Management,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164673,,,IND,,Wilson,Andrew,,,,1200 Cross Creek Way,Apt 6,Tallahassee,FL,323013667,,,2023-11-01,8000.00,0.00,Corporate Campaign Management,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166819,,,IND,,Wilson,Andrew,,,,1200 Cross Creek Way,Apt 6,Tallahassee,FL,323013667,,,2023-12-01,8000.00,0.00,Corporate Campaign Management,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168572,,,IND,,Wilson,Andrew,,,,1200 Cross Creek Way,Apt 6,Tallahassee,FL,323013667,,,2023-12-29,8000.00,0.00,Corporate Campaign Management,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160749,,,ORG,Wisconsin Alliance For Excellent Schools,,,,,,1502 W Broadway,Ste 102,Monona,WI,537131820,,,2023-07-21,500.00,0.00,Program Sponsor,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500172295,,,ORG,Wisconsin Alliance For Excellent Schools,,,,,,1502 W Broadway,Ste 102,Monona,WI,537131820,,,2023-07-24,-500.00,0.00,Bounced Payment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160750,,,ORG,Wisconsin Alliance For Excellent Schools,,,,,,1502 W Broadway,Ste 102,Monona,WI,537131820,,,2023-07-31,500.00,0.00,Program Sponsor,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163715,,,ORG,Wisconsin Alliance For Excellent Schools,,,,,,1502 W Broadway,Ste 102,Monona,WI,537131820,,,2023-08-02,500.00,0.00,Program Sponsor,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167546,,,ORG,WP Engine Inc,,,,,,PO Box 734427,,Dallas,TX,753734427,,,2023-07-05,162.50,0.00,Website Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161061,,,ORG,WP Engine Inc,,,,,,PO Box 734427,,Dallas,TX,753734427,,,2023-08-14,500.00,0.00,Website Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163731,,,ORG,WP Engine Inc,,,,,,PO Box 734427,,Dallas,TX,753734427,,,2023-10-04,162.50,0.00,Website Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164493,,,ORG,WP Engine Inc,,,,,,PO Box 734427,,Dallas,TX,753734427,,,2023-10-23,100.00,0.00,Website Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164834,,,ORG,WP Engine Inc,,,,,,PO Box 734427,,Dallas,TX,753734427,,,2023-11-01,750.00,0.00,Website Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164835,,,ORG,WP Engine Inc,,,,,,PO Box 734427,,Dallas,TX,753734427,,,2023-11-01,250.00,0.00,Website Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159033,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-07-03,2362.80,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500160653,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-08-01,2379.74,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162287,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-09-05,2508.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163336,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-09-29,1468.50,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500164682,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-11-01,2035.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500166822,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-12-01,1986.16,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500172294,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-12-01,-1986.16,0.00,Bounced Payment,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500167052,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-12-04,1986.16,0.00,Communications Consulting: Payment Resubmission,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168578,,,IND,,Yoder,Johnson,,,,1023 Wynfield Village Ct,,Franklin,TN,370641879,,,2023-12-29,1452.66,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500159084,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-07-10,149.90,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500161775,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-08-03,359.95,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162988,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-09-02,359.95,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500162318,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-09-08,149.90,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500163742,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-10-02,363.17,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00725820,500168394,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-11-02,363.17,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account

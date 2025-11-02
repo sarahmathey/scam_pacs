@@ -1,0 +1,44 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00513176,500461197,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-07,1702.13,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500461198,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-14,3080.23,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500461199,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-16,1736.78,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458466,,,ORG,Aisle 518,,,,,,2045 W Grand Ave,Ste B,Chicago,IL,606121577,,,2024-10-03,19336.01,0.00,Fundraising Consulting and Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458468,,,ORG,Aisle 518,,,,,,2045 W Grand Ave,Ste B,Chicago,IL,606121577,,,2024-10-04,62683.00,0.00,Digital Ad Buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500459283,,,ORG,Aisle 518,,,,,,2045 W Grand Ave,Ste B,Chicago,IL,606121577,,,2024-10-11,5000.00,0.00,Digital Ad Buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500462239,,,ORG,American Express Company,,,,,,3 WORLD FINANCIAL CTR 200 VESEY St,,New York,NY,102850001,,,2024-10-16,3394.37,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500462228,500462239,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-10-16,42.39,0.00,Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462223,500462239,SB21B,ORG,Amazon,,,,,,10 TERRY Ave N,,Seattle,WA,98109,,,2024-10-16,71.03,0.00,Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462242,500462239,SB21B,ORG,Capitol Hill Wine & Spirits,,,,,,323 Pennsylvania Ave SE,,Washington,DC,200031148,,,2024-10-16,257.59,0.00,Beverages for Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462237,500462239,SB21B,ORG,CHIKO,,,,,,423 8th St SE,,Washington,DC,200032833,,,2024-10-16,806.95,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462238,500462239,SB21B,ORG,Comcast,,,,,,1701 John F Kennedy Blvd,Fl 30,Philadelphia,PA,191032855,,,2024-10-16,114.32,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462227,500462239,SB21B,ORG,Flywheel,,,,,,1405 Harney St,Ste 201,Omaha,NE,681022280,,,2024-10-16,30.00,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462222,500462239,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-16,91.58,0.00,Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462226,500462239,SB21B,ORG,Hewlett-Packard,,,,,,3000 Hanover St,,Palo Alto,CA,943041112,,,2024-10-16,1075.86,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462224,500462239,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-10-16,104.94,0.00,Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462230,500462239,SB21B,ORG,Mailchimp,,,,,,675 Ponce De Leon Ave NE,# E178,Atlanta,GA,303081884,,,2024-10-16,106.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462221,500462239,SB21B,ORG,New York Times,,,,,,242 W 41st St,,New York,NY,100367203,,,2024-10-16,26.50,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462229,500462239,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2024-10-16,530.00,0.00,Texting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462231,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,22.16,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462232,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,5.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462233,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,19.56,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462234,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,39.37,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462235,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462236,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,4.20,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462240,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,17.85,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500462241,500462239,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2024-10-16,17.32,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500458459,,,ORG,DC Health Link,,,,,,645 H St NE,,Washington,DC,200024347,,,2024-10-01,2073.96,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458467,,,ORG,Fidelity Investments Institutional Operations Company,,,,,,PO Box 770002,,Cincinnati,OH,452771102,,,2024-10-04,1008.66,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500459282,,,ORG,Grassroots Analytics,,,,,,700 K St NW,Ste 300,Washington,DC,200015692,,,2024-10-11,10000.00,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500461340,,,ORG,Grassroots Analytics,,,,,,700 K St NW,Ste 300,Washington,DC,200015692,,,2024-10-15,10000.00,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458462,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-10-03,4307.36,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458464,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-10-03,122.11,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458481,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-10-03,36.15,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458496,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-10-03,8411.46,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458492,500458496,SB21B,IND,,Bailey,Ernest,,,,1827 Kilbourne Pl NW,,Washington,DC,200102622,,,2024-10-03,2248.39,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500458493,500458496,SB21B,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2024-10-03,3440.17,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500458494,500458496,SB21B,IND,,Darner,Michael,,,,1303 John St,,Baltimore,MD,212174116,,,2024-10-03,787.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500458495,500458496,SB21B,IND,,Hines,Gillian,,,,2778 N Milwaukee Ave,Apt 217,Chicago,IL,606471323,,,2024-10-03,1935.56,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,500458285,,,ORG,International Association of Machinists and Aerospace Workers,,,,,,9000 Machinists Pl,,Upper Marlboro,MD,207722675,,,2024-10-01,3000.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458461,,,ORG,Katz Compliance,,,,,,PO Box 33079,,Washington,DC,200330079,,,2024-10-02,3640.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458284,,,ORG,Kieloch Consulting,,,,,,228 2nd St SE,,Washington,DC,200031943,,,2024-10-01,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,500458286,,,ORG,LexisNexis,,,,,,230 Park Ave,Fl 7,New York,NY,101690935,,,2024-10-01,408.10,0.00,Subscription,,,,,,,,,,,,,,,,,,,,

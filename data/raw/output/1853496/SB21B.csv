@@ -1,0 +1,61 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00685297,500545343,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-20,1645.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500548361,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,4905.65,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500549334,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,11020.32,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500549961,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-03,10221.03,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500550118,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,5922.59,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500550495,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-10,4041.03,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551987,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-17,3765.62,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500555237,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-24,2937.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500555971,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-25,402.69,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500541685,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-10-17,77.81,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500544044,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-10-17,56.33,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500547637,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-10-25,9.49,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500548487,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-10-31,3357.05,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500548491,500548487,SB21B,IND,,Gallagher,Elizabeth,,,,315 H St NE,,Washington,DC,200025678,,,2024-10-31,3357.05,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500548767,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-10-31,1914.12,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500549337,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-11-01,582.17,0.00,Benefits Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500557332,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-11-08,56.33,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500550789,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-11-15,3357.05,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500550791,500550789,SB21B,IND,,Gallagher,Elizabeth,,,,315 H St NE,,Washington,DC,200025678,,,2024-11-15,3357.05,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500551024,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-11-15,1914.12,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551990,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-11-18,582.18,0.00,Benefits Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500554675,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-11-22,65.82,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500555588,,,ORG,"ADP, Inc.",,,,,,PO Box 842875,,Boston,MA,022842875,,,2024-11-25,3357.06,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500555587,500555588,SB21B,IND,,Gallagher,Elizabeth,,,,315 H St NE,,Washington,DC,200025678,,,2024-11-25,3357.06,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500548480,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-10-29,178.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500548481,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-10-29,30.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551169,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-11-14,3718.28,0.00,"Credit Card Payment, Below if itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551211,500551169,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-14,60.43,0.00,Incorrect expense. Offset on next report.,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500551166,500551169,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-11-14,-244.01,0.00,Cash Back Rewards,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500551214,500551169,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-11-14,100.00,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500551225,500551169,SB21B,ORG,"Google, Inc",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-14,69.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500551221,500551169,SB21B,ORG,La Prima Food Group Inc,,,,,,5105 Berwyn Rd,Ste 101,College Park,MD,207404130,,,2024-11-14,2353.03,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500551220,500551169,SB21B,ORG,Root & Stem Catering,,,,,,2941 Fairview Park Dr,Ste 110,Falls Church,VA,220424526,,,2024-11-14,1379.25,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500548359,,,IND,,Behning,Delaney,,,,2873 Spring Rose Cir,Apt 305,Coralville,IA,522410150,,,2024-10-30,540.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500557232,,,IND,,Behning,Delaney,,,,2873 Spring Rose Cir,Apt 305,Coralville,IA,522410150,,,2024-11-15,540.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500557238,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-10-25,4015.87,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500547458,,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-10-24,12455.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500557237,,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-11-05,1788.88,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500553318,,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-11-21,12985.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500548494,,,IND,,Gallagher,Elizabeth,,,,315 H St NE,,Washington,DC,200025678,,,2024-10-31,42.50,0.00,Reimbursement - Internet,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500548497,500548494,SB21B,ORG,Xfinity,,,,,,PO Box 6505,,Chelmsford,MA,018240905,,,2024-10-31,42.50,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500550794,,,IND,,Gallagher,Elizabeth,,,,315 H St NE,,Washington,DC,200025678,,,2024-11-15,42.50,0.00,Reimbursement - Internet,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500550793,500550794,SB21B,ORG,Xfinity,,,,,,PO Box 6505,,Chelmsford,MA,018240905,,,2024-11-15,42.50,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500555592,,,IND,,Gallagher,Elizabeth,,,,315 H St NE,,Washington,DC,200025678,,,2024-11-25,42.50,0.00,Reimbursement - Internet,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500555591,500555592,SB21B,ORG,Xfinity,,,,,,PO Box 6505,,Chelmsford,MA,018240905,,,2024-11-25,42.50,0.00,Internet,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00685297,500549976,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-11-06,104.94,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500540622,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-10-21,54997.58,0.00,Donor List Acquisition and Digital Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500547457,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-10-24,35000.00,0.00,Peer to Peer Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551232,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-11-01,35000.00,0.00,Donor List Acquisition and Digital Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551233,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-11-06,25000.00,0.00,Peer to Peer Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551234,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-11-06,65000.00,0.00,Donor List Acquisition and Digital Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551235,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-11-06,33520.38,0.00,Broadcast Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551237,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-11-13,91929.00,0.00,Digital Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551238,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-11-15,30000.00,0.00,Donor List Acquisition and Digital Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500551239,,,ORG,"Mothership Strategies, LLC",,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-11-15,25000.00,0.00,Peer to Peer Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500557333,,,ORG,My Warchest,,,,,,4200 Wisconsin Ave NW,Ste Pm 106,Washington,DC,200162143,,,2024-11-06,222.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500557236,,,ORG,Olson Remcho LLP,,,,,,555 Capitol Mall,Ste 400,Sacramento,CA,958144503,,,2024-11-15,5659.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500544070,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2024-10-21,7500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500557235,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2024-11-21,7500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00685297,500548360,,,IND,,Young,Lenny,,,,2155 Princeton Ave,,Los Angeles,CA,900261925,,,2024-10-30,1000.00,0.00,Strategic Political Consulting,,,,,,,,,,,,,,,,,,,,

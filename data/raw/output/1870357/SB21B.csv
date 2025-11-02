@@ -1,0 +1,27 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00805846,500373441,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,42.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00805846,500376557,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,27.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00805846,500374465,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-12-09,319.73,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00805846,500374470,500374465,SB21B,ORG,Lyft,,,,,,548 Market St,,San Francisco,CA,941045401,,,2024-12-09,22.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374476,500374465,SB21B,ORG,Lyft,,,,,,548 Market St,,San Francisco,CA,941045401,,,2024-12-09,8.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374466,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,32.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374467,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,37.89,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374468,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,32.48,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374469,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,24.94,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374471,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,33.10,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374472,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,20.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374473,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,14.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374474,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,29.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374475,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,26.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374477,500374465,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-09,34.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374457,,,IND,,Barnes,Mandela,,,,7804 N Fairway Pl,,Milwaukee,WI,532234222,,,2024-12-06,1587.02,0.00,Travel Reimbursement - See Memo Entries If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00805846,500374460,500374457,SB21B,ORG,Hilton DC National Mail,,,,,,480 Lenfant Plz SW,,Washington,DC,200242253,,,2024-12-06,833.07,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374458,500374457,SB21B,ORG,Lyft,,,,,,548 Market St,,San Francisco,CA,941045401,,,2024-12-06,22.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500374456,500374457,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-12-06,710.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500375719,,,IND,,Barnes,Mandela,,,,7804 N Fairway Pl,,Milwaukee,WI,532234222,,,2024-12-26,2844.99,0.00,Travel Reimbursement - See Memo Entries If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00805846,500375721,500375719,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-26,319.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500375723,500375719,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-26,315.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500375722,500375719,SB21B,ORG,Homewood Suites by Hilton Washington DC,,,,,,465 New York Ave NW,,Washington,DC,200014628,,,2024-12-26,206.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500375725,500375719,SB21B,ORG,Homewood Suites by Hilton Washington DC,,,,,,465 New York Ave NW,,Washington,DC,200014628,,,2024-12-26,1363.56,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500375726,500375719,SB21B,ORG,Homewood Suites by Hilton Washington DC,,,,,,465 New York Ave NW,,Washington,DC,200014628,,,2024-12-26,195.10,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00805846,500375724,500375719,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-12-26,429.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*

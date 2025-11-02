@@ -1,0 +1,81 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00685719,500574813,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-30,1.83,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574802,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-08,1.39,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574803,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,2.77,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574804,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-22,0.60,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574805,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-29,2.11,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574811,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,88.05,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574812,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,49.90,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574809,,,ORG,"Bauerly Consulting, LLC",,,,,,4825 E Lake Harriet Pkwy,,Minneapolis,MN,554195243,,,2024-12-10,5000.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574823,,,ORG,DC Health Link,,,,,,1225 I St NW,,Washington,DC,200053914,,,2024-12-03,2159.12,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500575768,,,IND,,Dearing,Heather,,,,4532 Southern Pkwy,,Louisville,KY,402141415,,,2024-12-15,338.96,0.00,Reimburse Travel Expenses - See Memo,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500575767,500575768,SB29,ORG,American Airlines,,,,,,50 Massachusetts Ave NE,,Dfw Airport,TX,75201,,,2024-12-15,338.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574877,,,ORG,FNBO,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-12-19,30107.25,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574881,500574877,SB29,ORG,Action Network,,,,,,1900 L St NW,Ste 900,Washington,DC,200365005,,,2024-12-19,3286.32,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574882,500574877,SB29,ORG,American Airlines,,,,,,50 Massachusetts Ave NE,,Dfw Airport,TX,75201,,,2024-12-19,488.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574883,500574877,SB29,ORG,American Airlines,,,,,,50 Massachusetts Ave NE,,Dfw Airport,TX,75201,,,2024-12-19,418.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574884,500574877,SB29,ORG,American Airlines,,,,,,50 Massachusetts Ave NE,,Dfw Airport,TX,75201,,,2024-12-19,418.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574885,500574877,SB29,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-12-19,676.00,0.00,Train Fare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574886,500574877,SB29,ORG,Apple,,,,,,1 Apple Park Way,,Cupertino,CA,950140642,,,2024-12-19,1275.66,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574888,500574877,SB29,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-19,466.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574889,500574877,SB29,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-19,134.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574890,500574877,SB29,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-19,792.94,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574891,500574877,SB29,ORG,E Baldi,,,,,,375 N Canon Dr,,Beverly Hills,CA,902104704,,,2024-12-19,1000.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574893,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,523.18,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574894,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,1104.08,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574895,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,623.82,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574896,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,820.80,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574897,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,869.28,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574898,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,1119.60,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574899,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,599.22,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574900,500574877,SB29,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-12-19,2348.58,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574901,500574877,SB29,ORG,Mailchimp,,,,,,675 Ponce De Leon Ave NE,,Atlanta,GA,303081884,,,2024-12-19,106.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574902,500574877,SB29,ORG,Marriott - Corporate,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-19,186.96,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574903,500574877,SB29,ORG,NGP VAN Inc,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-12-19,1060.00,0.00,Database Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574904,500574877,SB29,ORG,Officina,,,,,,1120 Maine Ave SW,,Washington,DC,200242417,,,2024-12-19,9512.75,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574905,500574877,SB29,ORG,RocketReach,,,,,,800 Bellevue Way NE,Ste 5,Bellevue,WA,980044286,,,2024-12-19,174.90,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574908,500574877,SB29,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-12-19,883.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574909,500574877,SB29,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-12-19,883.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574808,,,ORG,Forest Strategy Group LLC,,,,,,114 Quay St,,Alexandria,VA,223142609,,,2024-12-10,10000.00,0.00,Management Consultant,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574819,,,ORG,Guidline Inc,,,,,,1412 Chapin Ave,,Burlingame,CA,940104003,,,2024-12-03,1195.00,0.00,401K,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574821,,,ORG,Guidline Inc,,,,,,1412 Chapin Ave,,Burlingame,CA,940104003,,,2024-12-06,113.00,0.00,401K,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574822,,,ORG,Guidline Inc,,,,,,1412 Chapin Ave,,Burlingame,CA,940104003,,,2024-12-17,3845.00,0.00,401K,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574827,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-11-27,4818.39,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574857,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-11-27,8764.00,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574854,500574857,SB29,IND,,Holst,Kevin,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-11-27,4478.21,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574855,500574857,SB29,IND,,Oliveira,Maria,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-11-27,1545.46,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574856,500574857,SB29,IND,,Velazco,Raquel,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-11-27,2740.33,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574826,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-12-03,61.48,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574828,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-12-12,22161.21,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574853,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-12-12,26960.65,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574850,500574853,SB29,IND,,Holst,Kevin,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-12,17143.20,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574851,500574853,SB29,IND,,Oliveira,Maria,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-12,4403.18,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574852,500574853,SB29,IND,,Velazco,Raquel,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-12,5414.27,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574829,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-12-30,3965.91,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574848,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-12-30,9190.25,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574845,500574848,SB29,IND,,Holst,Kevin,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-30,4904.46,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574846,500574848,SB29,IND,,Oliveira,Maria,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-30,1545.45,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574847,500574848,SB29,IND,,Velazco,Raquel,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-30,2740.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575771,,,IND,,Holst,Kevin,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-10,1218.41,0.00,Reimbursed Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500575772,500575771,SB29,ORG,AT&T,,,,,,1019 Pine St,,Saint Louis,MO,631012014,,,2024-12-10,150.00,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575773,500575771,SB29,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-10,341.01,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575781,500575771,SB29,ORG,Hilton Hotels,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-10,25.90,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575779,500575771,SB29,ORG,Legal Sea Foods - Corporate,,,,,,212 Northern Ave,Ste 305,Boston,MA,022102088,,,2024-12-10,61.98,0.00,Meeting Meal Expenses,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575782,500575771,SB29,ORG,Legal Sea Foods - Corporate,,,,,,212 Northern Ave,Ste 305,Boston,MA,022102088,,,2024-12-10,61.98,0.00,Meeting Meal Expenses,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575775,500575771,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-10,36.03,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575774,500575771,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-10,335.84,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575776,500575771,SB29,ORG,Veo,,,,,,1334 3Rd Street Promenade,Ste 200,Santa Monica,CA,904011361,,,2024-12-10,140.00,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574798,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-12-23,68.90,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574824,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2024-12-09,42.17,0.00,Workers Comp Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574825,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2024-12-23,153.89,0.00,Workers Comp Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500575770,,,IND,,Oliveira,Maria,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-14,24.92,0.00,Reimbursed Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500575769,500575770,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-14,24.92,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500574806,,,ORG,Pfeiffer Finance Strategies,,,,,,322 14Th St NE,,Washington,DC,200026440,,,2024-12-10,2500.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574807,,,ORG,Public Ruckus Creative LLC,,,,,,PO Box 2731,,Dayton,OH,454012731,,,2024-12-10,365.63,0.00,Digital Ads,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500574810,,,ORG,Public Ruckus Creative LLC,,,,,,PO Box 2731,,Dayton,OH,454012731,,,2024-12-17,113.20,0.00,Digital Ads,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500575759,,,IND,,Velazco,Raquel,,,,1620 I St NW,Ste 900,Washington,DC,200064035,,,2024-12-16,912.32,0.00,Reimbursed Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00685719,500575762,500575759,SB29,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-12-16,141.00,0.00,Train Fare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575760,500575759,SB29,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-16,28.37,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575763,500575759,SB29,ORG,Southwest Airlines,,,,,,2330 E Jones Ave,,Phoenix,AZ,850401472,,,2024-12-16,527.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575765,500575759,SB29,ORG,Staples,,,,,,500 Staples Dr,,Framingham,MA,017024478,,,2024-12-16,110.21,0.00,Office Supplies - Toner,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00685719,500575761,500575759,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-16,10.96,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account

@@ -1,0 +1,31 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00517235,500977291,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2024-12-05,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500982702,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2024-12-27,9190.20,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500982720,500982702,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2024-12-27,602.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982730,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,220.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982740,500982702,SB21B,ORG,Marriott Hotels,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-27,417.13,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982711,500982702,SB21B,ORG,San Morello,,,,,,1400 Woodward Ave,,Detroit,MI,482262002,,,2024-12-27,265.54,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982731,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,459.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982712,500982702,SB21B,ORG,Shinola Hotel,,,,,,1400 Woodward Ave,,Detroit,MI,482262002,,,2024-12-27,10.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982722,500982702,SB21B,ORG,Hertz Rental Car,,,,,,8501 Williams Rd,,Estero,FL,339283325,,,2024-12-27,499.51,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982732,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,708.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982713,500982702,SB21B,ORG,Shinola Hotel,,,,,,1400 Woodward Ave,,Detroit,MI,482262002,,,2024-12-27,344.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982733,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,-799.51,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982714,500982702,SB21B,ORG,Shinola Hotel,,,,,,1400 Woodward Ave,,Detroit,MI,482262002,,,2024-12-27,477.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982724,500982702,SB21B,ORG,Southwest Airlines,,,,,,PO Box 36647-1CR,,Dallas,TX,75235,,,2024-12-27,444.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982734,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,708.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982715,500982702,SB21B,ORG,Shinola Hotel,,,,,,1400 Woodward Ave,,Detroit,MI,482262002,,,2024-12-27,344.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982725,500982702,SB21B,ORG,Marriott Hotels,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-27,28.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982735,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,161.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982726,500982702,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 11,San Francisco,CA,941031355,,,2024-12-27,60.67,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982736,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,972.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982727,500982702,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 11,San Francisco,CA,941031355,,,2024-12-27,54.02,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982718,500982702,SB21B,ORG,Tatte Bakery & Cafe,,,,,,101 Main St,,Cambridge,MA,021421519,,,2024-12-27,504.88,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982728,500982702,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 11,San Francisco,CA,941031355,,,2024-12-27,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982738,500982702,SB21B,ORG,Marriott Hotels,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-27,491.13,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982719,500982702,SB21B,ORG,US Senate Gift Shop,,,,,,50 Constitution Ave NE,,Washington,DC,20002,,,2024-12-27,570.00,0.00,Thank You Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982729,500982702,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-12-27,810.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982739,500982702,SB21B,ORG,Marriott Hotels,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-27,470.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500982704,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2024-12-27,2000.00,0.00,Credit Card Payment - See Line 29 for Itemizations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500973546,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,15.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500977279,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2024-12-05,5250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,

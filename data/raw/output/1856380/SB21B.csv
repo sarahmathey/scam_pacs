@@ -1,0 +1,42 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00460972,500399250,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-11-15,1403.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399248,500399250,SB21B,IND,,McGuire,Molly,S.,,,PO Box 14172,,Portland,OR,972930172,,,2024-11-15,1003.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399249,500399250,SB21B,IND,,Stevens,Jessica,,,,PO Box 14172,,Portland,OR,972930172,,,2024-11-15,400.92,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399260,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-10-18,104.66,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399251,,,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,,Washington,DC,200055002,,,2024-10-30,318.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500390961,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,23.73,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399261,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-10-25,26.85,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500397381,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-24,53.86,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500396812,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,32.21,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399232,,,IND,,Stevens,Jessica,,,,PO Box 14172,,Portland,OR,972930172,,,2024-10-30,13.98,0.00,Reimbursement - Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399233,500399232,SB21B,ORG,US Foods CHEF'STORE,,,,,,8250 SE Stark St,,Portland,OR,972161134,,,2024-10-30,13.98,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500390962,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,3.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399262,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-11-01,40.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500397382,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-17,1.79,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500396813,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-10,29.31,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500389833,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-20,31.69,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399243,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-10-31,10.00,0.00,Retirement Contributions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500390963,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-03,17.35,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399263,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-11-08,104.66,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500396814,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-17,27.31,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500389834,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,43.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399234,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-10-29,1502.45,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399244,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-11-15,10.00,0.00,Retirement Contributions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399254,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-10-30,290.88,0.00,Credit Card Payment - Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399252,500399254,SB21B,ORG,Safeway,,,,,,5918 Stoneridge Mall Rd,,Pleasanton,CA,945883229,,,2024-10-30,79.66,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399253,500399254,SB21B,ORG,Safeway,,,,,,5918 Stoneridge Mall Rd,,Pleasanton,CA,945883229,,,2024-10-30,211.32,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399264,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-11-22,131.51,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500389835,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,0.24,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399265,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-11-01,65.08,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399236,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-10-31,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399266,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-10-28,104.94,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399247,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-10-31,1403.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399245,500399247,SB21B,IND,,McGuire,Molly,S.,,,PO Box 14172,,Portland,OR,972930172,,,2024-10-31,1003.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399246,500399247,SB21B,IND,,Stevens,Jessica,,,,PO Box 14172,,Portland,OR,972930172,,,2024-10-31,400.92,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399257,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-11-05,64.16,0.00,Credit Card Payment - Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399255,500399257,SB21B,ORG,Fred Meyer,,,,,,3800 SE 22nd Ave,,Portland,OR,972022918,,,2024-11-05,21.53,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399256,500399257,SB21B,ORG,Fred Meyer,,,,,,3800 SE 22nd Ave,,Portland,OR,972022918,,,2024-11-05,42.63,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500399238,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-10-31,582.11,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399258,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-10-29,12.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399239,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-11-15,582.11,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500399259,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-10-29,167.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,

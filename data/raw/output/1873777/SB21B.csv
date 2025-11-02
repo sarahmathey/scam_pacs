@@ -1,0 +1,35 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00410092,500983741,,,ORG,"Madeline Island Enterprises, LLC",,,,,,PO Box 482,,La Pointe,WI,548500482,P2030,,2024-12-03,2640.00,0.00,Treasury Management and Financial Operations,,,,,,,,,,,,,,,,,,,,
+SB21B,C00410092,500983743,,,ORG,Mark Spengler LLC,,,,,,324 U St NW,,Washington,DC,200011722,P2030,,2024-12-27,4500.00,0.00,National Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00410092,500983744,,,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,P2030,,2024-12-20,300.00,0.00,Quarterly Software License,,,,,,,,,,,,,,,,,,,,
+SB21B,C00410092,500983745,,,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-11-27,7076.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00410092,500985874,500983745,SB21B,IND,,Burns,Haley,,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,700.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985875,500983745,SB21B,IND,,Fitzhenry,James,Nathan,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,890.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985907,500983745,SB21B,IND,,Hawkins,Jonathan,Robert,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,450.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985877,500983745,SB21B,IND,,Hyant,Molly,Jean,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,1100.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985878,500983745,SB21B,IND,,Kelly,Alexandra,,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,1200.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985879,500983745,SB21B,IND,,Lampron,Adrian,Philip,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,530.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985882,500983745,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-11-29,633.35,0.00,Tax Payments,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985883,500983745,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-11-29,422.89,0.00,Payroll Administration,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985880,500983745,SB21B,IND,,Schatz,James,Edward,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,450.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985881,500983745,SB21B,IND,,Wooff,Connor,,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-11-29,700.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500983746,,,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-12-12,2018.19,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00410092,500985891,500983746,SB21B,IND,,Burns,Haley,,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-12,700.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985908,500983746,SB21B,IND,,Hawkins,Jonathan,Robert,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-12,450.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985894,500983746,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-12-12,197.79,0.00,Tax Payments,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985895,500983746,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-12-12,220.40,0.00,Payroll Administration,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985893,500983746,SB21B,IND,,Schatz,James,Edward,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-12,450.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500983747,,,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-12-12,4276.22,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00410092,500985884,500983747,SB21B,IND,,Hyant,Molly,Jean,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-12,1100.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985885,500983747,SB21B,IND,,Kelly,Alexandra,,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-12,1200.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985886,500983747,SB21B,IND,,Lampron,Adrian,Philip,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-12,530.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985889,500983747,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-12-12,325.40,0.00,Tax Payments,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985890,500983747,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,P2030,,2024-12-12,420.82,0.00,Payroll Administration,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985888,500983747,SB21B,IND,,Wooff,Connor,,,,PO Box 696,,Madison,WI,537010696,P2030,,2024-12-12,700.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500983748,,,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,G2030,,2024-12-30,2961.90,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00410092,500985897,500983748,SB21B,IND,,Hyant,Molly,Jean,,,PO Box 696,,Madison,WI,537010696,G2030,,2024-12-30,1100.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985898,500983748,SB21B,IND,,Lampron,Adrian,Philip,,,PO Box 696,,Madison,WI,537010696,G2030,,2024-12-30,530.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985900,500983748,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,G2030,,2024-12-30,233.60,0.00,Tax Payments,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985901,500983748,SB21B,ORG,QTI Human Resources,,,,,,PO Box 552,,Madison,WI,537010552,G2030,,2024-12-30,398.30,0.00,Payroll Administration,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500985899,500983748,SB21B,IND,,Wooff,Connor,,,,PO Box 696,,Madison,WI,537010696,G2030,,2024-12-30,700.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00410092,500983742,,,ORG,The Kauffman Group,,,,,,323 7Th St SE,,Washington,DC,200034307,P2030,,2024-12-03,6000.00,0.00,National Fundraising,,,,,,,,,,,,,,,,,,,,

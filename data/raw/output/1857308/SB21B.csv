@@ -1,0 +1,44 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00683649,501450570,,,ORG,Office IT Solutions,,,,,,4401 A Connecticut Ave NW,Ste 303,Washington,DC,200082325,,,2024-10-18,800.00,0.00,IT Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450601,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-05,2259.65,0.00,"Payroll, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450600,501450601,SB21B,IND,,Wheeler,Natalie,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-11-05,2259.65,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450571,,,ORG,Office IT Solutions,,,,,,4401 A Connecticut Ave NW,Ste 303,Washington,DC,200082325,,,2024-11-18,800.00,0.00,IT Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450602,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-10-30,56969.86,0.00,"Payroll, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450610,501450602,SB21B,IND,,Rosmarin,Josh,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-10-30,8575.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450611,501450602,SB21B,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-10-30,1579.90,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450612,501450602,SB21B,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-10-30,783.74,0.00,Payroll Services & Insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450603,501450602,SB21B,IND,,Benjamin,Beth,,,,855 El Camino Real,Ste # 13A,Palo Alto,CA,943012326,,,2024-10-30,9562.67,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450604,501450602,SB21B,IND,,Burns,Jackie,,,,570 Vanderbilt Ave,Apt 2R,Brooklyn,NY,112383518,,,2024-10-30,7128.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450605,501450602,SB21B,IND,,Fawcett,Emma,,,,13225 SW Hawks Beard St,Apt 1017,Tigard,OR,972232133,,,2024-10-30,3467.54,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450607,501450602,SB21B,IND,,Mathias,Mitch,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-10-30,9360.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450608,501450602,SB21B,IND,,McBride,Marissa,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-10-30,11667.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450609,501450602,SB21B,IND,,Ramjug,Patrick,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-10-30,4845.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450622,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-15,56831.16,0.00,"Payroll, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450620,501450622,SB21B,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-15,1391.33,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450621,501450622,SB21B,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-15,833.61,0.00,Payroll Services & Insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450613,501450622,SB21B,IND,,Benjamin,Beth,,,,855 El Camino Real,Ste # 13A,Palo Alto,CA,943012326,,,2024-11-15,9562.67,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450614,501450622,SB21B,IND,,Burns,Jackie,,,,570 Vanderbilt Ave,Apt 2R,Brooklyn,NY,112383518,,,2024-11-15,7128.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450615,501450622,SB21B,IND,,Fawcett,Emma,,,,13225 SW Hawks Beard St,Apt 1017,Tigard,OR,972232133,,,2024-11-15,3467.54,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450616,501450622,SB21B,IND,,Mathias,Mitch,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-11-15,9360.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450617,501450622,SB21B,IND,,McBride,Marissa,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-11-15,11667.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450618,501450622,SB21B,IND,,Ramjug,Patrick,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-11-15,4845.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450619,501450622,SB21B,IND,,Rosmarin,Josh,,,,855 El Camino Real,Ste 13A #235,Palo Alto,CA,943012326,,,2024-11-15,8575.34,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450572,,,ORG,Paragon Solutions,,,,,,25 Commerce Dr,,Cranford,NJ,070163605,,,2024-11-04,25.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450623,,,ORG,Premier Political Compliance,,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2024-11-25,1250.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450573,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-11-04,373.90,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450624,,,IND,,Robinson,Venessa,M.,,,271 Prospect Ave,,Long Beach,CA,908031621,,,2024-11-14,1282.50,0.00,Graphic Design Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450594,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-10-17,5893.15,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450625,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-11-14,117.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450595,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-19,4793.46,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450596,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-01,4516.06,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450587,,,ORG,Bank of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,,2024-11-01,1297.35,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450580,501450587,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-11-01,19.99,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450582,501450587,SB21B,ORG,Asana,,,,,,1550 Bryant St,Ste 200,San Francisco,CA,941034853,,,2024-11-01,134.90,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450583,501450587,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-11-01,94.99,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450584,501450587,SB21B,ORG,Slack,,,,,,500 Howard St,,San Francisco,CA,941053000,,,2024-11-01,70.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450585,501450587,SB21B,ORG,Microsoft,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2024-11-01,49.50,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450577,501450587,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-01,464.48,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450579,501450587,SB21B,ORG,Digify,,,,,,350 Townsend St,Ste 746,San Francisco,CA,941071693,,,2024-11-01,320.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683649,501450597,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-05,704.83,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450598,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-01,448.87,0.00,Benefits Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683649,501450599,,,ORG,"ADP, Inc.",,,,,,1 ADP Blvd,,Roseland,NJ,070681728,,,2024-11-12,6598.08,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,

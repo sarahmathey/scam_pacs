@@ -1,0 +1,24 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00412791,500061150,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-07-26,162.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056721,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-07-22,9100.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500060941,,,ORG,Campaign Finance Consultants,,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2024-07-05,9093.01,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056842,,,ORG,Cynthia M. Downs,,,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-07-05,1583.33,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500060952,,,ORG,Campaign Finance Consultants,,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2024-07-22,9267.38,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500060962,,,IND,,Falcone,Elizabeth,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-07-05,777.98,0.00,Travel Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500060960,500060962,SB21B,ORG,Rosewood Sandhill,,,,,,2825 Sand Hill Rd,,Menlo Park,CA,940257022,,,2024-07-05,205.19,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500060954,500060962,SB21B,ORG,Orchard Garden Hotel,,,,,,466 Bush St,,San Francisco,CA,941083731,,,2024-07-05,470.65,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500060955,500060962,SB21B,ORG,Uber,,,,,,182 Howard St,Number 8,San Francisco,CA,941051611,,,2024-07-05,25.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500060956,500060962,SB21B,ORG,Uber,,,,,,182 Howard St,Number 8,San Francisco,CA,941051611,,,2024-07-05,2.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500060957,500060962,SB21B,ORG,Uber,,,,,,182 Howard St,Number 8,San Francisco,CA,941051611,,,2024-07-05,6.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500060959,500060962,SB21B,ORG,Uber,,,,,,182 Howard St,Number 8,San Francisco,CA,941051611,,,2024-07-05,46.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500056733,,,IND,,Cohen,Rachel,S.,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-07-05,312.50,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500060943,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2024-07-05,2322.58,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500058453,,,ORG,"V2 Consulting, LLC",,,,,,525 W 28th St,Apt 852,New York,NY,100016636,,,2024-07-05,5950.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056745,,,IND,,Fouhy,Malcolm,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-07-05,750.00,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056685,,,IND,,Golden,Zachary,G.,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-07-05,1595.75,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500060347,,,ORG,JPMorgan Chase,,,,,,PO Box 1423,,Charlotte,NC,282011423,,,2024-07-01,556.34,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500060345,500060347,SB21B,ORG,Montage Hotels & Resorts,,,,,,3 Ada,Ste 100,Irvine,CA,926182322,,,2024-07-01,323.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500060346,500060347,SB21B,ORG,"Marriott International, Inc.",,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-07-01,232.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500056709,,,IND,,Falcone,Elizabeth,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-07-05,695.04,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500061569,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-07-08,95.00,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500061568,500061569,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-07-08,95.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*

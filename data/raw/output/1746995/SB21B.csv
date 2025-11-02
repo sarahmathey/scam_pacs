@@ -1,0 +1,37 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00835041,500050669,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-01,41.69,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050670,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-08,621.23,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050671,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-15,350.28,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050672,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-22,321.48,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050673,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-29,738.75,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050674,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-31,669.67,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050578,,,ORG,ACTION SQUARED,,,,,,1900 L St NW,Ste 900,Washington,DC,200365005,,,2023-10-02,200.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500053022,,,ORG,ACTION SQUARED,,,,,,1900 L St NW,Ste 900,Washington,DC,200365005,,,2023-10-08,5760.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050579,,,ORG,ACTION SQUARED,,,,,,1900 L St NW,Ste 900,Washington,DC,200365005,,,2023-10-31,200.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050583,,,ORG,AMALGAMATED BANK,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-10-27,12.64,0.00,BANK FEES,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050708,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-10-20,1.02,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050766,500050708,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-11,1.02,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050722,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-10-20,400.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050725,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-10-20,925.28,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050772,500050725,SB21B,ORG,politics rewired,,,,,,PO Box 110971,,Brooklyn,NY,112110971,,,2023-10-02,925.28,0.00,TEXTING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500053078,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-10-20,78.88,0.00,Staff Reimbursement,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050759,,,ORG,Blueutopia,,,,,,PO Box 4486,,Seattle,WA,981940486,,,2023-10-01,400.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051281,,,ORG,Civic Shout,,,,,,16192 Coastal Hwy,,Lewes,DE,199583608,,,2023-10-25,3333.33,0.00,Staff Advance Memo Entry: ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050594,,,ORG,COMCAST,,,,,,1707 JOHN F KENNEDY Blvd,,Philadelphia,PA,19103,,,2023-10-02,95.99,0.00,INTERNET,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050595,,,ORG,COMCAST,,,,,,1707 JOHN F KENNEDY Blvd,,Philadelphia,PA,19103,,,2023-10-30,95.99,0.00,INTERNET,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051276,,,ORG,Email on Acid,,,,,,112 E Pecan St,Ste 1135,San Antonio,TX,782051509,,,2023-10-26,888.00,0.00,Staff Advance Memo Entry: SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051277,,,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-26,500.00,0.00,Staff Advance Memo Entry: ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051278,,,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-27,500.00,0.00,Staff Advance Memo Entry: ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051279,,,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-28,600.00,0.00,Staff Advance Memo Entry: ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051280,,,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-30,900.00,0.00,Staff Advance Memo Entry: ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050607,,,ORG,FRAISER,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2023-10-02,2500.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050609,,,ORG,FRAISER,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2023-10-02,5000.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050608,,,ORG,FRAISER,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2023-10-10,3746.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050610,,,ORG,GOODCHANGE,,,,,,4900 Club Rd,,Little Rock,AR,722074704,,,2023-10-30,0.32,0.00,DEPOSIT TO VALIDATE ACCOUNT FOR DIRECT DEPOSIT,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050613,,,ORG,MESSAGE DIGITAL,,,,,,PO Box 391527,,Mountain View,CA,940391527,,,2023-10-23,24375.00,0.00,ADVERTISING EXPENSES,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050617,,,ORG,Pantograph Labs,,,,,,2121 Broadway,Unit 188035,Sacramento,CA,958185001,,,2023-10-03,1207.00,0.00,DIGITAL CONSULTING,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050619,,,ORG,Pantograph Labs,,,,,,2121 Broadway,Unit 188035,Sacramento,CA,958185001,,,2023-10-10,5000.00,0.00,DIGITAL CONSULTING,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500053018,,,ORG,"Public Ruckus Creative, LLC",,,,,,PO Box 2731,,Dayton,OH,454012731,,,2023-10-02,146.25,0.00,CONSULTANT - DESIGN,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050623,,,ORG,QUILLER,,,,,,321 N Clark St,Ste 730,Chicago,IL,606544767,,,2023-10-12,370.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051265,,,ORG,"Raise More, Inc.",,,,,,40 Ocean Pkwy,Apt 4A,Brooklyn,NY,112181530,,,2023-10-25,250.00,0.00,Staff Advance Memo Entry: SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500050629,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2023-10-03,8571.97,0.00,ADVERTISING EXPENSES,004,,,,,,,,,,,,,,,,,,,

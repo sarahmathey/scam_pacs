@@ -1,0 +1,253 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00784025,B-81234,,,ORG,United Healthcare,,,,,,9900 Bren Road E,,Minnetonka,MN,55343,,,2023-01-05,3184.91,,Health Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81238,,,ORG,"CommonCentsConsulting, LLC",,,,,,PO Box 313,,Maricopa,AZ,85139,,,2023-01-10,1698.51,,Compliance & Accounting Services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81241,,,ORG,Contrast Media LLC,,,,,,97 4th St,,Brooklyn,NY,11249,,,2023-01-10,2400.00,,Podcast Production,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81239,,,ORG,Travelers,,,,,,Dept 98856,PO Box 660333,Dallas,TX,75266,,,2023-01-10,287.00,,Workers Comp Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81240,,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-01-10,13731.80,,Digital Consulting and Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81253,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-01-13,3313.37,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81254,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-01-13,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81255,B-81254,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-01-13,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-81243,,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-01-13,4291.71,,Reimbursed Travel and Office Expenses - See Memos if Itemized,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81244,B-81243,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-01-13,441.60,,Airfare,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81245,B-81243,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-01-13,372.60,,Airfare,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81247,B-81243,,ORG,Hertz,,,,,,8501 Williams Rd,,Estero,FL,33928,,,2023-01-13,384.32,,Rental Car,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81249,B-81243,,ORG,Office Chair at Work,,,,,,1111 Jefferson Ave,,Elizabeth,NJ,07201,,,2023-01-13,699.00,,Office Furniture,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81250,B-81243,,ORG,Proper Hotel,,,,,,1100 S. Broadway,,Los Angeles,CA,90015,,,2023-01-13,2299.72,,Lodging,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-10496,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-01-15,129.84,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-10509,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-01-22,85.96,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81538,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-01-22,0.60,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81260,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-01-23,446.39,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81257,,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-01-23,5000.00,,Digital Consulting,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81261,,,ORG,"Webflow, Inc.",,,,,,2nd Floor,,San Francisco,CA,94103,,,2023-01-23,300.00,,Productivity Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81264,,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-01-27,27.57,,Reimbursed Travel - See Memos if itemized,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-10513,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-01-29,94.13,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81540,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-01-29,1.98,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81267,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-01-30,793.00,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81268,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-01-30,381.06,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-10507,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-01-31,46.20,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81269,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-01-31,61.53,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81270,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-01-31,3140.91,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81271,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-01-31,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81272,B-81271,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-01-31,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-81273,,,ORG,Munguia Projects LLC,,,,,,4234 Lou Dr,,Simi Valley,CA,93063,,,2023-02-02,2500.00,,Marketing Consultant,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81276,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, PC",,,,,,"1090 Vermont Ave, NW",Suite 750,Washington,DC,20005,,,2023-02-02,2382.00,,Legal Services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81279,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,60094,,,2023-02-03,4518.31,,Credit Card Payment - See Memo,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81280,B-81279,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-03,4518.31,,Email Hosting,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Chase Card Services
+SB21B,C00784025,B-10505,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-02-05,59.77,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81281,,,ORG,United Healthcare,,,,,,9900 Bren Road E,,Minnetonka,MN,55343,,,2023-02-07,322.97,,Health Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81282,,,ORG,"Figma, Inc.",,,,,,760 Market St FLR 10,,San Francisco,CA,94102,,,2023-02-08,30.00,,Graphic Design Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81283,,,ORG,"Figma, Inc.",,,,,,760 Market St FLR 10,,San Francisco,CA,94102,,,2023-02-08,144.00,,Graphic Design Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-10498,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-02-12,128.76,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81321,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-02-15,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81322,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-02-15,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81323,B-81322,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-02-15,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-81286,,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-02-15,3607.27,,Reimbursed Travel Expenses - See Memos if Itemized,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81287,B-81286,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-02-15,225.90,,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81288,B-81286,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-02-15,50.00,,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81289,B-81286,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-02-15,354.90,,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81294,B-81286,,ORG,"Marriott International, Inc.",,,,,,7750 Wisconsin Ave,,Bethesda,MD,20814,,,2023-02-15,765.16,,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81299,B-81286,,ORG,"The Mayflower, Autograph Hotel",,,,,,1127 Connecticut Ave,,Washington,DC,20036,,,2023-02-15,980.55,,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81300,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,5.75,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81301,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,25.93,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81302,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,7.75,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81303,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,24.66,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81304,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,25.92,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81305,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,57.67,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81306,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,25.93,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81307,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,8.02,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81308,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,28.48,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81309,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,7.45,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81310,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,77.34,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81311,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,69.91,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81312,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,43.22,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81313,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,19.04,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81314,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,17.49,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81315,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,162.03,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81316,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,57.86,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81317,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,21.30,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81318,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,51.01,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81319,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,98.02,,Meeting Meal Expenses,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81320,B-81286,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-02-15,23.97,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-10514,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-02-19,80.37,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81547,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-02-19,0.40,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81325,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-02-21,446.39,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81326,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-02-22,39.20,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81327,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-02-22,50.88,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81329,,,ORG,"Webflow, Inc.",,,,,,2nd Floor,,San Francisco,CA,94103,,,2023-02-23,300.00,,Productivity Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-55989,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-02-26,45.79,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-60995,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-02-26,1.98,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-50848,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-02-28,11.56,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81334,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-02-28,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81335,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-02-28,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81336,B-81335,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-02-28,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-81337,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-02-28,700.00,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81333,,,ORG,Munguia Projects LLC,,,,,,4234 Lou Dr,,Simi Valley,CA,93063,,,2023-02-28,500.00,,Marketing Consultant,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81331,,,ORG,URG & Associates LLC,,,,,,9716 Rea Rd Ste B1240,,Charlotte,NC,28277,,,2023-02-28,4250.00,,Project Management Consultant,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81332,,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-02-28,5000.00,,Digital Consulting,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81339,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-03-02,12.72,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81342,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,60094,,,2023-03-03,4518.31,,Credit Card Payment - See Memo,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81343,B-81342,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-03-03,4518.31,,Email Hosting,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Chase Card Services
+SB21B,C00784025,B-81344,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-03-03,55.53,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-50850,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-03-05,21.90,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81347,,,ORG,United Healthcare,,,,,,9900 Bren Road E,,Minnetonka,MN,55343,,,2023-03-07,1753.94,,Health Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81348,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-03-10,13.06,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-50852,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-03-12,30.85,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81349,,,ORG,"CommonCentsConsulting, LLC",,,,,,PO Box 313,,Maricopa,AZ,85139,,,2023-03-13,1928.27,,Compliance & Accounting Services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81351,,,ORG,Contrast Media LLC,,,,,,97 4th St,,Brooklyn,NY,11249,,,2023-03-13,2400.00,,Podcast Production,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81352,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, PC",,,,,,"1090 Vermont Ave, NW",Suite 750,Washington,DC,20005,,,2023-03-13,2452.50,,Legal Services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81354,,,IND,,Bass,Zackary,,,,"616 N Virgil Ave, Apt 1",,Los Angeles,CA,90004,,,2023-03-14,1200.00,,Video Editing,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81353,,,ORG,"CommonCentsConsulting, LLC",,,,,,PO Box 313,,Maricopa,AZ,85139,,,2023-03-14,1821.01,,Compliance & Accounting Services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81355,,,IND,,Schimpf,Esteban,,,,Exhibit View 5325 Granada St,,Los Angeles,CA,90042,,,2023-03-14,1050.00,,Photography,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81356,,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-03-14,5000.00,,Digital Consulting,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81367,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-03-15,3081.42,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81368,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-03-15,5518.20,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81369,B-81368,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-03-15,5518.20,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-81358,,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-03-15,1021.84,,Reimbursed Travel - See Memos if itemized,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81359,B-81358,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-03-15,150.00,,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81360,B-81358,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-03-15,19.00,,Internet Access,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81363,B-81358,,ORG,Dauphin's,,,,,,1100 15th St NW,,Washington,DC,20005,,,2023-03-15,458.30,,Meeting Meal Expenses,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-50857,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-03-19,17.30,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-66001,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-03-19,0.40,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81370,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-03-20,6.36,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81371,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-03-21,446.39,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81372,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-03-22,41.85,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81373,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-03-22,39.20,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81374,,,ORG,"Webflow, Inc.",,,,,,2nd Floor,,San Francisco,CA,94103,,,2023-03-23,300.00,,Productivity Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81376,,,ORG,Amalgamated Bank,,,,,,10 E 14th St,,New York,NY,10003,,,2023-03-24,106.46,,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-50859,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-03-26,30.83,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-71006,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-03-26,1.98,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81377,,,ORG,Commissioner of Taxation and Finance,,,,,,NYS Workers Compensation Board,328 State St Room 331,Schenectady,NY,12305,,,2023-03-27,4568.67,,Workers Comp Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81378,,,ORG,Malcom Strong,,,,,,665 Stonebridge Loop,,Lithonia,GA,30058,,,2023-03-27,3000.00,,Photography,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81379,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,60094,,,2023-03-28,4518.31,,Credit Card Payment - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81380,B-81379,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-03,4518.31,,Email Hosting,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Chase Card Services
+SB21B,C00784025,B-81381,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-03-28,700.00,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81382,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-03-30,12.72,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-50861,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-03-31,27.81,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81414,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-03-31,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81566,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-03-31,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81567,B-81566,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-03-31,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-81383,,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-03-31,4398.58,,Reimbursed Travel - See Memos if itemized,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81384,B-81383,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-03-31,725.80,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81385,B-81383,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2023-03-31,779.80,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81388,B-81383,,ORG,Conrad New York Downtown,,,,,,102 North End Ave,,New York,NY,10282,,,2023-03-31,766.07,,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81389,B-81383,,ORG,Hertz,,,,,,8501 Williams Rd,,Estero,FL,33928,,,2023-03-31,524.50,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81394,B-81383,,ORG,"Marriott International, Inc.",,,,,,7750 Wisconsin Ave,,Bethesda,MD,20814,,,2023-03-31,35.00,,Parking,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81396,B-81383,,ORG,The West Hollywood Edition,,,,,,9040 W Sunset Blvd,,West Hollywood,CA,90069,,,2023-03-31,370.91,,Meeting Meal Expenses,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81397,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,30.01,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81398,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,23.14,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81399,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,11.00,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81400,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,27.79,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81401,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,11.36,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81402,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,18.84,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81403,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,88.00,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81404,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,17.63,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81405,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,52.87,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81406,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,24.15,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81407,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,29.75,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81408,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,61.32,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81409,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,77.43,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81410,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,101.15,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-81411,B-81383,,ORG,Uber Technologies,,,,,,1455 Market St #400,,San Francisco,CA,94103,,,2023-03-31,21.81,,Ride Share Service,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-50863,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-04-02,10.32,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81550,,,ORG,The Guardian,,,,,,Guardian Life,10 Hudson Yards,New York,NY,10001,,,2023-04-03,63.89,,Employee Benefits,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81551,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,,,2023-04-04,5000.00,,Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81568,,,ORG,United Healthcare,,,,,,9900 Bren Road E,,Minnetonka,MN,55343,,,2023-04-05,1753.94,,Health Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81552,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-04-07,14.18,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81553,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-04-10,13.06,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81556,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-04-12,55.54,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81418,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-04-14,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81419,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-04-14,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81420,B-81419,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-04-14,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-76226,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-04-16,19.66,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81560,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-04-18,6.36,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81562,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-04-21,38.16,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-81561,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-04-21,446.39,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86756,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-04-23,143.86,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86762,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-04-23,0.40,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86758,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-04-24,39.20,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86757,,,ORG,"Webflow, Inc.",,,,,,2nd Floor,,San Francisco,CA,94103,,,2023-04-24,300.00,,Productivity Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86938,,,ORG,Amalgamated Bank,,,,,,10 E 14th St,,New York,NY,10003,,,2023-04-26,107.00,,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86795,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,60094,,,2023-04-26,4518.31,,Credit Card Payment - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86796,B-86795,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-04-26,4518.31,,Email Hosting,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Chase Card Services
+SB21B,C00784025,B-86943,,,ORG,"CommonCentsConsulting, LLC",,,,,,PO Box 313,,Maricopa,AZ,85139,,,2023-04-27,1749.03,,Compliance & Accounting Services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86939,,,ORG,Contrast Media LLC,,,,,,97 4th St,,Brooklyn,NY,11249,,,2023-04-27,2400.00,,Podcast Production,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86940,,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-04-27,3000.00,,Digital Consulting,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86941,,,ORG,X Productions LLC,,,,,,300 E Hillcrest Blvd Unit 4084,,Inglewood,CA,90301,,,2023-04-27,7844.60,,Campaign Management Consultant Expenses,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86935,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-04-28,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86936,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-04-28,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86937,B-86936,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-04-28,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-86942,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-04-29,700.00,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-97273,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-04-30,1.98,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87025,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-05-01,12.72,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87024,,,ORG,The Guardian,,,,,,Guardian Life,10 Hudson Yards,New York,NY,10001,,,2023-05-01,63.89,,Employee Benefits,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-86932,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-02,86.81,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87023,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,,,2023-05-02,645.16,,Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87021,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-05-03,55.53,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87020,,,ORG,United Healthcare,,,,,,9900 Bren Road E,,Minnetonka,MN,55343,,,2023-05-05,1753.94,,Health Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87062,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-08,44.83,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87063,,,ORG,Advance North Carolina,,,,,,PO Box 27421,,Raleigh,NC,27421,,,2023-05-08,100000.00,,Contribution,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87109,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-05-10,13.06,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87106,,,ORG,"CommonCentsConsulting, LLC",,,,,,PO Box 313,,Maricopa,AZ,85139,,,2023-05-12,1793.69,,Compliance & Accounting Services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87107,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, PC",,,,,,"1090 Vermont Ave, NW",Suite 750,Washington,DC,20005,,,2023-05-12,2572.50,,Legal Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87103,,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-05-12,9661.74,,Digital Consulting and Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87104,B-87103,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-05-10,7161.74,,Digital Consultant,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Van Ness Creative Strategies
+SB21B,C00784025,B-87105,B-87103,,ORG,Van Ness Creative Strategies,,,,,,1 Huntington Quadrangle Ste 4S05,,Melville,NY,11747,,,2023-05-10,2500.00,,Digital Consulting,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Van Ness Creative Strategies
+SB21B,C00784025,B-87217,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-14,52.83,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87218,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-05-15,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87219,B-87218,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-05-15,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-87220,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-05-15,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87265,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-05-18,6.36,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107279,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-21,0.40,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87262,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-05-22,39.20,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87264,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-05-22,38.16,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87139,,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-05-22,6246.69,,Reimbursed Office Expenses - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87140,B-87139,,ORG,Amazon,,,,,,1200 12th Avenue South,,Seattle,WA,98144,,,2023-01-11,97.35,,Donor Gifts,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87141,B-87139,,ORG,Amazon,,,,,,1200 12th Avenue South,,Seattle,WA,98144,,,2023-01-09,74.28,,Donor Gifts,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87142,B-87139,,ORG,Amazon,,,,,,1200 12th Avenue South,,Seattle,WA,98144,,,2023-01-09,995.06,,Donor Gifts,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87143,B-87139,,ORG,4imprint,,,,,,101 Commerce Street,,Oshkosh,WI,54901,,,2023-01-08,396.95,,Printing Expenses Not attributable to any candidate for federal office.,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87145,B-87139,,ORG,Rush Order Tees,,,,,,2727 Commerce Way,,Philadelphia,PA,19154,,,2023-01-08,1768.31,,Printing Expenses - Not attributable to any candidate for federal office.,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87146,B-87139,,ORG,Ben's Chili Bowl,,,,,,1213 U Street Northwest,,Washington,DC,20009,,,2023-01-16,17.83,,Meeting Meal Expenses,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87147,B-87139,,ORG,Ben's Chili Bowl,,,,,,1213 U Street Northwest,,Washington,DC,20009,,,2023-01-16,375.75,,Meeting Meal Expenses,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87148,B-87139,,ORG,Ben's Chili Bowl,,,,,,1213 U Street Northwest,,Washington,DC,20009,,,2023-01-16,92.63,,Meeting Meal Expenses,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87150,B-87139,,ORG,Ben's Chili Bowl,,,,,,1213 U Street Northwest,,Washington,DC,20009,,,2023-01-16,12.90,,Meeting Meal Expenses,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87152,B-87139,,ORG,The Gathering Spot,,,,,,1720 I Street Northwest,,Washington,DC,20006,,,2023-05-15,566.50,,Event Venue Rental,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87228,B-87139,,ORG,Freres Branchiaux,,,,,,4413 Southern Business Park Drive,Ste 33,White Plains,MD,20695,,,2023-01-16,627.71,,Donor Gifts,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87230,B-87139,,ORG,Connect,,,,,,PO Box 16387,,Washington,DC,20041,,,2023-01-16,595.05,,Ride Share Service,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87231,B-87139,,ORG,Freres Branchiaux,,,,,,4413 Southern Business Park Drive,Ste 33,White Plains,MD,20695,,,2023-01-16,566.61,,Donor Gifts,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Rebecka Jackson
+SB21B,C00784025,B-87263,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-05-22,446.39,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87250,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-24,30.71,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87256,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,60094,,,2023-05-25,4518.31,,Credit Card Payment - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-87257,B-87256,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-05-25,4518.31,,Software Subscription,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Chase Card Services
+SB21B,C00784025,B-87266,,,ORG,Amalgamated Bank,,,,,,10 E 14th St,,New York,NY,10003,,,2023-05-26,61.00,,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107309,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-28,11.58,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137340,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-28,1.98,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107320,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-05-30,12.72,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107322,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-05-30,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107323,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-05-30,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107324,B-107323,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-05-30,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-107321,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-05-30,700.00,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107311,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-05-31,9.50,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107318,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,,,2023-06-02,2000.00,,Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107313,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-06-04,8.37,,Merchant Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107316,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-06-06,55.53,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-107319,,,ORG,The Guardian,,,,,,Guardian Life,10 Hudson Yards,New York,NY,10001,,,2023-06-06,63.89,,Employee Benefits,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137411,,,ORG,United Healthcare,,,,,,9900 Bren Road E,,Minnetonka,MN,55343,,,2023-06-07,1753.94,,Health Insurance,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137375,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-06-11,6.00,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137410,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-06-12,13.06,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137412,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-06-15,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137413,B-137412,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-06-15,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00784025,B-137414,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-06-15,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137377,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-06-18,7.47,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137408,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-06-20,6.36,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137406,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-06-21,39.20,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137407,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-06-21,446.39,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137405,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-06-22,38.16,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-152424,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-06-25,2.38,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137402,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-06-26,16.82,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-137404,,,ORG,Amalgamated Bank,,,,,,10 E 14th St,,New York,NY,10003,,,2023-06-26,121.00,,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-152472,,,ORG,MailChimp,,,,,,"675 Ponce De Leon Ave, NE STE 5000",,Atlanta,GA,30308,,,2023-06-28,700.00,,Email Marketing Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-152459,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,02144,,,2023-06-30,11.50,,Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-152471,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,,,2023-06-30,12.72,,Web Domain,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-152474,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-06-30,3081.40,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-152475,,,ORG,Gusto,,,,,,500 Third St Ste 405,,San Francisco,CA,94107,,,2023-06-30,5518.21,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00784025,B-152476,B-152475,,IND,,Jackson,Rebecka,,,,18 Bon Aire Dr,,Saint Louis,MO,63132,,,2023-06-30,5518.21,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto

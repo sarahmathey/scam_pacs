@@ -1,0 +1,76 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00571182,B-54482,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,"660 Pennsylvania Ave SE, Suite 201",,Washington,DC,20003,,,2024-07-03,17073.67,,Fundraising Consultant,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54483,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-07-03,536.11,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54481,,,ORG,Santa Rosa Partners LLC,,,,,,251 Little Falls Dr,,Wilmington,DE,19808,,,2024-07-03,4400.00,,Compliance & Accounting,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54486,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Ste 103-550,San Diego,CA,92116,,,2024-07-04,250.00,,Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54499,,,ORG,Next Insurance,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,02451,,,2024-07-08,22.82,,Workers Comp,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54490,,,ORG,"Altria Client Services, LLC",,,,,,6601 West Broad Street,,Richmond,VA,23226,,,2024-07-10,1769.98,,First Class Airfare at Fair Market Value,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54502,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-07-12,1995.00,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54503,B-54502,,IND,,Davidson,Michelle,R,,,928 W Glenrosa Ave,,Phoenix,AZ,85013,,,2024-07-12,376.46,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54504,B-54502,,IND,,Winkler,Daniel,D,,,4615 E Palomino Rd,,Phoenix,AZ,85018,,,2024-07-12,301.17,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54505,B-54502,,IND,,Tomsheck,Cullen,P.,,,3000 Connecticut Ave NW Apt 418,,Washington,DC,20008,,,2024-07-12,1009.55,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54506,B-54502,,IND,,Ammel,Matthew,J.,,,18 Cayman Court,,Carthage,NC,28327,,,2024-07-12,307.82,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54507,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-07-12,544.91,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54488,,,ORG,Next Insurance,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,02451,,,2024-07-22,22.82,,Workers Comp,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54487,B-54498,,ORG,"Slack Technologies, Inc.",,,,,,500 Howard St,,San Francisco,CA,94105,,,2024-07-25,511.22,,Software,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54489,B-54498,,ORG,"Slack Technologies, Inc.",,,,,,500 Howard St,,San Francisco,CA,94105,,,2024-07-25,9.50,,Software,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54496,B-54498,,ORG,CIRQ Estate,,,,,,4525 Slusser Rd,,Windsor,CA,95492,,,2024-07-25,1186.53,,Event Catering,003,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54497,B-54498,,ORG,Promontory,,,,,,1601 Oakville Grade,,Oakville,CA,94562,,,2024-07-25,2100.00,,Event Catering,003,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54498,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2024-07-25,5440.55,,Credit Card Payment - See Memos if Itemized,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54514,,,ORG,Amalgamated Bank,,,,,,275 Seventh Ave,,New York,NY,10001,,,2024-07-26,320.11,,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54516,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-07-30,544.93,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54517,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-07-30,1994.99,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54518,B-54517,,IND,,Davidson,Michelle,R,,,928 W Glenrosa Ave,,Phoenix,AZ,85013,,,2024-07-30,376.47,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54519,B-54517,,IND,,Winkler,Daniel,D,,,4615 E Palomino Rd,,Phoenix,AZ,85018,,,2024-07-30,301.15,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54520,B-54517,,IND,,Tomsheck,Cullen,P.,,,3000 Connecticut Ave NW Apt 418,,Washington,DC,20008,,,2024-07-30,1009.54,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54521,B-54517,,IND,,Ammel,Matthew,J.,,,18 Cayman Court,,Carthage,NC,28327,,,2024-07-30,307.83,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54501,B-54509,,ORG,Amazon.com,,,,,,1200 12th Ave South #1200,,Seattle,WA,98144,,,2024-07-31,145.97,,Donor Appreciation Gift,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54509,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2024-07-31,8655.35,,Credit Card Payment - See Memos if Itemized,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54526,B-54529,,ORG,Promontory,,,,,,1601 Oakville Grade,,Oakville,CA,94562,,,2024-07-31,-300.00,,Product Return Credit,003,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54529,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2024-08-03,10628.01,,Credit Card Payment - See Memo's if Itemized,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54524,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-08-03,138.11,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54530,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Ste 103-550,San Diego,CA,92116,,,2024-08-04,250.00,,Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54522,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,"660 Pennsylvania Ave SE, Suite 201",,Washington,DC,20003,,,2024-08-05,17073.67,,Fundraising Consultant,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54523,,,ORG,Santa Rosa Partners LLC,,,,,,251 Little Falls Dr,,Wilmington,DE,19808,,,2024-08-05,4400.00,,Compliance & Accounting,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54532,B-54546,,ORG,"Slack Technologies, Inc.",,,,,,500 Howard St,,San Francisco,CA,94105,,,2024-08-07,9.50,,Software,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54533,B-54546,,ORG,"Slack Technologies, Inc.",,,,,,500 Howard St,,San Francisco,CA,94105,,,2024-08-07,492.59,,Software,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54534,,,ORG,Next Insurance,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,02451,,,2024-08-08,22.82,,Workers Comp,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54539,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-08-13,1995.01,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54540,B-54539,,IND,,Davidson,Michelle,R,,,928 W Glenrosa Ave,,Phoenix,AZ,85013,,,2024-08-13,376.46,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54541,B-54539,,IND,,Winkler,Daniel,D,,,4615 E Palomino Rd,,Phoenix,AZ,85018,,,2024-08-13,301.16,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54542,B-54539,,IND,,Tomsheck,Cullen,P.,,,3000 Connecticut Ave NW Apt 418,,Washington,DC,20008,,,2024-08-13,1009.55,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54543,B-54539,,IND,,Ammel,Matthew,J.,,,18 Cayman Court,,Carthage,NC,28327,,,2024-08-13,307.84,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54544,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-08-13,544.89,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54546,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2024-08-16,2023.48,,Credit Card Payment - See Memo's if Itemized,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54547,,,ORG,Next Insurance,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,02451,,,2024-08-25,22.82,,Workers Comp,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54548,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-08-28,1994.99,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54549,B-54548,,IND,,Davidson,Michelle,R,,,928 W Glenrosa Ave,,Phoenix,AZ,85013,,,2024-08-28,376.46,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54550,B-54548,,IND,,Winkler,Daniel,D,,,4615 E Palomino Rd,,Phoenix,AZ,85018,,,2024-08-28,301.17,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54551,B-54548,,IND,,Tomsheck,Cullen,P.,,,3000 Connecticut Ave NW Apt 418,,Washington,DC,20008,,,2024-08-28,1009.54,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54552,B-54548,,IND,,Ammel,Matthew,J.,,,18 Cayman Court,,Carthage,NC,28327,,,2024-08-28,307.82,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54553,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-08-28,544.93,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54579,,,ORG,Amalgamated Bank,,,,,,275 Seventh Ave,,New York,NY,10001,,,2024-08-29,302.27,,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54554,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-09-03,138.11,,Payroll Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54559,B-54588,,ORG,"Slack Technologies, Inc.",,,,,,500 Howard St,,San Francisco,CA,94105,,,2024-09-04,411.06,,Software,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54561,B-54588,,ORG,"Slack Technologies, Inc.",,,,,,500 Howard St,,San Francisco,CA,94105,,,2024-09-04,9.50,,Software,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54586,B-54588,,ORG,"Slack Technologies, Inc.",,,,,,500 Howard St,,San Francisco,CA,94105,,,2024-09-04,405.13,,Software,001,,,,,,,,,,,00,,,,,,,X,MEMO: Debt Subvendor of-Barclays Card Services
+SB21B,C00571182,B-54555,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Ste 103-550,San Diego,CA,92116,,,2024-09-04,250.00,,Software Subscription,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54557,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,"660 Pennsylvania Ave SE, Suite 201",,Washington,DC,20003,,,2024-09-05,17073.67,,Fundraising Consultant,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54556,,,ORG,Santa Rosa Partners LLC,,,,,,251 Little Falls Dr,,Wilmington,DE,19808,,,2024-09-05,4400.00,,Compliance & Accounting,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54560,,,ORG,Next Insurance,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,02451,,,2024-09-08,22.82,,Workers Comp,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54562,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-09-11,1995.00,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54563,B-54562,,IND,,Davidson,Michelle,R,,,928 W Glenrosa Ave,,Phoenix,AZ,85013,,,2024-09-11,376.47,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54564,B-54562,,IND,,Winkler,Daniel,D,,,4615 E Palomino Rd,,Phoenix,AZ,85018,,,2024-09-11,301.15,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54565,B-54562,,IND,,Tomsheck,Cullen,P.,,,3000 Connecticut Ave NW Apt 418,,Washington,DC,20008,,,2024-09-11,1009.55,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54566,B-54562,,IND,,Ammel,Matthew,J.,,,18 Cayman Court,,Carthage,NC,28327,,,2024-09-11,307.83,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54567,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-09-11,544.41,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54570,,,ORG,"Fulkerson Kennedy & Company, LLC",,,,,,"660 Pennsylvania Ave SE, Suite 201",,Washington,DC,20003,,,2024-09-23,8163.32,,Travel & Event Ticket Reimbursements,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54571,,,ORG,Next Insurance,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,02451,,,2024-09-25,22.82,,Workers Comp,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54581,,,ORG,Amalgamated Bank,,,,,,275 Seventh Ave,,New York,NY,10001,,,2024-09-26,285.94,,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54572,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-09-27,542.39,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54573,,,ORG,Gusto,,,,,,450 Park Ave S,,New York,NY,10016,,,2024-09-27,1995.01,,Payroll - See Memos,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00571182,B-54574,B-54573,,IND,,Davidson,Michelle,R,,,928 W Glenrosa Ave,,Phoenix,AZ,85013,,,2024-09-27,376.47,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54575,B-54573,,IND,,Winkler,Daniel,D,,,4615 E Palomino Rd,,Phoenix,AZ,85018,,,2024-09-27,301.16,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54576,B-54573,,IND,,Tomsheck,Cullen,P.,,,3000 Connecticut Ave NW Apt 418,,Washington,DC,20008,,,2024-09-27,1009.54,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54577,B-54573,,IND,,Ammel,Matthew,J.,,,18 Cayman Court,,Carthage,NC,28327,,,2024-09-27,307.84,,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB21B,C00571182,B-54588,,,ORG,Barclays Card Services,,,,,,PO Box 13337,,Philadelphia,PA,19101,,,2024-09-30,1025.69,,Credit Card Payment - See Memo's if Itemized,002,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,46 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00826479,500484200,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-03,0.40,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484210,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-08-25,60.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484250,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2023-07-21,203.43,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484249,500484250,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-07-21,187.62,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00826479,500484190,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-16,98.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484201,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-17,395.20,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484211,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-07-26,15.75,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484221,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2023-10-26,177.81,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500463551,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-08,39.50,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484202,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-24,113.57,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484212,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-07-28,1201.88,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484252,,,ORG,"NGP VAN, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2023-11-20,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484192,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-23,64.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484203,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-12-20,3384.45,0.00,Reimbursement-Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484204,500484203,SB21B,ORG,Trattoria Alberto,,,,,,506 8th St SE,,Washington,DC,200032834,,,2023-12-20,3384.45,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00826479,500484213,,,ORG,"NGP VAN, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2023-07-03,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484223,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-09-18,3236.54,0.00,Reimbursement-Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484222,500484223,SB21B,ORG,Trattoria Alberto,,,,,,506 8th St SE,,Washington,DC,200032834,,,2023-09-18,3236.54,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00826479,500484214,,,ORG,"NGP VAN, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2023-08-03,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484194,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-29,59.25,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484205,,,ORG,"NGP VAN, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2023-12-04,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484215,,,ORG,"NGP VAN, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2023-09-05,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484195,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-31,39.50,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484206,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-12-29,75.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484226,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2023-09-18,329.64,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484225,500484226,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-09-18,260.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00826479,500484246,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-22,24.69,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484196,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-05,197.90,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484207,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-11-29,60.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484217,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-11-22,5124.72,0.00,Reimbursement-Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484216,500484217,SB21B,ORG,Trattoria Alberto,,,,,,506 8th St SE,,Washington,DC,200032834,,,2023-11-22,5124.72,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00826479,500463527,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-17,98.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500463547,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-30,9.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484197,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-12,39.50,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484208,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-10-27,30.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500463518,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-20,24.69,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500463528,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-24,24.69,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484228,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-07-28,3326.77,0.00,Reimbursement-Catering & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484230,500484228,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-07-20,64.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00826479,500484229,500484228,SB21B,ORG,Trattoria Alberto,,,,,,506 8th St SE,,Washington,DC,200032834,,,2023-07-20,3262.08,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00826479,500484198,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-19,261.69,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484209,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-09-27,15.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484219,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-10-26,20.00,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484189,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-09,98.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00826479,500484199,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-26,98.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,

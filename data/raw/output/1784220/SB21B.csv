@@ -1,0 +1,18 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00492983,500267710,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-04-14,1.98,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500268471,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-04-28,1283.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269278,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-04-30,0.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269368,,,ORG,"ADP, LLC",,,,,,1 Adp Blvd,,Roseland,NJ,070681728,,,2024-04-05,86.79,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269369,,,ORG,"ADP, LLC",,,,,,1 Adp Blvd,,Roseland,NJ,070681728,,,2024-04-19,14.14,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269371,,,ORG,"ADP, LLC",,,,,,1 Adp Blvd,,Roseland,NJ,070681728,,,2024-04-30,3740.23,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269370,500269371,SB21B,IND,,Gallagher,Meghan,,,,1111 Summer St,Ste 302,Stamford,CT,069055511,,,2024-04-30,3740.23,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00492983,500269372,,,ORG,"ADP, LLC",,,,,,1 Adp Blvd,,Roseland,NJ,070681728,,,2024-04-30,1386.61,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269373,,,ORG,"ADP, LLC",,,,,,1 Adp Blvd,,Roseland,NJ,070681728,,,2024-04-30,37.20,0.00,Workers' Compensation Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269360,,,ORG,"Cacace, Tusch & Santagata",,,,,,1111 Summer St,,Stamford,CT,069055508,,,2024-04-01,150.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269363,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-04-01,2800.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269365,,,ORG,Citizens Bank,,,,,,PO Box 7000,,Providence,RI,029407000,,,2024-04-16,155.34,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269367,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2024-04-01,9600.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269359,,,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2024-04-02,303.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269366,,,IND,,Reinoso-Castellano,Jenny,,,,142 Oaklawn Ave,,Stamford,CT,069053622,,,2024-04-01,4000.00,0.00,Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269362,,,IND,,Tabaie,Mary,,,,620 N Vermont St,,Arlington,VA,222032021,,,2024-04-02,918.50,0.00,Reimbursement - Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00492983,500269361,500269362,SB21B,ORG,La Collina,,,,,,747 C St SE,,Washington,DC,200034432,,,2024-04-02,918.50,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*

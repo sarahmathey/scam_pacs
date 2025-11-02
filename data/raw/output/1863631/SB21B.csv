@@ -1,0 +1,22 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00680132,500434114,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-08,217.25,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434115,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,256.75,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434729,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-22,197.50,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434113,,,ORG,Bank Of America,,,,,,201 Pennsylvania Ave SE,,Washington,DC,200031107,,,2024-12-06,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434730,,,ORG,Bank Of America,,,,,,201 Pennsylvania Ave SE,,Washington,DC,200031107,,,2024-12-18,5.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434117,,,ORG,"Molly Allen Associates, LLC",,,,,,10402 Parkwood Dr,,Kensington,MD,208954042,,,2024-12-13,8308.06,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434121,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-12-02,100.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434116,,,ORG,Ramp Business Corporation,,,,,,28 W 23Rd St,Fl 2,New York,NY,100105260,,,2024-12-02,4862.70,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434249,500434116,SB21B,ORG,Air Transport,,,,,,93716 Orca Ln,,North Bend,OR,974598604,,,2024-12-02,540.00,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434250,500434116,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2024-12-02,366.00,0.00,Train Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434251,500434116,SB21B,ORG,Bandon Dunes Golf Resort,,,,,,57744 Round Lake Rd,,Bandon,OR,974116360,,,2024-12-02,601.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434252,500434116,SB21B,ORG,Bernardus Lodge,,,,,,415 W Carmel Valley Rd,,Carmel Valley,CA,939249417,,,2024-12-02,964.91,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434256,500434116,SB21B,ORG,Lula's Chocolates,,,,,,244 The Crossroads Blvd,,Carmel,CA,939238651,,,2024-12-02,39.60,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434262,500434116,SB21B,ORG,The UPS Store #840,,,,,,316 Mid Valley Ctr,,Carmel,CA,939238516,,,2024-12-02,429.00,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434261,500434116,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2024-12-02,1350.94,0.00,Air Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434732,,,ORG,Ramp Business Corporation,,,,,,28 W 23Rd St,Fl 2,New York,NY,100105260,,,2024-12-31,2269.22,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434735,500434732,SB21B,ORG,Bernardus Lodge,,,,,,415 W Carmel Valley Rd,,Carmel Valley,CA,939249417,,,2024-12-31,170.44,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434737,500434732,SB21B,ORG,Kimpton Hotel Eventi,,,,,,851 Avenue Of The Americas,,New York,NY,100014101,,,2024-12-31,1152.22,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434739,500434732,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2024-12-31,684.65,0.00,Air Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00680132,500434122,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-05,60.42,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00680132,500434123,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-11,49.63,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,,

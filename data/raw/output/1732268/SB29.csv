@@ -1,0 +1,18 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00603084,500327978,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-18,1.79,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00603084,500327979,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-18,0.12,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00603084,500323124,,,ORG,Atlas Strategy Group Inc,,,,,,837 Washington Ave,,Bronx,NY,104514842,,,2023-09-07,5000.00,0.00,Political Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00603084,500324989,,,ORG,Chase Cardmember Services,,,,,,PO Box 1423,,Charlotte,NC,282011423,,,2023-09-05,2972.68,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB29,C00603084,500324995,500324989,SB29,ORG,Allianz Travel Insurance,,,,,,9950 Mayland Dr,,Henrico,VA,232331463,,,2023-09-18,19.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500324996,500324989,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-09-18,187.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500324997,500324989,SB29,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2023-09-18,100.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325001,500324989,SB29,ORG,FedEx Offiice,,,,,,3610 Hacks Cross Rd,,Memphis,TN,381258800,,,2023-09-18,71.55,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325006,500324989,SB29,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,314.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325007,500324989,SB29,ORG,Moz,,,,,,1100 2Nd Ave,Ste 500,Seattle,WA,981013424,,,2023-09-18,104.94,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325008,500324989,SB29,ORG,Office Depot,,,,,,6600 N Military Trl,,Boca Raton,FL,334962434,,,2023-09-18,51.88,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325003,500324989,SB29,ORG,Scribe,,,,,,150 Dow St,Ste 543A,Manchester,NH,031011227,,,2023-09-18,73.90,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325002,500324989,SB29,ORG,Sheraton Hotels,,,,,,1 Star Pt,,Stamford,CT,069028911,,,2023-09-18,196.51,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325010,500324989,SB29,ORG,SouthWest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-09-18,497.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325012,500324989,SB29,ORG,TubeBuddy,,,,,,PO Box 3526,,Pismo Beach,CA,934483526,,,2023-09-18,49.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325013,500324989,SB29,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2023-09-18,114.88,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00603084,500325014,500324989,SB29,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-09-18,604.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*

@@ -1,0 +1,112 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00636027,501209976,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-02,1626.76,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209975,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-03,388.52,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209974,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-09,917.06,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209978,,,ORG,Amazon Web Services,,,,,,1200 12th Ave S,,Seattle,WA,981442712,,,2024-10-15,991.35,0.00,Data Storage Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209048,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-08,5567.91,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501211859,501209048,SB29,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-08,-15.51,0.00,Credit,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211858,501209048,SB29,ORG,Coupler.io,,,,,,118 Coalpit Hill Rd,,Danbury,CT,068108052,,,2024-10-08,132.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501209054,501209048,SB29,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-08,29.63,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501209051,501209048,SB29,ORG,LinkedIn,,,,,,1000 W Maude Ave,,Sunnyvale,CA,940852810,,,2024-10-08,69.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501209049,501209048,SB29,ORG,"NGP VAN, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2024-10-08,2000.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501209050,501209048,SB29,ORG,Paperform Pro,,,,,,64 Tabrett St,,"Banksia, Australia",AA,,,,2024-10-08,159.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211860,501209048,SB29,ORG,"Reflect Software, Inc.",,,,,,3 Villanova Rd,,Villanova,PA,190851412,,,2024-10-08,99.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211856,501209048,SB29,ORG,Twilio,,,,,,375 Beale St,Ste 300,San Francisco,CA,941052177,,,2024-10-08,2998.81,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211853,501209048,SB29,ORG,Webflow.com,,,,,,398 11th St,Fl 2,San Francisco,CA,941034393,,,2024-10-08,85.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501209979,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-08,55392.50,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210158,501209979,SB29,ORG,Amazon,,,,,,440 Terry Ave N,,Seattle,WA,981095210,,,2024-10-08,96.21,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210240,501209979,SB29,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-08,-1684.62,0.00,Credit,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210174,501209979,SB29,ORG,Calendly LLC,,,,,,Address Requested,,Santa Clarita,CA,91380,,,2024-10-08,13.07,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210236,501209979,SB29,ORG,ChatGPT,,,,,,3180 18th St,,San Francisco,CA,941102043,,,2024-10-08,61.78,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210175,501209979,SB29,ORG,Customer.io,,,,,,921 SW Washington St,Ste 820,Portland,OR,972052826,,,2024-10-08,394.18,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210176,501209979,SB29,ORG,Customink LLC,,,,,,419 King St,,Alexandria,VA,223143101,,,2024-10-08,3153.42,0.00,Printing,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210177,501209979,SB29,ORG,Double,,,,,,20 Jay St,Ste 1002,Brooklyn,NY,112018346,,,2024-10-08,2643.15,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210178,501209979,SB29,ORG,"Figma, Inc.",,,,,,760 Market St,Fl 10,San Francisco,CA,941022300,,,2024-10-08,155.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210186,501209979,SB29,ORG,Forge Public Relations LLC,,,,,,,,Chicago,IL,60647,,,2024-10-08,5800.00,0.00,Public Relations Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210180,501209979,SB29,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-08,3061.46,0.00,Software & Data Storage,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210181,501209979,SB29,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-08,11390.51,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210182,501209979,SB29,ORG,Handwrytten,,,,,,9280 S Kyrene Rd,Ste 134,Tempe,AZ,852842953,,,2024-10-08,97.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210184,501209979,SB29,ORG,"Hertz Global Holdings, Inc.",,,,,,8501 Williams Rd,,Estero,FL,339283325,,,2024-10-08,839.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211836,501209979,SB29,ORG,Homegrown by Janelle,,,,,,30 Wall St,Fl 8,New York,NY,100052205,,,2024-10-08,12250.00,0.00,Catering & Event Staffing,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210185,501209979,SB29,ORG,"HubSpot, Inc.",,,,,,25 1st St,Fl 2,Cambridge,MA,021411802,,,2024-10-08,874.71,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210187,501209979,SB29,ORG,Indigo,,,,,,2002 Timberloch Pl,Ste 200,The Woodlands,TX,773801182,,,2024-10-08,5000.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210226,501209979,SB29,ORG,Influencity,,,,,,12 Calle del Principe,,Madrid,Sp,,,,2024-10-08,334.17,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210227,501209979,SB29,ORG,Intuit Quickbooks,,,,,,5601 Headquarters Dr,,Plano,TX,750245839,,,2024-10-08,90.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210228,501209979,SB29,ORG,LinkedIn,,,,,,1000 W Maude Ave,,Sunnyvale,CA,940852810,,,2024-10-08,283.52,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210229,501209979,SB29,ORG,Mistral Ai,,,,,,15 rue des Halles,,Paris,,75001,,,2024-10-08,21.51,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210233,501209979,SB29,ORG,OpenAI,,,,,,3180 18th Street,,San Francisco,CA,941102043,,,2024-10-08,413.02,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210239,501209979,SB29,ORG,Paddle,,,,,,3811 Ditmars Blvd,# 1071,Astoria,NY,111052176,,,2024-10-08,67.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210275,501209979,SB29,ORG,Paypro Global Inc.,,,,,,"225 The East Mall, Suite 1117",,Toronto,On,M9B 0A9,,,2024-10-08,49.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210264,501209979,SB29,ORG,PostHog,,,,,,2261 Market St,# 4008,San Francisco,CA,941141612,,,2024-10-08,295.03,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210271,501209979,SB29,ORG,Pressable,,,,,,PO Box 959,,San Antonio,TX,782940959,,,2024-10-08,40.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210272,501209979,SB29,ORG,RevGravy,,,,,,6633 E Greenway Pkwy,Apt 2076,Scottsdale,AZ,852542037,,,2024-10-08,1670.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210155,501209979,SB29,ORG,SFO Parking,,,,,,,,San Francisco,CA,,,,2024-10-08,152.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210273,501209979,SB29,ORG,Slack,,,,,,500 Howard St,Ste 100,San Francisco,CA,941053031,,,2024-10-08,234.56,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210277,501209979,SB29,ORG,Swissotel Chicago,,,,,,323 W Wacker Dr,,Chicago,IL,,,,2024-10-08,1754.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501210278,501209979,SB29,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-08,168.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211822,501209979,SB29,ORG,Unbounce,,,,,,603-401 W Georgia St,,Vancouver,BC,V6B 5A1,,,2024-10-08,162.23,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211823,501209979,SB29,ORG,United Airlines,,,,,,44825 Delta Rd,,Chantilly,VA,20151,,,2024-10-08,1295.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211824,501209979,SB29,ORG,Upwork,,,,,,475 Brannan St,,San Francisco,CA,941075418,,,2024-10-08,1505.00,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211825,501209979,SB29,ORG,Zapier Inc.,,,,,,243 Buena Vista Ave,Apt 508,Sunnyvale,CA,940864867,,,2024-10-08,2404.25,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211829,501209979,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,,San Jose,CA,951131608,,,2024-10-08,259.90,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501209980,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-15,68662.53,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501211893,501209980,SB29,ORG,Alberts Printing NY,,,,,,265 W 37th St,Rm 1204,New York,NY,100185781,,,2024-10-15,244.97,0.00,Printing,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501212342,501209980,SB29,ORG,American Express Travel,,,,,,200 Vesey St,,New York,NY,102811013,,,2024-10-15,1684.62,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00636027,501211844,501209980,SB29,ORG,Apple Inc.,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2024-10-15,271.10,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211889,501209980,SB29,ORG,BlueWater,,,,,,17 Fulton St,,New York,NY,100382103,,,2024-10-15,326.02,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211846,501209980,SB29,ORG,Calendly LLC,,,,,,Address Requested,,Santa Clarita,CA,91380,,,2024-10-15,13.07,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211898,501209980,SB29,ORG,ChatGPT,,,,,,3180 18th St,,San Francisco,CA,941102043,,,2024-10-15,61.78,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211847,501209980,SB29,ORG,Customer.io,,,,,,921 SW Washington St,Ste 820,Portland,OR,972052826,,,2024-10-15,1257.04,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211848,501209980,SB29,ORG,Double,,,,,,20 Jay St,Ste 1002,Brooklyn,NY,112018346,,,2024-10-15,2299.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211882,501209980,SB29,ORG,DropBox,,,,,,1800 Owens St,Ste 200,San Francisco,CA,941582533,,,2024-10-15,119.88,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211883,501209980,SB29,ORG,FedEx Office,,,,,,13155 Noel Rd,Ste 1600,Dallas,TX,752405032,,,2024-10-15,299.70,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211884,501209980,SB29,ORG,"Figma, Inc.",,,,,,760 Market St,Fl 10,San Francisco,CA,941022300,,,2024-10-15,155.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211890,501209980,SB29,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-15,7143.18,0.00,Software & Data Storage,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211891,501209980,SB29,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-15,32711.80,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211845,501209980,SB29,ORG,Homegrown by Janelle,,,,,,30 Wall St,Fl 8,New York,NY,100052205,,,2024-10-15,3000.00,0.00,Catering & Event Staffing,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211892,501209980,SB29,ORG,"HubSpot, Inc.",,,,,,25 1st St,Fl 2,Cambridge,MA,021411802,,,2024-10-15,1475.85,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211894,501209980,SB29,ORG,Influencity,,,,,,12 Calle del Principe,,Madrid,Sp,,,,2024-10-15,398.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211895,501209980,SB29,ORG,Intuit Quickbooks,,,,,,5601 Headquarters Dr,,Plano,TX,750245839,,,2024-10-15,90.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211896,501209980,SB29,ORG,LinkedIn,,,,,,1000 W Maude Ave,,Sunnyvale,CA,940852810,,,2024-10-15,239.98,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211897,501209980,SB29,ORG,Mistral Ai,,,,,,15 rue des Halles,,Paris,,75001,,,2024-10-15,11.11,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211899,501209980,SB29,ORG,Paddle,,,,,,3811 Ditmars Blvd,# 1071,Astoria,NY,111052176,,,2024-10-15,67.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211900,501209980,SB29,ORG,Paypro Global Inc.,,,,,,"225 The East Mall, Suite 1117",,Toronto,On,M9B 0A9,,,2024-10-15,49.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211901,501209980,SB29,ORG,PostHog,,,,,,2261 Market St,# 4008,San Francisco,CA,941141612,,,2024-10-15,1398.76,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211904,501209980,SB29,ORG,Res Park SFO LLC,,,,,,237 Harbor Rd,,San Francisco,CA,941242473,,,2024-10-15,267.33,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211905,501209980,SB29,ORG,RevGravy,,,,,,6633 E Greenway Pkwy,Apt 2076,Scottsdale,AZ,852542037,,,2024-10-15,1670.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211885,501209980,SB29,ORG,SignalHire,,,,,,1906 El Camino Real,,Menlo Park,CA,940274105,,,2024-10-15,425.52,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211906,501209980,SB29,ORG,Slack,,,,,,500 Howard St,Ste 100,San Francisco,CA,941053031,,,2024-10-15,260.53,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211907,501209980,SB29,ORG,Target,,,,,,1000 Nicollet Mall,,Minneapolis,MN,554032542,,,2024-10-15,399.45,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211908,501209980,SB29,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-15,471.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211909,501209980,SB29,ORG,Unbounce,,,,,,603-401 W Georgia St,,Vancouver,BC,V6B 5A1,,,2024-10-15,162.23,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211910,501209980,SB29,ORG,United Airlines,,,,,,44825 Delta Rd,,Chantilly,VA,20151,,,2024-10-15,4115.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211911,501209980,SB29,ORG,Upwork,,,,,,475 Brannan St,,San Francisco,CA,941075418,,,2024-10-15,1102.50,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211915,501209980,SB29,ORG,Zapier Inc.,,,,,,243 Buena Vista Ave,Apt 508,Sunnyvale,CA,940864867,,,2024-10-15,5643.30,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211917,501209980,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,,San Jose,CA,951131608,,,2024-10-15,259.90,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00636027,501211923,,,IND,,Barionnette,Medjine,,,,,,North Providence,RI,,,,2024-10-08,1100.43,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209981,,,ORG,Beam Dental,,,,,,226 N 5th St,Fl 4,Columbus,OH,432152656,,,2024-10-03,1265.12,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209982,,,IND,,Bridge,Jasmine,,,,473 Monterey Salinas Hwy,,Salinas,CA,939088906,,,2024-10-08,1350.00,0.00,GOTV Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209983,,,IND,,Bryant,Laura,,,,2097 NW Canyon Dr,,Redmond,OR,977561130,,,2024-10-08,1450.00,0.00,Software Development,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209984,,,ORG,Central Square LTD,,,,,,1000 Business Center Dr,,Lake Mary,FL,327465585,,,2024-10-08,8000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209986,,,IND,,Daby,Calandra,,,,728 5th Ave,Apt D4,Brooklyn,NY,112324424,,,2024-10-08,4305.00,0.00,GOTV Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209987,,,ORG,"Daniel M, LLC",,,,,,110 W Vine St,Fl 3,Lexington,KY,405071658,,,2024-10-08,6000.00,0.00,Marketing Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209989,,,ORG,GL Solutions,,,,,,1530 Wilson Blvd,Ste 650,Arlington,VA,222092455,,,2024-10-08,225.00,0.00,Financial Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501212044,,,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-15,1500.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209992,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-10-04,21860.42,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209993,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-10-07,209.00,0.00,Retirement Plan Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209991,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-10-15,74.04,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209996,,,ORG,"Gusto Financial Services, Inc.",,,,,,500 3rd St,Ste 405,San Francisco,CA,941071889,,,2024-10-03,392.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501209994,,,ORG,"Gusto Financial Services, Inc.",,,,,,500 3rd St,Ste 405,San Francisco,CA,941071889,,,2024-10-08,194.58,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501211927,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-01,412301.17,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501211929,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-03,1374275.65,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210000,,,ORG,"MXML Creative, LLC",,,,,,1118 W Madison St,,Chicago,IL,606072012,,,2024-10-08,4540.00,0.00,Software Development,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210001,,,IND,,Ojha,Punit,,,,424 Porterfield Dr,,Youngsville,NC,275962110,,,2024-10-08,3300.00,0.00,Digital Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210002,,,IND,,Percoraro,Annie,,,,3704 N Bosworth Ave,# 2,Chicago,IL,606133606,,,2024-10-08,4620.00,0.00,Volunteer Staffing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210009,,,IND,,Rodriguez,Raven,,,,32 Trumbull St,Ste 4,New Haven,CT,065116310,,,2024-10-08,570.00,0.00,GOTV Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210003,,,IND,,Russell,Euphemia,,,,4654 Toland Way,,Los Angeles,CA,900413434,,,2024-10-08,4230.00,0.00,GOTV Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501211925,,,IND,,Sabio,Magat,,,,Blk 18 Lt 8&9 Menorca Ave,,Promesa Bagong Pook Pila,La,4010,,,2024-10-08,855.00,0.00,Research,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210011,,,ORG,"Stripe, Inc.",,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2024-10-07,6.50,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501211921,,,ORG,"Stripe, Inc.",,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2024-10-15,15.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210012,,,ORG,"Stripe, Inc.",,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2024-10-16,87.30,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210004,,,ORG,The Yard,,,,,,85 Delancey St,,New York,NY,100023182,,,2024-10-02,756.00,0.00,Office Space Rental,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00636027,501210005,,,IND,,Titus,Cheryl,,,,2081 Deep Creek Rd,,Fortine,MT,59918,,,2024-10-08,5040.00,0.00,GOTV Administrative Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account

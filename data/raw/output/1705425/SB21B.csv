@@ -1,0 +1,28 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00433680,500309129,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-04-17,8.23,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310888,,,ORG,Big Sky Resort,,,,,,PO Box 160001,,Big Sky,MT,597160001,,,2023-04-26,41264.15,0.00,PAC Catering/meals/lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310875,,,ORG,"Campaign Compliance, Inc.",,,,,,946 Bandmann Trl,,Missoula,MT,598028834,,,2023-04-10,2095.65,0.00,Compliance consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310890,,,ORG,Chraca Friedman Group,,,,,,220 7Th St NE,,Washington,DC,200026076,,,2023-04-27,10000.00,0.00,PAC fundraising consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310874,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-04-03,2915.21,0.00,Legal fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310876,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-04-20,234.38,0.00,Legal fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310880,,,ORG,First Interstate Bank,,,,,,1800 6Th Ave N,,Billings,MT,591011407,,,2023-04-10,15.00,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310881,,,ORG,First Interstate Bank,,,,,,1800 6Th Ave N,,Billings,MT,591011407,,,2023-04-10,15.00,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310884,,,ORG,First Interstate Bank,,,,,,1800 6Th Ave N,,Billings,MT,591011407,,,2023-04-12,15.00,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310886,,,ORG,First Interstate Bank,,,,,,1800 6Th Ave N,,Billings,MT,591011407,,,2023-04-17,9.95,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310887,,,ORG,First Interstate Bank,,,,,,1800 6Th Ave N,,Billings,MT,591011407,,,2023-04-21,24.50,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310889,,,ORG,First Interstate Bank,,,,,,1800 6Th Ave N,,Billings,MT,591011407,,,2023-04-26,24.50,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310891,,,ORG,First Interstate Bank,,,,,,1800 6Th Ave N,,Billings,MT,591011407,,,2023-04-27,0.25,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310856,,,ORG,Mastercard,,,,,,PO Box 31615,,Billings,MT,591071615,,,2023-04-18,481.50,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310857,500310856,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-04-18,200.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310858,500310856,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-04-18,150.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310860,,,ORG,Mastercard,,,,,,PO Box 31615,,Billings,MT,591071615,,,2023-04-18,123.50,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310863,,,ORG,Mastercard,,,,,,PO Box 31615,,Billings,MT,591071615,,,2023-04-24,4005.60,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500310864,500310863,SB21B,ORG,Best Western Helena,,,,,,835 Great Northern Blvd,,Helena,MT,596013315,,,2023-04-24,540.60,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310865,500310863,SB21B,ORG,Best Western Helena,,,,,,835 Great Northern Blvd,,Helena,MT,596013315,,,2023-04-24,360.40,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310866,500310863,SB21B,ORG,Best Western Helena,,,,,,835 Great Northern Blvd,,Helena,MT,596013315,,,2023-04-24,4.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310867,500310863,SB21B,ORG,Best Western Helena,,,,,,835 Great Northern Blvd,,Helena,MT,596013315,,,2023-04-24,540.60,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310868,500310863,SB21B,ORG,Best Western Helena,,,,,,835 Great Northern Blvd,,Helena,MT,596013315,,,2023-04-24,360.40,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310870,500310863,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-04-25,875.20,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310871,500310863,SB21B,ORG,Giant Food,,,,,,4303 Connecticut Ave NW,,Washington,DC,200082305,,,2023-04-25,269.94,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310872,500310863,SB21B,ORG,Whole Foods DC,,,,,,1440 P St NW,,Washington,DC,200051908,,,2023-04-25,26.32,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500310873,500310863,SB21B,ORG,Whole Foods DC,,,,,,1440 P St NW,,Washington,DC,200051908,,,2023-04-25,1014.68,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*

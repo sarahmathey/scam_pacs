@@ -1,0 +1,59 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00750919,500043180,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-19,108.63,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043001,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-07-29,2679.62,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043030,500043001,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-29,80.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043021,500043001,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-07-29,35.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043031,500043001,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-29,138.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043022,500043001,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-07-29,34.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043032,500043001,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-29,204.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043023,500043001,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-07-29,45.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043033,500043001,SB21B,ORG,Uber,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-07-29,78.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043024,500043001,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-07-29,23.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043034,500043001,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-07-29,27.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043025,500043001,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-29,398.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043026,500043001,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-29,498.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043027,500043001,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-29,428.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043028,500043001,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-29,548.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043029,500043001,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-29,30.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500042931,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-08,2.12,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500042871,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-07-01,430.98,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500042902,500042871,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-01,278.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500042904,500042871,SB21B,ORG,Uber,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-07-01,28.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500042905,500042871,SB21B,ORG,Uber,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-07-01,20.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500042906,500042871,SB21B,ORG,Uber,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-07-01,31.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043181,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-26,435.49,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043091,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-31,1235.77,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500042991,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-22,379.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500042942,,,ORG,"Acorn Advising, LLC",,,,,,1054 Hill St SE,,Atlanta,GA,303151916,,,2024-07-12,5000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043083,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-07-26,94.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043283,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-08-29,89.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043293,,,ORG,"Acorn Advising, LLC",,,,,,1054 Hill St SE,,Atlanta,GA,303151916,,,2024-09-09,5000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043474,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-09-26,75.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043384,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-23,774.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043305,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-09,1878.38,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043225,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-08-30,4181.76,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043270,500043225,SB21B,ORG,Hyatt Hotels Corporation,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-08-30,36.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043271,500043225,SB21B,ORG,Hyatt Hotels Corporation,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-08-30,390.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043262,500043225,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-08-30,12.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043272,500043225,SB21B,ORG,Hyatt Hotels Corporation,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-08-30,413.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043263,500043225,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-08-30,12.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043274,500043225,SB21B,ORG,Carey Limousine,,,,,,2134 S Wolf Rd,,Des Plaines,IL,600181932,,,2024-08-30,264.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043265,500043225,SB21B,ORG,Hyatt Hotels Corporation,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-08-30,263.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043275,500043225,SB21B,ORG,Carey Limousine,,,,,,2134 S Wolf Rd,,Des Plaines,IL,600181932,,,2024-08-30,924.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043266,500043225,SB21B,ORG,Hyatt Hotels Corporation,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-08-30,324.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043276,500043225,SB21B,ORG,Carey Limousine,,,,,,2134 S Wolf Rd,,Des Plaines,IL,600181932,,,2024-08-30,214.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043277,500043225,SB21B,ORG,Carey Limousine,,,,,,2134 S Wolf Rd,,Des Plaines,IL,600181932,,,2024-08-30,1064.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043269,500043225,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-08-30,41.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500043455,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-09-30,85.88,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043458,500043455,SB21B,ORG,Uber,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-09-30,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00750919,500042985,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2024-07-18,2543.54,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043476,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-30,4.74,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043107,,,ORG,"Acorn Advising, LLC",,,,,,1054 Hill St SE,,Atlanta,GA,303151916,,,2024-08-14,5000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043087,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-29,554.79,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500042988,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-15,118.90,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043298,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-31,440.23,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043109,,,ORG,"NGP Van, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-08-13,318.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043359,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-16,1029.39,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043179,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-12,1406.34,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043299,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-03,39.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00750919,500043099,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-05,470.06,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,

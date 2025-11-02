@@ -1,0 +1,94 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00392738,501138930,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-08-31,891.29,0.00,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095340,,,ORG,AT&T Mobility,,,,,,PO Box 6463,,Carol Stream,IL,601976463,,,2023-08-01,176.99,0.00,Telephone Service,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138940,,,ORG,AT&T Mobility,,,,,,PO Box 6463,,Carol Stream,IL,601976463,,,2023-10-02,176.99,0.00,Telephone Service,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132780,,,IND,,Tyree,Jocelyn,,,,8935 SW Bellflower St,,Tigard,OR,972245213,,,2023-07-31,1985.01,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138880,,,ORG,Bank Of America,,,,,,PO Box 15731,,Wilmington,DE,198865731,,,2023-08-09,3887.10,0.00,Credit Card Payment,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501139046,501138880,SB21B,ORG,Delta Airlines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2023-08-09,361.20,0.00,Airfare,002,,,,,,,,,,,,,,,,,,X,* 08/09/23 Credit Card Payment
+SB21B,C00392738,501139047,501138880,SB21B,ORG,Eco Shuttle,,,,,,25500 SW Grahams Ferry Rd,,Sherwood,OR,971409022,,,2023-08-09,2193.90,0.00,Transportation,003,,,,,,,,,,,,,,,,,,X,* 08/09/23 Credit Card Payment
+SB21B,C00392738,501139048,501138880,SB21B,ORG,Trellis,,,,,,110 OR-99W,,Dundee,OR,97115,,,2023-08-09,1332.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 08/09/23 Credit Card Payment
+SB21B,C00392738,501132790,,,IND,,Van Buren,Emily,,,,4273 SW Council Crest Dr,,Portland,OR,972391530,,,2023-10-31,377.90,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501110690,,,ORG,Bank Of America,,,,,,PO Box 15731,,Wilmington,DE,198865731,,,2023-09-15,4438.27,0.00,Credit Card Payment,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501110772,501110690,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dfw Airport,TX,752619616,,,2023-09-15,658.20,0.00,Airfare,002,,,,,,,,,,,,,,,,,,X,* 09/15/23 Credit Card Payment
+SB21B,C00392738,501110692,501110690,SB21B,ORG,Raindance Vineyards,,,,,,3004 NE Zimri Dr,,Newberg,OR,971327237,,,2023-09-15,700.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 09/15/23 Credit Card Payment
+SB21B,C00392738,501110765,501110690,SB21B,ORG,Pinotcar LLC,,,,,,220 SW 11Th St,,Dundee,OR,971159740,,,2023-09-15,1262.50,0.00,Transportation,003,,,,,,,,,,,,,,,,,,X,* 09/15/23 Credit Card Payment
+SB21B,C00392738,501110775,501110690,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dfw Airport,TX,752619616,,,2023-09-15,111.57,0.00,Airfare,002,,,,,,,,,,,,,,,,,,X,* 09/15/23 Credit Card Payment
+SB21B,C00392738,501110768,501110690,SB21B,ORG,Eco Shuttle,,,,,,25500 SW Grahams Ferry Rd,,Sherwood,OR,971409022,,,2023-09-15,125.00,0.00,Transportation,003,,,,,,,,,,,,,,,,,,X,* 09/15/23 Credit Card Payment
+SB21B,C00392738,501110698,501110690,SB21B,ORG,Flaneur Wines,,,,,,168 S Pine St,,Carlton,OR,97111,,,2023-09-15,1581.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 09/15/23 Credit Card Payment
+SB21B,C00392738,501138921,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-12-06,6000.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138931,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-08-31,14.10,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095341,,,ORG,GLH Consulting,,,,,,4 I St SE,Apt 715,Washington,DC,200034687,,,2023-07-10,2769.52,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095741,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-10,197.50,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138941,,,ORG,AT&T Mobility,,,,,,PO Box 6463,,Carol Stream,IL,601976463,,,2023-11-02,177.10,0.00,Telephone Service,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132791,,,IND,,Van Buren,Emily,,,,4273 SW Council Crest Dr,,Portland,OR,972391530,,,2023-11-30,377.90,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138602,,,ORG,GLH Consulting,,,,,,4 I St SE,Apt 715,Washington,DC,200034687,,,2023-10-09,2500.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138922,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-12-15,2407.13,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501137822,,,ORG,Bank Of America,,,,,,PO Box 15731,,Wilmington,DE,198865731,,,2023-10-17,1129.34,0.00,Credit Card Payment,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501137823,501137822,SB21B,ORG,The Monocle On Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-10-17,325.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 10/17/23 Credit Card Payment
+SB21B,C00392738,501137824,501137822,SB21B,ORG,The Monocle On Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-10-17,150.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 10/17/23 Credit Card Payment
+SB21B,C00392738,501137825,501137822,SB21B,ORG,The Monocle On Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-10-17,150.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 10/17/23 Credit Card Payment
+SB21B,C00392738,501137826,501137822,SB21B,ORG,W Millar & Co. Catering,,,,,,1335 14Th St NW,,Washington,DC,200053610,,,2023-10-17,319.82,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 10/17/23 Credit Card Payment
+SB21B,C00392738,501138942,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-12-29,891.29,0.00,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501137352,,,ORG,Bank Of America,,,,,,PO Box 15731,,Wilmington,DE,198865731,,,2023-12-29,804.18,0.00,Credit Card Payment,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501137353,501137352,SB21B,ORG,Alaska Air,,,,,,PO Box 24948,,Seattle,WA,981240948,,,2023-12-29,507.80,0.00,Airfare,002,,,,,,,,,,,,,,,,,,X,* 12/29/23 Credit Card Payment
+SB21B,C00392738,501137354,501137352,SB21B,ORG,W Millar & Co. Catering,,,,,,1335 14Th St NW,,Washington,DC,200053610,,,2023-12-29,296.38,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 12/29/23 Credit Card Payment
+SB21B,C00392738,501110662,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-10-31,891.29,0.00,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132782,,,IND,,Tyree,Jocelyn,,,,8935 SW Bellflower St,,Tigard,OR,972245213,,,2023-08-31,1985.01,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501137292,,,ORG,Bank Of America,,,,,,PO Box 15731,,Wilmington,DE,198865731,,,2023-11-20,1329.06,0.00,Credit Card Payment,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501137293,501137292,SB21B,ORG,The Monocle On Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-11-20,495.60,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 11/20/23 Credit Card Payment
+SB21B,C00392738,501137295,501137292,SB21B,ORG,Cellar.Com,,,,,,300 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-11-20,233.46,0.00,Campaign Event Expenses,003,,,,,,,,,,,,,,,,,,X,* 11/20/23 Credit Card Payment
+SB21B,C00392738,501137296,501137292,SB21B,ORG,Ambar Capitol Hill,,,,,,523 8Th St SE,,Washington,DC,200032835,,,2023-11-20,600.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 11/20/23 Credit Card Payment
+SB21B,C00392738,501132792,,,IND,,Van Buren,Emily,,,,4273 SW Council Crest Dr,,Portland,OR,972391530,,,2023-12-29,377.90,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138603,,,ORG,GLH Consulting,,,,,,4 I St SE,Apt 715,Washington,DC,200034687,,,2023-11-06,2500.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138903,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-10-09,6000.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501058713,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-07-09,98.75,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095323,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-08-04,72.33,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138933,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-09-08,192.17,0.00,Payroll Processing,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138943,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-12-29,14.10,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501110663,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-09-29,14.10,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132783,,,IND,,Tyree,Jocelyn,,,,8935 SW Bellflower St,,Tigard,OR,972245213,,,2023-09-29,1985.01,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138904,,,ORG,The Allison Inn And Spa,,,,,,2525 E Allison Ln,,Newberg,OR,971327536,,,2023-10-20,10000.00,0.00,Catering Deposit,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095324,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-07-28,14.10,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138934,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-11-10,192.17,0.00,Payroll Processing,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095334,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-08-03,6000.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501139634,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-09-28,890.95,0.00,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138944,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-12-08,192.17,0.00,Payroll Processing,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501130254,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-31,237.00,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132784,,,IND,,Tyree,Jocelyn,,,,8935 SW Bellflower St,,Tigard,OR,972245213,,,2023-10-31,1985.01,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501091384,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-27,98.75,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501109094,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-30,197.50,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138905,,,ORG,"NGP Van, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-10-31,300.00,0.00,Database,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138605,,,ORG,GLH Consulting,,,,,,4 I St SE,Apt 715,Washington,DC,200034687,,,2023-12-06,2500.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095325,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-07-28,891.29,0.00,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095335,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-07-10,1745.90,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138935,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-11-30,891.29,0.00,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138945,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-08-04,192.17,0.00,Payroll Processing,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132785,,,IND,,Tyree,Jocelyn,,,,8935 SW Bellflower St,,Tigard,OR,972245213,,,2023-11-30,1985.01,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501110685,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-09-06,6000.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501064995,,,ORG,The Allison Inn And Spa,,,,,,2525 E Allison Ln,,Newberg,OR,971327536,,,2023-09-27,2788.61,0.00,Catering,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138906,,,ORG,"NGP Van, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-08-08,300.00,0.00,Database,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501122726,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-26,197.50,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138936,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-11-30,14.10,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095336,,,ORG,AT&T Mobility,,,,,,PO Box 6463,,Carol Stream,IL,601976463,,,2023-07-03,330.10,0.00,Telephone Service,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138946,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-07-07,192.17,0.00,Payroll Processing,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138876,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-07-10,6000.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501110686,,,ORG,GLH Consulting,,,,,,4 I St SE,Apt 715,Washington,DC,200034687,,,2023-09-06,3697.74,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132786,,,IND,,Tyree,Jocelyn,,,,8935 SW Bellflower St,,Tigard,OR,972245213,,,2023-12-29,1985.01,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501109096,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-15,197.50,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138937,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-11-03,72.33,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,Payroll Fees
+SB21B,C00392738,501132787,,,IND,,Van Buren,Emily,,,,4273 SW Council Crest Dr,,Portland,OR,972391530,,,2023-07-31,377.90,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501091387,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-13,197.50,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501130308,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-24,98.75,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138918,,,ORG,The Ashmead Group,,,,,,3612 Newark St NW,,Washington,DC,200163180,,,2023-11-06,6000.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138928,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-10-31,14.10,0.00,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138938,,,ORG,AT&T Mobility,,,,,,PO Box 6463,,Carol Stream,IL,601976463,,,2023-12-01,146.54,0.00,Telephone Service,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501095338,,,ORG,GLH Consulting,,,,,,4 I St SE,Apt 715,Washington,DC,200034687,,,2023-08-03,2621.88,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138878,,,ORG,Bank Of America,,,,,,PO Box 15731,,Wilmington,DE,198865731,,,2023-07-20,537.00,0.00,Credit Card Payment,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501139050,501138878,SB21B,ORG,The Monocle On Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-07-20,325.00,0.00,Catering,003,,,,,,,,,,,,,,,,,,X,* 07/20/23 Credit Card Payment
+SB21B,C00392738,501139049,501138878,SB21B,ORG,Pinotcar LLC,,,,,,220 SW 11Th St,,Dundee,OR,971159740,,,2023-07-20,212.00,0.00,Transportation,003,,,,,,,,,,,,,,,,,,X,* 07/20/23 Credit Card Payment
+SB21B,C00392738,501132788,,,IND,,Van Buren,Emily,,,,4273 SW Council Crest Dr,,Portland,OR,972391530,,,2023-08-31,377.90,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501130309,,,ORG,Actblue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-12,197.50,0.00,Credit Card Processing Fee,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138929,,,ORG,ADP,,,,,,4099 SE International Way,Ste 203,Milwaukie,OR,972228853,,,2023-10-06,192.17,0.00,Payroll Processing,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138939,,,ORG,AT&T Mobility,,,,,,PO Box 6463,,Carol Stream,IL,601976463,,,2023-09-01,176.99,0.00,Telephone Service,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501132789,,,IND,,Van Buren,Emily,,,,4273 SW Council Crest Dr,,Portland,OR,972391530,,,2023-09-29,377.90,0.00,Salary,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00392738,501138899,,,ORG,The Allison Inn And Spa,,,,,,2525 E Allison Ln,,Newberg,OR,971327536,,,2023-08-09,8100.68,0.00,Catering,003,,,,,,,,,,,,,,,,,,,

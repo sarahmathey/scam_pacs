@@ -1,0 +1,89 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00545830,500534940,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-01,5844.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500536702,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-07,12530.42,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500537502,,,PAC,JStreetPAC,,,,,,PO Box 33106,,Washington,DC,200330106,,,2024-10-09,220.05,0.00,Credit Card Processing Fee,,C00441949,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500540292,,,IND,,Filbert,Justin,,,,PO Box 58746,,Philadelphia,PA,191028746,,,2024-10-15,77.37,0.00,Travel Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500540293,,,IND,,Pollard,Margaret,,,,PO Box 58746,,Philadelphia,PA,191028746,,,2024-10-16,580.22,0.00,Mileage Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,36764214I,36764214,SA11C,CCM,Chris Coons for Delaware,,,,,,PO Box 9900,,Newark,DE,197145000,,,2024-10-04,5343.18,0.00,In-Kind: Catering & Event Supplies,,C00475392,,,,,,,,S,DE,00,,,,,,,,* In-Kind Received
+SB21B,C00545830,500540334,,,ORG,American Express,,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2024-10-15,26201.06,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500545100,500540334,SB21B,ORG,Parkway Parking,,,,,,220 S Broad St,,Philadelphia,PA,191023816,,,2024-10-15,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545060,500540334,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-10-15,671.88,0.00,Event Space Rental & Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545070,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,874.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545090,500540334,SB21B,ORG,Hotels.com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-10-15,782.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545101,500540334,SB21B,ORG,Parkway Parking,,,,,,220 S Broad St,,Philadelphia,PA,191023816,,,2024-10-15,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545111,500540334,SB21B,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-15,1782.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545071,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,1610.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545081,500540334,SB21B,ORG,Fitler Club,,,,,,24 S 24th St,,Philadelphia,PA,19103,,,2024-10-15,215.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545091,500540334,SB21B,ORG,Hotels.com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-10-15,166.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545102,500540334,SB21B,ORG,Parkway Parking,,,,,,220 S Broad St,,Philadelphia,PA,191023816,,,2024-10-15,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545112,500540334,SB21B,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-15,388.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545062,500540334,SB21B,ORG,Hilton Hotels,,,,,,1335 Avenue of the Americas,,New York,NY,100196012,,,2024-10-15,196.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545072,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,192.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545082,500540334,SB21B,ORG,Fitler Club,,,,,,24 S 24th St,,Philadelphia,PA,19103,,,2024-10-15,3194.84,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545092,500540334,SB21B,ORG,InterContinental Hotels Group,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-10-15,450.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545103,500540334,SB21B,ORG,Parkway Parking,,,,,,220 S Broad St,,Philadelphia,PA,191023816,,,2024-10-15,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545113,500540334,SB21B,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-15,388.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545053,500540334,SB21B,ORG,American Airlines Group,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-15,436.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545063,500540334,SB21B,ORG,Hilton Hotels,,,,,,1335 Avenue of the Americas,,New York,NY,100196012,,,2024-10-15,395.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545073,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,699.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545104,500540334,SB21B,ORG,Parkway Parking,,,,,,220 S Broad St,,Philadelphia,PA,191023816,,,2024-10-15,26.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545114,500540334,SB21B,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-15,-3494.48,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545054,500540334,SB21B,ORG,American Airlines Group,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-15,176.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545064,500540334,SB21B,ORG,Hilton Hotels,,,,,,1335 Avenue of the Americas,,New York,NY,100196012,,,2024-10-15,24.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545074,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,1651.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545094,500540334,SB21B,ORG,"MBRF, Inc.",,,,,,1335 14th St NW,,Washington,DC,200053610,,,2024-10-15,354.26,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545105,500540334,SB21B,ORG,Charlie Palmer Steak,,,,,,101 Constitution Ave NW,# 150,Washington,DC,200012133,,,2024-10-15,1154.75,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545115,500540334,SB21B,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-15,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545055,500540334,SB21B,ORG,American Airlines Group,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-15,647.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545075,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,901.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545085,500540334,SB21B,ORG,Haddon Culinary,,,,,,9 Kings Hwy W,,Haddonfield,NJ,080332115,,,2024-10-15,395.06,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545095,500540334,SB21B,ORG,"MBRF, Inc.",,,,,,1335 14th St NW,,Washington,DC,200053610,,,2024-10-15,352.57,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545106,500540334,SB21B,ORG,Charlie Palmer Steak,,,,,,101 Constitution Ave NW,# 150,Washington,DC,200012133,,,2024-10-15,300.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545116,500540334,SB21B,ORG,Yotel,,,,,,415 New Jersey Ave NW,,Washington,DC,200012001,,,2024-10-15,-385.80,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545056,500540334,SB21B,ORG,American Airlines Group,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-15,346.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545066,500540334,SB21B,ORG,The Capital Grille,,,,,,1338 Chestnut St,,Philadelphia,PA,191074559,,,2024-10-15,329.00,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545076,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,1172.19,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545086,500540334,SB21B,ORG,Hotels.com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-10-15,184.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545107,500540334,SB21B,ORG,The Jefferson Hotel,,,,,,101 W Franklin St,,Richmond,VA,232205009,,,2024-10-15,164.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545117,500540334,SB21B,ORG,Hilton Hotels,,,,,,1335 Avenue of the Americas,,New York,NY,100196012,,,2024-10-15,3038.50,0.00,Event Space Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545057,500540334,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2024-10-15,220.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545067,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,255.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545077,500540334,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20706,,Atlanta,GA,303206001,,,2024-10-15,297.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545087,500540334,SB21B,ORG,Hotels.com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-10-15,129.41,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545097,500540334,SB21B,ORG,Newark Liberty International Airport,,,,,,3 Brewster Rd,,Newark,NJ,071143702,,,2024-10-15,344.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545108,500540334,SB21B,ORG,The Jefferson Hotel,,,,,,101 W Franklin St,,Richmond,VA,232205009,,,2024-10-15,931.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545118,500540334,SB21B,ORG,Hilton Hotels,,,,,,1335 Avenue of the Americas,,New York,NY,100196012,,,2024-10-15,813.78,0.00,Event Space Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545058,500540334,SB21B,ORG,InterContinental Hotels Group,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-10-15,136.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545068,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,286.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545088,500540334,SB21B,ORG,Hotels.com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-10-15,309.74,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545109,500540334,SB21B,ORG,Monocle on Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2024-10-15,403.00,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545059,500540334,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-10-15,250.00,0.00,Event Space Rental & Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545069,500540334,SB21B,ORG,"Carey International, Inc.",,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2024-10-15,1205.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545089,500540334,SB21B,ORG,Hotels.com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-10-15,242.62,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500545099,500540334,SB21B,ORG,Parkway Parking,,,,,,220 S Broad St,,Philadelphia,PA,191023816,,,2024-10-15,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540344,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-15,15548.91,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500544164,,,ORG,Engine House 25 Wines,,,,,,3339 Penn Ave,,Pittsburgh,PA,152011337,,,2024-10-16,515.00,0.00,Event Space Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500537245,,,ORG,Accelerate Political Advisors,,,,,,11706 Lytle St,,Silver Spring,MD,209022217,,,2024-10-09,8574.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500537655,,,ORG,People's Security Bank & Trust Co.,,,,,,150 N Washington Ave,,Scranton,PA,185031843,,,2024-10-06,3212.06,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500540150,500537655,SB21B,ORG,Uber,,,,,,128 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-07,86.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540151,500537655,SB21B,ORG,Uber,,,,,,128 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-07,11.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540132,500537655,SB21B,ORG,Uber,,,,,,128 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-07,20.24,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540152,500537655,SB21B,ORG,The Warwick Hotel,,,,,,220 S 17th St,,Philadelphia,PA,191036303,,,2024-10-07,50.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540162,500537655,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-10-07,20.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540133,500537655,SB21B,ORG,Penn Stater Conference Center,,,,,,215 Innovation Blvd,,State College,PA,168036603,,,2024-10-07,36.08,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540153,500537655,SB21B,ORG,The Warwick Hotel,,,,,,220 S 17th St,,Philadelphia,PA,191036303,,,2024-10-07,221.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540134,500537655,SB21B,ORG,Penn Stater Conference Center,,,,,,215 Innovation Blvd,,State College,PA,168036603,,,2024-10-07,287.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540154,500537655,SB21B,ORG,Uber,,,,,,128 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-07,9.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540135,500537655,SB21B,ORG,American Airlines Group,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-07,25.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540155,500537655,SB21B,ORG,Omni Hotel,,,,,,530 William Penn Pl,Lbby 3,Pittsburgh,PA,152191820,,,2024-10-07,584.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540136,500537655,SB21B,ORG,Uber,,,,,,128 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-07,38.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540156,500537655,SB21B,ORG,Newark Liberty International Airport,,,,,,3 Brewster Rd,,Newark,NJ,071143702,,,2024-10-07,180.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540137,500537655,SB21B,ORG,Uber,,,,,,128 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-07,7.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540138,500537655,SB21B,ORG,Uber,,,,,,128 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-10-07,3.18,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540129,500537655,SB21B,ORG,Sheraton Hotels,,,,,,300 W Station Square Dr,,Pittsburgh,PA,152191162,,,2024-10-07,234.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540139,500537655,SB21B,ORG,The Warwick Hotel,,,,,,220 S 17th St,,Philadelphia,PA,191036303,,,2024-10-07,318.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500540159,500537655,SB21B,ORG,Waterbar Restaurant,,,,,,399 The Embarcadero,,San Francisco,CA,941051265,,,2024-10-07,246.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00545830,500539526,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2024-10-10,8502.19,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500540526,,,ORG,"Campaign Finance Consultants, Inc.",,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2024-10-16,10965.46,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500540287,,,IND,,Begler,George,,,,510 N 3rd St,,Harrisburg,PA,171011118,,,2024-10-15,1039.66,0.00,Mileage & Travel Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00545830,500540285,500540287,SB21B,ORG,PA Turnpike Commission,,,,,,PO Box 67676,,Harrisburg,PA,171067676,,,2024-10-15,97.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*

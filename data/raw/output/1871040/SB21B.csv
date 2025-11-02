@@ -1,0 +1,29 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00831164,500075390,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-12-22,260.70,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075382,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-11-27,237.75,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075406,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-12-30,42.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075391,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-26,4210.61,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075402,500075391,SB21B,ORG,La Goulue,,,,,,29 E 61St St,,New York,NY,100658009,,,2024-12-26,385.32,0.00,Meetings/Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075398,500075391,SB21B,ORG,Loews Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-12-26,690.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075399,500075391,SB21B,ORG,Loews Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-12-26,2072.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075400,500075391,SB21B,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-12-26,106.25,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075401,500075391,SB21B,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-12-26,106.25,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075392,500075391,SB21B,ORG,UrbanStems,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2024-12-26,119.76,0.00,Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075393,500075391,SB21B,ORG,UrbanStems,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2024-12-26,160.05,0.00,Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075394,500075391,SB21B,ORG,UrbanStems,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2024-12-26,160.05,0.00,Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075395,500075391,SB21B,ORG,UrbanStems,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2024-12-26,139.36,0.00,Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075396,500075391,SB21B,ORG,UrbanStems,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2024-12-26,139.36,0.00,Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075383,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-11-29,36.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075384,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-11-29,607.65,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075386,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-13,36.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075387,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-13,670.65,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075407,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-31,36.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075408,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-31,607.65,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075385,,,IND,,Sellman,Sarah,,,,107 W 25Th St,Apt 6E,New York,NY,100017212,,,2024-11-29,1603.64,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075388,,,IND,,Sellman,Sarah,,,,107 W 25Th St,Apt 6E,New York,NY,100017212,,,2024-12-13,1603.64,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075409,,,IND,,Sellman,Sarah,,,,107 W 25Th St,Apt 6E,New York,NY,100017212,,,2024-12-31,1603.64,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075419,,,IND,,Sellman,Sarah,,,,107 W 25Th St,Apt 6E,New York,NY,100017212,,,2024-12-31,61.97,0.00,Travel Expense Reimbursement-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500075440,500075419,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-31,21.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075441,500075419,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-12-31,19.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075443,500075419,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-31,20.32,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500075389,,,ORG,"Verdolino & Lowey, P.C.",,,,,,124 Washington St,Ste 101,Foxboro,MA,020351368,,,2024-12-18,5720.26,0.00,Professionals Services-Accounting,,,,,,,,,,,,,,,,,,,,

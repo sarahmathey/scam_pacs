@@ -1,0 +1,412 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00842104,500704000,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-30,1645.03,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685110,,,IND,,Davidson,Mia,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-30,32.16,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688020,,,ORG,Wild Raspberry Face Painting,,,,,,302 HIGHLAND Ave,,Ann Arbor,MI,48107,,,2024-08-12,828.00,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703530,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-15,402.04,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500679540,,,ORG,Comerica Bank,,,,,,5080 W Main St,,Kalamazoo,MI,490091004,,,2024-07-12,480.00,0.00,Service fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500682840,,,IND,,Brau,Matt,,,,505 Fulton Pl,,Lansing,MI,489151219,,,2024-07-25,1500.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681550,,,IND,,Davidson,Mia,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-22,48.24,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691160,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-08-27,291.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691161,500691160,SB21B,ORG,Courtyard By Marriott  Lansing Downtown,,,,,,600 E Michigan Ave,,Lansing,MI,489121151,,,2024-08-27,291.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693270,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-09-03,1125.00,0.00,Data Base Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703270,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-08,618.91,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703280,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-23,1123.32,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500675480,,,ORG,The Burger Spot,,,,,,"Westchester Square, 550 Forest Ave",# 3,Plymouth,MI,48170,,,2024-07-09,200.00,0.00,Catering-Deposit,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685190,,,IND,,Jackson,Kate,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-30,142.04,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688090,,,ORG,Capital Strategies,,,,,,4712 Admiralty Way,# 670,Marina Del Rey,CA,902926905,,,2024-08-13,2940.81,0.00,"UA-Airfare:$227.48   Lyft&Uber-Transport:$301.95   Hotles:$2,411.38",,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688091,500688090,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-08-13,219.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500688092,500688090,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-08-13,8.00,0.00,Airfare-wifi,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500688095,500688090,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-08-13,31.08,0.00,Cab Fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500688096,500688090,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-08-13,128.49,0.00,Cab Fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500688099,500688090,SB21B,ORG,Aspen Mountain Residence,,,,,,415 E Dean St,,Aspen,CO,816111809,,,2024-08-13,2206.10,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703990,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-16,1915.36,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685111,,,IND,,Davidson,Mia,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-30,706.83,0.00,"Lodging, Meals, Transportation",,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685112,500685111,SB21B,ORG,Hampton Inn-Boston Logan Airport,,,,,,200 2Nd St,,Chelsea,MA,021501802,,,2024-07-30,228.77,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500685132,500685111,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-07-30,23.21,0.00,Equipment/Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500685113,500685111,SB21B,ORG,Enterprise,,,,,,15 Transportation Way,,East Boston,MA,021285227,,,2024-07-30,326.82,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681511,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-22,98.58,0.00,Equipment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681512,500681511,SB21B,ORG,Target,,,,,,5609 W Saginaw Hwy,,Lansing,MI,489172456,,,2024-07-22,98.58,0.00,Equipment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500690331,,,ORG,Change Media Group,,,,,,PO Box 776850,,Chicago,IL,606776850,,,2024-08-23,4690.49,0.00,"Media, Printing, Log Designs",,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703531,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-18,428.44,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681041,,,ORG,Winning Connections,,,,,,317 Pennsylvania Ave SE,Fl 2,Washington,DC,200031148,,,2024-07-19,7000.00,0.00,Telephone/ Phone/ Cell Phone/ Mobile Phone Service,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500700151,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-09-24,135.34,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686651,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-06,145.73,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500684251,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-07-29,2993.63,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500684260,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684280,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,5.74,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684290,500684251,SB21B,ORG,DoubleTree By Hilton Hotel Philadelphia Airport,,,,,,4509 Island Ave,,Philadelphia,PA,191533803,,,2024-07-29,498.78,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684271,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,32.05,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684281,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,6.59,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684252,500684251,SB21B,ORG,Hyatt Regency Boston,,,,,,1 Avenue De Lafayette,,Boston,MA,021111739,,,2024-07-29,416.19,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684253,500684251,SB21B,ORG,Hertz Rental,,,,,,1 Airport Rd,,Manchester,NH,031037450,,,2024-07-29,617.77,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684263,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,41.31,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684273,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,6.41,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684254,500684251,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-07-29,317.25,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684264,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,29.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684274,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,24.02,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684284,500684251,SB21B,ORG,The Baker House 1650,,,,,,181 Main St,,East Hampton,NY,119372720,,,2024-07-29,186.18,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684265,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,10.32,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684275,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,3.60,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684285,500684251,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-07-29,31.73,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684266,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,5.80,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684286,500684251,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-07-29,318.15,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684257,500684251,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-29,24.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684267,500684251,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-29,14.99,0.00,Airfare fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684277,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,28.72,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684278,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,32.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684288,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,14.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684259,500684251,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-29,6.95,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500696071,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-09-10,118.66,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688171,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-08-13,1013.36,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688172,500688171,SB21B,ORG,ZTERS,,,,,,13727 Office Park Dr,,Houston,TX,770702892,,,2024-08-13,1013.36,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695671,,,ORG,Capital Strategies,,,,,,4712 Admiralty Way,# 670,Marina Del Rey,CA,902926905,,,2024-09-09,10000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703271,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-09,396.58,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696081,,,ORG,Inland Press,,,,,,2001 W Lafayette Blvd,,Detroit,MI,482161852,,,2024-09-10,473.82,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703281,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-24,880.39,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680191,,,ORG,Blue Care Network Of Michigan,,,,,,PO Box 33608,,Detroit,MI,482325608,,,2024-07-16,6801.26,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703991,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-17,838.10,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681422,,,IND,,Nemeth,Ian,,,,7039 Westgate Dr,,Laingsburg,MI,488489235,,,2024-07-21,1055.00,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703922,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-03,669.95,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680822,,,ORG,CatEye Studios,,,,,,1324 Spaight St,,Madison,WI,537033751,,,2024-07-18,45950.00,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703532,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-20,339.11,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500690332,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-08-23,387.66,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691032,,,ORG,734 & More Food Truck,,,,,,17163 Theresa Ln,,New Boston,MI,481648809,,,2024-08-27,1653.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500670542,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-07-01,1775.00,0.00,Data Base Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687852,,,IND,,Cantor,Henry,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-12,240.53,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686652,,,IND,,Jackson,Kate,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-06,171.52,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500690262,,,IND,,Brau,Matt,,,,505 Fulton Pl,,Lansing,MI,489151219,,,2024-08-23,88.17,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703272,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-11,478.58,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686472,,,ORG,SAVOY Restaurant,,,,,,17131 E Warren Ave,,Detroit,MI,482242228,,,2024-08-05,5000.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688482,,,IND,,Davidson,Mia,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-15,100.50,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691082,,,ORG,Baker-Hall & Associates,,,,,,1241 E Woodward Heights Blvd,# 1,Hazel Park,MI,480301557,,,2024-08-27,5500.00,0.00,Campaign Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680192,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-07-16,2413.47,0.00,Credit Card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680193,500680192,SB21B,ORG,Draya's Bounce House,,,,,,6781 Maxwell Ave,,Warren,MI,480912635,,,2024-07-16,55.00,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680194,500680192,SB21B,ORG,Draya's Bounce House,,,,,,6781 Maxwell Ave,,Warren,MI,480912635,,,2024-07-16,55.00,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680195,500680192,SB21B,ORG,Donut Bar + Coffee,,,,,,29039 Southfield Rd,,Southfield,MI,480761916,,,2024-07-16,1815.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680196,500680192,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-16,448.48,0.00,Airefare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680197,500680192,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-16,39.99,0.00,Airefare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500697992,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-09-17,412.65,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703992,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-18,640.19,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685003,,,ORG,Town Of Nantucket,,,,,,4 Fairgrounds Rd,,Nantucket,MA,025542804,,,2024-07-30,802.44,0.00,Security,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500678003,,,ORG,Total Party Planning LLC,,,,,,4282 13Th St,,Wyandotte,MI,481927003,,,2024-07-12,101.01,0.00,Equipment Rental Deposit,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500678303,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-12,130.18,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500690903,,,ORG,Bouncing All Around Inc,,,,,,18707 Mark Twain St,,Detroit,MI,482352551,,,2024-08-26,188.50,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500695403,,,ORG,Fran Dwight Photography,,,,,,1215 Lane Blvd,,Kalamazoo,MI,490013947,,,2024-09-07,700.00,0.00,Photography Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685713,,,ORG,Change Media Group,,,,,,PO Box 776850,,Chicago,IL,606776850,,,2024-07-31,14805.18,0.00,"Digital Consulting, Media and Printing",,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681513,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-22,153.30,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500677123,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-07-11,1516.58,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687923,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-08-12,271.35,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500698623,,,ORG,Justice For All,,,,,,Information Requested,,Lansing,MI,48910,,,2024-09-13,25000.00,0.00,Campaign Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703523,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-04,670.96,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703923,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-04,472.61,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500684223,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-07-29,5842.80,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500684230,500684223,SB21B,ORG,Target,,,,,,5609 W Saginaw Hwy,,Lansing,MI,489172456,,,2024-07-29,360.38,0.00,Equipment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684240,500684223,SB21B,ORG,Delivery.Com,,,,,,55 Water St,Fl 28,New York,NY,100410007,,,2024-07-29,264.05,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684231,500684223,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-29,396.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684241,500684223,SB21B,ORG,Galley Beach,,,,,,54 Jefferson Ave,,Nantucket,MA,025542272,,,2024-07-29,396.50,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684232,500684223,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-29,219.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684242,500684223,SB21B,ORG,Nantucket Inn,,,,,,1 Miller Ln,,Nantucket,MA,025542894,,,2024-07-29,47.59,0.00,Lodging Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684233,500684223,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-29,595.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684234,500684223,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-29,124.78,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684244,500684223,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-07-29,275.56,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684225,500684223,SB21B,ORG,Donut Bar + Coffee,,,,,,29039 Southfield Rd,,Southfield,MI,480761916,,,2024-07-29,615.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684235,500684223,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-29,448.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684236,500684223,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-29,185.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684246,500684223,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-07-29,15.12,0.00,Lodging Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684237,500684223,SB21B,ORG,Southwest Airlines,,,,,,1671 S Broadway St,,Carrollton,TX,750067442,,,2024-07-29,260.98,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684228,500684223,SB21B,ORG,Draya's Bounce House,,,,,,6781 Maxwell Ave,,Warren,MI,480912635,,,2024-07-29,190.40,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684238,500684223,SB21B,ORG,Holiday Inn,,,,,,1298 S Porter St Ext,,Manchester,NH,031033175,,,2024-07-29,346.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684229,500684223,SB21B,ORG,Draya's Bounce House,,,,,,6781 Maxwell Ave,,Warren,MI,480912635,,,2024-07-29,271.53,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684239,500684223,SB21B,ORG,Courtyard Boston Downtown,,,,,,275 Tremont St,,Boston,MA,021165615,,,2024-07-29,370.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500684249,500684223,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-07-29,189.74,0.00,Equipment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703533,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-21,353.36,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686733,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-08-06,1775.00,0.00,Data Base Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691033,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-08-27,200000.00,0.00,Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500670543,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-07-01,1125.00,0.00,Data Base Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688453,,,IND,,Brau,Matt,,,,505 Fulton Pl,,Lansing,MI,489151219,,,2024-08-15,88.17,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500693263,,,IND,,Nemeth,Ian,,,,7039 Westgate Dr,,Laingsburg,MI,488489235,,,2024-09-05,500.00,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703273,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-14,3747.60,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686473,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-05,77.72,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681483,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-07-22,5249.35,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681490,500681483,SB21B,ORG,Aria Front Desk,,,,,,3730 Las Vegas Blvd S,,Las Vegas,NV,891584300,,,2024-07-22,214.29,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681491,500681483,SB21B,ORG,The Baker House 1650,,,,,,181 Main St,,East Hampton,NY,119372720,,,2024-07-22,1295.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681493,500681483,SB21B,ORG,Hy-Line Cruises,,,,,,220 Ocean St,,Hyannis,MA,026014735,,,2024-07-22,42.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681484,500681483,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-22,28.77,0.00,Airfare Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681494,500681483,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-22,511.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681485,500681483,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-22,75.00,0.00,Airfare Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681495,500681483,SB21B,ORG,Cape Air & Nantucket Airlines,,,,,,660 Barnstable Rd,,Hyannis,MA,026011927,,,2024-07-22,399.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681486,500681483,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-22,45.99,0.00,Airfare Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681496,500681483,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-22,333.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681487,500681483,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-22,139.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681497,500681483,SB21B,ORG,Hyatt Regency Boston,,,,,,1 Avenue De Lafayette,,Boston,MA,021111739,,,2024-07-22,418.40,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681488,500681483,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-22,294.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500681489,500681483,SB21B,ORG,Nantucket Inn,,,,,,1 Miller Ln,,Nantucket,MA,025542894,,,2024-07-22,1305.89,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703283,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-25,1299.77,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500701783,,,ORG,Macomb County,,,,,,117 S Groesbeck Hwy,,Mount Clemens,MI,480432183,,,2024-09-27,500.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696093,,,IND,,Gettys,John,,,,1211 Alsdorf St,,Lansing,MI,489101203,,,2024-09-10,519.16,0.00,Meijer; Supplies-$274.26  USPS; Postage-$244.90,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696096,500696093,SB21B,ORG,Meijer,,,,,,6200 S Pennsylvania Ave,,Lansing,MI,489115719,,,2024-09-10,274.26,0.00,Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500696097,500696093,SB21B,ORG,United States Postal Service,,,,,,315 W Allegan St,Ste A,Lansing,MI,489331514,,,2024-09-10,244.90,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703993,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-22,2492.83,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685104,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-07-30,310.40,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691704,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-30,245.89,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500678004,,,ORG,Total Party Planning LLC,,,,,,4282 13Th St,,Wyandotte,MI,481927003,,,2024-07-12,1119.19,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500690904,,,ORG,Change Media Group,,,,,,PO Box 776850,,Chicago,IL,606776850,,,2024-08-26,16761.97,0.00,"Media, Printing, Log Designs",,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687104,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-08-08,4917.39,0.00,Credit Card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687105,500687104,SB21B,ORG,Cookies And Cream LLC,,,,,,32102 Joy Rd,,Livonia,MI,481503837,,,2024-08-08,2448.60,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500687106,500687104,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-08-08,2468.79,0.00,Equipment (Audio),,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703524,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-05,208.70,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703924,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-05,259.23,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680724,,,ORG,Production Management One Inc,,,,,,8625 Inkster Rd,,Taylor,MI,481801443,,,2024-07-18,5740.00,0.00,Equipment/ Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703534,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-22,1017.90,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691034,,,IND,,Gettys,John,,,,1211 Alsdorf St,,Lansing,MI,489101203,,,2024-08-27,133.65,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691035,500691034,SB21B,ORG,Meijer,,,,,,6200 S Pennsylvania Ave,,Lansing,MI,489115719,,,2024-08-27,112.92,0.00,Catering-Drinks,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500687534,,,ORG,"Watershed Strategy, Inc",,,,,,Watersheed Strategy,,Washington,DC,20036,,,2024-08-09,10000.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500675244,,,IND,,Jackson,Kate,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-09,277.38,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500675954,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-07-10,15000.00,0.00,Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703354,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-09-30,187500.00,0.00,Acquisition and Ads,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687854,,,IND,,Cantor,Henry,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-12,69.52,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687855,500687854,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-08-12,14.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500687856,500687854,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-08-12,54.60,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500692254,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-09-02,8000.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686454,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-08-05,2700.12,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686455,500686454,SB21B,ORG,The Dubliner Restaurant,,,,,,4 F St NW,,Washington,DC,20001,,,2024-08-05,523.90,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500686456,500686454,SB21B,ORG,Nantucket Party Rentals,,,,,,8 Daisy Way,,Nantucket,MA,025547013,,,2024-08-05,436.88,0.00,Equipment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500686457,500686454,SB21B,ORG,The Royal Sonesta Washington DC Dupont Circle,,,,,,2121 P St NW,,Washington,DC,200371010,,,2024-08-05,919.12,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500686459,500686454,SB21B,ORG,"The Royal Sonesta Washington, DC Capitol Hill",,,,,,20 Massachusetts Ave NW,,Washington,DC,205292099,,,2024-08-05,731.92,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500690264,,,IND,,Brau,Matt,,,,505 Fulton Pl,,Lansing,MI,489151219,,,2024-08-23,1500.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500700564,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-09-25,3150.03,0.00,Airefare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500700570,500700564,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-25,508.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500700571,500700564,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-25,627.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500700565,500700564,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-25,738.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500700567,500700564,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-25,659.75,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500700568,500700564,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-25,105.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500700569,500700564,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-25,508.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500675674,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-07-10,200000.00,0.00,Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500670374,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-07-01,25000.00,0.00,Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703274,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-15,693.56,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500704684,,,ORG,Change Media Group,,,,,,PO Box 776850,,Chicago,IL,606776850,,,2024-09-25,7694.66,0.00,"Media, Printing, Log Designs",,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680184,,,IND,,Gettys,John,,,,1211 Alsdorf St,,Lansing,MI,489101203,,,2024-07-16,253.15,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680186,500680184,SB21B,ORG,United States Postal Service,,,,,,315 W Allegan St,Ste A,Lansing,MI,489331514,,,2024-07-16,253.15,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703284,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-28,1972.86,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703994,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-23,630.37,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696215,,,CCM,ENGEL FOR ARIZONA,,,,,,PO Box 40721,,Tucson,AZ,857170721,G2024,,2024-09-10,5000.00,0.00,Contribution,,C00773820,,,ENGEL,KIRSTEN,,,,H,AZ,06,,,,,,,,
+SB21B,C00842104,500681915,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-07-23,338.27,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500682315,,,ORG,JBW Consulting LLC,,,,,,11 Cypress Dr,,Woodbury,NY,117971501,,,2024-07-24,5800.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696225,,,ORG,Gettin' Fresh LLC,,,,,,1052 Fountain St NE,,Grand Rapids,MI,495033647,,,2024-09-10,750.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500676925,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-07-11,2627.48,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500676930,500676925,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-11,202.25,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500676931,500676925,SB21B,ORG,Cookies And Cream LLC,,,,,,32102 Joy Rd,,Livonia,MI,481503837,,,2024-07-11,1375.75,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500676926,500676925,SB21B,ORG,"Holiday Inn Denver Lakewood, An IHG Hotel",,,,,,7390 W Hampden Ave,,Lakewood,CO,802275127,,,2024-07-11,186.75,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500676927,500676925,SB21B,ORG,University Of Massachusetts Club,,,,,,1 Beacon St,,Accord,MA,02018,,,2024-07-11,400.00,0.00,Facility Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500676928,500676925,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-11,294.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500676929,500676925,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-11,168.25,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500685525,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-07-31,8000.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703525,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-06,386.45,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703925,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-08,1119.22,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681535,,,ORG,Island Kitchen Restaurant & Catering,,,,,,1 Chins Way,,Nantucket,MA,025544050,,,2024-07-22,9299.26,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681935,,,ORG,Island Kitchen Restaurant & Catering,,,,,,1 Chins Way,,Nantucket,MA,025544050,,,2024-07-23,2680.89,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703535,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-25,703.65,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686245,,,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-08-01,144.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500670255,,,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-07-01,144.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500701755,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock PC",,,,,,1090 Vermont Ave NW,Ste 750,Washington,DC,200054970,,,2024-09-27,4018.50,0.00,Legal Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688165,,,ORG,Production Management One Inc,,,,,,8625 Inkster Rd,,Taylor,MI,481801443,,,2024-08-12,4984.00,0.00,Equipment/ Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500675675,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock PC",,,,,,1090 Vermont Ave NW,Ste 750,Washington,DC,200054970,,,2024-07-10,1253.00,0.00,Legal Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500670375,,,ORG,Capital Strategies,,,,,,4712 Admiralty Way,# 670,Marina Del Rey,CA,902926905,,,2024-07-01,10000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703275,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-16,1340.50,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680385,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-07-16,3869.10,0.00,Credit Card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680400,500680385,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-07-17,387.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680410,500680385,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-17,14.62,0.00,Cab fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680411,500680385,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-17,51.90,0.00,Cab fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680402,500680385,SB21B,ORG,The Westin Michigan Avenue Chicago,,,,,,909 N Michigan Ave,,Chicago,IL,606111935,,,2024-07-17,896.96,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680412,500680385,SB21B,ORG,DTW Parking,,,,,,11050 Rogell Dr,,Detroit,MI,482421144,,,2024-07-17,44.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680392,500680385,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-07-17,218.35,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680403,500680385,SB21B,ORG,The Westin Michigan Avenue Chicago,,,,,,909 N Michigan Ave,,Chicago,IL,606111935,,,2024-07-17,200.76,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680413,500680385,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-17,493.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680393,500680385,SB21B,ORG,Alaska Airlines Inc,,,,,,PO Box 68900-SEASM,,Seattle,WA,98168,,,2024-07-17,198.10,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680414,500680385,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-17,173.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680415,500680385,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-07-17,28.77,0.00,Airfare Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680395,500680385,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-07-17,273.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680407,500680385,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-17,21.93,0.00,Cab fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680387,500680385,SB21B,ORG,Marriott El Paso,,,,,,600 AIRWAY Blvd,,El Paso,TX,79925,,,2024-07-17,553.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680397,500680385,SB21B,ORG,Marriott El Paso,,,,,,600 AIRWAY Blvd,,El Paso,TX,79925,,,2024-07-17,146.14,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680408,500680385,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-17,4.38,0.00,Cab fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680409,500680385,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-07-17,9.98,0.00,Cab fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680399,500680385,SB21B,ORG,DTW Parking,,,,,,11050 Rogell Dr,,Detroit,MI,482421144,,,2024-07-17,90.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703285,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-29,218.77,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500700095,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-09-24,351.78,0.00,Sheetz; Meals-$23.50  Joe&Juice; Melas-$33.13  Live Fresh Juice; meals-$53.99,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500700100,500700095,SB21B,ORG,DTW Parking,,,,,,11050 Rogell Dr,,Detroit,MI,482421144,,,2024-09-24,90.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500683595,,,ORG,"GrandAir Aviation, Inc.",,,,,,16815 Wright Rd,,Grand Ledge,MI,488379257,,,2024-07-26,16490.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500697995,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-09-17,290.98,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500678306,,,IND,,Brau,Matt,,,,505 Fulton Pl,,Lansing,MI,489151219,,,2024-07-12,156.45,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500695806,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-09-09,6658.39,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500695820,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,25.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695840,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,727.23,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695850,500695806,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-09,50.23,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695811,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,10.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695821,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,22.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695841,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,56.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695851,500695806,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-09,421.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695812,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,20.61,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695822,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,31.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695842,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,56.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695852,500695806,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-09,269.77,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695823,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,30.25,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695843,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,35.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695853,500695806,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-09,1206.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695814,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,19.79,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695824,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,13.98,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695844,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,35.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695854,500695806,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-09,277.68,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695815,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,5.16,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695825,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,5.08,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695835,500695806,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-09-09,73.65,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695845,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,712.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695816,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,10.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695826,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,39.19,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695836,500695806,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-09-09,105.38,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695846,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,712.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695856,500695806,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-09,198.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695817,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,48.79,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695827,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,19.60,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695828,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,11.24,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695838,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,25.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695858,500695806,SB21B,ORG,Hertz Rental,,,,,,780 Mcdonnell Rd,,San Francisco,CA,941283103,,,2024-09-09,198.52,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695809,500695806,SB21B,ORG,DoubleTree By Hilton Hotel Philadelphia Airport,,,,,,4509 Island Ave,,Philadelphia,PA,191533803,,,2024-09-09,497.92,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695819,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,60.98,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695829,500695806,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-09,25.40,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695839,500695806,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-09,27.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695849,500695806,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-09,204.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500695859,500695806,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-09,259.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500696726,,,ORG,CatEye Studios,,,,,,1324 Spaight St,,Madison,WI,537033751,,,2024-09-12,53830.00,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703526,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-07,309.07,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703926,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-09,273.12,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703536,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-27,578.61,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687536,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-08-09,1956.47,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687946,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-08-12,330.21,0.00,Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687947,500687946,SB21B,ORG,"Holiday Inn Express And Suites Oscoda, An IHG Hotel",,,,,,114 N Lake St,,Oscoda,MI,487501735,,,2024-08-12,330.21,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500696366,,,ORG,Winning Connections,,,,,,317 Pennsylvania Ave SE,Fl 2,Washington,DC,200031148,,,2024-09-11,8238.05,0.00,Telephone/ Phone/ Cell Phone/ Mobile Phone Service,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703266,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-01,1119.56,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688166,,,IND,,Jackson,Kate,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-13,183.58,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500697266,,,ORG,Coalition Strategies,,,,,,Information Requested,,Lansing,MI,48910,,,2024-09-13,1025000.00,0.00,Canvassing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691066,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-08-27,267.00,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500683966,,,ORG,Island Kitchen Restaurant & Catering,,,,,,1 Chins Way,,Nantucket,MA,025544050,,,2024-07-29,1693.52,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696076,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-09-10,33.24,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696077,500696076,SB21B,ORG,The Home Depot,,,,,,936 S Waverly Rd,,Lansing,MI,489174255,,,2024-09-10,33.24,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702576,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-09-30,23017.16,0.00,"Digital Consulting, Acquisition and Website Services",,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688276,,,ORG,Comerica Bank,,,,,,5080 W Main St,,Kalamazoo,MI,490091004,,,2024-08-13,264.89,0.00,Service fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703276,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-17,1313.58,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500702386,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-09-30,3767.37,0.00,Credit Card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500702390,500702386,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-30,438.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702391,500702386,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-30,399.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702392,500702386,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-30,399.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702393,500702386,SB21B,ORG,Hilton New York Times Square,,,,,,234 W 42Nd St,,New York,NY,100367215,,,2024-09-30,576.10,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702394,500702386,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-30,398.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702395,500702386,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-30,398.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702396,500702386,SB21B,ORG,The Westin Detroit Metropolitan Airport,,,,,,2501 Worldgateway Pl,,Detroit,MI,482426298,,,2024-09-30,404.44,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702387,500702386,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-30,273.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702397,500702386,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-30,205.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702389,500702386,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-30,273.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703286,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-30,563.66,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703986,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-11,313.82,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703996,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-24,863.60,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685107,,,IND,,Brau,Matt,,,,505 Fulton Pl,,Lansing,MI,489151219,,,2024-07-30,129.98,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500684307,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-07-29,200000.00,0.00,Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681117,,,ORG,Change Media Group,,,,,,PO Box 776850,,Chicago,IL,606776850,,,2024-07-19,3348.53,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703927,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-10,346.78,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500685927,,,ORG,University Of Massachusetts Club,,,,,,1 Beacon St,,Accord,MA,02018,,,2024-08-01,6099.12,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703527,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-11,391.11,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696727,,,ORG,CatEye Studios,,,,,,1324 Spaight St,,Madison,WI,537033751,,,2024-09-12,53831.00,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691037,,,ORG,Blue Care Network Of Michigan,,,,,,PO Box 33608,,Detroit,MI,482325608,,,2024-08-26,6801.26,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687037,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-08-08,1125.00,0.00,Data Base Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703537,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-28,401.86,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681137,,,ORG,University Of Massachusetts Club,,,,,,1 Beacon St,,Accord,MA,02018,,,2024-07-19,7009.85,0.00,Facility Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500687537,,,ORG,Bouncing All Around Inc,,,,,,18707 Mark Twain St,,Detroit,MI,482352551,,,2024-08-09,2883.20,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703267,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-02,706.00,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686367,,,ORG,First Republic Bank Merchant Card Services,,,,,,1656 N California Blvd,,Walnut Creek,CA,945964180,,,2024-08-05,395.58,0.00,Service Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691067,,,ORG,JBW Consulting LLC,,,,,,11 Cypress Dr,,Woodbury,NY,117971501,,,2024-08-27,5800.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500683967,,,IND,,Brau,Matt,,,,505 Fulton Pl,,Lansing,MI,489151219,,,2024-07-29,2250.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688277,,,ORG,Comerica Bank,,,,,,5080 W Main St,,Kalamazoo,MI,490091004,,,2024-08-13,451.90,0.00,Service fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703277,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-18,976.05,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703987,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-12,401.55,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688397,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-08-14,1013.36,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688398,500688397,SB21B,ORG,ZTERS,,,,,,13727 Office Park Dr,,Houston,TX,770702892,,,2024-08-14,1013.36,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500679697,,,ORG,Chicken Coupe Chicken & Waffles,,,,,,610 Nightingale St,,Dearborn,MI,481281560,,,2024-07-15,6047.79,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703997,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-25,1621.07,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703528,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-12,321.56,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681228,,,ORG,Chicken Coupe Chicken & Waffles,,,,,,610 Nightingale St,,Dearborn,MI,481281560,,,2024-07-19,1210.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703538,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-29,351.25,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686648,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-08-06,728.96,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500692358,,,ORG,First Republic Bank Merchant Card Services,,,,,,1656 N California Blvd,,Walnut Creek,CA,945964180,,,2024-09-03,635.82,0.00,Service Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500697258,,,ORG,Comerica Bank,,,,,,5080 W Main St,,Kalamazoo,MI,490091004,,,2024-09-13,126.65,0.00,Service fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703268,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-03,248.59,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500697268,,,ORG,Blue Care Network Of Michigan,,,,,,PO Box 33608,,Detroit,MI,482325608,,,2024-09-16,6801.26,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500691068,,,ORG,Digital Custom Media LLC,,,,,,21634 Albion Ave,,Farmington Hills,MI,483365602,,,2024-08-27,3600.00,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500701768,,,ORG,"Watershed Strategy, Inc",,,,,,Watersheed Strategy,,Washington,DC,20036,,,2024-09-27,542.21,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500683968,,,ORG,Baker-Hall & Associates,,,,,,1241 E Woodward Heights Blvd,# 1,Hazel Park,MI,480301557,,,2024-07-29,5500.00,0.00,Campaign Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703278,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-21,11128.23,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500671778,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-03,241.20,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686378,,,ORG,Inland Press,,,,,,2001 W Lafayette Blvd,,Detroit,MI,482161852,,,2024-08-05,2703.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688088,,,ORG,Production Management One Inc,,,,,,8625 Inkster Rd,,Taylor,MI,481801443,,,2024-08-12,7981.00,0.00,Equipment/ Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703988,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-15,2384.21,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500702398,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-09-30,6006.16,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500702400,500702398,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-30,627.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702410,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,928.16,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702401,500702398,SB21B,ORG,V{IV} New York,,,,,,717 9Th Ave,,New York,NY,100197388,,,2024-09-30,296.58,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702411,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,928.16,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702403,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,1.00,0.00,Lodging fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702413,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,9.24,0.00,Lodging Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702404,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,1.00,0.00,Lodging fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702414,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,9.24,0.00,Lodging Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702405,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,1.00,0.00,Lodging fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702415,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,47.24,0.00,Lodging Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702406,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,30.00,0.00,Lodging fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702416,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,66.43,0.00,Lodging Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702407,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,928.16,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702408,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,928.16,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702418,500702398,SB21B,ORG,Hilton Milwaukee City Center,,,,,,509 W Wisconsin Ave,,Milwaukee,WI,532032001,,,2024-09-30,1.00,0.00,Lodging fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500702399,500702398,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,Sept 982,Atlanta,GA,303541989,,,2024-09-30,738.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500672098,,,ORG,"Watershed Strategy, Inc",,,,,,Watersheed Strategy,,Washington,DC,20036,,,2024-07-03,15000.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703998,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-26,942.11,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696119,,,ORG,Baker-Hall & Associates,,,,,,1241 E Woodward Heights Blvd,# 1,Hazel Park,MI,480301557,,,2024-09-10,1325.87,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500679319,,,ORG,The Burger Spot,,,,,,"Westchester Square, 550 Forest Ave",# 3,Plymouth,MI,48170,,,2024-07-14,5000.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703529,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-14,300.54,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703539,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-31,659.32,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500679539,,,ORG,Comerica Bank,,,,,,5080 W Main St,,Kalamazoo,MI,490091004,,,2024-07-12,236.93,0.00,Service fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500671539,,,ORG,First Republic Bank Merchant Card Services,,,,,,1656 N California Blvd,,Walnut Creek,CA,945964180,,,2024-07-03,409.50,0.00,Service Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500692249,,,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-09-01,144.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686249,,,ORG,Capital Strategies,,,,,,4712 Admiralty Way,# 670,Marina Del Rey,CA,902926905,,,2024-08-02,10000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500682249,,,ORG,Little Gem NYC,,,,,,1065 Lexington Ave,,New York,NY,100213274,,,2024-07-23,14072.04,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500688449,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-15,127.03,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686649,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-08-06,204.00,0.00,The Beach Haus Resort-Lodging-$204.00,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686650,500686649,SB21B,ORG,The Beach Haus Resort,,,,,,1489 N US Highway 31 N,,Traverse City,MI,496863636,,,2024-08-06,204.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500697259,,,ORG,Comerica Bank,,,,,,5080 W Main St,,Kalamazoo,MI,490091004,,,2024-09-13,336.00,0.00,Service fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500699659,,,ORG,Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2024-09-23,3052.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500699660,500699659,SB21B,ORG,Sheraton Pittsburgh Hotel At Station Square,,,,,,W STATION SQUARE Dr,,Pittsburgh,PA,15219,,,2024-09-23,1526.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500699661,500699659,SB21B,ORG,Sheraton Pittsburgh Hotel At Station Square,,,,,,W STATION SQUARE Dr,,Pittsburgh,PA,15219,,,2024-09-23,1526.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693269,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-09-03,1775.00,0.00,Data Base Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500697269,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-09-16,1525.14,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680469,,,IND,,Davidson,Mia,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-17,972.29,0.00,Hy-Line Cruises-$77 & 82-Transporation  Nantucket Resort-$813.29-Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500680470,500680469,SB21B,ORG,Hy-Line Cruises,,,,,,220 Ocean St,,Hyannis,MA,026014735,,,2024-07-17,77.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680471,500680469,SB21B,ORG,Hy-Line Cruises,,,,,,220 Ocean St,,Hyannis,MA,026014735,,,2024-07-17,82.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500680472,500680469,SB21B,ORG,Nantucket Resort Collection,,,,,,78 Center St,,Nantucket,MA,025543604,,,2024-07-17,813.29,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500703269,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-07,1259.51,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500683969,,,ORG,Authentic Campaigns,,,,,,4422 N Ravenswood Ave,# 101,Chicago,IL,606405803,,,2024-07-29,8000.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500696079,,,IND,,Jackson,Kate,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-09-10,502.50,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703279,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-22,1439.52,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686379,,,IND,,Gettys,John,,,,1211 Alsdorf St,,Lansing,MI,489101203,,,2024-08-05,251.75,0.00,Amazon-$58.95-Equpiment  USPS-$98.90-Postage  USPS-$93.90,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500686380,500686379,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-08-05,58.95,0.00,Equipment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500686381,500686379,SB21B,ORG,United States Postal Service,,,,,,315 W Allegan St,Ste A,Lansing,MI,489331514,,,2024-08-05,98.90,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500686382,500686379,SB21B,ORG,United States Postal Service,,,,,,315 W Allegan St,Ste A,Lansing,MI,489331514,,,2024-08-05,93.90,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500688479,,,IND,,Davidson,Mia,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-08-15,31.96,0.00,Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500693579,,,ORG,"Watershed Strategy, Inc",,,,,,Watersheed Strategy,,Washington,DC,20036,,,2024-09-06,10000.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681889,,,IND,,Banta,Ashly,,,,1375 S Washington Ave,Ste 300,Lansing,MI,489101674,,,2024-07-23,790.20,0.00,Hertz; $$687.75-Transportation   Kroger; $102.45-Equipment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500681890,500681889,SB21B,ORG,Hertz Rental,,,,,,1 Airport Rd,,Manchester,NH,031037450,,,2024-07-23,687.75,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693289,,,IND,,Gettys,John,,,,1211 Alsdorf St,,Lansing,MI,489101203,,,2024-09-05,1165.69,0.00,United Airlines;$338.49;Airfare  American Airlines;$$278.75;Airfare  Flora Jeans;$122.13;Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500693291,500693289,SB21B,ORG,United States Postal Service,,,,,,315 W Allegan St,Ste A,Lansing,MI,489331514,,,2024-09-05,150.45,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693293,500693289,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-05,338.49,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693294,500693289,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW Dr,,Dallas,TX,75261,,,2024-09-05,278.75,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693296,500693289,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-05,45.41,0.00,Cab fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693297,500693289,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-05,15.03,0.00,Cab fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500693298,500693289,SB21B,ORG,Uber Technologies,,,,,,1515 3Rd St,,San Francisco,CA,941582211,,,2024-09-05,34.63,0.00,Cab fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00842104,500671199,,,IND,,Cook,Cindi,,,,141 Mapleton Rd,,Grosse Pointe Farms,MI,482363614,,,2024-07-02,252.71,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00842104,500703999,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-29,2434.57,0.00,Credit Card Processing,,,,,,,,,,,,,,,,,,,,

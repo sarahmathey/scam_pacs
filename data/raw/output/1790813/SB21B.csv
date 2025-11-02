@@ -1,0 +1,27 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00331694,500507289,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-26,0.60,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500509066,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-05-24,108.19,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500509067,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-05-24,168.99,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500504146,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-05-07,2500.98,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500504147,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-05-07,491.40,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500507410,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-05-28,327.60,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500509068,,,ORG,Intuit Market,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-05-02,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500504815,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2024-05-10,6459.45,0.00,"Reimbursement - Event Tickets, Transportation",,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500510352,500504815,SB21B,ORG,Cleveland Guardians Baseball Co.,,,,,,2401 Ontario St,,Cleveland,OH,441154003,,,2024-05-10,3165.45,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500510351,500504815,SB21B,ORG,Great Day Tours,,,,,,375 Treeworth Blvd,,Broadview Heights,OH,441472985,,,2024-05-10,3294.00,0.00,Event Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500507089,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2024-05-24,10691.23,0.00,"Reimbursement - Event Gifts, Catering/Facility Rental",,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500507090,500507089,SB21B,IND,,Coscia,Michael,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-05-24,6796.00,0.00,Event Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500507091,500507089,SB21B,ORG,Westin Cincinnati,,,,,,21 E 5Th St,,Cincinnati,OH,452023114,,,2024-05-24,3895.23,0.00,Catering/Facility Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500504816,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2024-05-10,851.44,0.00,"Reimbursement - Travel, Event Tickets, Event Transportation, Meals",,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500510391,500504816,SB21B,ORG,Cleveland Guardians Baseball Co.,,,,,,2401 Ontario St,,Cleveland,OH,441154003,,,2024-05-10,220.00,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500510392,500504816,SB21B,ORG,Great Day Tours,,,,,,375 Treeworth Blvd,,Broadview Heights,OH,441472985,,,2024-05-10,120.00,0.00,Event Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500510389,500504816,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-05-10,195.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500510390,500504816,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-05-10,251.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,500507120,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2024-05-23,-51.09,0.00,Voided Check from 1/7/2022,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500507121,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2024-05-23,-17.78,0.00,Voided Check from 1/7/2022,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500507124,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2024-05-23,51.09,0.00,Reissue of Voided Check from 1/7/2022,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500507125,,,IND,,Kramer,Josh,,,,78 Whittier St NW,,Wellesley,MA,024812164,,,2024-05-23,17.78,0.00,Reissue of Voided Check from 1/7/2022,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500504751,,,ORG,Law Enforcement Management Solutions LLC,,,,,,4600 Euclid Ave,Ste 407,Cleveland,OH,441033761,,,2024-05-09,357.00,0.00,Security Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500507119,,,IND,,Liggins,Terrance,,,,3146 Cumberland Woods Dr,,Columbus,OH,432191657,,,2024-05-23,-500.00,0.00,Voided Check from 4/30/2019,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500507123,,,IND,,Liggins,Terrance,,,,3146 Cumberland Woods Dr,,Columbus,OH,432191657,,,2024-05-23,500.00,0.00,Reissue of Voided Check from 4/30/2019,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,500503814,,,ORG,The Kauffman Group,,,,,,323 7Th St SE,,Washington,DC,200034307,,,2024-05-01,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,

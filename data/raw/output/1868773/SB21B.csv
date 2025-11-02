@@ -1,0 +1,161 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00843110,500737920,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-30,1432.32,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500737921,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-01,165.25,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738678,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-08,2290.70,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500739241,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,2958.32,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500742476,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-22,4353.55,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500742475,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-29,2004.85,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500742477,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,1573.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500733610,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,206.28,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500733614,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,340.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745035,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,96.40,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745036,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,155.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738881,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-12-11,21061.88,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500742320,500738881,SB21B,ORG,Amazon,,,,,,440 Terry Ave N,,Seattle,WA,981095210,,,2024-12-11,67.42,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742321,500738881,SB21B,ORG,Amazon,,,,,,440 Terry Ave N,,Seattle,WA,981095210,,,2024-12-11,50.85,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742322,500738881,SB21B,ORG,Amazon,,,,,,440 Terry Ave N,,Seattle,WA,981095210,,,2024-12-11,41.90,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742323,500738881,SB21B,ORG,Amazon,,,,,,440 Terry Ave N,,Seattle,WA,981095210,,,2024-12-11,24.52,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742324,500738881,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-12-11,858.35,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742325,500738881,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-12-11,58.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742326,500738881,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-12-11,399.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742327,500738881,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-12-11,719.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742334,500738881,SB21B,ORG,Canva,,,,,,200 E 6th St,,Austin,TX,787013696,,,2024-12-11,29.99,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742338,500738881,SB21B,ORG,CIBO Express Gourmet Market,,,,,,2800 N Terminal Rd,,Houston,TX,770325569,,,2024-12-11,22.98,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742339,500738881,SB21B,ORG,CIBO Express Gourmet Market,,,,,,2800 N Terminal Rd,,Houston,TX,770325569,,,2024-12-11,9.97,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742341,500738881,SB21B,ORG,Comcast Corporation,,,,,,1701 John F Kennedy Blvd,,Philadelphia,PA,191032833,,,2024-12-11,274.82,0.00,Internet Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742346,500738881,SB21B,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-11,678.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742347,500738881,SB21B,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-11,448.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742348,500738881,SB21B,ORG,DoorDash,,,,,,303 2nd St,Ste 800,San Francisco,CA,941071366,,,2024-12-11,144.19,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742349,500738881,SB21B,ORG,DoorDash,,,,,,303 2nd St,Ste 800,San Francisco,CA,941071366,,,2024-12-11,30.65,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742350,500738881,SB21B,ORG,DoorDash,,,,,,303 2nd St,Ste 800,San Francisco,CA,941071366,,,2024-12-11,24.71,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742351,500738881,SB21B,ORG,Empire Hotel,,,,,,44 W 63rd St,,New York,NY,100237029,,,2024-12-11,22.89,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742352,500738881,SB21B,ORG,Empire Hotel,,,,,,44 W 63rd St,,New York,NY,100237029,,,2024-12-11,722.99,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742353,500738881,SB21B,ORG,Empire Hotel,,,,,,44 W 63rd St,,New York,NY,100237029,,,2024-12-11,722.99,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742354,500738881,SB21B,ORG,Empire Hotel,,,,,,44 W 63rd St,,New York,NY,100237029,,,2024-12-11,22.89,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742355,500738881,SB21B,ORG,Expensify,,,,,,401 SW 5th Ave,,Portland,OR,972042205,,,2024-12-11,76.32,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742356,500738881,SB21B,ORG,FedEx,,,,,,942 Shady Grove Rd S,,Memphis,TN,381204117,,,2024-12-11,279.13,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742357,500738881,SB21B,ORG,FedEx,,,,,,942 Shady Grove Rd S,,Memphis,TN,381204117,,,2024-12-11,12.09,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742361,500738881,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-11,1069.43,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742362,500738881,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-11,76.95,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742363,500738881,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-11,815.88,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742364,500738881,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-11,253.55,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742365,500738881,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-11,1069.43,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742366,500738881,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-11,1069.43,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742367,500738881,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-12-11,353.78,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742368,500738881,SB21B,ORG,Hudson Group,,,,,,1 Meadowlands Plz,,East Rutherford,NJ,070732150,,,2024-12-11,71.80,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742369,500738881,SB21B,ORG,Hyatt Hotels,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-12-11,10.89,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742370,500738881,SB21B,ORG,Hyatt Hotels,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-12-11,931.83,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742371,500738881,SB21B,ORG,Hyatt Hotels,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-12-11,931.83,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742381,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,14.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742382,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,12.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742383,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,16.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742384,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,20.67,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742385,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,21.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742386,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,14.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742387,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,13.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742388,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,24.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742389,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,15.74,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742390,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,14.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742391,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,6.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742392,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,4.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742393,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,5.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742394,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,4.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742395,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,1.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742396,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,1.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742397,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,4.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742398,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,4.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742399,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,6.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742400,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,1.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742401,500738881,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-12-11,1.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742418,500738881,SB21B,ORG,Marriott International,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-11,261.69,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742419,500738881,SB21B,ORG,Marriott International,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-11,261.69,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742428,500738881,SB21B,ORG,Marriott International,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-11,115.26,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742405,500738881,SB21B,ORG,Mezze and More,,,,,,701 9th St NW,,Washington,DC,200014572,,,2024-12-11,151.60,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742409,500738881,SB21B,ORG,"Numero, Inc.",,,,,,695 Town Center Dr,Ste 580,Costa Mesa,CA,926261978,,,2024-12-11,1000.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742410,500738881,SB21B,ORG,Open AI,,,,,,548 Market St,Pmb 97,San Francisco,CA,941045401,,,2024-12-11,20.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742420,500738881,SB21B,ORG,Roka Akor,,,,,,111 W Illinois St,,Chicago,IL,606544505,,,2024-12-11,247.76,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742427,500738881,SB21B,ORG,"Squarespace, Inc.",,,,,,8 Clarkson St,,New York,NY,100144301,,,2024-12-11,76.32,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742429,500738881,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,,Seattle,WA,981341436,,,2024-12-11,16.45,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742430,500738881,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,,Seattle,WA,981341436,,,2024-12-11,12.46,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742431,500738881,SB21B,ORG,State Innovation Exchange,,,,,,1536 Wynkoop St,,Denver,CO,802021185,,,2024-12-11,575.00,0.00,Conference Registration Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742439,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,41.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742440,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,11.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742441,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,58.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742442,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,44.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742443,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,17.63,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742444,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,8.89,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742445,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,23.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742446,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,4.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742447,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,43.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742448,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,28.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742449,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,13.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742450,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742451,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,11.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742452,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,31.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742453,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,42.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742454,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,33.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742455,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,19.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742456,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,30.36,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742457,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742458,500738881,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-11,61.94,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742459,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,27.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742460,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,94.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742461,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742462,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742463,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,10.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742464,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,825.02,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742465,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,613.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742466,500738881,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-11,408.01,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742469,500738881,SB21B,ORG,United States Postal Service,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,,2024-12-11,876.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742471,500738881,SB21B,ORG,Walgreens,,,,,,108 Wilmot Rd,,Deerfield,IL,600155145,,,2024-12-11,15.33,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500742473,500738881,SB21B,ORG,WeWork,,,,,,575 Lexington Ave,Fl 16,New York,NY,100226129,,,2024-12-11,182.00,0.00,Co-Working Space,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500738885,,,ORG,"Amethyst Operations, LLC.",,,,,,326 N Riverside Blvd,,Goshen,IN,465282042,,,2024-12-04,3144.75,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745050,,,ORG,"BCom Solutions, LLC",,,,,,747 O St,Unit 150,Lincoln,NE,685081401,,,2024-12-18,8100.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738893,,,ORG,Beam Insurance Services,,,,,,2 E Gilman St,,Madison,WI,537031479,,,2024-12-04,362.64,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745046,,,ORG,"Bee Compliance, LLC.",,,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-18,8300.00,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738882,,,ORG,"Boaz Consulting, LLC.",,,,,,PO Box 1026,,Washington,DC,200131026,,,2024-12-09,9750.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738880,,,ORG,"ClassPass, LLC",,,,,,101 E Front St,Ste 202,Missoula,MT,598024473,,,2024-12-06,705.96,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738899,,,ORG,DC Health Link,,,,,,1225 I St NW,Ste 400,Washington,DC,200055958,,,2024-12-03,1948.23,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738889,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-12-04,1817.70,0.00,Legal Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745048,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-12-18,1494.00,0.00,Legal Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745049,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-12-18,1666.45,0.00,Caging Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738909,,,ORG,EveryAction,,,,,,655 15th St NW,Ste 650,Washington,DC,200055738,,,2024-11-29,12974.40,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738895,,,ORG,EveryAction,,,,,,655 15th St NW,Ste 650,Washington,DC,200055738,,,2024-12-04,477.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745062,,,ORG,EveryAction,,,,,,655 15th St NW,Ste 650,Washington,DC,200055738,,,2024-12-04,1076.53,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500733611,,,ORG,First Bank Merchant Services,,,,,,10403 W Colfax Ave,,Lakewood,CO,802153811,,,2024-11-30,59.95,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500733612,,,ORG,First Bank Merchant Services,,,,,,10403 W Colfax Ave,,Lakewood,CO,802153811,,,2024-11-30,28.03,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745034,,,ORG,First Bank Merchant Services,,,,,,10403 W Colfax Ave,,Lakewood,CO,802153811,,,2024-12-31,59.95,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738910,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-11-29,8391.43,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738891,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-04,148.40,0.00,Payroll Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738884,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-09,802.58,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745037,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-13,5388.84,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745038,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-17,15605.49,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745039,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-23,14187.61,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745047,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-26,104.16,0.00,FSA Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745040,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-12-31,8040.07,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738911,,,IND,,Hogg,David,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-11-29,4887.78,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745331,,,IND,,Hogg,David,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-13,4921.81,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745337,,,IND,,Hogg,David,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-23,11357.23,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745338,,,IND,,Hogg,David,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-31,5712.17,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738903,,,ORG,"Intuit, Inc.",,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-12-02,104.94,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745053,,,ORG,"Intuit, Inc.",,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-12-30,104.94,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738908,,,ORG,Jemal's Mickelson LLC,,,,,,655 New York Ave NW,Ste 830,Washington,DC,200015795,,,2024-11-29,13000.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738912,,,IND,,Koo,Sarah,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-11-29,2318.06,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745332,,,IND,,Koo,Sarah,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-13,2086.72,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745335,,,IND,,Koo,Sarah,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-23,4153.61,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745052,,,IND,,Koo,Sarah,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-24,1277.95,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745082,500745052,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-24,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500745083,500745052,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-24,613.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500745084,500745052,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-24,656.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00843110,500745339,,,IND,,Koo,Sarah,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-31,2362.05,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738913,,,IND,,Lata,Kevin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-11-29,5429.28,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745333,,,IND,,Lata,Kevin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-13,5645.52,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745336,,,IND,,Lata,Kevin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-23,11357.23,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745340,,,IND,,Lata,Kevin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-31,5749.35,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738914,,,IND,,McGuire,Conor,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-11-29,3912.43,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738887,,,IND,,McGuire,Conor,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-09,1907.42,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745330,,,IND,,McGuire,Conor,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-12-17,15100.78,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738894,,,ORG,Middle Seat,,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-12-02,20000.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500745051,,,ORG,Middle Seat,,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-12-18,12045.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738901,,,ORG,"My Warchest, Inc.",,,,,,4200 Wisconsin Ave NW,Ste Pm 106,Washington,DC,200162143,,,2024-12-02,397.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00843110,500738897,,,ORG,Potomac Electric Power Co.,,,,,,701 9th St NW,,Washington,DC,200014572,,,2024-12-04,1301.61,0.00,Utilities,,,,,,,,,,,,,,,,,,,,

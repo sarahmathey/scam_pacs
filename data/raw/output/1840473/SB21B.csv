@@ -1,0 +1,28 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00864512,500125383,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-06,200.05,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125384,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-13,477.74,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125385,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-16,393.48,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125381,,,ORG,Authorize.Net,,,,,,808 E Utah Valley Dr,,American Fork,UT,840039707,,,2024-10-02,15.00,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125407,,,ORG,"Blue Wave Political Partners, LLC",,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2024-10-07,2000.00,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125413,,,ORG,CareFirst,,,,,,840 1ST SE NE,,Washington,DC,200650001,,,2024-10-02,186.24,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125412,,,ORG,D.C. Government Health,,,,,,1225 I St NW,,Washington,DC,200053914,,,2024-10-01,2648.14,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125387,,,ORG,Durant's Fine Foods,,,,,,1836 Metzerott Rd,,Adelphi,MD,207833475,,,2024-10-04,261.92,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125382,,,ORG,First Data,,,,,,PO Box 2025,,Englewood,CO,801502025,,,2024-10-03,9.95,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125410,,,ORG,Google Inc,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-03,156.71,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125411,,,ORG,Google Inc,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-07,12.64,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125405,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-03,141.25,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125403,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-11,8688.83,0.00,Payroll - see detail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125399,500125403,SB21B,IND,,Adam,Oren,,,,965 Florida Ave NW,Apt 1051,Washington,DC,200015643,,,2024-10-11,3220.71,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00864512,500125400,500125403,SB21B,IND,,Chase,David,,,,429 Quincy St NW,Unit 2,Washington,DC,200116013,,,2024-10-11,407.20,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00864512,500125401,500125403,SB21B,IND,,Doggett,Taylor,,,,1550 7Th St NW,Apt 616,Washington,DC,200013272,,,2024-10-11,1227.92,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00864512,500125402,500125403,SB21B,IND,,Dunn,Harry,Lee,,,5804 Cloverleaf Ave,,Clinton,MD,207351311,,,2024-10-11,3833.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00864512,500125404,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-11,4479.57,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125406,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-11,130.00,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125386,,,ORG,Hilton Hotels,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-10-07,719.08,0.00,Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125376,,,ORG,Liftoff Campaigns LLC,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-14,2000.00,0.00,Text Messaging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125388,,,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-01,62.39,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125389,,,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-04,66.07,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125390,,,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-07,59.99,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125391,,,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-15,139.15,0.00,Auto Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125409,,,ORG,QuickBooks,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-10-10,107.02,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00864512,500125408,,,ORG,Tatango,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2024-10-07,2000.00,0.00,Software Rental,,,,,,,,,,,,,,,,,,,,

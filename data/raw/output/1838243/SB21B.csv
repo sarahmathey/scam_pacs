@@ -1,0 +1,424 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00632133,500291041,,,ORG,230FA LLC.,,,,,,230 5Th Ave,,New York,NY,100017704,,,2024-10-04,35378.93,0.00,Event Venue and Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290872,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-01,4454.31,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290875,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-01,28.45,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290876,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-01,37.04,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290935,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-08,2528.74,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290936,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-08,35.41,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290937,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-08,132.80,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291053,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-15,4473.25,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291054,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-15,83.91,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291056,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-15,1660.46,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291160,,,IND,,Agrimis,Carolyn,,,,345 1/2 Prospect St,,La Jolla,CA,920374658,,,2024-10-04,1980.00,0.00,Operations Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291218,,,IND,,Alwardt,Michelle,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,4368.77,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291088,,,ORG,American Express,,,,,,PO Box 6504488,,Dallas,TX,75265,,,2024-10-04,129893.55,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291433,500291088,SB21B,ORG,1Password,,,,,,317 Adelaide Street West,,"Toronto, Ontario ON Canada",ZZ,00000,,,2024-10-04,34.21,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291269,500291088,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-10-04,48.70,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291434,500291088,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-10-04,48.71,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291435,500291088,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-10-04,10.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291270,500291088,SB21B,ORG,"Airbyte, Inc",,,,,,2261 Market St,,San Francisco,CA,941141612,,,2024-10-04,276.92,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291436,500291088,SB21B,ORG,"Airbyte, Inc",,,,,,2261 Market St,,San Francisco,CA,941141612,,,2024-10-04,276.93,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291437,500291088,SB21B,ORG,Akamai Technologies,,,,,,145 Broadway,,Cambridge,MA,021421058,,,2024-10-04,50.88,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291271,500291088,SB21B,ORG,"Amazon.Com, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-10-04,4673.17,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291272,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,754.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291273,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,515.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291274,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,42.75,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291275,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,65.42,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291276,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,218.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291277,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,373.47,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291278,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,466.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291279,500291088,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-04,406.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291280,500291088,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-10-04,220.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291281,500291088,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-10-04,-220.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291282,500291088,SB21B,ORG,"Blue Ridge Risk Partners, LLC.",,,,,,1120 Professional Ct,Ste C,Hagerstown,MD,217408040,,,2024-10-04,104.54,0.00,Insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291438,500291088,SB21B,ORG,Calendly,,,,,,1315 Peachtree St NE,,Atlanta,GA,303097515,,,2024-10-04,3.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291283,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,-154.21,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291284,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,439.51,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291285,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,-461.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291286,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,461.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291287,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,461.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291288,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,461.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291289,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,461.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291290,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,461.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291291,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,461.54,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291292,500291088,SB21B,ORG,CitizenM Hotels,,,,,,218 W 50Th St,,New York,NY,100196702,,,2024-10-04,768.87,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291293,500291088,SB21B,ORG,"Cloudflare, Inc.",,,,,,101 Townsend St,,San Francisco,CA,941071934,,,2024-10-04,13.25,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291439,500291088,SB21B,ORG,"Cloudflare, Inc.",,,,,,101 Townsend St,,San Francisco,CA,941071934,,,2024-10-04,13.25,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291294,500291088,SB21B,ORG,Dagster Labs,,,,,,548 Market St,Ste 50093,San Francisco,CA,941045401,,,2024-10-04,8.78,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291295,500291088,SB21B,ORG,"Datadog, Inc.",,,,,,620 8Th Ave,Fl 45,New York,NY,100181741,,,2024-10-04,205.76,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291441,500291088,SB21B,ORG,"Datadog, Inc.",,,,,,620 8Th Ave,Fl 45,New York,NY,100181741,,,2024-10-04,205.77,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291296,500291088,SB21B,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-10-04,912.33,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291358,500291088,SB21B,ORG,DLena By Chef Richard Sandoval,,,,,,476 K St NW,,Washington,DC,200012531,,,2024-10-04,59.80,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291297,500291088,SB21B,ORG,DNsimple Corporation,,,,,,2412 Irwin St,,Melbourne,FL,329017316,,,2024-10-04,15.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291442,500291088,SB21B,ORG,DNsimple Corporation,,,,,,2412 Irwin St,,Melbourne,FL,329017316,,,2024-10-04,15.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291443,500291088,SB21B,ORG,DocuSign,,,,,,221 Main St,,San Francisco,CA,941051906,,,2024-10-04,1017.60,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291444,500291088,SB21B,ORG,Eaton House,,,,,,1203 K St NW,,Washington,DC,200054011,,,2024-10-04,200.00,0.00,Event Venue Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291445,500291088,SB21B,ORG,Eaton House,,,,,,1203 K St NW,,Washington,DC,200054011,,,2024-10-04,200.00,0.00,Event Venue Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291298,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,-339.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291299,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,-339.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291300,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,-339.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291301,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,-339.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291302,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,-339.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291303,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,-339.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291304,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,2038.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291305,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,1731.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291306,500291088,SB21B,ORG,Expedia,,,,,,28 Liberty St,Fl 29,New York,NY,100051499,,,2024-10-04,1783.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291307,500291088,SB21B,ORG,Github,,,,,,88 Colin P Kelly Jr St,,San Francisco,CA,941072008,,,2024-10-04,0.23,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291308,500291088,SB21B,ORG,Good Eats Group,,,,,,800 S Clark St,,Chicago,IL,606051707,,,2024-10-04,52.27,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291309,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,1221.12,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291310,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,5000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291311,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,25.61,0.00,Phone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291312,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291313,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291314,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291315,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291316,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291317,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291318,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291319,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,5000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291320,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,4007.07,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291321,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,5000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291322,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,5000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291323,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,5000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291431,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,1000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291446,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,1000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291447,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,26.46,0.00,Phone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291448,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,1709.85,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291449,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,0.04,0.00,Phone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291450,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,1000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291451,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291452,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,1000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291453,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,-5119.02,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291454,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,500.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291455,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,500.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291456,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,500.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291457,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,200.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291458,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,100.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291459,500291088,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-04,526.60,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291324,500291088,SB21B,ORG,Heroku,,,,,,1 Market St,Ste 300,San Francisco,CA,941051315,,,2024-10-04,1438.63,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291264,500291088,SB21B,ORG,Hertz Car Rental,,,,,,225 Brae Blvd,,Park Ridge,NJ,076561870,,,2024-10-04,106.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291325,500291088,SB21B,ORG,Hex Technologies Inc.,,,,,,2261 Market St,# 4233,San Francisco,CA,941141612,,,2024-10-04,112.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291460,500291088,SB21B,ORG,Hex Technologies Inc.,,,,,,2261 Market St,# 4233,San Francisco,CA,941141612,,,2024-10-04,112.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291347,500291088,SB21B,ORG,Hudson Group,,,,,,1 Meadowlands Plz,,East Rutherford,NJ,070732150,,,2024-10-04,8.59,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291326,500291088,SB21B,ORG,In-N-Out Burger,,,,,,4199 Campus Dr,,Irvine,CA,926124684,,,2024-10-04,14.49,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291327,500291088,SB21B,ORG,In-N-Out Burger,,,,,,4199 Campus Dr,,Irvine,CA,926124684,,,2024-10-04,6.67,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291328,500291088,SB21B,ORG,In-N-Out Burger,,,,,,4199 Campus Dr,,Irvine,CA,926124684,,,2024-10-04,13.18,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291338,500291088,SB21B,ORG,Intuit Inc.,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-10-04,63.60,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291329,500291088,SB21B,ORG,Klaviyo,,,,,,225 Franklin St,Ste 10,Boston,MA,021102815,,,2024-10-04,137.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291330,500291088,SB21B,ORG,Klaviyo,,,,,,225 Franklin St,Ste 10,Boston,MA,021102815,,,2024-10-04,5374.20,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291331,500291088,SB21B,ORG,Klaviyo,,,,,,225 Franklin St,Ste 10,Boston,MA,021102815,,,2024-10-04,137.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291332,500291088,SB21B,ORG,Klaviyo,,,,,,225 Franklin St,Ste 10,Boston,MA,021102815,,,2024-10-04,137.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291333,500291088,SB21B,ORG,Klaviyo,,,,,,225 Franklin St,Ste 10,Boston,MA,021102815,,,2024-10-04,137.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291461,500291088,SB21B,ORG,Klaviyo,,,,,,225 Franklin St,Ste 10,Boston,MA,021102815,,,2024-10-04,4271.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291462,500291088,SB21B,ORG,LinkTree,,,,,,,,,,,,,2024-10-04,9.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291463,500291088,SB21B,ORG,Loop & Tie,,,,,,PO Box 1457,,Austin,TX,787671457,,,2024-10-04,27.50,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291464,500291088,SB21B,ORG,Loop & Tie,,,,,,PO Box 1457,,Austin,TX,787671457,,,2024-10-04,140.00,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291465,500291088,SB21B,ORG,Loop & Tie,,,,,,PO Box 1457,,Austin,TX,787671457,,,2024-10-04,82.50,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291334,500291088,SB21B,ORG,Lucky Buns,,,,,,2000 18Th St NW,,Washington,DC,200091806,,,2024-10-04,49.47,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291265,500291088,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-04,84.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291335,500291088,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-04,24.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291336,500291088,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-04,21.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291337,500291088,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-04,46.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291339,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291340,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291341,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291342,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,308.19,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291343,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291344,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,656.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291345,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291346,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,209.81,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291432,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,722.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291466,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291467,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291468,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291469,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,795.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291470,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,452.60,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291471,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,442.18,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291472,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291473,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291474,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291475,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291476,500291088,SB21B,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,875.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291348,500291088,SB21B,ORG,One Parking,,,,,,477 S Rosemary Ave,,West Palm Beach,FL,334015795,,,2024-10-04,24.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291349,500291088,SB21B,ORG,One Parking,,,,,,477 S Rosemary Ave,,West Palm Beach,FL,334015795,,,2024-10-04,18.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291477,500291088,SB21B,ORG,Otter.Ai,,,,,,800 W El Camino Real,,Mountain View,CA,940402567,,,2024-10-04,4.25,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291478,500291088,SB21B,ORG,Otter.Ai,,,,,,800 W El Camino Real,,Mountain View,CA,940402567,,,2024-10-04,8.49,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291351,500291088,SB21B,ORG,ParkDC,,,,,,250 M St SE,,Washington,DC,200035048,,,2024-10-04,5.05,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291352,500291088,SB21B,ORG,ParkDC,,,,,,250 M St SE,,Washington,DC,200035048,,,2024-10-04,2.70,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291353,500291088,SB21B,ORG,ParkDC,,,,,,250 M St SE,,Washington,DC,200035048,,,2024-10-04,5.05,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291479,500291088,SB21B,ORG,Pingboard.Com,,,,,,608 W Monroe St,,Austin,TX,787043462,,,2024-10-04,34.09,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291266,500291088,SB21B,ORG,PlatePass,,,,,,1150 N Alma School Rd,,Mesa,AZ,852013000,,,2024-10-04,19.39,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291354,500291088,SB21B,ORG,Present Company Public House,,,,,,438 Massachusetts Ave NW,,Washington,DC,200012631,,,2024-10-04,399.30,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291355,500291088,SB21B,ORG,Render,,,,,,525 Brannan St,,San Francisco,CA,941071650,,,2024-10-04,49.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291356,500291088,SB21B,ORG,Render,,,,,,525 Brannan St,,San Francisco,CA,941071650,,,2024-10-04,45.96,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291480,500291088,SB21B,ORG,Render,,,,,,525 Brannan St,,San Francisco,CA,941071650,,,2024-10-04,49.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291481,500291088,SB21B,ORG,Render,,,,,,525 Brannan St,,San Francisco,CA,941071650,,,2024-10-04,45.97,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291357,500291088,SB21B,ORG,Replit,,,,,,767 Bryant St,,San Francisco,CA,941071085,,,2024-10-04,7.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291359,500291088,SB21B,ORG,Rsvpify,,,,,,20 W Kinzie St,,Chicago,IL,606546392,,,2024-10-04,409.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291360,500291088,SB21B,ORG,Sanity.Io,,,,,,695 Minna St,,San Francisco,CA,941032717,,,2024-10-04,49.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291482,500291088,SB21B,ORG,Sanity.Io,,,,,,695 Minna St,,San Francisco,CA,941032717,,,2024-10-04,49.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291368,500291088,SB21B,ORG,Segment,,,,,,100 California St,Ste 700,San Francisco,CA,941114512,,,2024-10-04,2570.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291487,500291088,SB21B,ORG,Segment,,,,,,100 California St,Ste 700,San Francisco,CA,941114512,,,2024-10-04,2570.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291483,500291088,SB21B,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-10-04,1004.88,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291361,500291088,SB21B,ORG,Silver Diner,,,,,,12276 Rockville Pike,,Rockville,MD,208521664,,,2024-10-04,87.00,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291362,500291088,SB21B,ORG,Sinch,,,,,,3500 Lenox Rd NE,,Atlanta,GA,303264228,,,2024-10-04,638.39,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291363,500291088,SB21B,ORG,"Slack Technologies, LLC",,,,,,1351 H St NE,,Washington,DC,200024406,,,2024-10-04,1011.16,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291364,500291088,SB21B,ORG,Smart 'N Go,,,,,,1743 Maplelawn Dr,,Troy,MI,480844603,,,2024-10-04,3.09,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291365,500291088,SB21B,ORG,Snowflake Computing,,,,,,450 Concar Dr,,San Mateo,CA,944022681,,,2024-10-04,883.09,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291484,500291088,SB21B,ORG,Snowflake Computing,,,,,,450 Concar Dr,,San Mateo,CA,944022681,,,2024-10-04,883.09,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291267,500291088,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-10-04,407.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291408,500291088,SB21B,ORG,Stamps.Com,,,,,,990 E Grand Ave,,El Segundo,CA,902454137,,,2024-10-04,25.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291409,500291088,SB21B,ORG,Stamps.Com,,,,,,990 E Grand Ave,,El Segundo,CA,902454137,,,2024-10-04,100.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291410,500291088,SB21B,ORG,Stamps.Com,,,,,,990 E Grand Ave,,El Segundo,CA,902454137,,,2024-10-04,50.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291411,500291088,SB21B,ORG,Stamps.Com,,,,,,990 E Grand Ave,,El Segundo,CA,902454137,,,2024-10-04,50.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291412,500291088,SB21B,ORG,Stamps.Com,,,,,,990 E Grand Ave,,El Segundo,CA,902454137,,,2024-10-04,24.94,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291413,500291088,SB21B,ORG,Stamps.Com,,,,,,990 E Grand Ave,,El Segundo,CA,902454137,,,2024-10-04,20.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291268,500291088,SB21B,ORG,Staples,,,,,,1805 N Tomahawk Island Dr,,Portland,OR,972178109,,,2024-10-04,24.37,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291485,500291088,SB21B,ORG,Staples,,,,,,1805 N Tomahawk Island Dr,,Portland,OR,972178109,,,2024-10-04,22.86,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291486,500291088,SB21B,ORG,Staples,,,,,,1805 N Tomahawk Island Dr,,Portland,OR,972178109,,,2024-10-04,47.24,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291366,500291088,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,,Seattle,WA,981341436,,,2024-10-04,18.83,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291350,500291088,SB21B,ORG,Stripe,,,,,,510 Townsend St,,San Francisco,CA,941034918,,,2024-10-04,14.52,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291367,500291088,SB21B,ORG,Taylor Gourmet,,,,,,2400 Smith Blvd,,Arlington,VA,22202,,,2024-10-04,149.81,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291369,500291088,SB21B,ORG,Twitter,,,,,,1355 Market St,,San Francisco,CA,941031307,,,2024-10-04,200.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291370,500291088,SB21B,ORG,Twitter,,,,,,1355 Market St,,San Francisco,CA,941031307,,,2024-10-04,200.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291371,500291088,SB21B,ORG,Typeform S.L,,,,,,370 Brannan St,,San Francisco,CA,941071817,,,2024-10-04,62.54,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291372,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,32.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291373,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,62.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291374,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,6.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291375,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,42.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291376,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,20.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291377,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,31.32,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291378,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291379,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,32.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291380,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,5.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291381,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,4.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291382,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,40.19,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291383,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,32.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291384,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,34.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291385,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,57.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291386,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,16.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291387,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,32.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291388,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,23.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291389,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,3.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291390,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,21.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291391,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,30.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291392,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,9.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291393,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,22.57,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291394,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,18.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291395,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,-51.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291396,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,51.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291397,500291088,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-04,137.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291398,500291088,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-04,44.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291399,500291088,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-04,44.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291400,500291088,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-04,10.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291401,500291088,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-04,10.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291402,500291088,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-04,806.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291414,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,1095.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291415,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,4410.45,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291416,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,2950.45,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291417,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,5140.45,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291418,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,-8762.55,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291419,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,4410.45,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291420,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,4410.45,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291421,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,4.02,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291422,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,8.15,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291423,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,2950.45,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291424,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,730.00,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291425,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,16.30,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291426,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,41.14,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291427,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,4.02,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291428,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,4.36,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291429,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,8.32,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291430,500291088,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,221168200,,,2024-10-04,4.02,0.00,Shipping & Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291403,500291088,SB21B,ORG,Vercel Inc.,,,,,,1046 Kearny St,,San Francisco,CA,941334525,,,2024-10-04,251.58,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291488,500291088,SB21B,ORG,Vercel Inc.,,,,,,1046 Kearny St,,San Francisco,CA,941334525,,,2024-10-04,251.58,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291404,500291088,SB21B,ORG,Wawa,,,,,,260 W Baltimore Pike,,Media,PA,190635620,,,2024-10-04,34.73,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291489,500291088,SB21B,ORG,West Elm,,,,,,2 Main St,,Brooklyn,NY,112011020,,,2024-10-04,100.00,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291490,500291088,SB21B,ORG,Zapier.Com,,,,,,548 Market St,# 62422,San Francisco,CA,941045401,,,2024-10-04,111.85,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291491,500291088,SB21B,ORG,Zapier.Com,,,,,,548 Market St,# 62422,San Francisco,CA,941045401,,,2024-10-04,15.89,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291405,500291088,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-04,360.40,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291406,500291088,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-04,311.93,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291407,500291088,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-04,698.53,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291492,500291088,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-04,158.89,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291493,500291088,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-04,311.94,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291494,500291088,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-10-04,698.54,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291081,,,ORG,AP Integro,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,024517341,,,2024-10-07,297.34,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291219,,,IND,,Bentall,Nia,L.,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3191.39,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291220,,,IND,,Briseus,Valencia,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2234.72,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291164,,,IND,,Brown,Eliza,,,,23 Romoda Dr,,Canton,NY,136171423,,,2024-10-09,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291221,,,IND,,Caffrey,Matthew,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2545.36,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291222,,,IND,,Carden,Derik,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3352.27,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291095,,,ORG,CareFirst,,,,,,PO Box 79749,,Baltimore,MD,212790749,,,2024-10-02,1544.35,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291106,,,ORG,"Carroll Street Campaigns, LLC.",,,,,,705 Carroll St,,Brooklyn,NY,112152187,,,2024-10-07,11000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291166,,,IND,,Chadha,Josa,,,,108 Rees St,,Playa Del Rey,CA,902937609,,,2024-10-09,250.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291158,,,IND,,Chaudhry,Vera,,,,5218 S Kimbark Ave,Apt 1,Chicago,IL,606156271,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291169,,,IND,,Chavez,Sam,,,,530 Divisadero St,,San Francisco,CA,941172213,,,2024-10-09,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291204,,,IND,,Ciulla,Lawrence,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,358.52,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291155,,,IND,,Cobb,Janalie,,,,4212 W Melrose St,,Chicago,IL,606414642,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291223,,,IND,,Corado,Irma,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3161.76,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291157,,,IND,,Cymrot,Sarah,,,,500 College Ave,,Swarthmore,PA,190811306,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291065,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2024-10-16,23577.21,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291149,,,IND,,Dimitris Perez,Alejandro,,,,1942 Heidi Ave,,Sanger,CA,936578626,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291205,,,IND,,Egemen,Mete,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,339.74,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291150,,,IND,,Eldridge,Alexander,,,,231 N Tyson Ave,,Glenside,PA,190383118,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291097,,,ORG,"Everyaction, Inc.",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-10-04,3104.13,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291224,,,IND,,Falkey,Jennifer,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2172.59,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291206,,,IND,,Foote,Jiline,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,477.38,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291207,,,IND,,Gambrell,Bria,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,195.11,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291225,,,IND,,Garcia,Jennifer,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2038.58,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291208,,,IND,,Gonzalez,Kevin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,376.96,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291098,,,ORG,Good Ppl Inc.,,,,,,20636 Sutherlin Pl,,Sterling,VA,201658500,,,2024-10-04,25000.00,0.00,Event Sponsorship Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291226,,,IND,,Goodall,LeJamiel,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,5575.61,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291094,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-01,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291092,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-02,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291093,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-02,754.85,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291090,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-03,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291091,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-03,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291079,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-08,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291076,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-09,577.18,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291074,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-10,1000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291075,,,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-10,2000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291227,,,IND,,Grace,Heather,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3166.43,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291228,,,IND,,Greene,Thomas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,4745.25,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291072,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-03,905.24,0.00,Payroll Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291080,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-08,4.37,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291070,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-11,48913.68,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291071,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2024-10-11,1209.90,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291209,,,IND,,Hacker,Katherine,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,265.18,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291229,,,IND,,Hall,Samantha,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2020.91,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291230,,,IND,,Haque,Sheamanti,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3541.14,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291231,,,IND,,Heyboer,Elizabeth,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2141.28,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291232,,,IND,,Howell,Elizabeth,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2775.80,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291210,,,IND,,Htike,Zimbo,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,387.96,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291233,,,IND,,Hutchins,Nicholas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,4529.92,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500094728,,,ORG,IAMSOUND INC,,,,,,850 S Broadway,Ste 801,Los Angeles,CA,900143239,,,2024-10-04,2000.00,0.00,Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291099,,,ORG,IAMSOUND INC,,,,,,850 S Broadway,Ste 801,Los Angeles,CA,900143239,,,2024-10-04,10000.00,0.00,Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291089,,,ORG,Internal Revenue Service,,,,,,1111 Constitution Ave NW,,Washington,DC,202240001,,,2024-10-03,285.00,0.00,Tax Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291234,,,IND,,James,Nicholas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3074.87,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291151,,,IND,,Kanan,Alexandra,,,,15659 River View Pl,,Perrysburg,OH,435517605,,,2024-10-02,500.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290979,,,IND,,Kaplan,Janna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-02,503.33,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290971,500290979,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-02,103.48,0.00,Airfare Reimbursment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290978,500290979,SB21B,ORG,Crawford's Genuine RDU,,,,,,2400 JOHN BRANTLEY Blvd,,Morrisville,NC,27560,,,2024-10-02,20.52,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290981,500290979,SB21B,ORG,"IHG Hotels, Inc.",,,,,,300 W 44Th St,,New York,NY,100365419,,,2024-10-02,196.91,0.00,Lodging Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290977,500290979,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-02,91.84,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290975,500290979,SB21B,ORG,PrintWithMe,,,,,,1556 W Carroll Ave,IL60607,Chicago,IL,606071030,,,2024-10-02,2.10,0.00,Printing Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290970,500290979,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-02,88.48,0.00,Airfare Reimbursment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290980,,,IND,,Kaplan,Janna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-02,328.39,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500290985,500290980,SB21B,ORG,FedEx Office,,,,,,3875 Airways Blvd,,Memphis,TN,381165070,,,2024-10-02,24.61,0.00,Printing Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290988,500290980,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-02,60.94,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290987,500290980,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-02,190.96,0.00,Airfare Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290986,500290980,SB21B,ORG,Ventra,,,,,,126 S State St,,Chicago,IL,606035507,,,2024-10-02,30.00,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500290984,500290980,SB21B,ORG,Walgreens Co.,,,,,,200 Wilmot Rd,,Deerfield,IL,600154620,,,2024-10-02,21.88,0.00,Event Supplies Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291235,,,IND,,Kaplan,Janna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,1858.62,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291170,,,IND,,Kaplan,Tova,,,,2520 N Sheffield Ave,,Chicago,IL,606142282,,,2024-10-09,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291211,,,IND,,Khan,Fuhad,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,677.23,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291014,,,IND,,Kloosterman,Tomas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-02,2888.45,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291016,500291014,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-02,692.95,0.00,Airfare Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291019,500291014,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-10-02,442.00,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291032,500291014,SB21B,ORG,Bar Hugo,,,,,,525 Greenwich St,,New York,NY,100131002,,,2024-10-02,52.64,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291020,500291014,SB21B,ORG,"Curb Mobility, LLC",,,,,,1111 34Th Ave,,Long Island City,NY,111064923,,,2024-10-02,20.03,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291030,500291014,SB21B,ORG,Jade & Clover,,,,,,139 Chrystie St,,New York,NY,100022857,,,2024-10-02,167.54,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291034,500291014,SB21B,ORG,LAZ Parking,,,,,,735 Vallejo St,,San Francisco,CA,941333820,,,2024-10-02,25.00,0.00,Parking Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291017,500291014,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-10-02,236.80,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291018,500291014,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-10-02,102.75,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291033,500291014,SB21B,ORG,NoMo SoHo,,,,,,9 Crosby St,,New York,NY,100133102,,,2024-10-02,42.11,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291035,500291014,SB21B,ORG,Ocean Prime,,,,,,87 E Wacker Dr,,Chicago,IL,606013703,,,2024-10-02,63.63,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291036,500291014,SB21B,ORG,The Bazaar,,,,,,120 N Wacker Dr,,Chicago,IL,606061511,,,2024-10-02,178.50,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291037,500291014,SB21B,ORG,The Hoxton Chicago,,,,,,200 N Green St,,Chicago,IL,606071702,,,2024-10-02,37.48,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291031,500291014,SB21B,ORG,Turntable,,,,,,20 W 33Rd St,,New York,NY,100013305,,,2024-10-02,71.24,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291015,500291014,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-02,755.78,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291021,,,IND,,Kloosterman,Tomas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-02,375.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291038,,,IND,,Kloosterman,Tomas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-02,225.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291236,,,IND,,Kloosterman,Tomas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3977.51,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291108,,,IND,,Kloosterman,Tomas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-16,14083.75,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291115,500291108,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-16,423.47,0.00,Airfare Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291131,500291108,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-16,483.96,0.00,Airfare Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291139,500291108,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-16,373.47,0.00,Airfare Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291148,500291108,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-16,926.25,0.00,Airfare Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291111,500291108,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-10-16,338.00,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291147,500291108,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-10-16,178.00,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291137,500291108,SB21B,ORG,B-Side Pizza,,,,,,8462 W Sunset Blvd,,Los Angeles,CA,900691912,,,2024-10-16,35.21,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291124,500291108,SB21B,ORG,Caffe Central,,,,,,133 Ofarrell St,,San Francisco,CA,941022201,,,2024-10-16,15.28,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291120,500291108,SB21B,ORG,Domenico Catering & Events,,,,,,1697 Industrial Rd,,San Carlos,CA,940704112,,,2024-10-16,21.99,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291128,500291108,SB21B,ORG,Domino's Pizza,,,,,,30 Frank Lloyd Wright Dr,,Ann Arbor,MI,481059757,,,2024-10-16,68.93,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291126,500291108,SB21B,ORG,El Puesto Cocina Y Cantina,,,,,,3700 California Ave,,Bakersfield,CA,933091081,,,2024-10-16,30.84,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291113,500291108,SB21B,ORG,Fairway Market,,,,,,766 Avenue Of The Americas,,New York,NY,100102008,,,2024-10-16,22.16,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291142,500291108,SB21B,ORG,G&M Oil Company,,,,,,499 Sandalwood Dr,,Calimesa,CA,923201539,,,2024-10-16,79.42,0.00,Gas Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291117,500291108,SB21B,ORG,Grand Bay Hotel,,,,,,223 Twin Dolphin Dr,,Redwood City,CA,940651414,,,2024-10-16,758.59,0.00,Lodging Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291123,500291108,SB21B,ORG,Grand Bay Hotel,,,,,,223 Twin Dolphin Dr,,Redwood City,CA,940651414,,,2024-10-16,34.31,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291118,500291108,SB21B,ORG,Hertz Car Rental,,,,,,225 Brae Blvd,,Park Ridge,NJ,076561870,,,2024-10-16,1782.16,0.00,Car Rental Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291136,500291108,SB21B,ORG,Hertz Car Rental,,,,,,225 Brae Blvd,,Park Ridge,NJ,076561870,,,2024-10-16,142.55,0.00,Car Rental Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291114,500291108,SB21B,ORG,Hilton Hotels & Resorts,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2024-10-16,432.61,0.00,Lodging Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291119,500291108,SB21B,ORG,Hilton Hotels & Resorts,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2024-10-16,35.49,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291122,500291108,SB21B,ORG,In-N-Out Burger,,,,,,4199 Campus Dr,,Irvine,CA,926124684,,,2024-10-16,17.12,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291146,500291108,SB21B,ORG,Le Pecora Bianca,,,,,,20 W 40Th St,,New York,NY,100183901,,,2024-10-16,74.06,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291116,500291108,SB21B,ORG,Man Vs Fries,,,,,,3115 Mission St,,San Francisco,CA,941104503,,,2024-10-16,66.40,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291132,500291108,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-10-16,59.84,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291134,500291108,SB21B,ORG,Melanie Wine Bar,,,,,,8310 W 3Rd St,,Los Angeles,CA,900484311,,,2024-10-16,94.29,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291130,500291108,SB21B,ORG,Mercado,,,,,,3413 Cahuenga Blvd W,,Los Angeles,CA,900681329,,,2024-10-16,71.35,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291121,500291108,SB21B,ORG,Miramar Restaurant,,,,,,131 Mirada Rd,,Half Moon Bay,CA,940195340,,,2024-10-16,57.96,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291127,500291108,SB21B,ORG,Mondrian,,,,,,8440 W Sunset Blvd,,Los Angeles,CA,900691912,,,2024-10-16,3258.23,0.00,Lodging Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291133,500291108,SB21B,ORG,Moon Pie,,,,,,1001 N Central Ave,,Phoenix,AZ,850041935,,,2024-10-16,98.25,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291135,500291108,SB21B,ORG,Nick The Greek,,,,,,5765 Winfield Blvd,Ste 1,San Jose,CA,951232432,,,2024-10-16,28.71,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291144,500291108,SB21B,ORG,P.J. Clarke's,,,,,,915 3Rd Ave,,New York,NY,100223767,,,2024-10-16,39.34,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291125,500291108,SB21B,ORG,Phillips 66,,,,,,411 S Keeler Ave,,Bartlesville,OK,740036620,,,2024-10-16,74.05,0.00,Gas Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291112,500291108,SB21B,ORG,Sabor Argentino,,,,,,57 7Th Ave S,,New York,NY,100146711,,,2024-10-16,54.41,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291129,500291108,SB21B,ORG,Saby's Coffee & Kitchen,,,,,,2900 Venice Blvd,,Los Angeles,CA,900196271,,,2024-10-16,21.78,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291145,500291108,SB21B,ORG,Shake Shack,,,,,,225 Varick St,Rm 301,New York,NY,100145816,,,2024-10-16,40.95,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291138,500291108,SB21B,ORG,Target,,,,,,1000 Nicollet Mall,,Minneapolis,MN,554032542,,,2024-10-16,9.98,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291141,500291108,SB21B,ORG,The Frederick Hotel,,,,,,95 W Broadway,,New York,NY,100071019,,,2024-10-16,2842.50,0.00,Lodging Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291143,500291108,SB21B,ORG,Tribeca Plate,,,,,,90 W Broadway,,New York,NY,100071009,,,2024-10-16,4.64,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291109,500291108,SB21B,ORG,Turntable,,,,,,20 W 33Rd St,,New York,NY,100013305,,,2024-10-16,71.24,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291110,500291108,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-10-16,821.53,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291140,500291108,SB21B,ORG,Uncommon Pasta,,,,,,625 9Th Ave,,New York,NY,100363723,,,2024-10-16,94.43,0.00,Meals Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500291153,,,IND,,Kramer,Eric,,,,79 Wyman St,,Jamaica Plain,MA,021301904,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291237,,,IND,,Langer,Anna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2986.63,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291238,,,IND,,Le,Phong,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2307.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291239,,,IND,,LeDuc,Sara,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,1971.03,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291212,,,IND,,Li,Winston,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,189.62,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291240,,,IND,,Manning,Cassie,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2181.52,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291213,,,IND,,Masino,Mabel,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,478.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291087,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-01,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291086,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-03,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291085,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-04,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291082,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-07,278.83,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291083,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-07,1.01,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291084,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-07,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291078,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-08,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291077,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-09,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291073,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-10,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291066,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-11,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291067,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-15,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291068,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-15,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291069,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-15,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291530,,,ORG,"Meta Platforms, Inc.",,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2024-10-16,900.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291101,,,ORG,Michelle Finocchi Communications,,,,,,4147 Holly Knoll Dr,,Los Angeles,CA,900273221,,,2024-10-04,5208.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291100,,,IND,,Miranda,Maresa,,,,1527 Beaver Heights Ln,,Capitol Heights,MD,207431009,,,2024-10-04,5500.00,0.00,GOTV Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291161,,,IND,,Nordstrom,Lila,,,,1242 N Genesee Ave,,West Hollywood,CA,900464719,,,2024-10-04,3142.85,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291241,,,IND,,Ochoa,Laura,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2710.86,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291156,,,IND,,Pelofsky,Mark,,,,8244 E San Miguel Ave,,Scottsdale,AZ,852506626,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291168,,,IND,,Posner,Natalie,,,,2521 College Ave,,Berkeley,CA,947043032,,,2024-10-09,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291242,,,IND,,Radjy,Yasmin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,6778.91,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291214,,,IND,,Riddle,Amanda,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,371.30,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291243,,,IND,,Riveron,Andrea,M.,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3507.97,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291244,,,IND,,Salavantis,Molly,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2965.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291102,,,ORG,"Salesberry Group, LLC",,,,,,5515 S Hyde Park Blvd,Apt 1N,Chicago,IL,606371544,,,2024-10-04,5250.00,0.00,Bookkeeping Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291245,,,IND,,Simon,Holly,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2035.83,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291154,,,IND,,Singsen,Hope,,,,315 W 102Nd St,Apt 8A,New York,NY,100258421,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291171,,,IND,,Smialek,William,,,,1201 Massachusetts Ave,,Cambridge,MA,021385201,,,2024-10-09,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291215,,,IND,,Snedegar,Aria,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,151.29,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291246,,,IND,,Snow,Julian,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2704.01,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291107,,,ORG,Steve Unlimited,,,,,,14953 Greenleaf St,,Sherman Oaks,CA,914034004,,,2024-10-10,41239.69,0.00,Event Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291216,,,IND,,Tamko,Victorine,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,275.66,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291096,,,ORG,The Guardian,,,,,,61 Broadway,,New York,NY,100062701,,,2024-10-01,131.77,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291103,,,ORG,The Movement Cooperative,,,,,,1025 Connecticut Ave NW,Ste 1000,Washington,DC,200365417,,,2024-10-04,2915.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291104,,,ORG,The Movement Cooperative,,,,,,1025 Connecticut Ave NW,Ste 1000,Washington,DC,200365417,,,2024-10-07,8690.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291165,,,IND,,Ulyate-Crow,Zennon,,,,12501 Imperial Hwy,Ste 200,Norwalk,CA,906508352,,,2024-10-09,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291039,,,ORG,Validity,,,,,,200 Clarendon St,Fl 22,Boston,MA,021165021,,,2024-10-03,14237.68,0.00,Research Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291159,,,IND,,Vizcarra,Verania,,,,45 Silverhorn Ct,Apt 4,Merced,CA,953483035,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291247,,,IND,,Wasserman,Emily,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,3519.33,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291152,,,IND,,Webber,Annika,,,,2165 Sunset Ave SW,,Seattle,WA,981162146,,,2024-10-02,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291217,,,IND,,Weber,Annika,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,351.09,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291248,,,IND,,Whitman,Claire,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2024-10-11,2156.41,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291105,,,ORG,"Wide Eye Creative, LLC.",,,,,,1100 15Th St NW,Ste 400,Washington,DC,200051877,,,2024-10-04,18750.00,0.00,Graphic Design Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500291167,,,IND,,Wissemann,Mary,,,,45 Cranston St,,Jamaica Plain,MA,021301805,,,2024-10-09,750.00,0.00,Volunteer Stipend,,,,,,,,,,,,,,,,,,,,

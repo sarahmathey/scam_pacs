@@ -1,0 +1,36 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00778415,500311321,,,ORG,American Express,,,,,,PO Box 1270,,New York,NY,07101,,,2023-01-03,635.11,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500311439,500311321,SB21B,ORG,Clash Graphics,,,,,,2233 Peachtree Rd NE,Ste 202,Atlanta,GA,303091182,,,2023-01-03,635.11,0.00,Printing and mailing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500311441,,,ORG,American Express,,,,,,PO Box 1270,,New York,NY,07101,,,2023-02-11,764.21,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500312004,500311441,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-02-11,1.99,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500312005,500311441,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-02-11,120.57,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500312006,500311441,SB21B,ORG,Lillies Restaurant,,,,,,2915 Connecticut Ave NW,,Washington,DC,200081446,,,2023-02-11,611.65,0.00,Administrative staff meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500311450,,,ORG,American Express,,,,,,PO Box 1270,,New York,NY,07101,,,2023-03-11,107.59,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,Credit card payment
+SB21B,C00778415,500312011,500311450,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-03-11,1.99,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500312012,500311450,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-03-11,75.60,0.00,Computer programming,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500311463,,,ORG,American Express,,,,,,PO Box 1270,,New York,NY,07101,,,2023-04-11,331.79,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500311458,500311463,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-11,1.99,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500311459,500311463,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-11,49.20,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500311461,500311463,SB21B,ORG,"Squarespace, Inc.",,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2023-04-11,216.00,0.00,Web hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500312019,,,ORG,American Express,,,,,,PO Box 1270,,New York,NY,07101,,,2023-05-11,112.15,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500312014,500312019,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-05-11,1.99,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500312016,500312019,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-05-11,38.16,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500312017,500312019,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-05-11,42.00,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500313669,,,ORG,American Express,,,,,,PO Box 1270,,New York,NY,07101,,,2023-06-12,112.15,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500313665,500313669,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-06-12,1.99,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500313666,500313669,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-06-12,42.00,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500313667,500313669,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-06-12,38.16,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00778415,500312001,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-01-05,750.00,0.00,Computer software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500312023,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-04-07,550.00,0.00,Compliance software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500312024,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-04-07,750.00,0.00,Compliance software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500312025,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-04-07,750.00,0.00,Compliance software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500315540,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-06-28,750.00,0.00,Compliance software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500315541,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-06-28,750.00,0.00,Compliance software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500311316,,,IND,,Perry,Molly,,,,20608 Resort Rd,,Sonora,CA,953709658,,,2023-02-24,750.00,0.00,Monthly stipend and bonus,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500312022,,,IND,,Perry,Molly,,,,20608 Resort Rd,,Sonora,CA,953709658,,,2023-04-14,250.00,0.00,Monthly stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500313946,,,IND,,Perry,Molly,,,,20608 Resort Rd,,Sonora,CA,953709658,P2022,,2023-06-12,250.00,0.00,Monthly stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500310981,,,IND,,Rueden,Caitlin,,,,633 Moreland Ave NE,Apt 8,Atlanta,GA,303071542,,,2023-02-23,500.00,0.00,Monthly stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500311314,,,IND,,Rueden,Caitlin,,,,633 Moreland Ave NE,Apt 8,Atlanta,GA,303071542,,,2023-04-26,500.00,0.00,Monthly stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500312021,,,IND,,Rueden,Caitlin,,,,633 Moreland Ave NE,Apt 8,Atlanta,GA,303071542,,,2023-04-26,500.00,0.00,Monthly stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500313839,,,IND,,Rueden,Caitlin,,,,633 Moreland Ave NE,Apt 8,Atlanta,GA,303071542,P2022,,2023-06-06,500.00,0.00,Monthly stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00778415,500315553,,,IND,,Rueden,Caitlin,,,,633 Moreland Ave NE,Apt 8,Atlanta,GA,303071542,,,2023-06-14,500.00,0.00,Monthly stipend,,,,,,,,,,,,,,,,,,,,

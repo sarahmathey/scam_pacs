@@ -1,0 +1,32 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00784959,500338045,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-02,514.25,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338046,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-08,143.15,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338047,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-16,68.76,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339689,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-22,181.10,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339690,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-29,109.44,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500336359,,,ORG,"Aisle 518 Strategies, LLC",,,,,,5515 S Hyde Park Blvd,Apt 1N,Chicago,IL,606371544,,,2024-01-05,5973.05,0.00,Digital Consulting & Texting Platform,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338874,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-01-26,221.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338875,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-01-26,86.20,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339475,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-01-11,1491.00,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339503,500339475,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-01-11,1060.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00784959,500339504,500339475,SB21B,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-01-11,318.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00784959,500339505,500339475,SB21B,ORG,USPS,,,,,,820 W Wingra Dr,,Madison,WI,537151942,,,2024-01-11,113.00,0.00,Shipping & Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00784959,500335216,,,ORG,"Game Plan Strategies, LLC",,,,,,117 9th St NE,,Washington,DC,200026013,,,2024-01-16,3000.00,0.00,Management Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339046,,,ORG,"Game Plan Strategies, LLC",,,,,,117 9th St NE,,Washington,DC,200026013,,,2024-01-30,3000.00,0.00,Management Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338519,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2024-01-23,2019.50,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500336360,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-01-05,2250.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500337118,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-01-09,5650.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500337912,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-01-17,3180.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338518,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,,Washington,DC,200052134,,,2024-01-23,1060.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338064,,,ORG,Payroll Data Processing Inc.,,,,,,4423 Henderson Blvd,,Tampa,FL,336296507,,,2024-01-11,2491.55,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338063,500338064,SB21B,IND,,O'Connor,Darby,,,,PO Box 597,,Milwaukee,WI,532010597,,,2024-01-11,2491.55,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00784959,500338065,,,ORG,Payroll Data Processing Inc.,,,,,,4423 Henderson Blvd,,Tampa,FL,336296507,,,2024-01-11,1348.26,0.00,Payroll Taxes & Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338876,,,ORG,Payroll Data Processing Inc.,,,,,,4423 Henderson Blvd,,Tampa,FL,336296507,,,2024-01-26,13.96,0.00,W2 and 1099 Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339391,,,ORG,Payroll Data Processing Inc.,,,,,,4423 Henderson Blvd,,Tampa,FL,336296507,,,2024-01-31,1348.25,0.00,Payroll Taxes & Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339392,,,ORG,Payroll Data Processing Inc.,,,,,,4423 Henderson Blvd,,Tampa,FL,336296507,,,2024-01-31,2491.55,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500339393,500339392,SB21B,IND,,O'Connor,Darby,,,,PO Box 597,,Milwaukee,WI,532010597,,,2024-01-31,2491.55,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00784959,500336976,,,ORG,USPS,,,,,,820 W Wingra Dr,,Madison,WI,537151942,,,2024-01-05,24.90,0.00,Shipping & Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500337643,,,ORG,USPS,,,,,,820 W Wingra Dr,,Madison,WI,537151942,,,2024-01-10,24.90,0.00,Shipping & Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338451,,,ORG,USPS,,,,,,820 W Wingra Dr,,Madison,WI,537151942,,,2024-01-22,24.90,0.00,Shipping & Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500338873,,,ORG,USPS,,,,,,820 W Wingra Dr,,Madison,WI,537151942,,,2024-01-26,26.35,0.00,Shipping & Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00784959,500337911,,,ORG,"Wheels Up Consulting, LLC",,,,,,525 W 28th St,Apt 852,New York,NY,100016636,,,2024-01-17,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,

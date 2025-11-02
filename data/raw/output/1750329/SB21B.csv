@@ -1,0 +1,73 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00838896,500690950,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-31,120.49,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500681350,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-07-25,2000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500684780,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-11,531.28,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500695411,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,9885.76,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500695420,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,8.20,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695430,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,43.33,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695460,500695411,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-11-16,-5.74,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695421,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,4.53,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695431,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,1.14,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695451,500695411,SB21B,ORG,Marriott International,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2023-11-16,535.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695412,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,6.35,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695422,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,2.45,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695432,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,7.62,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695442,500695411,SB21B,ORG,Curb Taxi,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2023-11-16,151.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695452,500695411,SB21B,ORG,Marriott International,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2023-11-16,273.37,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695413,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,0.54,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695423,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,1.08,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695433,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,15.24,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695443,500695411,SB21B,ORG,Curb Taxi,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2023-11-16,99.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695414,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,0.18,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695424,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,1.21,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695434,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,-0.88,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695444,500695411,SB21B,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-11-16,1444.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695454,500695411,SB21B,ORG,Swiss International Air Lines,,,,,,Obstgartenstrasse 25/29,,8302 Kloten Switzerland,ZZ,00000,,,2023-11-16,254.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695415,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,2.62,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695425,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,43.33,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695445,500695411,SB21B,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-11-16,1444.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695455,500695411,SB21B,ORG,Swiss International Air Lines,,,,,,Obstgartenstrasse 25/29,,8302 Kloten Switzerland,ZZ,00000,,,2023-11-16,508.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695416,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,0.19,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695426,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,1.60,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695436,500695411,SB21B,ORG,Airhotel Belgium,,,,,,Luchthavenlaan 1,,1930 Zaventem Belgium,ZZ,00000,,,2023-11-16,-29.57,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695446,500695411,SB21B,ORG,Hotel Porcel Ganivet,,,,,,"C. de Toledo, 111, 113",,Madrid 28005 Spain,ZZ,00000,,,2023-11-16,653.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695456,500695411,SB21B,ORG,Curb Taxi,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2023-11-16,38.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695417,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,1.03,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695427,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,0.44,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695437,500695411,SB21B,ORG,Airhotel Belgium,,,,,,Luchthavenlaan 1,,1930 Zaventem Belgium,ZZ,00000,,,2023-11-16,211.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695457,500695411,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-11-16,22.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695418,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,16.07,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695428,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,19.59,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695458,500695411,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-11-16,1797.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695419,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,0.19,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695429,500695411,SB21B,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-16,0.44,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695449,500695411,SB21B,ORG,Curb Taxi,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2023-11-16,36.04,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695459,500695411,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-11-16,1797.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500690421,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-23,1096.14,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500697361,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-12-29,85.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500677813,,,ORG,"NGP VAN, Inc.",,,,,,1225 I St NW,Ste 1225,Washington,DC,200055918,,,2023-07-13,100.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500692953,,,ORG,"NGP VAN, Inc.",,,,,,1225 I St NW,Ste 1225,Washington,DC,200055918,,,2023-11-09,100.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500684563,,,ORG,"NGP VAN, Inc.",,,,,,1225 I St NW,Ste 1225,Washington,DC,200055918,,,2023-08-08,100.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500687973,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-09,23.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500695183,,,IND,,Tauro,Elizabeth,,,,1111 Euclid St,Apt 201,Santa Monica,CA,904035435,,,2023-11-16,2222.98,0.00,Travel Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500695181,500695183,SB21B,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-11-16,979.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695184,500695183,SB21B,ORG,Hotel Les Armures Geneva,,,,,,"rue Otto Barban, Rue du Soleil-Lev",,Geneva 1204 Switzerland,ZZ,00000,,,2023-11-16,841.88,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500695185,500695183,SB21B,ORG,Uber,,,,,,535 Mission St,,San Francisco,CA,941052997,,,2023-11-16,342.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500680524,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-07-26,40.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500686634,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-25,920.35,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500692954,,,ORG,The River Cafe,,,,,,Thames Wharf,Rainville Rd,London W6 9HA United Kingdom,ZZ,00000,,,2023-11-22,6452.65,0.00,Catering Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500690954,,,IND,,Schiff,Adam,B.,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2023-11-06,2034.40,0.00,Travel Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500690953,500690954,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-11-06,2034.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838896,500684564,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-08-25,25.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500687084,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-30,600.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500693745,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-11-29,85.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500692865,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-20,260.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500690676,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-30,1347.96,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500690757,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-10-27,40.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500683967,,,ORG,"NGP VAN, Inc.",,,,,,1225 I St NW,Ste 1225,Washington,DC,200055918,,,2023-09-07,100.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500698077,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-31,458.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500694097,,,ORG,"NGP VAN, Inc.",,,,,,1225 I St NW,Ste 1225,Washington,DC,200055918,,,2023-12-07,100.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500689918,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-16,39.51,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500691248,,,ORG,"NGP VAN, Inc.",,,,,,1225 I St NW,Ste 1225,Washington,DC,200055918,,,2023-10-03,100.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500695588,,,ORG,MLT Strategic Fundraising LLC,,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2023-12-15,9000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838896,500691439,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-06,19.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,

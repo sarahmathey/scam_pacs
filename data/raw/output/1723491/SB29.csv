@@ -1,0 +1,48 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00806893,500060998,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-09,104.68,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500061212,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-16,29.64,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500061213,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-18,592.50,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500061557,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-24,221.20,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500061833,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-31,169.29,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062742,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-02,987.50,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062466,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-09,110.81,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062743,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-13,219.63,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062759,,,ORG,Adobe,,,,,,151 Almaden Blvd,,San Jose,CA,951132001,,,2023-07-31,19.99,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062760,,,ORG,Adobe,,,,,,151 Almaden Blvd,,San Jose,CA,951132001,,,2023-07-31,84.98,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062766,,,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2023-07-27,427.80,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062744,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-07-26,30.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062767,,,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-08-02,397.80,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062761,,,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-10,294.63,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062762,,,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-10,327.50,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062757,,,ORG,Intuit Quickbooks,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-07-03,58.30,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062758,,,ORG,Intuit Quickbooks,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-08-02,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062772,,,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2023-07-26,13672.60,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062776,500062772,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2023-07-26,1345.55,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062777,500062772,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2023-07-26,36.38,0.00,Workers' Compensation Insurance,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062778,500062772,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2023-07-26,124.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062774,500062772,SB29,IND,,Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2023-07-26,6666.67,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062775,500062772,SB29,IND,,Rowe,Dan,,,,1969 SW Park Ave,,Portland,OR,972013111,,,2023-07-26,5500.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062773,,,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2023-08-10,20875.32,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062779,500062773,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2023-08-10,1980.75,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062780,500062773,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2023-08-10,61.23,0.00,Workers' Compensation Insurance,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062781,500062773,SB29,IND,,Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2023-08-10,6666.67,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062782,500062773,SB29,IND,,Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2023-08-10,6666.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062783,500062773,SB29,IND,,Rowe,Dan,,,,1969 SW Park Ave,,Portland,OR,972013111,,,2023-08-10,5500.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062770,,,IND,,Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2023-08-08,337.81,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB29,C00806893,500062769,500062770,SB29,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2023-08-08,337.81,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500062313,,,ORG,"Public Rukus Creative, LLC",,,,,,PO Box 2731,,Dayton,OH,454012731,,,2023-08-07,800.00,0.00,Website Design Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500061070,,,ORG,Rebecca Mirsky Consulting,,,,,,PO Box 557,,Woody Creek,CO,816560557,,,2023-07-13,787.50,0.00,Event Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062448,,,ORG,Sandler Reiff Lamb Rosenstein & Birkenstock,,,,,,1090 Vermont Ave NW,Ste 750,Washington,DC,200054970,,,2023-08-10,1210.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062755,,,ORG,Scale To Win LLC,,,,,,13742 Harper St,,Santa Ana,CA,927031419,,,2023-07-06,837.65,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062753,,,ORG,Slack,,,,,,500 Howard St,,San Francisco,CA,941053000,,,2023-07-03,46.38,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062754,,,ORG,Slack,,,,,,500 Howard St,,San Francisco,CA,941053000,,,2023-08-02,71.51,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062748,,,ORG,Tatango,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2023-07-03,614.80,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062749,,,ORG,Tatango,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2023-07-24,610.56,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062750,,,ORG,Tatango,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2023-07-27,740.94,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062751,,,ORG,Tatango,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2023-07-31,588.30,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062752,,,ORG,Tatango,,,,,,600 Stewart St,Ste 400,Seattle,WA,981011217,,,2023-08-15,597.84,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500060944,,,ORG,"The Influencer Lab, LLC",,,,,,150 Mitchell St,,West Orange,NJ,070524557,,,2023-07-12,20036.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062768,,,ORG,The Inn At Aspen,,,,,,38750 CO-82,,Aspen,CO,81611,,,2023-08-14,247.48,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062765,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-07-27,475.40,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500061777,,,ORG,XX Artists,,,,,,12045 Waterfront Dr,Ste 460,Los Angeles,CA,900943225,,,2023-07-31,9850.00,0.00,Social Media Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500062756,,,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-07-25,50.85,0.00,Teleconferencing Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account

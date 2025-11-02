@@ -1,0 +1,30 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00831164,500074496,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-02,261.74,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074539,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-06,1380.57,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074497,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-07,592.50,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074498,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-08,280.45,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074499,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-10,337.73,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074500,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-15,1005.28,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074538,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-16,39.50,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074509,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-02,7936.33,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074510,500074509,SB21B,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2024-10-02,255.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074511,500074509,SB21B,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2024-10-02,255.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074512,500074509,SB21B,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2024-10-02,155.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074513,500074509,SB21B,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2024-10-02,155.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074514,500074509,SB21B,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2024-10-02,448.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074515,500074509,SB21B,ORG,Bistro Cacao Restaurant,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-10-02,200.00,0.00,Meetings/Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074518,500074509,SB21B,ORG,Casa Del Mar Hotel,,,,,,1910 Ocean Way,,Santa Monica,CA,904051083,,,2024-10-02,1667.08,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074519,500074509,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-10-02,-308.48,0.00,Travel Expense Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074520,500074509,SB21B,ORG,Julia Testa,,,,,,111 Thompson St,,New York,NY,100123778,,,2024-10-02,235.71,0.00,Supporter Acknowledgments,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074521,500074509,SB21B,ORG,Loews Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-10-02,193.14,0.00,Meetings/Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074522,500074509,SB21B,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-10-02,106.25,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074523,500074509,SB21B,ORG,Sandbourne Autograph,,,,,,1740 Ocean Ave,,Santa Monica,CA,904013214,,,2024-10-02,936.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074524,500074509,SB21B,ORG,Stanford Park Hotel,,,,,,100 El Camino Real,,Menlo Park,CA,940255235,,,2024-10-02,43.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074525,500074509,SB21B,ORG,Stanford Park Hotel,,,,,,100 El Camino Real,,Menlo Park,CA,940255235,,,2024-10-02,546.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074526,500074509,SB21B,ORG,Stanford Park Hotel,,,,,,100 El Camino Real,,Menlo Park,CA,940255235,,,2024-10-02,750.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074528,500074509,SB21B,ORG,The Lambs Club,,,,,,132 W 44Th St,,New York,NY,100364011,,,2024-10-02,1314.97,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074527,500074509,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-10-02,673.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074516,500074509,SB21B,ORG,UrbanStems,,,,,,1615 L St NW,Ste 1230,Washington,DC,200365674,,,2024-10-02,140.00,0.00,Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831164,500074501,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-10-15,36.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074502,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-10-15,607.67,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831164,500074503,,,IND,,Sellman,Sarah,,,,332 E 18Th St,Apt 24,New York,NY,100032876,,,2024-10-15,1603.63,0.00,Salary,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,70 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00806893,500087457,,,ORG,1Password,,,,,,4711 Yonge St,10Th Fl,North York Toronto Canada,ZZ,00000,,,2024-12-20,19.95,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087486,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-02,0.60,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087491,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-25,0.99,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087492,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,0.60,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087517,,,ORG,AKA Beverly Hills,,,,,,155 N Crescent Dr,,Beverly Hills,CA,902105409,,,2024-12-12,1500.00,0.00,Hotel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087477,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,146.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087478,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,0.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087483,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,0.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087484,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,46.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087505,,,ORG,Amazon,,,,,,440 Terry Ave N,,Seattle,WA,981095210,,,2024-12-09,48.40,0.00,Event Supplies - Easel Pad,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087449,,,ORG,Canva,,,,,,200 E 6Th St,,Austin,TX,787013696,,,2024-11-26,36.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087453,,,ORG,Canva,,,,,,200 E 6Th St,,Austin,TX,787013696,,,2024-12-06,36.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087440,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-11-27,9581.20,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087441,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-12-31,8541.10,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087514,,,ORG,Dandelion Chocolate,,,,,,2600 16Th St,,San Francisco,CA,94103,,,2024-12-18,120.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087515,,,ORG,Dandelion Chocolate,,,,,,2600 16Th St,,San Francisco,CA,94103,,,2024-12-18,89.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087501,,,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-11,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087502,,,ORG,"Delta Air Lines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-16,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087437,,,ORG,"EveryAction, Inc.",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-12-06,2327.84,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500086868,,,IND,,Foley,Margaret,,,,4045 SE Grant St,,Portland,OR,972145934,,,2024-12-20,470.67,0.00,"Reimbursement - Travel, Meals",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500086869,500086868,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-20,44.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500086870,500086868,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-20,61.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500086871,500086868,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-20,52.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500086872,500086868,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-12-20,40.72,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500086876,500086868,SB29,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-20,221.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087520,,,ORG,Fred Meyer,,,,,,3800 SE 22Nd Ave,,Portland,OR,972022918,,,2024-12-24,1027.80,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087509,,,ORG,Friends Of Stephanie Garcia Richard,,,,,,PO Box 4657,,Los Alamos,NM,875474657,,,2024-12-03,5500.00,0.00,Non-Federal Contribution,,,,,,,,,,,,,,,,,,,,
+SB29,C00806893,500087452,,,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-12-02,323.99,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087451,,,ORG,"Intuit, Inc.",,,,,,2800 E Commerce Center Pl,,Tucson,AZ,857064559,,,2024-12-02,68.90,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087522,,,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-06,3215.51,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087523,,,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-10,13848.14,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087524,500087523,SB29,IND,,Buckland,Christa,,,,418 SE 21St Ave,,Portland,OR,972141603,,,2024-12-10,3375.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087525,500087523,SB29,IND,,Eames,Brit,,,,776 Antone St NW,,Atlanta,GA,303187645,,,2024-12-10,1979.17,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087528,500087523,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-10,1853.78,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087529,500087523,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-10,-107.44,0.00,Employee Benefits Refund,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087530,500087523,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-10,60.13,0.00,Workers' Compensation Insurance,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087526,500087523,SB29,IND,,Lane Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2024-12-10,5312.50,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087527,500087523,SB29,IND,,Rowe,Dan,,,,1969 SW Park Ave,,Portland,OR,972013111,,,2024-12-10,1375.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087544,,,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-26,13848.13,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087551,500087544,SB29,IND,,Buckland,Christa,,,,418 SE 21St Ave,,Portland,OR,972141603,,,2024-12-26,3375.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087550,500087544,SB29,IND,,Eames,Brit,,,,776 Antone St NW,,Atlanta,GA,303187645,,,2024-12-26,1979.17,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087545,500087544,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-26,-107.45,0.00,Employee Benefits Refund,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087546,500087544,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-26,60.13,0.00,Workers' Compensation Insurance,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087547,500087544,SB29,ORG,Justworks,,,,,,55 Water St,Fl 29,New York,NY,100410008,,,2024-12-26,1853.78,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087549,500087544,SB29,IND,,Lane Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2024-12-26,5312.50,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500087548,500087544,SB29,IND,,Rowe,Dan,,,,1969 SW Park Ave,,Portland,OR,972013111,,,2024-12-26,1375.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500086883,,,ORG,Kannan For Virginia,,,,,,41767 Heinz Ct,,Brambleton,VA,201485803,,,2024-12-31,5000.00,0.00,Non-Federal Contribution,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087510,,,IND,,Lane Pierle,Sarah,,,,3134 NE 84Th Ave,,Portland,OR,972205261,,,2024-11-29,233.16,0.00,Reimbursement - Mileage,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087503,,,IND,,Leonard,Annie,M.,,,1720 Rose St,,Berkeley,CA,947031013,,,2024-12-04,5000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087507,,,IND,,Leonard,Annie,M.,,,1720 Rose St,,Berkeley,CA,947031013,,,2024-12-04,359.97,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087508,500087507,SB29,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-12-04,359.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00806893,500086809,,,COM,Organize To Win PAC,,,,,,1900 L St NW,Ste 800,Washington,DC,200365023,,,2024-12-16,5000.00,0.00,Non-Federal Contribution,,,,,,,,,,,,,,,,,,,,
+SB29,C00806893,500086879,,,ORG,Sandler Reiff Lamb Rosenstein & Birkenstock,,,,,,1090 Vermont Ave NW,Ste 750,Washington,DC,200054970,,,2024-12-30,3360.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087434,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-11-26,41.34,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087493,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-19,4.37,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087494,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-19,9.86,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087495,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-23,1.42,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087496,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-23,7.04,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087435,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-26,41.34,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087497,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-27,40.83,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087498,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-30,201.58,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087499,,,ORG,Shopify,,,,,,33 New Montgomery St,Ste 750,San Francisco,CA,941054537,,,2024-12-31,1.42,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500086878,,,IND,,Shutt,Lindsay,,,,2751 E De Soto St,Apt 3,Long Beach,CA,908140706,,,2024-12-30,950.00,0.00,Graphic Design Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087443,,,ORG,Slack,,,,,,500 Howard St,,San Francisco,CA,941053000,,,2024-12-02,27.83,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087450,,,ORG,Sprout Social,,,,,,131 S Dearborn St,Ste 700,Chicago,IL,606035569,,,2024-11-29,349.14,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087458,,,ORG,Sprout Social,,,,,,131 S Dearborn St,Ste 700,Chicago,IL,606035569,,,2024-12-26,349.14,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087516,,,ORG,The Maybourne Beverly Hills,,,,,,225 N Canon Dr,,Beverly Hills,CA,902105301,,,2024-12-12,1532.48,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087444,,,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-12-10,26.50,0.00,Teleconferencing Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00806893,500087445,,,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-12-26,171.65,0.00,Teleconferencing Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account

@@ -1,0 +1,117 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00833350,500030001,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-20,1671.87,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030024,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,1566.64,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030029,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,493.76,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030056,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-03,39.50,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030187,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-10-29,96.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030188,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-10-29,12.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030183,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-17,38128.60,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030379,500030183,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-17,-125.69,0.00,Cash Back Rewards,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030380,500030183,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2024-10-17,-85.00,0.00,Travel Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030385,500030183,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2024-10-17,4.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030386,500030183,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2024-10-17,5.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030448,500030183,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2024-10-17,85.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030452,500030183,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2024-10-17,220.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030458,500030183,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2024-10-17,338.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030460,500030183,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2024-10-17,449.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030461,500030183,SB21B,ORG,Balducci's,,,,,,40 Water St,Fl 5,Boston,MA,021093604,,,2024-10-17,472.35,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030402,500030183,SB21B,ORG,CANVA,,,,,,2140 S Dupont Hwy,,Camden,DE,199341249,,,2024-10-17,12.99,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030453,500030183,SB21B,ORG,Enterprise Car Rental Alexandria,,,,,,5954 Richmond Hwy,,Alexandria,VA,223031871,,,2024-10-17,230.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030462,500030183,SB21B,ORG,Federal Parking Inc,,,,,,400 E Pratt St,Ste 800,Baltimore,MD,212023122,,,2024-10-17,640.00,0.00,Valet Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030466,500030183,SB21B,ORG,Kimpton George Hotel,,,,,,15 E St NW,,Washington,DC,200011501,,,2024-10-17,902.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030468,500030183,SB21B,ORG,L'Ardente,,,,,,200 Massachusetts Ave NW,,Washington,DC,200011429,,,2024-10-17,1387.50,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030469,500030183,SB21B,ORG,L'Ardente,,,,,,200 Massachusetts Ave NW,,Washington,DC,200011429,,,2024-10-17,1387.50,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030406,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,15.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030411,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,20.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030414,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,21.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030415,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,22.08,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030418,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,24.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030428,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,36.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030429,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,37.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030434,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,42.31,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030435,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,43.06,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030440,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,48.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030443,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,54.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030445,500030183,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,,2024-10-17,60.54,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030467,500030183,SB21B,ORG,Port City Brewery Co,,,,,,3950 Wheeler Ave,,Alexandria,VA,223046409,,,2024-10-17,951.56,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030455,500030183,SB21B,ORG,Quirk Hotel,,,,,,201 W Broad St,,Richmond,VA,232204268,,,2024-10-17,287.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030456,500030183,SB21B,ORG,Quirk Hotel,,,,,,201 W Broad St,,Richmond,VA,232204268,,,2024-10-17,316.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030463,500030183,SB21B,ORG,Ridgewells Catering,,,,,,5525 Dorsey Ln,,Bethesda,MD,208161501,,,2024-10-17,687.71,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030472,500030183,SB21B,ORG,Ridgewells Catering,,,,,,5525 Dorsey Ln,,Bethesda,MD,208161501,,,2024-10-17,2685.26,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030473,500030183,SB21B,ORG,Ridgewells Catering,,,,,,5525 Dorsey Ln,,Bethesda,MD,208161501,,,2024-10-17,2685.26,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030427,500030183,SB21B,ORG,Salamander Resort,,,,,,100 W Washington St,,Middleburg,VA,201172698,,,2024-10-17,36.40,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030449,500030183,SB21B,ORG,Salamander Resort,,,,,,100 W Washington St,,Middleburg,VA,201172698,,,2024-10-17,94.50,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030454,500030183,SB21B,ORG,Salamander Resort,,,,,,100 W Washington St,,Middleburg,VA,201172698,,,2024-10-17,278.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030465,500030183,SB21B,ORG,Silver Chef Dba Traveling Meat & More,,,,,,4238 Wilson Blvd,Ste 3110,Arlington,VA,222031836,,,2024-10-17,865.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030450,500030183,SB21B,ORG,Staples,,,,,,1320 Richmond Rd,,Williamsburg,VA,231852831,,,2024-10-17,119.27,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030470,500030183,SB21B,ORG,Succotash,,,,,,915 F St NW,,Washington,DC,200041493,,,2024-10-17,2083.31,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030471,500030183,SB21B,ORG,Succotash,,,,,,915 F St NW,,Washington,DC,200041493,,,2024-10-17,2428.71,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030475,500030183,SB21B,ORG,Succotash,,,,,,915 F St NW,,Washington,DC,200041493,,,2024-10-17,12289.90,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030464,500030183,SB21B,ORG,The Jefferson Hotel,,,,,,101 W Franklin St,,Richmond,VA,232205009,,,2024-10-17,828.68,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030457,500030183,SB21B,ORG,The Virginian,,,,,,712 Church St,,Lynchburg,VA,245041402,,,2024-10-17,323.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030459,500030183,SB21B,ORG,The Virginian,,,,,,712 Church St,,Lynchburg,VA,245041402,,,2024-10-17,371.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030381,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030382,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030383,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030384,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030387,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,5.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030388,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,5.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030389,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,5.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030390,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,5.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030391,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,8.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030392,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,8.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030393,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,9.17,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030394,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,11.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030398,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,12.62,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030400,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,12.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030403,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,12.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030404,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,13.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030405,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,13.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030407,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,15.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030408,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,15.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030409,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,17.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030412,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,20.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030413,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,20.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030416,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,23.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030417,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,23.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030419,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,25.18,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030420,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,27.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030421,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,29.17,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030422,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,29.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030423,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,32.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030424,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,32.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030432,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,41.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030433,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,42.24,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030436,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,45.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030437,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,45.88,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030438,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,45.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030439,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,47.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030444,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,56.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030447,500030183,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-10-17,71.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030377,500030183,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-10-17,-405.08,0.00,Travel Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030378,500030183,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-10-17,-272.98,0.00,Travel Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030395,500030183,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2024-10-17,12.04,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030396,500030183,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2024-10-17,12.04,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030397,500030183,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2024-10-17,12.04,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030399,500030183,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2024-10-17,12.67,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030430,500030183,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2024-10-17,38.59,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030451,500030183,SB21B,ORG,Urban Stems,,,,,,1200 18Th St NW,,Washington,DC,200362506,,,2024-10-17,123.31,0.00,Gifts for Donors,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030446,500030183,SB21B,ORG,"Washington National Stadium, LLC",,,,,,1500 S Capitol St SE,,Washington,DC,200033599,,,2024-10-17,66.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030474,500030183,SB21B,ORG,"Washington National Stadium, LLC",,,,,,1500 S Capitol St SE,,Washington,DC,200033599,,,2024-10-17,3564.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030425,500030183,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-10-17,33.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030426,500030183,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-10-17,33.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030363,,,ORG,"Bannon & Associates, LLC",,,,,,8212 Hot Creek Dr,,Las Vegas,NV,891288247,,,2024-11-25,250.00,0.00,Refund,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030182,,,IND,,Breiseth,Warren,Jeffrey,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-10-29,690.78,0.00,Reimburse Travel - Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030349,,,IND,,Breiseth,Warren,Jeffrey,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-11-20,172.27,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030352,,,IND,,Breiseth,Warren,Jeffrey,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-11-20,64.99,0.00,Reimburse Office Supplies - Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030186,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-11-04,2528.83,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030354,,,IND,,Hall,Max,,,,6321 Enon School Rd,,Marshall,VA,201152455,,,2024-11-20,736.86,0.00,Reimburse Catering - Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030353,500030354,SB21B,ORG,Harris Teeter,,,,,,530 Fletcher Dr,,Warrenton,VA,201862183,,,2024-11-20,491.36,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500030189,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-10-28,90.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030192,,,IND,,McCarthy,Elizabeth,,,,1206 Windsor Ave,,Richmond,VA,232273743,,,2024-10-24,1680.00,0.00,Reissue of voided check from 10/16/24,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030193,,,IND,,McCarthy,Elizabeth,,,,1206 Windsor Ave,,Richmond,VA,232273743,,,2024-10-24,-1680.00,0.00,Void 10/16/24 payment; reissued,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030184,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2024-10-31,7500.00,0.00,Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030185,,,ORG,"TH Fundraising Consulting, LLC",,,,,,1134 N Stuart St,# 3,Arlington,VA,22201,,,2024-10-31,6500.00,0.00,Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500030348,,,ORG,"TH Fundraising Consulting, LLC",,,,,,1134 N Stuart St,# 3,Arlington,VA,22201,,,2024-11-20,4367.77,0.00,Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,3499880I,3499880,SA11C,PAC,"VAN SCOYOC ASSOCIATES, INC. PAC",,,,,,800 Maine Ave SW,Ste 800,Washington,DC,200242806,,,2024-10-29,1236.40,0.00,Catering Event Costs,,C00369058,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00833350,3499881I,3499881,SA11C,PAC,"VAN SCOYOC ASSOCIATES, INC. PAC",,,,,,800 Maine Ave SW,Ste 800,Washington,DC,200242806,,,2024-10-29,486.83,0.00,Fundraising Event Costs,,C00369058,,,,,,,,,,,,,,,,,,* In-Kind Received

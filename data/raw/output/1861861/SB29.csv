@@ -1,0 +1,431 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00504530,SB.4,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-01,3.62,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.2,,,ORG,PCI Payment Solutions,,,,,,902 Chinquapin,,McLean,VA,22102,,,2024-07-01,125.50,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.3,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-01,10.58,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.265,,,ORG,"1892, LLC",,,,,,PO Box 1832,,Gallatin,TN,37066,,,2024-07-02,45750.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.327,,,ORG,Argus Insight LLC,,,,,,2850 Eisenhower Ave.,,Alexandria,VA,22314,,,2024-07-02,45000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.185,,,ORG,"Big Dog Strategies, LLC",,,,,,23150 Fashion Dr.,Suite 231,Estero,FL,33928,,,2024-07-02,50000.00,,Strategy consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.234,,,ORG,Capitol Computer Exchange,,,,,,4487 Forbes Boulevard,,Lanham,MD,20706,,,2024-07-02,91.58,,Computer services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.6,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-02,5.75,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.235,,,ORG,First National Bank,,,,,,P.O. Box 2557,,Omaha,NE,68103,,,2024-07-02,1858.62,,Credit card payment - see memo entries,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.236,SB.235,,ORG,Cloudflare,,,,,,101 Townsend St,,San Francisco,CA,94107,,,2024-07-02,106.00,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.237,SB.235,,ORG,GoDaddy.com,,,,,,14455 North Hayden Road,Suite 219,Scottsdale,AZ,85260,,,2024-07-02,93.66,,Domain name services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.238,SB.235,,ORG,Microsoft,,,,,,One Microsoft Way,,Redmond,WA,98052,,,2024-07-02,493.17,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.239,SB.235,,ORG,Stamps.com,,,,,,4301 Bull Creek Road,,Austin,TX,78731,,,2024-07-02,31.79,,Postage,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.240,SB.235,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-02,99.00,,Merchant services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.241,SB.235,,ORG,WP Engine,,,,,,504 Lavaca Street,Suite 1000,Austin,TX,78701,,,2024-07-02,850.00,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.186,,,ORG,"Johnson Strategies, LLC",,,,,,4612 Dusik Lane,,Austin,TX,78746,,,2024-07-02,50000.00,,Strategy consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.7,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-07-02,17.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.5,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-02,18.16,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.10,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-03,2.75,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.11,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-07-03,17.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.8,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-03,39.11,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.9,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-03,22.72,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.13,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-05,4.75,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.14,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-07-05,17.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.12,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-05,28.65,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.230,,,ORG,Ascent Media LLC,,,,,,7600 E. Eastman Ave. ,Suite 405,Denver,CO,80231,,,2024-07-08,5000.00,,Media production - non IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.192,,,ORG,CMDI,,,,,,1593 Spring Hill Road,Suite 400,Tysons Corner,VA,22182,,,2024-07-08,500.00,,Donor database services,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.16,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-08,7.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.18,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-08,7.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.17,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-07-08,10.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.409,,,ORG,"Strategic Advance Services, LLC",,,,,,611 Pennsylvania Ave. SE,Suite 267,Washington,DC,20003,,,2024-07-08,22451.33,,Travel and event planning services,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.15,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-08,31.24,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.20,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-09,1.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.21,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-09,21.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.22,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-07-09,30.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.19,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-09,9.07,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.23,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-10,16.28,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.347,,,IND,,Conston,Daniel,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-11,5426.72,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.351,SB.347,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2024-07-11,859.73,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.349,SB.347,,ORG,Montage Laguna Beach,,,,,,30801 South Coast Highway,,Laguna Beach,CA,92651,,,2024-07-11,435.00,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.350,SB.347,,ORG,Omni Resorts,,,,,,4001 Maple Avenue,Ste 500,Dallas,TX,75219,,,2024-07-11,2861.56,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.352,SB.347,,ORG,Southwest Airlines,,,,,,2702 Love Field Drive,,Dallas,TX,75235,,,2024-07-11,161.48,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.348,SB.347,,ORG,United Airlines,,,,,,233 S Wacker Drive,,Chicago,IL,60606,,,2024-07-11,1108.95,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.346,,,IND,,Hahn,Karly,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-11,157.74,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.341,,,IND,,Moir,Monica,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-11,137.00,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.342,,,IND,,Riggs,Ezra,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-11,1077.01,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.343,SB.342,,ORG,Hertz Rental Car,,,,,,8501 Williams Rd,,Estero,FL,33928,,,2024-07-11,325.05,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.344,SB.342,,ORG,Inner Banks Inn,,,,,,103 East Albemarle Street,,Edenton,NC,27932,,,2024-07-11,239.22,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.345,,,IND,,Silverman,Nicholas,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-11,168.23,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.298,,,ORG,"American Viewpoint, Inc.",,,,,,1199 North Lee Street,Suite 808,Alexandria,VA,22314,,,2024-07-11,45400.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.26,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-11,5.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.27,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-11,35.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.325,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-07-11,51200.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.266,,,ORG,NMB Research LLC,,,,,,206 N. Fayette St.,,Alexandria,VA,22314,,,2024-07-11,42000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.187,,,ORG,Prime Media Partners,,,,,,4201 Wilson Blvd.,#110-126,Arlington,VA,22203,,,2024-07-11,50000.00,,Strategy consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.231,,,ORG,Prime Media Partners,,,,,,4201 Wilson Blvd. ,#110-126,Arlington,VA,22203,,,2024-07-11,5000.00,,Media production - non IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.28,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-07-11,50.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.24,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-11,13.27,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.25,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-11,95.67,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.210,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-07-11,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.30,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-12,2.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.29,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-12,11.32,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.355,,,IND,,O'Toole,Maureen,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-15,113.24,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.354,,,IND,,Parella,Courtney,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-15,180.98,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.353,,,IND,,Re,Domenic,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-15,170.99,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.32,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-15,2.75,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.193,,,ORG,Deep Root Analytics LLC,,,,,,1600 Wilson Blvd.,Suite 300,Arlington,VA,22209,,,2024-07-15,150000.00,,Media analytics services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.179,,,ORG,Finance Strategies Group LLC,,,,,,2024 3rd Ave. N,Suite 211,Birmingham,AL,35203,,,2024-07-15,192714.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.33,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-07-15,8.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.267,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-07-15,75000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.31,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-15,129.56,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.356,,,IND,,Newcomb,John,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-16,101.74,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.35,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-16,7.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.34,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-16,19.56,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.37,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-17,6.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.207,,,ORG,"Crosby Ottenhoff Group, LLC",,,,,,611 Pennsylvania Ave SE,#267,Washington,DC,20003,,,2024-07-17,9850.00,,Accounting and compliance services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.36,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-17,41.63,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.414,,,ORG,Altria Group Inc.,,,,,,101 Constitution Ave. NW,400W,Washington,DC,20006,,,2024-07-18,7500.00,,In-Kind Expense: corporate aircraft usage,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.40,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-18,1.12,,Fundraising Consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.38,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-18,32.62,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.39,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-18,82.44,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.42,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-19,3.41,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.41,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-19,8.67,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.44,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-22,6.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.43,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-22,41.34,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.46,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-23,2.17,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.47,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-07-23,32.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.201,,,ORG,Jones Day,,,,,,51 Louisiana Ave. NW,,Washington,DC,20001,,,2024-07-23,1662.50,,Legal services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.188,,,ORG,"Poolhouse Agency, LLC",,,,,,23 W Broad Street,Suite 302,Richmond,VA,23220,,,2024-07-23,50000.00,,Strategy consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.299,,,ORG,Ragnar Research Partners,,,,,,"103 E Street, SE",,Washington,DC,20003,,,2024-07-23,37500.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.45,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-23,995.65,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.211,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-07-23,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.359,,,IND,,Allen,Meredith,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-24,322.51,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.357,,,IND,,Crowell,Sophie,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-24,239.47,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.358,,,IND,,Freeman,Julianna,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-24,187.70,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.328,,,ORG,Capital Research Group,,,,,,PO Box 7530,,Arlington,VA,22207,,,2024-07-24,15000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.321,,,ORG,Coefficient,,,,,,1881 Main St #305,,Kansas City,MO,64108,,,2024-07-24,10500.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.48,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-24,5.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.49,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-07-24,80.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.329,,,ORG,Paragon Strategies LLC,,,,,,1465 Woodbury Ave,PMB 234,Portsmouth,NH,03801,,,2024-07-24,15000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.182,,,ORG,Targeted Victory,,,,,,2311 Wilson Blvd,Suite 200,Arlington,VA,22201,,,2024-07-24,103332.67,,Media consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.183,,,ORG,Targeted Victory,,,,,,2311 Wilson Blvd,Suite 200,Arlington,VA,22201,,,2024-07-24,44197.95,,Media consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.50,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-24,16.17,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.300,,,ORG,"American Viewpoint, Inc.",,,,,,1199 North Lee Street,Suite 808,Alexandria,VA,22314,,,2024-07-25,22000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.51,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-25,3.45,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.52,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-07-25,16.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.53,,,ORG,"TMA Direct, Inc.",,,,,,1900 Reston Metro Plaza,Suite 600,Reston,VA,20190,,,2024-07-25,22.56,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.198,,,ORG,"Valero Services, Inc.",,,,,,PO Box 696000,,San Antonio,TX,78269,,,2024-07-25,7837.41,,Event venue and catering,007,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.54,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-25,89.90,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.55,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-25,410.02,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.212,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-07-25,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.56,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-26,1.57,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.58,,,ORG,"TMA Direct, Inc.",,,,,,1900 Reston Metro Plaza,Suite 600,Reston,VA,20190,,,2024-07-26,22.56,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.57,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-26,57.31,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.61,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-29,9.75,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.59,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-29,12.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.62,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-07-29,32.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.60,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-29,40.13,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.1,,,ORG,Chain Bridge Bank,,,,,,1445-A Laughlin Avenue,,McLean,VA,22101,,,2024-07-30,12.00,,Bank fee,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.65,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-30,6.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.67,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-07-30,21.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.66,,,ORG,P2P Messaging,,,,,,1390 Chain Bridge Road,Suite 54,McLean,VA,22101,,,2024-07-30,40.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.63,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-07-30,30.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.64,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-30,20.34,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.363,,,IND,,Cooke,Celia,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-31,109.95,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.361,,,IND,,Hahn,Karly,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-31,91.67,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.362,,,IND,,Moir,Monica,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-31,68.07,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.360,,,IND,,Newcomb,John,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-31,128.86,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.365,,,IND,,Riggs,Ezra,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-31,1039.73,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.366,SB.365,,ORG,Spirit Airlines,,,,,,2800 Executive Way,,Miramar,FL,33025,,,2024-07-31,474.16,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.367,SB.365,,ORG,United Airlines,,,,,,233 S Wacker Drive,,Chicago,IL,60606,,,2024-07-31,474.69,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.364,,,IND,,Silverman,Nicholas,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-07-31,68.09,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.330,,,ORG,Argus Insight LLC,,,,,,2850 Eisenhower Ave.,,Alexandria,VA,22314,,,2024-07-31,5000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.269,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-07-31,48600.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.326,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-07-31,9750.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.202,,,ORG,Dickinson Wright PLLC,,,,,,1825 Eye Street NW,Suite 900,Washington,DC,20006,,,2024-07-31,15000.00,,Legal services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.302,,,ORG,Public Opinion Strategies LLC,,,,,,214 N. Fayette Street,,Alexandria,VA,22314,,,2024-07-31,81000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.301,,,ORG,Ragnar Research Partners,,,,,,"103 E Street, SE",,Washington,DC,20003,,,2024-07-31,39000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.268,,,ORG,TargetPoint Consulting,,,,,,66 Canal Center Plaza,Suite 555,Alexandria,VA,22314,,,2024-07-31,39980.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.270,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-07-31,41000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.68,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-07-31,4.93,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.331,,,ORG,America Rising LLC,,,,,,1500 Wilson Blvd.,5th Floor,Arlington,VA,22209,,,2024-08-01,80667.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.271,,,ORG,Coefficient,,,,,,1881 Main St#305,,Kansas City,MO,64108,,,2024-08-01,8500.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.71,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-01,3.62,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.69,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-01,203.20,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.70,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-01,11.96,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.242,,,ORG,Capitol Computer Exchange,,,,,,4487 Forbes Boulevard,,Lanham,MD,20706,,,2024-08-02,91.58,,Computer services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.74,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-02,5.75,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.243,,,ORG,First National Bank,,,,,,P.O. Box 2557,,Omaha,NE,68103,,,2024-08-02,2152.05,,Credit card payment - see memo entries,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.244,SB.243,,ORG,Cloudflare,,,,,,101 Townsend St,,San Francisco,CA,94107,,,2024-08-02,106.00,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.250,SB.243,,ORG,FedEx,,,,,,942 South Shady Grove Road,,Memphis,TN,38120,,,2024-08-02,104.72,,Shipping,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.245,SB.243,,ORG,GoDaddy.com,,,,,,14455 North Hayden Road,Suite 219,Scottsdale,AZ,85260,,,2024-08-02,127.00,,Domain name services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.246,SB.243,,ORG,Microsoft,,,,,,One Microsoft Way,,Redmond,WA,98052,,,2024-08-02,527.92,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.247,SB.243,,ORG,Stamps.com,,,,,,4301 Bull Creek Road,,Austin,TX,78731,,,2024-08-02,31.79,,Postage,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.251,SB.243,,ORG,Sweetgreen,,,,,,3102 West 36th Street,,Los Angeles,CA,90018,,,2024-08-02,222.75,,Food and beverage,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.248,SB.243,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-02,99.00,,Merchant services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.249,SB.243,,ORG,WP Engine,,,,,,504 Lavaca Street,Suite 1000,Austin,TX,78701,,,2024-08-02,850.00,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.200,,,ORG,Occasions Caterers,,,,,,655 Taylor St NE,,Washington,DC,20017,,,2024-08-02,12617.70,,Event catering,007,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.72,,,ORG,PCI Payment Solutions,,,,,,902 Chinquapin,,McLean,VA,22102,,,2024-08-02,47136.09,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.75,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-08-02,17.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.73,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-02,12.06,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.76,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-05,7.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.213,,,ORG,Red Oak Strategic LLC,,,,,,312 Calvert Ave.,,Alexandria,VA,22301,,,2024-08-05,100000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.78,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-08-05,34.00,,Fundraising consultling,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.77,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-05,57.88,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.371,,,IND,,Parella,Courtney,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-08-06,165.48,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.368,,,IND,,Smyth,Holden,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-08-06,982.76,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.369,SB.368,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2024-08-06,717.53,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.370,SB.368,,ORG,Marriott,,,,,,7750 Wisconsin Ave.,,Bethesda,MD,20814,,,2024-08-06,245.91,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.252,,,ORG,Capitol Computer Exchange,,,,,,4487 Forbes Boulevard,,Lanham,MD,20706,,,2024-08-06,36.25,,Conference call services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.81,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-06,1.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.82,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-06,7.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.253,,,ORG,"FLS Connect, LLC",,,,,,7300 Hudson Blvd,Suite 270,St Paul,MN,55128,,,2024-08-06,157.65,,Conference call services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.332,,,ORG,Look Ahead Strategies,,,,,,1500 Wilson Blvd.,5th Floor,Arlington,VA,22209,,,2024-08-06,30000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.79,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-08-06,10.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.410,,,ORG,"Strategic Advance Services, LLC",,,,,,611 Pennsylvania Ave. SE,Suite 267,Washington,DC,20003,,,2024-08-06,170806.51,,Travel and event planning services,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.272,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-08-06,82132.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.273,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-08-06,22000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.80,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-06,7.93,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.214,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-08-06,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.83,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-07,1.50,,Fundraising consultling,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.303,,,ORG,"Dittman Research (DRC, LLC)",,,,,,PO Box 110073,,Anchorage,AK,99511,,,2024-08-07,56900.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.85,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-08-07,40.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.84,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-07,14.56,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.88,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-08,4.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.339,,,ORG,"Tray - Printing, Mailing, Logistics",,,,,,PO Box 1360,,Glen Burnie,MD,21061,,,2024-08-08,447.85,,Stationery,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.86,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-08,83.89,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.87,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-08,12.65,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.89,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-09,1.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.90,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-09,5.93,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.92,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-12,7.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.94,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-12,35.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.93,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-08-12,50.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.91,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-12,39.62,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.372,,,IND,,Conston,Daniel,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-08-13,2459.19,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.373,SB.372,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2024-08-13,369.87,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.375,SB.372,,ORG,Dividend Restaurant Group,,,,,,2000 S Colorado Blvd,,Denver,CO,80222,,,2024-08-13,741.53,,Food and beverage,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.374,SB.372,,ORG,Marriott,,,,,,7750 Wisconsin Ave.,,Bethesda,MD,20814,,,2024-08-13,319.67,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.376,SB.372,,ORG,Uber,,,,,,1515 Third Street,,San Francisco,CA,94158,,,2024-08-13,128.54,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.377,SB.372,,ORG,United Airlines,,,,,,233 S Wacker Drive,,Chicago,IL,60606,,,2024-08-13,830.97,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.378,,,IND,,O'Toole,Maureen,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-08-13,16.83,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.195,,,ORG,Apex Strategies LLC,,,,,,PO Box 17302,,Arlington,VA,22216,,,2024-08-13,100000.00,,Data consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.304,,,ORG,"Axis Research, Inc.",,,,,,107 S. West Street,PMB 148,Alexandria,VA,22314,,,2024-08-13,79700.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.274,,,ORG,Basswood Research,,,,,,4550 Montgomery Ave,Suite 906,Bethesda,MD,20814,,,2024-08-13,133315.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.194,,,ORG,CMDI,,,,,,1593 Spring Hill Road,Suite 400,Tysons Corner,VA,22182,,,2024-08-13,1276.55,,Donor database services,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.208,,,ORG,"Crosby Ottenhoff Group, LLC",,,,,,611 Pennsylvania Ave SE,#267,Washington,DC,20003,,,2024-08-13,14743.50,,Accounting and compliance services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.203,,,ORG,Jones Day,,,,,,51 Louisiana Ave. NW,,Washington,DC,20001,,,2024-08-13,15268.75,,Legal services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.275,,,ORG,TargetPoint Consulting,,,,,,66 Canal Center Plaza,Suite 555,Alexandria,VA,22314,,,2024-08-13,35685.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.215,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-08-13,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.96,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-14,0.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.95,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-14,22.86,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.99,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-15,2.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.305,,,ORG,"Meeting Street Research, LLC",,,,,,962 Houston Northcutt Blvd.,Suite 201,Mount Pleasant,SC,29464,,,2024-08-15,123000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.100,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-08-15,8.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.97,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-15,109.73,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.98,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-15,8.20,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.102,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-16,7.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.101,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-16,18.18,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.104,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-19,10.03,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.103,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-19,62.95,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.107,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-20,2.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.108,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-20,2.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.184,,,ORG,Targeted Victory,,,,,,2311 Wilson Blvd,Suite 200,Arlington,VA,22201,,,2024-08-20,55573.78,,Media consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.105,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-20,13.14,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.106,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-20,9.99,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.387,,,IND,,Crowell,Sophie,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-08-22,917.03,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.389,SB.387,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2024-08-22,440.96,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.388,SB.387,,ORG,Marriott,,,,,,7750 Wisconsin Ave.,,Bethesda,MD,20814,,,2024-08-22,146.06,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.391,SB.387,,ORG,National Rental Car,,,,,,600 Corporate Park Dr,,St. Louis,MO,63105,,,2024-08-22,158.16,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.390,SB.387,,ORG,Uber,,,,,,1515 Third Street,,San Francisco,CA,94158,,,2024-08-22,53.76,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.379,,,IND,,Silverman,Nicholas,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-08-22,800.50,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.381,SB.379,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2024-08-22,440.96,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.380,SB.379,,ORG,Marriott,,,,,,7750 Wisconsin Ave.,,Bethesda,MD,20814,,,2024-08-22,181.26,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.382,SB.379,,ORG,Uber,,,,,,1515 Third Street,,San Francisco,CA,94158,,,2024-08-22,34.68,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.383,,,IND,,Smyth,Holden,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-08-22,775.61,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.385,SB.383,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2024-08-22,430.34,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.384,SB.383,,ORG,Marriott,,,,,,7750 Wisconsin Ave.,,Bethesda,MD,20814,,,2024-08-22,192.66,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.386,SB.383,,ORG,Uber,,,,,,1515 Third Street,,San Francisco,CA,94158,,,2024-08-22,74.79,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.307,,,ORG,"American Viewpoint, Inc.",,,,,,1199 North Lee Street,Suite 808,Alexandria,VA,22314,,,2024-08-22,41000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.333,,,ORG,Capital Research Group,,,,,,PO Box 7530,,Arlington,VA,22207,,,2024-08-22,15000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.217,,,ORG,Deep Root Analytics LLC,,,,,,1600 Wilson Blvd.,Suite 300,Arlington,VA,22209,,,2024-08-22,170750.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.204,,,ORG,Dickinson Wright PLLC,,,,,,1825 Eye Street NW,Suite 900,Washington,DC,20006,,,2024-08-22,30000.00,,Legal services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.180,,,ORG,Finance Strategies Group LLC,,,,,,2024 3rd Ave. N,Suite 211,Birmingham,AL,35203,,,2024-08-22,215000.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.216,,,ORG,Grassroots Targeting,,,,,,106 S. Columbus Street,,Alexandria,VA,22314,,,2024-08-22,468000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.306,,,ORG,"Meeting Street Research, LLC",,,,,,962 Houston Northcutt Blvd.,Suite 201,Mount Pleasant,SC,29464,,,2024-08-22,31475.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.334,,,ORG,Paragon Strategies LLC,,,,,,1465 Woodbury Ave,PMB 234,Portsmouth,NH,03801,,,2024-08-22,15000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.219,,,ORG,Red Oak Strategic LLC,,,,,,312 Calvert Ave.,,Alexandria,VA,22301,,,2024-08-22,100000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.276,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-08-22,41000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.277,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-08-22,28000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.340,,,ORG,"Tray - Printing, Mailing, Logistics",,,,,,PO Box 1360,,Glen Burnie,MD,21061,,,2024-08-22,615.58,,Stationery,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.109,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-22,82.98,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.218,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-08-22,153000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.335,,,ORG,America Rising LLC,,,,,,1500 Wilson Blvd.,5th Floor,Arlington,VA,22209,,,2024-08-26,104375.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.220,,,ORG,Red Oak Strategic LLC,,,,,,312 Calvert Ave.,,Alexandria,VA,22301,,,2024-08-26,51497.04,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.278,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-08-27,43600.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.308,,,ORG,Public Opinion Strategies LLC,,,,,,214 N. Fayette Street,,Alexandria,VA,22314,,,2024-08-27,33000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.221,,,ORG,Red Oak Strategic LLC,,,,,,312 Calvert Ave.,,Alexandria,VA,22301,,,2024-08-27,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.191,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-08-27,1626.45,,Consultant travel reimbursement,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.110,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-28,85.68,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.113,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-29,23.06,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.114,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-29,12.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.115,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-08-29,160.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.111,,,ORG,"TMA Direct, Inc.",,,,,,1900 Reston Metro Plaza,Suite 600,Reston,VA,20190,,,2024-08-29,45.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.112,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-29,262.63,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.116,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-08-30,6.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.118,,,ORG,P2P Messaging,,,,,,1390 Chain Bridge RoadSuite54,,McLean,VA,22101,,,2024-08-30,40.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.117,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-08-30,61.72,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.119,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-03,12.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.122,,,ORG,PCI Payment Solutions,,,,,,902 Chinquapin,,McLean,VA,22102,,,2024-09-03,3913.00,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.121,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-09-03,34.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.120,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-03,138.85,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.125,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-04,3.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.254,,,ORG,First National Bank,,,,,,P.O. Box 2557,,Omaha,NE,68103,,,2024-09-04,1908.65,,Credit card payment - see memo entries,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.255,SB.254,,ORG,Cloudflare,,,,,,P.O. Box 2557,,Omaha,NE,68103,,,2024-09-04,106.00,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.260,SB.254,,ORG,FedEx,,,,,,942 South Shady Grove Road,,Memphis,TN,38120,,,2024-09-04,156.43,,Shipping,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.256,SB.254,,ORG,GoDaddy.com,,,,,,101 Townsend St,,San Francisco,CA,94107,,,2024-09-04,126.83,,Domain name services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.257,SB.254,,ORG,Microsoft,,,,,,14455 North Hayden Road,Suite 219,Scottsdale,AZ,85260,,,2024-09-04,510.39,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.258,SB.254,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-04,99.00,,Merchant services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.259,SB.254,,ORG,WP Engine,,,,,,504 Lavaca Street,Suite 1000,Austin,TX,78701,,,2024-09-04,850.00,,Computer services,001,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.124,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-09-04,17.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.123,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-04,45.70,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.264,,,ORG,American Action Network*,,,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-09-05,79705.36,,"Cost Share payment - labor, rent, overhead",001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.261,,,ORG,Capitol Computer Exchange,,,,,,4487 Forbes Boulevard,,Lanham,MD,20706,,,2024-09-05,91.58,,Computer services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.127,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-05,1.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.279,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-09-05,43000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.310,,,ORG,"Meeting Street Research, LLC",,,,,,962 Houston Northcutt Blvd.,Suite 201,Mount Pleasant,SC,29464,,,2024-09-05,41000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.281,,,ORG,"North Star Opinion Research, Inc.",,,,,,112 North Alfred Street,,Alexandria,VA,22314,,,2024-09-05,42000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.311,,,ORG,Ragnar Research Partners,,,,,,"103 E Street, SE",,Washington,DC,20003,,,2024-09-05,38000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.222,,,ORG,Red Oak Strategic LLC,,,,,,312 Calvert Ave.,,Alexandria,VA,22301,,,2024-09-05,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.223,,,ORG,Red Oak Strategic LLC,,,,,,312 Calvert Ave.,,Alexandria,VA,22301,,,2024-09-05,50000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.280,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-09-05,30000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.282,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-09-05,30000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.126,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-05,112.08,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.128,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-05,414.58,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.224,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-09-05,86000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.309,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-09-05,73200.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.262,,,ORG,Capitol Computer Exchange,,,,,,4487 Forbes Boulevard,,Lanham,MD,20706,,,2024-09-06,2755.00,,Conference call services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.131,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-06,1.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.129,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-06,7.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.132,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-09-06,10.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.130,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-06,232.52,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.134,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-09,7.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.283,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-09-09,43600.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.133,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-09,72.93,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.135,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-10,9.19,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.400,,,IND,,Allen,Meredith,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-09-11,409.58,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.401,,,IND,,Choudhry,Jennifer,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-09-11,215.01,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.402,,,IND,,Conston,Daniel,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-09-11,2095.32,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.403,SB.402,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,,,2024-09-11,304.51,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.404,SB.402,,ORG,Carey International,,,,,,7445 New Technology Way,,Frederick,MD,21703,,,2024-09-11,909.20,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.405,SB.402,,ORG,Gibson's Restaurant Group,,,,,,750 N Orleans St,,Chicago,IL,60654,,,2024-09-11,527.70,,Food and beverage,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.407,SB.402,,ORG,Marriott,,,,,,7750 Wisconsin Ave.,,Bethesda,MD,20814,,,2024-09-11,277.60,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.406,SB.402,,ORG,Uber,,,,,,1515 Third Street,,San Francisco,CA,94158,,,2024-09-11,58.15,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.399,,,IND,,Re,Domenic,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-09-11,228.59,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.392,,,IND,,Riggs,Ezra,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-09-11,7042.54,,Travel reimbursement - see memo entries,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.393,SB.392,,ORG,Alaskan Air,,,,,,19300 International Blvd,,Seatac,WA,98188,,,2024-09-11,414.09,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.394,SB.392,,ORG,Choice Hotels,,,,,,915 Meeting St North,,Bethesda,MD,20852,,,2024-09-11,2822.21,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.395,SB.392,,ORG,Club Paris,,,,,,417 W 5th Ave,,Anchorage,AK,99501,,,2024-09-11,271.78,,Food and beverage,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.396,SB.392,,ORG,Denver Air,,,,,,13252 E. Control Tower Rd.,,Englewood,CO,80112,,,2024-09-11,213.70,,Air travel services,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.397,SB.392,,ORG,Hertz Rental Car,,,,,,8501 Williams Rd,,Estero,FL,33928,,,2024-09-11,1470.64,,Ground transportation,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.398,SB.392,,ORG,Hotels.com,,,,,,5400 LBJ Freeway,Ste 500,Dallas,TX,75240,,,2024-09-11,927.00,,Lodging,002,,,,,,,,,,,,  ,,,,,,X,Non-contribution account
+SB29,C00504530,SB.312,,,ORG,"American Viewpoint, Inc.",,,,,,1199 North Lee Street,Suite 808,Alexandria,VA,22314,,,2024-09-11,90800.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.189,,,ORG,Compel LLC,,,,,,704 Kingston Pl,,Alexandria,VA,22302,,,2024-09-11,25000.00,,Strategy consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.136,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-11,1.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.139,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-11,35.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.209,,,ORG,"Crosby Ottenhoff Group, LLC",,,,,,611 Pennsylvania Ave SE,#267,Washington,DC,20003,,,2024-09-11,9509.09,,Accounting and compliance services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.284,,,ORG,"Guidant Polling and Strategy, LLC",,,,,,PO Box 1505,,Boise,ID,83701,,,2024-09-11,80000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.138,,,ORG,Red Fog Media LLC,,,,,,1209 Orange Street,,Wilmington,DE,19801,,,2024-09-11,50.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.411,,,ORG,"Strategic Advance Services, LLC",,,,,,611 Pennsylvania Ave. SE,Suite 267,Washington,DC,20003,,,2024-09-11,101310.19,,Travel and event planning services,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.137,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-11,16.82,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.336,,,ORG,America Rising LLC,,,,,,1500 Wilson Blvd.,5th Floor,Arlington,VA,22209,,,2024-09-12,61250.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.412,,,ORG,"Strategic Advance Services, LLC",,,,,,611 Pennsylvania Ave. SE,Suite 267,Washington,DC,20003,,,2024-09-12,42335.22,,Travel and event planning services,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.140,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-12,47.69,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.141,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-12,121.46,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.143,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-13,0.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.142,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-13,117.70,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.285,,,ORG,"1892, LLC",,,,,,PO Box 1832,,Gallatin,TN,37066,,,2024-09-16,30000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.196,,,ORG,CMDI,,,,,,1593 Spring Hill Road,Suite 400,Tysons Corner,VA,22182,,,2024-09-16,1259.90,,Donor database services,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.146,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-16,9.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.313,,,ORG,"Dittman Research (DRC, LLC)",,,,,,PO Box 110073,,Anchorage,AK,99511,,,2024-09-16,50100.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.205,,,ORG,Jones Day,,,,,,51 Louisiana Ave. NW,,Washington,DC,20001,,,2024-09-16,10556.25,,Legal services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.314,,,ORG,Public Opinion Strategies LLC,,,,,,214 N. Fayette Street,,Alexandria,VA,22314,,,2024-09-16,37000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.145,,,ORG,Right Country Lists,,,,,,117 North Saint Asaph Street,,Alexandria,VA,22314,,,2024-09-16,8.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.232,,,ORG,"Something Else Strategies, LLC",,,,,,212 Golden Willow Ct.,,Easley,SC,29642,,,2024-09-16,20000.00,,Media production - non IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.144,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-16,30.83,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.225,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-09-16,30000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.226,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-09-16,30000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.147,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-17,4.75,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.286,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-09-17,22000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.315,,,ORG,Ragnar Research Partners,,,,,,"103 E Street, SE",,Washington,DC,20003,,,2024-09-17,26000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.148,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-17,36.08,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.227,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-09-17,30000.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.197,,,ORG,CMDI,,,,,,1593 Spring Hill Road,Suite 400,Tysons Corner,VA,22182,,,2024-09-18,817.95,,Donor database services,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.150,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-18,0.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.149,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-18,213.44,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.153,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-19,1.66,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.181,,,ORG,Finance Strategies Group LLC,,,,,,2024 3rd Ave. N,Suite 211,Birmingham,AL,35203,,,2024-09-19,269374.83,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.263,,,ORG,"FLS Connect, LLC",,,,,,7300 Hudson Blvd,Suite 270,St Paul,MN,55128,,,2024-09-19,59.87,,Conference call services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.413,,,ORG,"Strategic Advance Services, LLC",,,,,,611 Pennsylvania Ave. SE,Suite 267,Washington,DC,20003,,,2024-09-19,36319.67,,Travel and event planning services,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.151,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-19,199.01,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.152,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-19,6.30,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.154,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-20,2.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.155,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-20,10.98,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.417,,,ORG,"dmm Media, Inc.",,,,,,1911 N. Fort Myer Drive,Suite 400,Arlington,VA,22209,,,2024-09-21,13000.00,,Pre-payment for future media production IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.408,,,IND,,Smyth,Holden,,,,1747 Pennsylvania Ave. NW,5th Floor,Washington,DC,20006,,,2024-09-23,40.88,,Travel reimbursement,002,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.337,,,ORG,Capital Research Group,,,,,,PO Box 7530,,Arlington,VA,22207,,,2024-09-23,15000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.156,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-23,4.05,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.158,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-09-23,32.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.159,,,ORG,"O2M Digital, LLC",,,,,,539 W. Commerce St.Unit 4240,,Dallas,TX,75208,,,2024-09-23,22.50,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.338,,,ORG,Paragon Strategies LLC,,,,,,1465 Woodbury Ave,PMB 234,Portsmouth,NH,03801,,,2024-09-23,15000.00,,Research,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.199,,,ORG,Snow Photography,,,,,,347 Florence Ave,,Oakland,CA,94618,,,2024-09-23,1590.00,,Photography services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.287,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-09-23,23711.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.157,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-23,38.71,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.190,,,ORG,Compel LLC,,,,,,704 Kingston Pl,,Alexandria,VA,22302,,,2024-09-24,25000.00,,Strategy consulting,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.161,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-24,5.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.290,,,ORG,Cygnal LLC,,,,,,1600 K St. NW,Suite 350,Washington,DC,20006,,,2024-09-24,27200.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.416,,,ORG,"dmm Media, Inc.",,,,,,1911 N. Fort Myer Drive,Suite 400,Arlington,VA,22209,,,2024-09-24,13000.00,,Pre-payment for future media production IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.162,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-09-24,80.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.323,,,ORG,NMB Research LLC,,,,,,206 N. Fayette St.,,Alexandria,VA,22314,,,2024-09-24,35000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.316,,,ORG,"North Star Opinion Research, Inc.",,,,,,112 North Alfred Street,,Alexandria,VA,22314,,,2024-09-24,60400.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.322,,,ORG,Public Opinion Strategies LLC,,,,,,214 N. Fayette Street,,Alexandria,VA,22314,,,2024-09-24,25000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.429,,,ORG,Starboard Advertising LLC,,,,,,16192 Coastal Highway,,Lewes,DE,19958,,,2024-09-24,41118.00,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.288,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-09-24,52050.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.160,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-24,11.23,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.289,,,ORG,WPA Intelligence,,,,,,1319 Classen Drive,,Oklahoma City,OK,73103,,,2024-09-24,19000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.317,,,ORG,"American Viewpoint, Inc.",,,,,,1199 North Lee Street,Suite 808,Alexandria,VA,22314,,,2024-09-25,23900.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.319,,,ORG,"American Viewpoint, Inc.",,,,,,1199 North Lee Street,Suite 808,Alexandria,VA,22314,,,2024-09-25,52400.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.320,,,ORG,"Axis Research, Inc.",,,,,,107 S. West Street,PMB 148,Alexandria,VA,22314,,,2024-09-25,70800.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.422,,,ORG,"Big Dog Strategies, LLC",,,,,,23150 Fashion Dr.,Suite 231,Estero,FL,33928,,,2024-09-25,67873.70,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.163,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-25,3.45,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.229,,,ORG,Deep Root Analytics LLC,,,,,,1600 Wilson Blvd.,Suite 300,Arlington,VA,22209,,,2024-09-25,127500.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.206,,,ORG,Dickinson Wright PLLC,,,,,,1825 Eye Street NW,Suite 900,Washington,DC,20006,,,2024-09-25,35000.00,,Legal services,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.165,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-09-25,16.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.228,,,ORG,Grassroots Targeting,,,,,,106 S. Columbus Street,,Alexandria,VA,22314,,,2024-09-25,72500.00,,Modeling,001,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.415,,,ORG,Jamestown Associates,,,,,,154 Route 79 North,,Marlboro,NJ,07746,,,2024-09-25,13000.00,,Pre-payment for future media production IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.418,,,ORG,"KAP Print, LLC",,,,,,220 Quinn Drive,,Dripping Springs,TX,78620,,,2024-09-25,27429.27,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.419,,,ORG,"KAP Print, LLC",,,,,,220 Quinn Drive,,Dripping Springs,TX,78620,,,2024-09-25,32005.74,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.420,,,ORG,"KAP Print, LLC",,,,,,220 Quinn Drive,,Dripping Springs,TX,78620,,,2024-09-25,31640.32,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.291,,,ORG,"McLaughlin & Associates, Inc.",,,,,,566 S. Route 303,,Blauvelt,NY,10913,,,2024-09-25,49000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.293,,,ORG,"McLaughlin & Associates, Inc.",,,,,,566 S. Route 303,,Blauvelt,NY,10913,,,2024-09-25,37000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.318,,,ORG,Public Opinion Strategies LLC,,,,,,214 N. Fayette Street,,Alexandria,VA,22314,,,2024-09-25,36000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.324,,,ORG,Public Opinion Strategies LLC,,,,,,214 N. Fayette Street,,Alexandria,VA,22314,,,2024-09-25,38000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.424,,,ORG,Starboard Advertising LLC,,,,,,16192 Coastal Highway,,Lewes,DE,19958,,,2024-09-25,42940.00,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.426,,,ORG,Starboard Advertising LLC,,,,,,16192 Coastal Highway,,Lewes,DE,19958,,,2024-09-25,36616.00,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.427,,,ORG,Starboard Advertising LLC,,,,,,16192 Coastal Highway,,Lewes,DE,19958,,,2024-09-25,42940.00,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.428,,,ORG,Starboard Advertising LLC,,,,,,16192 Coastal Highway,,Lewes,DE,19958,,,2024-09-25,36616.00,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.421,,,ORG,Swing Strategies,,,,,,925 University Ave,,Sacramento,CA,95825,,,2024-09-25,45636.10,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.423,,,ORG,Swing Strategies,,,,,,925 University Ave,,Sacramento,CA,95825,,,2024-09-25,36506.51,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.425,,,ORG,Swing Strategies,,,,,,925 University Ave,,Sacramento,CA,95825,,,2024-09-25,36506.51,,Pre-payment for future direct mail IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.292,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-09-25,70806.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.294,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-09-25,25500.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.166,,,ORG,"TMA Direct, Inc.",,,,,,1900 Reston Metro Plaza,Suite 600,Reston,VA,20190,,,2024-09-25,22.56,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.164,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-25,29.81,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.169,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-26,1.57,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.170,,,ORG,"TMA Direct, Inc.",,,,,,1900 Reston Metro Plaza,Suite 600,Reston,VA,20190,,,2024-09-26,22.56,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.167,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-26,970.36,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.168,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-26,18.90,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.295,,,ORG,Basswood Research,,,,,,4550 Montgomery Ave,Suite 906,Bethesda,MD,20814,,,2024-09-27,30590.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.297,,,ORG,Basswood Research,,,,,,4550 Montgomery Ave,Suite 906,Bethesda,MD,20814,,,2024-09-27,59430.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.172,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-27,1.12,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.233,,,ORG,"Honold Communications, Inc.",,,,,,32 West Lake Street,,Skaneateles,NY,13152,,,2024-09-27,4500.00,,Media production - non IE,004,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.171,,,ORG,"O2M Digital, LLC",,,,,,539 W. Commerce St.,Unit 4240,Dallas,TX,75208,,,2024-09-27,90.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.296,,,ORG,The Tarrance Group,,,,,,201 N. Union St,Suite 410,Alexandria,VA,22314,,,2024-09-27,22000.00,,Polling,005,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.173,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-27,3418.84,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.177,,,ORG,Convergence Media LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-30,14.87,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.178,,,ORG,Convert Digital LLC,,,,,,130 N Fayette Street,,Alexandria,VA,22314,,,2024-09-30,12.25,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.175,,,ORG,DonorBureau,,,,,,1900 N Culpepper St,,Arlington,VA,22207,,,2024-09-30,32.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.174,,,ORG,P2P Messaging,,,,,,1390 Chain Bridge Road,Suite 54,McLean,VA,22101,,,2024-09-30,40.00,,Fundraising consulting,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.176,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-30,1056.30,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account
+SB29,C00504530,SB.455,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Blvd.,Suite 530,Arlington,VA,22209,,,2024-09-30,576.59,,Merchant fee,003,,,,,,,,,,,,  ,,,,,,,Non-contribution account

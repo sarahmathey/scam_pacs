@@ -1,0 +1,35 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00574970,500257230,,,ORG,4C Partners LLC,,,,,,PO Box 25755,,Alexandria,VA,223135755,,,2023-11-03,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255155,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-22,330.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255362,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-29,1385.36,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255620,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-31,924.45,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255750,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-05,133.17,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255953,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-12,70.68,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500256569,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-19,47.62,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257055,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-27,400.92,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255589,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2023-10-27,108.75,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257259,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-11-08,1427.59,0.00,Credit Card Payment - Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257234,500257259,SB21B,ORG,American Airlines,,,,,,2500 Victory Ave,,Dallas,TX,752197601,,,2023-11-08,517.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257231,500257259,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-11-08,-61.84,0.00,Cashback Rewards,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257237,500257259,SB21B,ORG,Coperta,,,,,,400 E 20th Ave,,Denver,CO,802053201,,,2023-11-08,298.89,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257236,500257259,SB21B,ORG,duo Restaurant,,,,,,2413 W 32nd Ave,,Denver,CO,802113321,,,2023-11-08,542.39,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257342,500257259,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-08,45.79,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257275,500257259,SB21B,ORG,Ode a la Rose,,,,,,2143 44th Rd,,Long Island City,NY,111015010,,,2023-11-08,288.80,0.00,Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257261,500257259,SB21B,ORG,Sanphan Thai Cuisine,,,,,,653 Pennsylvania Ave SE,,Washington,DC,200034303,,,2023-11-08,269.10,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257232,500257259,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2023-11-08,-492.98,0.00,Travel Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257233,500257259,SB21B,ORG,United Airlines,,,,,,PO Box 6649,,Chicago,IL,606060649,,,2023-11-08,-442.90,0.00,Travel Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257348,,,ORG,"Authentic Campaigns, Inc.",,,,,,1120 N 27th St,,Richmond,VA,232235302,,,2023-11-03,5000.00,0.00,Digital Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257352,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-11-07,1022.13,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255156,,,ORG,Connors Family Office,,,,,,79 Newbury St,,Boston,MA,021163077,,,2023-10-23,-333.53,0.00,Voided check from 5/9/23 - wrong vendor paid,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255591,,,IND,,Connors,John,M.,,Jr,79 Newbury St,,Boston,MA,021163077,,,2023-10-23,333.53,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257373,,,IND,,Di Pesa,Margaret,,,,155 Coolidge St,Apt 3,Brookline,MA,024466042,,,2023-11-08,161.40,0.00,"Reimbursement - Mileage, Parking",,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257353,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-11-21,895.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257356,,,IND,,Hoffman,Julia,,,,454 Ward St,,Newton,MA,024591258,,,2023-11-09,46.35,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257355,500257356,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2023-11-09,46.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00574970,500257354,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-11-03,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500255592,,,CCM,Katherine Clark for Congress,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-10-31,3596.82,0.00,Reimbursement for shared employee services,,C00541888,,,CLARK,KATHERINE,,,,H,MA,05,,,,,,,,
+SB21B,C00574970,500255593,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-10-26,6446.71,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257374,,,ORG,NGP VAN,,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-11-08,6215.63,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257376,,,ORG,The Blackwell Group LLC,,,,,,2125 14th St NW,Apt 503,Washington,DC,200098001,,,2023-11-08,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257351,,,IND,,Weiss,Bettina,,,,2120 Vermont Ave NW,Apt 211,Washington,DC,200014054,,,2023-11-09,104.06,0.00,Reimbursement - Telecommunications,,,,,,,,,,,,,,,,,,,,
+SB21B,C00574970,500257349,500257351,SB21B,ORG,Xfinity,,,,,,1701 John F Kennedy Blvd,,Philadelphia,PA,191032833,,,2023-11-09,55.84,0.00,Telecommunications,,,,,,,,,,,,,,,,,,,X,*

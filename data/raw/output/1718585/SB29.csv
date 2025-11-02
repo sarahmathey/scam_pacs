@@ -1,0 +1,88 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00753558,4220,,,IND,,Brown,Haley,,,,1364 Emerald St NE,,Washington,DC,200025432,,,2023-01-11,2037.80,0.00,Non-Contribution Account: Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4360,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5101,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2023-03-24,66.25,0.00,Non-Contribution Account: Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5111,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-14,150.00,0.00,Non-Contribution Account: Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5110,5111,SB29,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-14,75.00,0.00,Non-Contribution Account: Credit Card Fee,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5109,5111,SB29,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-14,75.00,0.00,Non-Contribution Account: Credit Card Fee,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5211,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2023-04-28,3000.00,0.00,Non-Contribution Account: Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4221,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-01-11,9430.68,0.00,Non-Contribution Account: Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5451,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-06-27,64.00,0.00,Non-Contribution Account: Legal Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4361,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4912,,,IND,,Pike,Marne,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-02-24,627.02,0.00,Non-Contribution Account: Travel Reimbursement - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4906,4912,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2023-02-24,170.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5032,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-03-15,1829.70,0.00,Non-Contribution Account: Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5033,5032,SB29,ORG,Doubletree - Park City,,,,,,1800 Park City Ave,,Park City,UT,84060,,,2023-03-15,1611.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5034,5032,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-03-15,124.75,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5035,5032,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-03-15,23.95,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5036,5032,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2023-03-15,70.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5452,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2023-06-26,3000.00,0.00,Non-Contribution Account: Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4362,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5082,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-03-27,1344.50,0.00,Non-Contribution Account: Legal Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4903,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-02-24,892.00,0.00,Non-Contribution Account: Legal Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4243,,,IND,,Brown,Haley,,,,1364 Emerald St NE,,Washington,DC,200025432,,,2023-01-24,2043.02,0.00,Non-Contribution Account: Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5453,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2023-06-26,41.00,0.00,Non-Contribution Account: Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4363,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4204,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-01-12,8174.20,0.00,Non-Contribution Account: Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4201,4204,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2023-01-12,66.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4203,4204,SB29,ORG,Bronze DC,,,,,,1245 H St NE,,Washington,DC,200024444,,,2023-01-12,6500.00,0.00,Non-Contribution Account: Event Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4196,4204,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2022-01-12,700.60,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4197,4204,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2022-01-12,700.60,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4904,,,ORG,Sidley Austin LLP,,,,,,1 S Dearborn St,,Chicago,IL,606032302,,,2023-02-24,9490.00,0.00,Non-Contribution Account: Legal Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5054,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-03-16,10000.00,0.00,Non-Contribution Account: Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4364,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5274,,,ORG,U.S. Department of the Treasury,,,,,,PO Box 1328,,Parkersburg,WV,261061328,,,2023-05-17,25.00,0.00,Non-ContributionAccount: Disgorged Funds-Void of StaleDatedArnold Walter Nursing Home 9/23/22 Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5084,,,IND,,Brown,Haley,,,,1364 Emerald St NE,,Washington,DC,200025432,,,2023-03-27,2045.91,0.00,Non-Contribution Account: Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4905,,,IND,,Brown,Haley,,,,1364 Emerald St NE,,Washington,DC,200025432,,,2023-02-24,2043.80,0.00,Non-Contribution Account: Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5405,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-06-16,10000.00,0.00,Non-Contribution Account: Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4315,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-02-13,181.85,0.00,Non-Contribution Account: Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4310,4315,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-02-13,45.25,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4311,4315,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-02-13,15.00,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4312,4315,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-02-13,82.68,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4313,4315,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-02-13,20.93,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4314,4315,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-02-13,17.99,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4225,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-01-13,9430.68,0.00,Non-Contribution Account: Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5225,,,IND,,Brown,Haley,,,,1364 Emerald St NE,,Washington,DC,200025432,,,2023-05-09,43.80,0.00,Non-Contribution Account: Software Subscription Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4235,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-01-20,85000.00,0.00,Non-Contribution Account: Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4355,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4255,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2023-01-27,5123.24,0.00,Non-Contribution Account: Compliance and Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4365,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4965,,,IND,,Karpen,Mike,,,,1561 Osceola St,,Denver,CO,802041457,,,2023-02-26,300.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4985,,,COM,Democratic Party of Virginia,,,,,,919 E Main St,Ste 2050,Richmond,VA,232190025,,,2023-03-03,50000.00,0.00,Non-Contribution Account: Non-Federal Contribution,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5185,,,IND,,Brown,Haley,,,,1364 Emerald St NE,,Washington,DC,200025432,,,2023-04-26,2045.91,0.00,Non-Contribution Account: Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4316,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-02-13,10000.00,0.00,Non-Contribution Account: Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4236,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-01-20,25774.47,0.00,Non-Contribution Account: Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4250,4236,SB29,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2023-01-20,3706.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4251,4236,SB29,ORG,Old Ebbitt Grill,,,,,,675 15th St NW,,Washington,DC,200055702,,,2023-01-20,207.97,0.00,Dining,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4244,4236,SB29,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-01-20,453.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,4245,4236,SB29,ORG,The Ritz-Carlton - New Orleans,,,,,,921 Canal St,,New Orleans,LA,701122503,,,2023-01-20,20670.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5336,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2023-05-25,3000.00,0.00,Non-Contribution Account: Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4946,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2023-02-23,87.20,0.00,Non-Contribution Account: Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4256,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-01-31,1130.00,0.00,Non-Contribution Account: Legal Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4356,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5056,,,PAC,DLGA PAC,,,,,,1090 Vermont Ave NW,Ste 750,Washington,DC,200054970,,,2023-03-17,50000.00,0.00,Non-Contribution Account: Federal Contribution,,C00685719,DLGA PAC,,,,,,,,,,,,,,,,,
+SB29,C00753558,4366,,,IND,,Pinchot,Wes,,,,747 W Whitegate Ct,,Mount Prospect,IL,600563060,,,2023-02-13,5.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4286,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2023-01-26,125.75,0.00,Non-Contribution Account: Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5186,,,ORG,Foster Garvey PC,,,,,,1111 3rd Ave,Ste 3000,Seattle,WA,981013296,,,2023-04-26,914.20,0.00,Non-Contribution Account: Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4357,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5267,,,ORG,Foster Garvey PC,,,,,,1111 3rd Ave,Ste 3000,Seattle,WA,981013296,,,2023-05-16,783.60,0.00,Non-Contribution Account: Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5077,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2023-03-24,3024.33,0.00,Non-Contribution Account: Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5197,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2023-04-26,140.75,0.00,Non-Contribution Account: Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5328,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-05-25,10000.00,0.00,Non-Contribution Account: Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4358,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4268,,,IND,,Ardagna,Nicholas,,,,16424 S Wilson Ln,,Plainfield,IL,605867306,,,2023-01-31,1500.00,0.00,Non-Contribution Account: Settlement Agreement,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5168,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-14,23826.18,0.00,Non-Contribution Account: Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5160,5168,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2023-04-14,1435.79,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5161,5168,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2023-04-14,1435.79,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5162,5168,SB29,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2023-04-14,1435.79,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5166,5168,SB29,ORG,Eau Palm Beach Resort & Spa,,,,,,100 S Ocean Blvd,,Lantana,FL,334623368,,,2023-04-14,3638.06,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5167,5168,SB29,ORG,Eau Palm Beach Resort & Spa,,,,,,100 S Ocean Blvd,,Lantana,FL,334623368,,,2023-04-14,15489.26,0.00,Non-Contribution Account: Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5329,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-05-30,2176.00,0.00,Non-Contribution Account: Legal Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4939,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2023-02-24,3073.98,0.00,Non-Contribution Account: Compliance and Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5339,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2023-05-26,100.75,0.00,Non-Contribution Account: Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4359,,,IND,,Moeller,Per,,,,Hennevej 50,,Outrup 6685 Denmark,ZZ,00000,,,2023-02-13,1.00,0.00,Non-Contribution Account: Contribution Refund,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,4269,,,IND,,Rojas,Jorge,Alejandro,,,557 Cambridge Way,,Bolingbrook,IL,604401047,,,2023-01-31,4500.00,0.00,Non-Contribution Account: Settlement Agreement,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5169,,,ORG,Penn Avenue Consulting,,,,,,161 Quaker Ln N,,West Hartford,CT,061191148,,,2023-04-14,10000.00,0.00,Non-Contribution Account: Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5279,,,ORG,U.S. Department of the Treasury,,,,,,PO Box 1328,,Parkersburg,WV,261061328,,,2023-05-31,1500.00,0.00,Disgorged Funds - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB29,C00753558,5277,5279,SB29,IND,,Browne,Carol,,,,53 Stuart St,,Watertown,MA,024721629,,,2023-05-16,500.00,0.00,Disgorgement of Voided Stale-Dated Refund,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00753558,5278,5279,SB29,IND,,Hyman,Carl,,,,19 Suydam Dr,,Melville,NY,117471041,,,2023-05-16,1000.00,0.00,Disgorgement of Voided Stale-Dated Refund,,,,,,,,,,,,,,,,,,,X,*

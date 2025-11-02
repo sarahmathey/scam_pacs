@@ -1,0 +1,59 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00652164,500693000,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-09-05,7363.65,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500693002,500693000,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-05,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500693012,500693000,SB21B,ORG,The Capital Grille,,,,,,601 Pennsylvania Ave NW,,Washington,DC,200042601,,,2024-09-05,217.80,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500693006,500693000,SB21B,ORG,Bethesda Bagels,,,,,,120 M St SE,,Washington,DC,200033515,,,2024-09-05,124.62,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500693007,500693000,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-09-05,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500693008,500693000,SB21B,ORG,Ocean Casino Resort,,,,,,500 Boardwalk,,Atlantic City,NJ,084017609,,,2024-09-05,5000.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500693009,500693000,SB21B,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2024-09-05,327.60,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500703330,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-30,39.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500696011,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-09,63.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500701591,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-09-23,4321.27,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500701610,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,9.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701620,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,12.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701640,500701591,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,85.21,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701611,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,12.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701621,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,16.06,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701631,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,13.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701641,500701591,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-23,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701612,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,12.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701622,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,8.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701632,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,46.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701642,500701591,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-23,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701613,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,8.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701623,500701591,SB21B,ORG,MacMurphy's,,,,,,8 Godwin Ave,,Ridgewood,NJ,074503706,,,2024-09-23,294.24,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701633,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,10.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701643,500701591,SB21B,ORG,The Westin Michigan Avenue Chicago,,,,,,909 N Michigan Ave,,Chicago,IL,606111935,,,2024-09-23,819.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701604,500701591,SB21B,ORG,Asurion,,,,,,648 Grassmere Park,Ste 300,Nashville,TN,372113667,,,2024-09-23,99.00,0.00,Travel Insurance,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701614,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,9.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701634,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,25.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701615,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,11.13,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701635,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,9.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701616,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,14.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701636,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,10.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701607,500701591,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-09-23,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701617,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,8.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701627,500701591,SB21B,ORG,Anjelica's Restaurant,,,,,,1070 Ocean Ave,,Sea Bright,NJ,077604102,,,2024-09-23,404.38,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701637,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,10.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701618,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,8.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701628,500701591,SB21B,ORG,The Butcher's Block,,,,,,235 West Ave,,Long Branch,NJ,077406125,,,2024-09-23,302.14,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701638,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,39.61,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701609,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,8.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701619,500701591,SB21B,ORG,"Lyft, Inc.",,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-09-23,11.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500701639,500701591,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-09-23,47.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500693522,,,IND,,Krouse,Cheryl,A.,,,160 Munsonhurst Rd,,Franklin,NJ,074161808,,,2024-09-05,3000.00,0.00,Field Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500693523,,,ORG,MS Public Affairs LLC,,,,,,38 Rea Avenue Ext,,Hawthorne,NJ,075063334,,,2024-09-09,7500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500696893,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-09-13,7711.27,0.00,Payroll - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500696910,500696893,SB21B,IND,,Touchton,Margaret,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-13,2112.46,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500696911,500696893,SB21B,IND,,Mildner,Hannah,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-13,863.35,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500696912,500696893,SB21B,IND,,Hanke,Rebecca,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-13,797.35,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500696913,500696893,SB21B,IND,,Torres,Avery,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-13,863.35,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500696907,500696893,SB21B,IND,,Ades,Sylvia,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-13,663.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500696908,500696893,SB21B,IND,,Kurt,Bond,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-13,1254.36,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500696909,500696893,SB21B,IND,,Pardee,Daniel,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-13,1157.07,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500696904,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-09-13,2271.73,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500693524,,,ORG,The Frost Group,,,,,,660 Pennsylvania Ave SE,Ste 202,Washington,DC,200034357,,,2024-09-09,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500696906,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-09-13,92.25,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500693526,,,IND,,Szott,Ryne,C.,,,7 Medford Pl,,Wayne,NJ,074705313,,,2024-09-09,500.00,0.00,Driving Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500700436,,,CCM,Josh Gottheimer for Congress,,,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-09-26,680.00,0.00,Rent,,C00573949,,,Gottheimer,Josh,,,,H,NJ,05,,,,,,,,
+SB21B,C00652164,500690198,,,ORG,Five Dimes Brewery,,,,,,247 Westwood Ave,,Westwood,NJ,076751715,,,2024-09-05,525.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,

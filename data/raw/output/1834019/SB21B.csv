@@ -1,0 +1,36 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00682211,500082076,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-09-05,468.26,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082077,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-09-11,200.32,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082078,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-09-18,1249.09,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082079,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-09-25,1426.81,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082048,,,ORG,Bank of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,,2024-09-09,30.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082049,,,ORG,Bank of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,,2024-09-10,1.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082054,,,ORG,Bank of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,,2024-09-16,22944.42,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082254,500082054,SB21B,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2024-09-16,1320.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082259,500082054,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-09-16,2300.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082258,500082054,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-09-16,197.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082253,500082054,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-09-16,2544.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082261,500082054,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-09-16,1220.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082511,500082054,SB21B,ORG,Hertz,,,,,,8501 Williams Rd,,Estero,FL,339283325,,,2024-09-16,1489.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082510,500082054,SB21B,ORG,Hilton Hotels,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-09-16,538.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082554,500082054,SB21B,ORG,JetBlue Airlines,,,,,,2701 Queens Plz N,Fl 6,Long Island City,NY,111014024,,,2024-09-16,1212.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082508,500082054,SB21B,ORG,Kegal's Inn,,,,,,5901 W National Ave,,West Allis,WI,532143449,,,2024-09-16,869.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082260,500082054,SB21B,ORG,Marriott International,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-09-16,6648.68,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082255,500082054,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-09-16,368.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082509,500082054,SB21B,ORG,Target,,,,,,1000 Nicollet Mall,,Minneapolis,MN,554032542,,,2024-09-16,30.83,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082050,,,ORG,Bank of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,,2024-09-25,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082053,,,ORG,Bank of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,,2024-09-30,23558.14,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082210,500082053,SB21B,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2024-09-30,4969.41,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082209,500082053,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-09-30,5363.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082217,500082053,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-09-30,249.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082211,500082053,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-09-30,6095.41,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082206,500082053,SB21B,ORG,LinkedIn,,,,,,1000 W Maude Ave,,Sunnyvale,CA,940852810,,,2024-09-30,66.20,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082219,500082053,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-09-30,1073.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082231,500082053,SB21B,ORG,Springhill Suites,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-09-30,979.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082212,500082053,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-30,1204.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00682211,500082058,,,ORG,Common Power,,,,,,6811 46th Ave NE,,Seattle,WA,981157631,,,2024-09-09,8149.18,0.00,Staff Time & Overhead,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082060,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-09-09,2453.10,0.00,Legal Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082061,,,ORG,Microsoft,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2024-09-03,41.39,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082063,,,ORG,PEX,,,,,,462 Fashion Ave,Fl 21,New York,NY,100187422,,,2024-09-06,250.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082064,,,ORG,Softerware Inc.,,,,,,601 Office Center Dr,Ste 200,Fort Washington,PA,190343209,,,2024-09-11,288.13,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00682211,500082065,,,ORG,Verizon Wireless,,,,,,1095 Avenue Of The Americas,,New York,NY,100366797,,,2024-09-12,104.90,0.00,Telephone,,,,,,,,,,,,,,,,,,,,

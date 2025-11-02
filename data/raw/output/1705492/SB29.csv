@@ -1,0 +1,402 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00492140,501045026,,,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-04-03,3964.46,0.00,Credit Card Processing Fees,,C00401224,ActBlue,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501045027,,,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-04-10,121.32,0.00,Credit Card Processing Fees,,C00401224,ActBlue,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501045028,,,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-04-17,85.20,0.00,Credit Card Processing Fees,,C00401224,ActBlue,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501045029,,,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-04-24,86.43,0.00,Credit Card Processing Fees,,C00401224,ActBlue,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501045030,,,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-04-30,101.71,0.00,Credit Card Processing Fees,,C00401224,ActBlue,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044603,,,ORG,"ADP, Inc.",,,,,,504 Clinton Center Dr,Ste 4400,Clinton,MS,390565610,,,2023-04-14,4067.81,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501043569,,,ORG,"ADP, Inc.",,,,,,504 Clinton Center Dr,Ste 4400,Clinton,MS,390565610,,,2023-04-15,235281.99,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501043573,501043569,SB29,IND,,Abbas,Daniel,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3521.13,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043574,501043569,SB29,IND,,Abel,Sarah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3041.25,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043568,501043569,SB29,ORG,"ADP, Inc.",,,,,,504 Clinton Center Dr,Ste 4400,Clinton,MS,390565610,,,2023-04-14,74423.04,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501043575,501043569,SB29,IND,,Alderman Boudreau,Julie,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3559.12,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043576,501043569,SB29,IND,,Allman,Jared,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1753.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043577,501043569,SB29,IND,,Ambush,Olivier,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1752.92,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043578,501043569,SB29,IND,,Arndt,Megan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1579.60,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043579,501043569,SB29,IND,,Aviles,Eduardo,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1774.42,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043580,501043569,SB29,IND,,Bell,Hayley,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1809.79,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043581,501043569,SB29,IND,,Beychok,Bradley,D.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,7411.82,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043582,501043569,SB29,IND,,Booth,Peter,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1688.76,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043583,501043569,SB29,IND,,Boyle,Trisha,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3074.42,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043584,501043569,SB29,IND,,Bress,Matilda,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2791.37,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043585,501043569,SB29,IND,,Brown,Katlyn,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2207.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043586,501043569,SB29,IND,,Carlson,Aaron,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2380.86,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043587,501043569,SB29,IND,,Charboneau,Elizabeth,C.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,4437.41,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043588,501043569,SB29,IND,,De Luca,Alexander,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,4402.05,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043589,501043569,SB29,IND,,Demchuk,Kaitlin,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3202.23,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043590,501043569,SB29,IND,,Dennis,Patrick,J.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,5901.67,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043591,501043569,SB29,IND,,Dodd,Kelly,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,3484.89,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043592,501043569,SB29,IND,,Dzieciolowski,Matthew,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3368.62,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043593,501043569,SB29,IND,,Eickel,Grace,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,650.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043594,501043569,SB29,IND,,Feldmann,Paige,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1845.64,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043595,501043569,SB29,IND,,Finken,Bryan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1918.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043596,501043569,SB29,IND,,Flower,Hayley,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,2462.81,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043597,501043569,SB29,IND,,Foley,Brennan,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,2243.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043598,501043569,SB29,IND,,Garnatz,Kelsey,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2508.79,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043599,501043569,SB29,IND,,Graver,Sarah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1717.14,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043600,501043569,SB29,IND,,Greco,Vincent,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1827.60,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043601,501043569,SB29,IND,,Groskind,Samuel,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1891.36,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043602,501043569,SB29,IND,,Haas,Sara,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,2282.74,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043603,501043569,SB29,IND,,Hagerty,Grace,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2367.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043604,501043569,SB29,IND,,Hascall,Susan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1845.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043605,501043569,SB29,IND,,Hoenig,Kennedy,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1784.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043606,501043569,SB29,IND,,Johnson,Aidan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2061.73,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043607,501043569,SB29,IND,,Keasling,Ann,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1762.64,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043608,501043569,SB29,IND,,Klubes,Joshua,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,388.28,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043609,501043569,SB29,IND,,Leddy,Paige,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,2032.38,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043610,501043569,SB29,IND,,Lessley,Carmen,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1961.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043611,501043569,SB29,IND,,Liebmann,Cory,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2255.86,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043612,501043569,SB29,IND,,Livingston,Zoe,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2328.81,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043613,501043569,SB29,IND,,McKenzie,Connor,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1847.29,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043614,501043569,SB29,IND,,Meads,Edward,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2735.05,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043615,501043569,SB29,IND,,Meyers,Anne Marie,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,1853.95,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043616,501043569,SB29,IND,,Mitchell,Noah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1757.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043618,501043569,SB29,IND,,Mullenax,Shasta,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2785.42,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043617,501043569,SB29,IND,,Mullhern,Jack,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2265.54,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043619,501043569,SB29,IND,,Neary,Garrett,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1883.11,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043620,501043569,SB29,IND,,O'Connell,Joseph,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2235.91,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043621,501043569,SB29,IND,,Occhipinti,Caitlin,A.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2557.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043622,501043569,SB29,IND,,Ojeda Alamilla,Any,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,1870.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043623,501043569,SB29,IND,,Osmonson,Erik,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,2150.55,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043624,501043569,SB29,IND,,Paris,Charles,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1930.21,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043625,501043569,SB29,IND,,Perry,Zachary,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1952.62,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043626,501043569,SB29,IND,,Rahman,Tajrean,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1725.77,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043627,501043569,SB29,IND,,Rice,Hallie,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,834.93,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043628,501043569,SB29,IND,,Rocha,Katalina,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2075.36,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043629,501043569,SB29,IND,,Rosen,Maxwell,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1882.48,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043630,501043569,SB29,IND,,Schweber-Koren,Raphael,D.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2618.18,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043631,501043569,SB29,IND,,Sensing,Gregory,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,2557.69,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043632,501043569,SB29,IND,,Seshan,Thulasi,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,2278.14,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043633,501043569,SB29,IND,,Sharpe,Alliyah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1635.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043634,501043569,SB29,IND,,Shilcusky,Gabrielle,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1702.36,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043635,501043569,SB29,IND,,Taggart,Kelsie,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3696.37,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043636,501043569,SB29,IND,,Tutro-Anderson,Trevor,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1870.78,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043637,501043569,SB29,IND,,Vaughn Jones,Tiffany,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-14,4002.22,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043638,501043569,SB29,IND,,Weintraub,Sarah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,1866.38,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043639,501043569,SB29,IND,,Wilburn,Thomas,A.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-14,3009.81,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043571,,,ORG,"ADP, Inc.",,,,,,504 Clinton Center Dr,Ste 4400,Clinton,MS,390565610,,,2023-04-28,245437.10,0.00,Payroll,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501043641,501043571,SB29,IND,,Abbas,Daniel,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3521.14,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043642,501043571,SB29,IND,,Abel,Sarah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3041.25,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043570,501043571,SB29,ORG,"ADP, Inc.",,,,,,504 Clinton Center Dr,Ste 4400,Clinton,MS,390565610,,,2023-04-28,77232.82,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043643,501043571,SB29,IND,,Alderman Boudreau,Julie,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3295.19,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043644,501043571,SB29,IND,,Allman,Jared,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1753.04,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043645,501043571,SB29,IND,,Ambush,Olivier,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1752.93,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043646,501043571,SB29,IND,,Arndt,Megan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1579.60,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043647,501043571,SB29,IND,,Aviles,Eduardo,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1774.43,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043648,501043571,SB29,IND,,Bell,Hayley,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1809.77,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043649,501043571,SB29,IND,,Beychok,Bradley,D.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,7411.84,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043650,501043571,SB29,IND,,Booth,Peter,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1688.76,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043651,501043571,SB29,IND,,Boyle,Trisha,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3074.41,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043652,501043571,SB29,IND,,Bress,Matilda,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2791.37,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043653,501043571,SB29,IND,,Brown,Katlyn,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2207.01,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043654,501043571,SB29,IND,,Carlson,Aaron,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2380.86,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043655,501043571,SB29,IND,,Charboneau,Elizabeth,C.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,4437.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043656,501043571,SB29,IND,,De Luca,Alexander,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,4402.05,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043657,501043571,SB29,IND,,Demchuk,Kaitlin,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3202.23,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043658,501043571,SB29,IND,,Dennis,Patrick,J.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,5901.68,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043659,501043571,SB29,IND,,Dodd,Kelly,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,3337.97,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043660,501043571,SB29,IND,,Dzieciolowski,Matthew,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3368.63,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043661,501043571,SB29,IND,,Eickel,Grace,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,551.81,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043662,501043571,SB29,IND,,Feldmann,Paige,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1845.62,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043663,501043571,SB29,IND,,Finken,Bryan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2177.38,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043664,501043571,SB29,IND,,Flower,Hayley,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,2680.99,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043665,501043571,SB29,IND,,Foley,Brennan,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,2199.44,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043666,501043571,SB29,IND,,Garnatz,Kelsey,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2508.79,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043667,501043571,SB29,IND,,Graver,Sarah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1717.13,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043668,501043571,SB29,IND,,Greco,Vincent,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1811.24,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043669,501043571,SB29,IND,,Groskind,Samuel,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1891.37,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043670,501043571,SB29,IND,,Haas,Sara,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,2153.17,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043671,501043571,SB29,IND,,Hagerty,Grace,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2367.41,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043672,501043571,SB29,IND,,Hascall,Susan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2368.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043673,501043571,SB29,IND,,Hatfield,Thomas,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1850.43,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043674,501043571,SB29,IND,,Hoenig,Kennedy,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2825.54,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043675,501043571,SB29,IND,,Johnson,Aidan,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2061.74,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043676,501043571,SB29,IND,,Keasling,Ann,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1762.64,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043677,501043571,SB29,IND,,Klubes,Joshua,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,388.28,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043678,501043571,SB29,IND,,Leddy,Paige,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,2032.37,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043679,501043571,SB29,IND,,Lessley,Carmen,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1961.38,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043680,501043571,SB29,IND,,Liebmann,Cory,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2135.40,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043681,501043571,SB29,IND,,Livingston,Zoe,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2328.82,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043682,501043571,SB29,IND,,McKenzie,Connor,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1880.05,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043683,501043571,SB29,IND,,Meads,Edward,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3149.17,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043684,501043571,SB29,IND,,Meyers,Anne Marie,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,1926.00,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043685,501043571,SB29,IND,,Mitchell,Noah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1694.10,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043687,501043571,SB29,IND,,Mullenax,Shasta,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2899.30,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043686,501043571,SB29,IND,,Mullhern,Jack,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2265.53,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043688,501043571,SB29,IND,,Neary,Garrett,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1931.59,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043689,501043571,SB29,IND,,O'Connell,Joseph,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2235.89,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043690,501043571,SB29,IND,,Occhipinti,Caitlin,A.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2482.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043691,501043571,SB29,IND,,Ojeda Alamilla,Any,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,1870.05,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043692,501043571,SB29,IND,,Osmonson,Erik,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,1740.53,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043693,501043571,SB29,IND,,Paris,Charles,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1930.22,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043694,501043571,SB29,IND,,Perry,Zachary,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2059.23,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043695,501043571,SB29,IND,,Rahman,Tajrean,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1725.77,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043696,501043571,SB29,IND,,Rice,Hallie,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,908.89,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043697,501043571,SB29,IND,,Rocha,Katalina,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1899.78,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043698,501043571,SB29,IND,,Rosen,Maxwell,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1882.48,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043699,501043571,SB29,IND,,Schweber-Koren,Raphael,D.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2618.18,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043700,501043571,SB29,IND,,Sensing,Gregory,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2557.68,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043701,501043571,SB29,IND,,Seshan,Thulasi,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,2278.15,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043702,501043571,SB29,IND,,Sharpe,Alliyah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1635.32,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043703,501043571,SB29,IND,,Shilcusky,Gabrielle,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1702.35,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043704,501043571,SB29,IND,,Shulman,Philip,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3977.73,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043705,501043571,SB29,IND,,Taggart,Kelsie,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3696.37,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043706,501043571,SB29,IND,,Tutro-Anderson,Trevor,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,2028.56,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043707,501043571,SB29,IND,,Vaughn Jones,Tiffany,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-28,4002.21,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043708,501043571,SB29,IND,,Weintraub,Sarah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,1866.39,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501043709,501043571,SB29,IND,,Wilburn,Thomas,A.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-28,3009.82,0.00,Salary,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044620,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-04-26,308.80,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044635,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-04-26,25.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044622,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-04-30,4.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044623,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-04-30,20.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044600,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-12,54574.53,0.00,Credit Card Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501045017,501044600,SB29,ORG,Adobe Systems,,,,,,7930 Jones Branch Dr,Fl 5,McLean,VA,221023396,,,2023-04-12,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045018,501044600,SB29,ORG,Adobe Systems,,,,,,7930 Jones Branch Dr,Fl 5,McLean,VA,221023396,,,2023-04-12,1552.60,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045019,501044600,SB29,ORG,Adobe Systems,,,,,,7930 Jones Branch Dr,Fl 5,McLean,VA,221023396,,,2023-04-12,50.28,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045016,501044600,SB29,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2023-04-12,898.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044960,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,158.99,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044961,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,4516.88,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044962,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,56.99,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044963,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,26.50,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044966,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,26.50,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044967,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,30.74,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044968,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,30.74,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044969,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,30.74,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044971,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044972,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,13.78,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044973,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044974,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044975,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044976,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044977,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,13.78,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044983,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,20.14,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044984,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,13.78,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044985,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044986,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044987,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044988,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,13.78,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044989,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044991,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044992,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044993,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044994,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044995,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044996,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044997,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,13.78,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044998,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,24.38,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044999,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045000,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045001,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,13.78,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045004,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,15.90,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045010,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,15.90,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045011,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,15.90,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045012,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,15.90,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045013,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,11.66,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045014,501044600,SB29,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-12,12.72,0.00,Web Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044826,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,15.89,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044964,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,233.17,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044965,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,24.32,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044970,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,500.00,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044978,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,16.56,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044979,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,34.68,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044980,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,100.00,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044981,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,200.00,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044982,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,51.93,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044990,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,15.89,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045002,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,-202.45,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045003,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,83.95,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045005,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,35.49,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045006,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,26.49,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045007,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,20.85,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045008,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,239.56,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501045009,501044600,SB29,ORG,Amazon,,,,,,1200 12Th Ave S,Ste 1200,Seattle,WA,981442734,,,2023-04-12,162.72,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044952,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,368.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044953,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,368.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044954,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,19.66,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044955,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,368.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044956,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,19.66,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044957,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,368.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044958,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,20.70,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044959,501044600,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-12,21.01,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044947,501044600,SB29,ORG,Apple Store,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-04-12,104.94,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044948,501044600,SB29,ORG,Apple Store,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-04-12,1270.94,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044949,501044600,SB29,ORG,Apple Store,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-04-12,10.59,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044944,501044600,SB29,ORG,Arrow Technologies,,,,,,7655 F Fullerton Rd,,Springfield,VA,221532850,,,2023-04-12,538.31,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044943,501044600,SB29,ORG,ASANA.COM,,,,,,1550 Bryant St,Ste 800,San Francisco,CA,941034859,,,2023-04-12,1143.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044940,501044600,SB29,ORG,Atlassian,,,,,,1098 Harrison St,,San Francisco,CA,941034521,,,2023-04-12,31.80,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044941,501044600,SB29,ORG,Atlassian,,,,,,1098 Harrison St,,San Francisco,CA,941034521,,,2023-04-12,15.90,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044942,501044600,SB29,ORG,Atlassian,,,,,,1098 Harrison St,,San Francisco,CA,941034521,,,2023-04-12,10.60,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044939,501044600,SB29,ORG,Authorize.Net,,,,,,PO Box 947,,American Fork,UT,840030947,,,2023-04-12,102.82,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044936,501044600,SB29,ORG,Best Buy,,,,,,3100 14Th St NW,,Washington,DC,200102415,,,2023-04-12,2031.97,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044933,501044600,SB29,ORG,BorrowLenses.Com,,,,,,1664 Industrial Rd,,San Carlos,CA,940704113,,,2023-04-12,729.72,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044923,501044600,SB29,ORG,CBT Nuggets,,,,,,1550 Valley River Dr,,Eugene,OR,974012122,,,2023-04-12,187.62,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044913,501044600,SB29,ORG,Clutter,,,,,,3526 Hayden Ave,,Culver City,CA,902322413,,,2023-04-12,94.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044912,501044600,SB29,ORG,CNF Catering,,,,,,1220 19Th St NW,,Washington,DC,200362405,,,2023-04-12,443.01,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044903,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,285.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044904,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,31.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044905,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,10.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044906,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,26.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044907,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,31.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044908,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,31.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044909,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,26.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044910,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,39.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044911,501044600,SB29,ORG,Colonial Parking,,,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-12,26.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044902,501044600,SB29,ORG,Comcast Xfinity,,,,,,1701 John F Kennedy Blvd,,Philadelphia,PA,191032833,,,2023-04-12,276.10,0.00,Cable,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044900,501044600,SB29,ORG,Concorde Hotel,,,,,,127 E 55Th St,,New York,NY,100223502,,,2023-04-12,28.69,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044901,501044600,SB29,ORG,Concorde Hotel,,,,,,127 E 55Th St,,New York,NY,100223502,,,2023-04-12,558.90,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044892,501044600,SB29,ORG,Delta Airlines,,,,,,PO Box 20706,,Atlanta,GA,303206001,,,2023-04-12,657.11,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044888,501044600,SB29,ORG,Digital Ocean,,,,,,270 Lafayette St,Ste 1105,New York,NY,100120047,,,2023-04-12,263.30,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044889,501044600,SB29,ORG,Digital Ocean,,,,,,270 Lafayette St,Ste 1105,New York,NY,100120047,,,2023-04-12,177.36,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044885,501044600,SB29,ORG,Dropbox,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2023-04-12,318.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044886,501044600,SB29,ORG,Dropbox,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2023-04-12,-318.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044873,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,484.18,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044874,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,90.91,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044875,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,520.01,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044876,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,279.74,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044877,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,141.06,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044878,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,96.47,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044879,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,118.14,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044880,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,122.85,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044881,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,129.81,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044882,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,147.70,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044883,501044600,SB29,ORG,Egencia,,,,,,108TH Ave NE,,Bellevue,WA,98004,,,2023-04-12,258.12,0.00,Lodging/Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044871,501044600,SB29,ORG,Eventbrite,,,,,,155 5Th St,Fl 7,San Francisco,CA,941032919,,,2023-04-12,150.00,0.00,Event Ticket,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044884,501044600,SB29,ORG,Eventbrite,,,,,,155 5Th St,Fl 7,San Francisco,CA,941032919,,,2023-04-12,63.54,0.00,Event Ticket,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044867,501044600,SB29,ORG,FRAME.IO,,,,,,11877 Douglas Rd,Ste 102,Alpharetta,GA,300057521,,,2023-04-12,159.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044861,501044600,SB29,ORG,Gannett Newspaper,,,,,,7950 Jones Branch Dr,,Mc Lean,VA,221070002,,,2023-04-12,10.59,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044862,501044600,SB29,ORG,Gannett Newspaper,,,,,,7950 Jones Branch Dr,,Mc Lean,VA,221070002,,,2023-04-12,14.99,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044863,501044600,SB29,ORG,Gannett Newspaper,,,,,,7950 Jones Branch Dr,,Mc Lean,VA,221070002,,,2023-04-12,9.99,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044864,501044600,SB29,ORG,Gannett Newspaper,,,,,,7950 Jones Branch Dr,,Mc Lean,VA,221070002,,,2023-04-12,9.99,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044865,501044600,SB29,ORG,Gannett Newspaper,,,,,,7950 Jones Branch Dr,,Mc Lean,VA,221070002,,,2023-04-12,59.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044857,501044600,SB29,ORG,Gaylord National Marketplace,,,,,,201 Waterfront St,,Oxon Hill,MD,207451135,,,2023-04-12,969.96,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044858,501044600,SB29,ORG,Gaylord National Marketplace,,,,,,201 Waterfront St,,Oxon Hill,MD,207451135,,,2023-04-12,969.96,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044859,501044600,SB29,ORG,Gaylord National Marketplace,,,,,,201 Waterfront St,,Oxon Hill,MD,207451135,,,2023-04-12,969.96,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044860,501044600,SB29,ORG,Gaylord National Marketplace,,,,,,201 Waterfront St,,Oxon Hill,MD,207451135,,,2023-04-12,142.40,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044853,501044600,SB29,ORG,GoDaddy.Com,,,,,,14455 N Hayden Rd,Ste 219,Scottsdale,AZ,852606993,,,2023-04-12,449.99,0.00,Web Hosting,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044854,501044600,SB29,ORG,GoDaddy.Com,,,,,,14455 N Hayden Rd,Ste 219,Scottsdale,AZ,852606993,,,2023-04-12,449.99,0.00,Web Hosting,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044850,501044600,SB29,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-12,2218.05,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044851,501044600,SB29,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-12,2.11,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044852,501044600,SB29,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-12,10.59,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044846,501044600,SB29,ORG,Grabien Inc.,,,,,,257 Grand St,# 1113,Brooklyn,NY,112114302,,,2023-04-12,675.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044842,501044600,SB29,ORG,"Happyfox, Inc",,,,,,340 S Lemon Ave,# 3997,Walnut,CA,917892706,,,2023-04-12,236.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044838,501044600,SB29,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2023-04-12,559.08,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044839,501044600,SB29,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2023-04-12,443.65,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044840,501044600,SB29,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2023-04-12,1137.70,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044836,501044600,SB29,ORG,Idealist.Org,,,,,,302 5Th Ave,Fl 11,New York,NY,100013604,,,2023-04-12,105.00,0.00,Job Posting Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044835,501044600,SB29,ORG,Ikea,,,,,,420 Alan Wood Rd,,Conshohocken,PA,194281141,,,2023-04-12,728.74,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044833,501044600,SB29,ORG,Jamf Software,,,,,,1407 Broadway,Ste 3700,New York,NY,100185100,,,2023-04-12,416.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044830,501044600,SB29,ORG,Jumpcloud,,,,,,361 Centennial Pkwy,Ste 300,Louisville,CO,800271288,,,2023-04-12,1320.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044831,501044600,SB29,ORG,Jumpcloud,,,,,,361 Centennial Pkwy,Ste 300,Louisville,CO,800271288,,,2023-04-12,66.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044832,501044600,SB29,ORG,Jumpcloud,,,,,,361 Centennial Pkwy,Ste 300,Louisville,CO,800271288,,,2023-04-12,83.16,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044827,501044600,SB29,ORG,Kimpton Hotel,,,,,,171 W Randolph St,,Chicago,IL,606013121,,,2023-04-12,332.35,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044828,501044600,SB29,ORG,Kimpton Hotel,,,,,,171 W Randolph St,,Chicago,IL,606013121,,,2023-04-12,44.26,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044812,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,15.31,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044813,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,81.78,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044814,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,35.60,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044815,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,22.14,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044816,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,59.66,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044817,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,15.96,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044818,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,30.35,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044819,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,54.72,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044820,501044600,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-12,7.59,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044805,501044600,SB29,ORG,Michael Coscia,,,,,,304 12Th St SE,,Washington,DC,200032206,,,2023-04-12,90.10,0.00,Printing,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044797,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,265.30,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044798,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,1.06,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044799,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,22.26,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044800,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,13.25,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044801,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,15.90,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044802,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,15.90,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044803,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,89.04,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044804,501044600,SB29,ORG,Microsoft Office,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-04-12,87.45,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044786,501044600,SB29,ORG,Octopus Deploy,,,,,,199 Grey St,South Brisbane,4101 Australia,ZZ,00000,,,2023-04-12,75.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044771,501044600,SB29,ORG,Right Networks,,,,,,1716 W Babcock St,,Bozeman,MT,597154004,,,2023-04-12,288.32,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044767,501044600,SB29,ORG,RITZ CARLTON SAN FRANCISCO,,,,,,401 Parallel 37,,San Francisco,CA,94108,,,2023-04-12,1569.63,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044768,501044600,SB29,ORG,RITZ CARLTON SAN FRANCISCO,,,,,,401 Parallel 37,,San Francisco,CA,94108,,,2023-04-12,38.45,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044769,501044600,SB29,ORG,RITZ CARLTON SAN FRANCISCO,,,,,,401 Parallel 37,,San Francisco,CA,94108,,,2023-04-12,67.14,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044770,501044600,SB29,ORG,RITZ CARLTON SAN FRANCISCO,,,,,,401 Parallel 37,,San Francisco,CA,94108,,,2023-04-12,19.23,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044756,501044600,SB29,ORG,Slack,,,,,,155 5Th St,Fl 6,San Francisco,CA,941032919,,,2023-04-12,684.36,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044755,501044600,SB29,ORG,"Sprout Social, Inc",,,,,,131 S Dearborn St,Ste 700,Chicago,IL,606035569,,,2023-04-12,315.88,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044701,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,63.34,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044702,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,18.55,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044703,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,45.13,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044704,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,44.68,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044705,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,13.04,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044706,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,10.20,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044707,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,11.64,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044708,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,1.00,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044709,501044600,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-12,9.89,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044688,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,248.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044689,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044690,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044691,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,248.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044692,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,248.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044693,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,248.90,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044694,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,37.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044695,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,-8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044696,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,997.80,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044697,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,904.40,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044698,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,737.49,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044699,501044600,SB29,ORG,United Airlines,,,,,,PO Box 60666,,Chicago,IL,606600603,,,2023-04-12,10.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044718,501044600,SB29,ORG,UPS Store,,,,,,455 Massachusetts Ave NW,Ste 650,Washington,DC,200012779,,,2023-04-12,49.88,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044719,501044600,SB29,ORG,UPS Store,,,,,,455 Massachusetts Ave NW,Ste 650,Washington,DC,200012779,,,2023-04-12,168.86,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044720,501044600,SB29,ORG,UPS Store,,,,,,455 Massachusetts Ave NW,Ste 650,Washington,DC,200012779,,,2023-04-12,43.48,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044721,501044600,SB29,ORG,UPS Store,,,,,,455 Massachusetts Ave NW,Ste 650,Washington,DC,200012779,,,2023-04-12,39.16,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044722,501044600,SB29,ORG,UPS Store,,,,,,455 Massachusetts Ave NW,Ste 650,Washington,DC,200012779,,,2023-04-12,65.11,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044723,501044600,SB29,ORG,UPS Store,,,,,,455 Massachusetts Ave NW,Ste 650,Washington,DC,200012779,,,2023-04-12,49.78,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044724,501044600,SB29,ORG,UPS Store,,,,,,455 Massachusetts Ave NW,Ste 650,Washington,DC,200012779,,,2023-04-12,3.00,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044685,501044600,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-04-12,2582.83,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044686,501044600,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-04-12,469.41,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044683,501044600,SB29,ORG,Virago Travels,,,,,,39615 Embarcadero Ter,,Fremont,CA,945382104,,,2023-04-12,658.00,0.00,Travel Insurance,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044680,501044600,SB29,ORG,Vonage,,,,,,1961 Chain Bridge Rd,,McLean,VA,221024501,,,2023-04-12,1063.75,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044673,501044600,SB29,ORG,WiseGuys NY Pizza,,,,,,300 Massachusetts Ave NW,,Washington,DC,200012640,,,2023-04-12,218.81,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044669,501044600,SB29,ORG,WP Engine,,,,,,504 Lavaca St,Ste 1000,Austin,TX,787012857,,,2023-04-12,290.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044670,501044600,SB29,ORG,WP Engine,,,,,,504 Lavaca St,Ste 1000,Austin,TX,787012857,,,2023-04-12,290.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044671,501044600,SB29,ORG,WP Engine,,,,,,504 Lavaca St,Ste 1000,Austin,TX,787012857,,,2023-04-12,290.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044668,501044600,SB29,ORG,Zencoder Inc,,,,,,149 9Th St,Ste 300,San Francisco,CA,941032662,,,2023-04-12,300.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044667,501044600,SB29,ORG,Zoom Video Communications,,,,,,PO Box 350,,Allston,MA,021340004,,,2023-04-12,799.03,0.00,Software,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00492140,501044505,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-04-01,48035.59,0.00,Healthcare,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044508,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-04-07,395.00,0.00,Healthcare,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044616,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-04-17,324.00,0.00,Healthcare,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044617,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-04-19,1009.08,0.00,Healthcare,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044621,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-04-27,190.00,0.00,Healthcare,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044605,,,ORG,APX Net Inc.,,,,,,PO Box 842,,Berwick,ME,039010842,,,2023-04-17,1716.58,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044506,,,ORG,Authorize.Net,,,,,,PO Box 947,,American Fork,UT,840030947,,,2023-04-04,44.95,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044587,,,IND,,Beychok,Bradley,D.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-07,332.80,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044586,501044587,SB29,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-07,332.80,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044625,,,IND,,Beychok,Bradley,D.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-17,408.37,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044624,501044625,SB29,ORG,Tadich Grill,,,,,,240 California St,,San Francisco,CA,941114361,,,2023-04-17,408.37,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044606,,,ORG,Cision US Inc.,,,,,,PO Box 98869,,Chicago,IL,606938869,,,2023-04-17,7051.12,0.00,Database Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044533,,,IND,,Dennis,Patrick,J.,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-07,408.41,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044532,501044533,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-07,289.52,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501045064,501044533,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-07,96.14,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044604,,,ORG,Department Of Treasury,,,,,,IRS SERVICE Ctr,,Ogden,UT,842010001,,,2023-04-14,1870.00,0.00,Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044612,,,IND,,Dodd,Kelly,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-17,5.55,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044579,,,IND,,Foley,Brennan,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-07,72.65,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044602,,,ORG,Hartford Life And Accident,,,,,,1 Hartford Plz,,Hartford,CT,061550001,,,2023-04-13,217.57,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044627,,,IND,,Hoenig,Kennedy,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-17,77.50,0.00,Medical Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044534,,,IND,,Leddy,Paige,,,,800 Maine Ave SW,Ste 400,Washington,DC,200242805,,,2023-04-07,246.50,0.00,Medical Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044510,,,IND,,Lessley,Carmen,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-07,72.00,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044509,501044510,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5Th St NW,,Washington,DC,200012610,,,2023-04-07,72.00,0.00,Rail Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044607,,,ORG,Lexis Nexis,,,,,,PO Box 7247,,Philadelphia,PA,191700001,,,2023-04-17,14390.56,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044513,,,IND,,McKenzie,Connor,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-07,40.95,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB29,C00492140,501045062,,,IND,,Meads,Edward,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-17,1815.64,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501045061,501045062,SB29,ORG,RITZ CARLTON SAN FRANCISCO,,,,,,401 Parallel 37,,San Francisco,CA,94108,,,2023-04-17,1626.34,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501045063,501045062,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-17,189.30,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044634,,,ORG,Mission Wired,,,,,,650 Massachusetts Ave NW,,Washington,DC,200013796,,,2023-04-17,9000.00,0.00,Digital Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044632,,,IND,,Mitchell,Noah,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-17,99.02,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044631,501044632,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-17,23.64,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044573,,,IND,,Mullenax,Shasta,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-07,158.27,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044570,501044573,SB29,ORG,RITZ CARLTON SAN FRANCISCO,,,,,,401 Parallel 37,,San Francisco,CA,94108,,,2023-04-07,17.12,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044572,501044573,SB29,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-04-07,97.75,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044565,,,IND,,Neary,Garrett,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-07,177.49,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044608,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-04-17,7655.12,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044588,,,ORG,NTIVA Inc,,,,,,PO Box 360864,,Pittsburgh,PA,152516864,,,2023-04-07,5800.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044601,,,ORG,NTIVA Inc,,,,,,PO Box 360864,,Pittsburgh,PA,152516864,,,2023-04-12,5300.00,0.00,Software,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044538,,,IND,,Rosen,Maxwell,,,,800 Maine Ave SW,Unit 400,Washington,DC,200242805,,,2023-04-07,154.63,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044537,501044538,SB29,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-04-07,58.63,0.00,Taxi Services,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044535,501044538,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5Th St NW,,Washington,DC,200012610,,,2023-04-07,96.00,0.00,Rail Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00492140,501044633,,,ORG,SEIU Local 500 Inc,,,,,,12 Taft Ct,Fl 2,Rockville,MD,208505343,,,2023-04-17,880.00,0.00,Union Dues,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044599,,,ORG,The Liberty Mutual,,,,,,5400 Shawnee Rd,Ste 100,Alexandria,VA,223122300,,,2023-04-11,1362.65,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044613,,,ORG,Universal Production Music,,,,,,455 Massachusetts Ave NW,,Washington,DC,200012621,,,2023-04-17,425.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB29,C00492140,501044614,,,ORG,Veritone,,,,,,575 Anton Blvd,Ste 100,Costa Mesa,CA,926267672,,,2023-04-17,2000.00,0.00,Voiceover Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00492140,501044618,,,ORG,VOYA,,,,,,PO Box 990063,,Hartford,CT,061990063,,,2023-04-25,10144.65,0.00,Retirement Contributions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account

@@ -1,0 +1,124 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00631549,500082155,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-07,2000.09,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082154,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-14,945.23,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082153,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-16,715.45,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081989,,,ORG,BerlinRosen,,,,,,15 Maiden Ln,Ste 1600,New York,NY,100385111,,,2024-10-07,15750.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082042,,,IND,,Byrne,Kyra,,,,9 Wayne St,,Portland,ME,041022227,,,2024-10-01,39.14,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082148,500082042,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-09-25,6.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082149,500082042,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-09-25,9.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082043,,,IND,,Byrne,Kyra,,,,9 Wayne St,,Portland,ME,041022227,,,2024-10-08,2793.46,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082083,500082043,SB21B,ORG,AirBNB,,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-10-06,201.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082084,500082043,SB21B,ORG,AirBNB,,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-10-06,519.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082095,500082043,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-10-04,356.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082096,500082043,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-10-04,488.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082094,500082043,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-10-06,218.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082108,500082043,SB21B,ORG,Enterprise Rent A Car,,,,,,2500 National Avenue Garage A,,Arlington,VA,22202,,,2024-09-29,589.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082044,,,IND,,Byrne,Kyra,,,,9 Wayne St,,Portland,ME,041022227,,,2024-10-16,728.19,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082085,500082044,SB21B,ORG,AirBNB,,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-10-09,359.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082099,500082044,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-10-10,252.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082150,500082044,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-10-11,8.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082037,,,IND,,Cowley,Caroline,,,,1331 Shepherd St NW,,Washington,DC,200115529,,,2024-10-01,606.48,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081990,,,ORG,Creative Circle,,,,,,PO Box 74008799,,Chicago,IL,606748799,,,2024-10-10,1025.00,0.00,Media Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081991,,,ORG,"Intuit, Inc.",,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-10-02,104.94,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081992,,,ORG,"Intuit, Inc.",,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-10-14,104.94,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081262,,,ORG,"Justworks, Inc. And Affiliates",,,,,,130 7Th Ave,Unit 249,New York,NY,100111803,,,2024-10-08,24489.52,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081256,,,ORG,"Justworks, Inc. And Affiliates",,,,,,130 7Th Ave,Unit 249,New York,NY,100111803,,,2024-10-09,1832.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081258,500081256,SB21B,IND,,Hankins,Steven,,,,24526 E Oakland Rd,,Bay Village,OH,441402870,,,2024-10-08,800.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081260,500081256,SB21B,ORG,"Justworks, Inc. And Affiliates",,,,,,130 7Th Ave,Unit 249,New York,NY,100111803,,,2024-10-08,202.15,0.00,Taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081259,500081256,SB21B,IND,,Ransweiler,Reese,,,,633 Bross St,,Longmont,CO,805014417,,,2024-10-08,420.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081257,500081256,SB21B,IND,,Reed,Emma,,,,71 Starbarrack Rd,,Red Hook,NY,125712246,,,2024-10-08,410.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081261,,,ORG,"Justworks, Inc. And Affiliates",,,,,,130 7Th Ave,Unit 249,New York,NY,100111803,,,2024-10-09,117934.03,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081267,500081261,SB21B,IND,,Armitage,Trent,,,,1331 S Eads St,Apt 1018,Arlington,VA,222024735,,,2024-10-09,5010.43,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081268,500081261,SB21B,IND,,Baumer,James,,,,31 Cambridge Pl,,Brooklyn,NY,112381936,,,2024-10-09,3673.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081269,500081261,SB21B,IND,,Begala,Billy,,,,11617 Pearwood Pl,,Austin,TX,787583534,,,2024-10-09,3244.93,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081270,500081261,SB21B,IND,,Byrne,Kyra,,,,9 Wayne St,,Portland,ME,041022227,,,2024-10-09,3357.55,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081271,500081261,SB21B,IND,,Coats,Maddie,,,,188 State St,Garden,Brooklyn,NY,11201,,,2024-10-09,3490.50,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081272,500081261,SB21B,IND,,Cohen,David,,,,4129 24Th St,Apt 6H,Long Island City,NY,111014063,,,2024-10-09,7044.21,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081273,500081261,SB21B,IND,,Cowley,Caroline,,,,1331 Shepherd St NW,,Washington,DC,200115529,,,2024-10-09,7200.83,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081274,500081261,SB21B,IND,,Fissinger,Michael,,,,546 Saint Marks Ave,,Brooklyn,NY,112387443,,,2024-10-09,1659.20,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081275,500081261,SB21B,IND,,Hausman,Vicky,,,,25 W 81St St,Apt 8B,New York,NY,100246023,,,2024-10-09,5197.57,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081276,500081261,SB21B,IND,,Herman,Brian,,,,630 N Gelden Ln,,Lindenhurst,IL,600466789,,,2024-10-09,3001.33,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081290,500081261,SB21B,ORG,"Justworks, Inc. And Affiliates",,,,,,130 7Th Ave,Unit 249,New York,NY,100111803,,,2024-10-09,43123.65,0.00,Taxes,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081277,500081261,SB21B,IND,,Lacarra,Toby,,,,1930 E Hayden Ln,,Tempe,AZ,852817788,,,2024-10-09,3630.22,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081278,500081261,SB21B,IND,,Lasher,Jeremey,,,,3541 E Cody St,,Tucson,AZ,857163920,,,2024-10-09,2864.13,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081279,500081261,SB21B,IND,,Martes,Leslie,,,,2501 Calvert St NW,,Washington,DC,200082620,,,2024-10-09,5966.60,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081280,500081261,SB21B,IND,,Pedraja,Liz,,,,1222 Oates St NE,,Washington,DC,200023826,,,2024-10-09,3471.39,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081281,500081261,SB21B,IND,,Pollack,Emilie,,,,9804 Regent St,,Los Angeles,CA,900345125,,,2024-10-09,2761.27,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081282,500081261,SB21B,IND,,Robinson,Hayley,,,,302 E Monte Vista Rd,,Phoenix,AZ,850041409,,,2024-10-09,1968.12,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081283,500081261,SB21B,IND,,Roeder,Ethan,,,,2616 Guilford Ave,,Baltimore,MD,212184611,,,2024-10-09,4955.22,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081284,500081261,SB21B,IND,,Rotkoff,Jeff,,,,3609 Vineland Dr,,Austin,TX,787221238,,,2024-10-09,4235.25,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081285,500081261,SB21B,IND,,Taudte,Mary,,,,350 Skulley Dr,,Alpharetta,GA,300046665,,,2024-10-09,2078.57,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081993,,,ORG,"Justworks, Inc. And Affiliates",,,,,,130 7Th Ave,Unit 249,New York,NY,100111803,,,2024-10-14,424.68,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082032,,,IND,,Lasher,Jeremey,,,,3541 E Cody St,,Tucson,AZ,857163920,,,2024-10-01,3819.11,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082086,500082032,SB21B,ORG,Allianz Global Assistance USA,,,,,,2805 N Parham Rd,Ste 100,Henrico,VA,232944426,,,2024-09-26,22.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082087,500082032,SB21B,ORG,Allianz Global Assistance USA,,,,,,2805 N Parham Rd,Ste 100,Henrico,VA,232944426,,,2024-09-27,53.67,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082097,500082032,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-09-26,557.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082103,500082032,SB21B,ORG,DELTA AIR LINES,,,,,,1030 Delta Blvd,Dept 680,Atlanta,GA,303541989,,,2024-09-27,430.99,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082106,500082032,SB21B,ORG,DoubleTree By Hilton Hotels,,,,,,7930 Jones Branch Dr,,Mc Lean,VA,221023388,,,2024-09-26,312.52,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082107,500082032,SB21B,ORG,Enterprise Rent A Car,,,,,,2500 National Avenue Garage A,,Arlington,VA,22202,,,2024-09-26,1226.36,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082111,500082032,SB21B,ORG,Gin Gin's,,,,,,345 Summer Ave NW,,Grand Rapids,MI,495045347,,,2024-09-25,320.00,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082113,500082032,SB21B,ORG,Hampton Inn,,,,,,7930 Jones Branch Dr,,Mc Lean,VA,221023388,,,2024-09-24,313.33,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082147,500082032,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-09-27,37.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082033,,,IND,,Lasher,Jeremey,,,,3541 E Cody St,,Tucson,AZ,857163920,,,2024-10-16,1180.50,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082114,500082033,SB21B,ORG,Hampton Inn,,,,,,7930 Jones Branch Dr,,Mc Lean,VA,221023388,,,2024-10-11,316.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082115,500082033,SB21B,ORG,Hilton Hotels HQ,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-10-13,466.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082116,500082033,SB21B,ORG,Hilton Hotels HQ,,,,,,7930 Jones Branch Dr,,Mclean,VA,221023388,,,2024-10-13,5.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500081996,,,ORG,LexisNexis,,,,,,PO Box 9584,,New York,NY,100874584,,,2024-10-07,1575.42,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081994,,,ORG,"Loopdash, LLC",,,,,,29617 W Oakland Rd,,Bay Village,OH,441401845,,,2024-10-07,250.00,0.00,Website Design,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082034,,,IND,,Martes,Leslie,,,,2501 Calvert St NW,,Washington,DC,200082620,,,2024-10-01,450.00,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082035,,,IND,,Martes,Leslie,,,,2501 Calvert St NW,,Washington,DC,200082620,,,2024-10-08,31.90,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082138,500082035,SB21B,ORG,Metro North,,,,,,420 Lexington Ave,,New York,NY,101700002,,,2024-09-30,31.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082036,,,IND,,Martes,Leslie,,,,2501 Calvert St NW,,Washington,DC,200082620,,,2024-10-16,267.72,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081995,,,ORG,"Numero, Inc.",,,,,,200 Spectrum Center Dr,Ste 300,Irvine,CA,926185004,,,2024-10-02,1000.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082038,,,IND,,Pollack,Emilie,,,,9804 Regent St,,Los Angeles,CA,900345125,,,2024-10-01,502.64,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082123,500082038,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-09-23,52.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082129,500082038,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-09-23,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082131,500082038,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-09-25,25.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082039,,,IND,,Pollack,Emilie,,,,9804 Regent St,,Los Angeles,CA,900345125,,,2024-10-08,1246.29,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082100,500082039,SB21B,ORG,Budget Rental Car,,,,,,6 Sylvan Way,,Parsippany,NJ,070543826,,,2024-10-04,548.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082122,500082039,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-04,52.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082130,500082039,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-04,100.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082143,500082039,SB21B,ORG,Sixt Car Rental,,,,,,14901 Dallas Pkwy,,Dallas,TX,752547551,,,2024-10-04,395.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082040,,,IND,,Pollack,Emilie,,,,9804 Regent St,,Los Angeles,CA,900345125,,,2024-10-09,2143.38,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082098,500082040,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-10-03,386.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082124,500082040,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-01,47.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082134,500082040,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-01,366.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082135,500082040,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-01,167.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082132,500082040,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-03,231.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082133,500082040,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-03,123.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082144,500082040,SB21B,ORG,Sixt Car Rental,,,,,,14901 Dallas Pkwy,,Dallas,TX,752547551,,,2024-10-01,605.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082041,,,IND,,Pollack,Emilie,,,,9804 Regent St,,Los Angeles,CA,900345125,,,2024-10-16,1301.28,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082088,500082041,SB21B,ORG,Allianz Global Assistance USA,,,,,,2805 N Parham Rd,Ste 100,Henrico,VA,232944426,,,2024-10-07,12.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082089,500082041,SB21B,ORG,Allianz Global Assistance USA,,,,,,2805 N Parham Rd,Ste 100,Henrico,VA,232944426,,,2024-10-07,29.68,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082090,500082041,SB21B,ORG,Allianz Global Assistance USA,,,,,,2805 N Parham Rd,Ste 100,Henrico,VA,232944426,,,2024-10-07,23.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082091,500082041,SB21B,ORG,Allianz Global Assistance USA,,,,,,2805 N Parham Rd,Ste 100,Henrico,VA,232944426,,,2024-10-07,13.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082092,500082041,SB21B,ORG,Allianz Global Assistance USA,,,,,,2805 N Parham Rd,Ste 100,Henrico,VA,232944426,,,2024-10-07,13.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082093,500082041,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-10-08,25.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082121,500082041,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-13,47.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082128,500082041,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-07,231.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082127,500082041,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-08,25.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082126,500082041,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-09,25.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082125,500082041,SB21B,ORG,Marriott Courtyard,,,,,,107 Beverly St,,Boston,MA,021142102,,,2024-10-10,18.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082142,500082041,SB21B,ORG,Sixt Car Rental,,,,,,14901 Dallas Pkwy,,Dallas,TX,752547551,,,2024-10-08,314.29,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00631549,500082029,,,IND,,Richir,Roxane,,,,714 Governors Hill Ln,,Raleigh,NC,276031149,,,2024-10-07,8000.00,0.00,Voter Registration Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082045,,,IND,,Richir,Roxane,,,,714 Governors Hill Ln,,Raleigh,NC,276031149,,,2024-10-07,708.77,0.00,Voter Registration Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082031,,,IND,,Roeder,Ethan,,,,2616 Guilford Ave,,Baltimore,MD,212184611,,,2024-10-01,110.68,0.00,Travel and Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082028,,,IND,,Sanchez,Carlos,A,,,539 Greene Ave,Apt 2,Brooklyn,NY,112161205,,,2024-10-07,4515.00,0.00,Voter Registration Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081997,,,ORG,"SB Digital, Inc.",,,,,,2010 Massachusetts Ave NW,Ste 200,Washington,DC,200361012,,,2024-10-01,69008.16,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081998,,,ORG,"SB Digital, Inc.",,,,,,2010 Massachusetts Ave NW,Ste 200,Washington,DC,200361012,,,2024-10-07,69008.16,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082000,,,ORG,"SB Digital, Inc.",,,,,,2010 Massachusetts Ave NW,Ste 200,Washington,DC,200361012,,,2024-10-07,5000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500081999,,,ORG,"SB Digital, Inc.",,,,,,2010 Massachusetts Ave NW,Ste 200,Washington,DC,200361012,,,2024-10-11,69008.16,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082001,,,ORG,Straus/Baker LLC,,,,,,99 Main St,Unit 758,Sheffield,MA,012577036,,,2024-10-07,6000.00,0.00,Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082002,,,ORG,"Stripe, Inc.",,,,,,185 Berry St,Ste 550,San Francisco,CA,941079105,,,2024-10-11,5.57,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082003,,,ORG,"SunSpots Productions, Inc.",,,,,,PO Box 2410,,Fairview,NC,287302410,,,2024-10-10,1022.50,0.00,Media Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082004,,,ORG,Switchboard Public Benefit Corp.,,,,,,PO Box 33485,,Washington,DC,200330485,,,2024-10-14,1423.83,0.00,Fundraising Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082005,,,ORG,The Blackwell Group,,,,,,2125 14Th St NW,,Washington,DC,200094464,,,2024-10-14,7500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082006,,,ORG,The Movement Cooperative,,,,,,4 E 27Th St,Unit 20063,New York,NY,100019403,,,2024-10-07,10312.50,0.00,Voterfile Database,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082007,,,ORG,"The Outreach Team, LLC",,,,,,407 College Ave,Ste 349,Ithaca,NY,148506701,,,2024-10-03,150635.00,0.00,Voter Registration Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082008,,,ORG,"The Outreach Team, LLC",,,,,,407 College Ave,Ste 349,Ithaca,NY,148506701,,,2024-10-07,24104.13,0.00,Voter Registration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082009,,,ORG,"The Outreach Team, LLC",,,,,,407 College Ave,Ste 349,Ithaca,NY,148506701,,,2024-10-11,100000.00,0.00,Voter Registration Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082010,,,ORG,The Sunday Strategist,,,,,,1091 E Bayaud Ave,Apt W2007,Denver,CO,802092746,,,2024-10-07,2000.00,0.00,Social Media Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082011,,,ORG,Ubiquity Retirement And Savings,,,,,,44 Montgomery St,Ste 3060,San Francisco,CA,941044804,,,2024-10-08,3.00,0.00,Benefits Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082012,,,ORG,Ubiquity Retirement And Savings,,,,,,44 Montgomery St,Ste 3060,San Francisco,CA,941044804,,,2024-10-16,11130.02,0.00,Benefits Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082013,,,ORG,Verdugo Strategies LLC,,,,,,373 Laun St,,Altadena,CA,910015539,,,2024-10-16,89983.24,0.00,Voter Registration Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00631549,500082014,,,ORG,Westerleigh Concepts,,,,,,2 Hollywood Ct,,South Plainfield,NJ,070804204,,,2024-10-07,88480.99,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,

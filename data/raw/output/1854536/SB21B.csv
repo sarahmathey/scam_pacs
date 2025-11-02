@@ -1,0 +1,21 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00497131,500054090,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-21,158.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00497131,500054070,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,Lbby 2,New York,NY,100018400,,,2024-10-25,364.35,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00497131,500054091,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-11-19,27185.21,0.00,Credit Card Payment - Detail Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00497131,500054094,500054091,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-19,6030.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054097,500054091,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-11-19,1998.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054098,500054091,SB21B,ORG,Embassy Suites,,,,,,850 Tower Dr,,Troy,MI,480982845,,,2024-11-19,359.02,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054100,500054091,SB21B,ORG,Erewhon,,,,,,7660 Beverly Blvd,# A,Los Angeles,CA,900362734,,,2024-11-19,415.46,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054101,500054091,SB21B,ORG,Expedia Travel,,,,,,333 108Th Ave NE,,Bellevue,WA,980045703,,,2024-11-19,2704.29,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054106,500054091,SB21B,ORG,Hilton Madison Monona Terrace,,,,,,9 E Wilson St,,Madison,WI,537033421,,,2024-11-19,2719.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054109,500054091,SB21B,ORG,Kimpton Marlowe Hotel,,,,,,25 Edwin H Land Blvd,,Cambridge,MA,021412236,,,2024-11-19,1344.33,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054102,500054091,SB21B,ORG,"Marriott Marquis- Houston, TX",,,,,,1777 Walker St,,Houston,TX,770105023,,,2024-11-19,32.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054111,500054091,SB21B,ORG,"Marriott Marquis- Houston, TX",,,,,,1777 Walker St,,Houston,TX,770105023,,,2024-11-19,799.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054112,500054091,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-19,1116.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054116,500054091,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-11-19,225.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054117,500054091,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-11-19,7243.57,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054118,500054091,SB21B,ORG,Wynn Las Vegas Hotel,,,,,,3131 Las Vegas Blvd S,,Las Vegas,NV,891091967,,,2024-11-19,1486.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00497131,500054084,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,G2024,,2024-10-31,2500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00497131,500054085,,,ORG,Elias Law Group LLP,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,G2024,,2024-11-01,13813.35,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00497131,500054086,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-11-04,104.94,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00497131,500054089,,,ORG,Renaissance Campaign Strategies,,,,,,437 Madison Ave,Fl 9,New York,NY,100227043,,,2024-11-01,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,

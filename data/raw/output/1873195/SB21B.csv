@@ -1,0 +1,24 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00832576,500427387,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,O2024,,2024-12-22,1.11,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428832,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,O2024,,2024-11-27,131.67,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428895,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,O2024,,2024-12-30,48.25,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428877,,,ORG,Bee Compliance LLC,,,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,O2024,,2024-12-13,1000.00,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428894,,,ORG,Eckert & Associates,,,,,,259 S Pickett St,Apt 301,Alexandria,VA,223044729,O2024,,2024-12-24,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428883,,,ORG,Fine Wine & Good Spirits,,,,,,1200 Market St,,Lemoyne,PA,170431418,O2024,,2024-12-18,201.35,0.00,Event Garnishments,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428839,,,ORG,Gatsby,,,,,,1205 Half St SE,Unit 105,Washington,DC,200034592,O2024,,2024-12-12,1304.57,0.00,Event Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428881,,,ORG,Placemakr,,,,,,1701 Rhode Island Ave NW,,Washington,DC,200363001,O2024,,2024-12-17,296.84,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500422113,,,IND,,Ryan,Pat,,,,PO Box 2113,,Kingston,NY,124022113,O2024,,2024-11-27,136.99,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500422465,500422113,SB21B,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-11-27,136.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00832576,500428837,,,IND,,Ryan,Pat,,,,PO Box 2113,,Kingston,NY,124022113,O2024,,2024-12-11,32.38,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428838,500428837,SB21B,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-12-11,32.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00832576,500428876,,,IND,,Ryan,Pat,,,,PO Box 2113,,Kingston,NY,124022113,O2024,,2024-12-12,47.72,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428878,500428876,SB21B,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-12-12,47.72,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00832576,500428888,,,IND,,Ryan,Pat,,,,PO Box 2113,,Kingston,NY,124022113,O2024,,2024-12-19,90.76,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428887,500428888,SB21B,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-12-19,90.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00832576,500431748,,,IND,,Ryan,Pat,,,,PO Box 2113,,Kingston,NY,124022113,O2024,,2024-12-20,478.58,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500431749,500431748,SB21B,ORG,The New Yorker Hotel,,,,,,481 8Th Ave,,New York,NY,100011862,O2024,,2024-12-20,478.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00832576,500428836,,,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-12-02,39.94,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428884,,,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-12-19,37.65,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428885,,,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-12-19,30.22,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428886,,,ORG,Uber Technologies,,,,,,555 Market St,,San Francisco,CA,941052800,O2024,,2024-12-19,27.63,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00832576,500428892,,,IND,,Walsh,Christopher,,,,133 Bates St NW,,Washington,DC,200011113,O2024,,2024-12-27,11000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,

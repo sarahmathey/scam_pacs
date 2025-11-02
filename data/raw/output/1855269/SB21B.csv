@@ -1,0 +1,66 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00758219,500038438,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-17,2037.83,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038439,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-21,1668.06,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038440,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-28,4044.68,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038441,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-01,3008.94,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038442,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-04,2081.59,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038443,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-06,436.07,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038444,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-12,166.87,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038445,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-18,229.97,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038446,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-25,156.87,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038474,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102815525,,,2024-10-22,86084.83,0.00,Credit Card Payment (vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038511,500038474,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102815525,,,2024-10-22,894.63,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038504,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-22,3.24,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038505,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-22,6.80,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038506,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-22,8.81,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038507,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-22,17.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038508,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-22,21.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038509,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-22,37.80,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038510,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-22,48.96,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038500,500038474,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,3.96,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038513,500038474,SB21B,ORG,TED Conferences,,,,,,330 Hudson St,,New York,NY,100131046,,,2024-10-22,2800.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038512,500038474,SB21B,ORG,Tele-Town Hall,,,,,,3033 Wilson Blvd,Ste 700,Arlington,VA,222013868,,,2024-10-22,20280.01,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038514,500038474,SB21B,ORG,Tele-Town Hall,,,,,,3033 Wilson Blvd,Ste 700,Arlington,VA,222013868,,,2024-10-22,30598.68,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038515,500038474,SB21B,ORG,Tele-Town Hall,,,,,,3033 Wilson Blvd,Ste 700,Arlington,VA,222013868,,,2024-10-22,15889.80,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038516,500038474,SB21B,ORG,Tele-Town Hall,,,,,,3033 Wilson Blvd,Ste 700,Arlington,VA,222013868,,,2024-10-22,15472.16,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038475,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102815525,,,2024-11-12,76575.46,0.00,Credit Card Payment (vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038488,500038475,SB21B,ORG,CAMPAIGNER SVC,,,,,,5555 Glenridge Connector,,Atlanta,GA,303424759,,,2024-11-12,1908.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038492,500038475,SB21B,ORG,L2,,,,,,5 Schalks Crossing Rd,Ste 220,Plainsboro,NJ,085361620,,,2024-11-12,1737.65,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038489,500038475,SB21B,ORG,"Life Time Fitness, Inc.",,,,,,2902 Corporate Pl,,Chanhassen,MN,553174560,,,2024-11-12,179.38,0.00,Office Rent,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038490,500038475,SB21B,ORG,"Life Time Fitness, Inc.",,,,,,2902 Corporate Pl,,Chanhassen,MN,553174560,,,2024-11-12,462.53,0.00,Office Rent,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038494,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,4.64,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038495,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,7.34,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038496,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,25.79,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038497,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,40.74,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038498,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,40.76,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038499,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,3.77,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038501,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,4.29,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038502,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,20.93,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038503,500038475,SB21B,ORG,Lyft Inc,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-12,23.81,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038491,500038475,SB21B,ORG,Tele-Town Hall,,,,,,3033 Wilson Blvd,Ste 700,Arlington,VA,222013868,,,2024-11-12,36724.81,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038493,500038475,SB21B,ORG,Tele-Town Hall,,,,,,3033 Wilson Blvd,Ste 700,Arlington,VA,222013868,,,2024-11-12,35391.02,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038460,,,ORG,Buzzsprout,,,,,,5133 San Jose Blvd,,Jacksonville,FL,322077608,,,2024-11-04,36.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038481,,,IND,,DeBona,John,,,,710 27th Ave,,Greeley,CO,806345815,,,2024-10-31,750.00,0.00,Digital Organizing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038470,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-10-21,337.50,0.00,Retirement Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038471,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-11-05,337.50,0.00,Retirement Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038472,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-11-06,97.00,0.00,Benefits Administration Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038473,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-11-19,337.50,0.00,Retirement Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038465,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-10-31,2655.49,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038487,500038465,SB21B,IND,,Martini,Hassan,,,,10770 Grandview Dr,,Palos Park,IL,604642594,,,2024-10-31,2655.49,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038466,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-10-31,1193.89,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038467,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-11-05,97.52,0.00,Payroll Invoice,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038468,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-11-15,2655.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038486,500038468,SB21B,IND,,Martini,Hassan,,,,10770 Grandview Dr,,Palos Park,IL,604642594,,,2024-11-15,2655.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00758219,500038469,,,ORG,Gusto,,,,,,525 20th St,,San Francisco,CA,941074345,,,2024-11-15,1193.87,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038476,,,ORG,"InFeedVideo.com, LLC",,,,,,N13948 Three Mile Rd,,Minong,WI,548599078,,,2024-10-21,500.00,0.00,Video Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038477,,,ORG,"InFeedVideo.com, LLC",,,,,,N13948 Three Mile Rd,,Minong,WI,548599078,,,2024-11-05,175.00,0.00,Video Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038479,,,IND,,Nemeth,Zoltan,,,,758 4th St,,Beaver,PA,150092128,,,2024-10-30,3000.00,0.00,Fellowship Program Participant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038484,,,IND,,Nemeth,Zoltan,,,,758 4th St,,Beaver,PA,150092128,,,2024-11-12,4500.00,0.00,Fellowship Program Participant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038459,,,ORG,"Next Level Partners, LLC",,,,,,PO Box 15320,,Washington,DC,200030320,,,2024-11-05,12299.19,0.00,Consultant - Compliance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038482,,,IND,,Niazi,Sabrina,,,,101 Pringle Ave,Unit B427,Walnut Creek,CA,945964989,,,2024-10-31,1666.67,0.00,Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038458,,,ORG,Restream,,,,,,8121 FM 2244 Rd,Ste 150,Austin,TX,787464964,,,2024-11-12,19.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038480,,,IND,,Rodriguez,Daniela,,,,4102 E Pinto Dr,,Gilbert,AZ,852960740,,,2024-10-31,1666.67,0.00,Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038463,,,ORG,Shopify,,,,,,151 O'Connor St,,Ottowa ON K2P 2L8 Canada,ZZ,00000,,,2024-11-04,41.34,0.00,Store Admin Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038462,,,ORG,Unimar Productions LLC,,,,,,10770 Grandview Dr,,Palos Park,IL,604642594,,,2024-11-04,5000.00,0.00,Consultant - General Strategy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038483,,,IND,,Wotawa,William,,,,232 Canton St,Apt 303,Randolph,MA,023681848,,,2024-11-12,900.00,0.00,Consultant - Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00758219,500038461,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-11-12,33.90,0.00,Software,,,,,,,,,,,,,,,,,,,,

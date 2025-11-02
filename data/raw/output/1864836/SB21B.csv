@@ -1,0 +1,23 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00674093,500120422,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-30,159.76,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121187,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-09,175.43,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121220,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,152.44,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121757,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-22,207.82,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121774,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-29,150.22,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121775,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,42.65,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121161,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,232.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121756,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,105.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121223,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-12-17,184.02,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121781,500121223,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-12-17,15.89,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500121782,500121223,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-12-17,15.89,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500121783,500121223,SB21B,ORG,"Amazon.Com, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-12-17,4.85,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500121784,500121223,SB21B,ORG,Canva,,,,,,2140 S Dupont Hwy,,Camden,DE,199341249,,,2024-12-17,14.99,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500121786,500121223,SB21B,ORG,Dropbox,,,,,,333 Brannan St,,San Francisco,CA,941071810,,,2024-12-17,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500121788,500121223,SB21B,ORG,MailChimp,,,,,,405 N Angier Ave NE,,Atlanta,GA,303083139,,,2024-12-17,47.70,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500121166,,,ORG,Evergreen Strategy,,,,,,21600 Oxnard St,Ste 2000,Woodland Hills,CA,913674969,,,2024-12-03,5000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121165,,,ORG,"Everyaction, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-12-02,5353.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121778,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-12-20,104.94,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121779,,,ORG,MissionWired,,,,,,650 Massachusetts Ave NW,,Washington,DC,200013796,,,2024-12-18,22500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121224,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, P.C.",,,,,,1090 Vermont Ave NW,,Washington,DC,200054905,,,2024-12-17,737.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121225,,,ORG,Switchboard Public Benefit Corp,,,,,,875 10Th St NW,Apt 1031,Washington,DC,200015169,,,2024-12-18,965.09,0.00,Digital Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500121780,,,ORG,Switchboard Public Benefit Corp,,,,,,875 10Th St NW,Apt 1031,Washington,DC,200015169,,,2024-12-18,582.71,0.00,Digital Acquisition,,,,,,,,,,,,,,,,,,,,

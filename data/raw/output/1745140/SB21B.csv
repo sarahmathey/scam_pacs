@@ -1,0 +1,43 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00566562,500530004,,,ORG,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-06,197.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500528355,,,ORG,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-20,138.25,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500528485,,,ORG,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-31,197.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500530041,,,ORG,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-30,355.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500533261,,,ORG,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-31,79.00,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500596957,,,ORG,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-10,671.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500608630,,,ORG,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-31,197.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500528472,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-08-11,5339.67,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500530028,500528472,SB21B,ORG,Salamander Resort,,,,,,500 N Pendleton St,,Middleburg,VA,201172683,,,2023-08-11,5250.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500528348,500528472,SB21B,ORG,"Squarespace, Inc.",,,,,,8 Clarkson St,,New York,NY,100144301,,,2023-08-11,29.00,0.00,Website Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500528347,500528472,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,# 6,San Jose,CA,951131608,,,2023-08-11,16.79,0.00,Telecommunications Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530033,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-08-21,128.77,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500530442,500530033,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-21,31.88,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500532123,500530033,SB21B,ORG,"Squarespace, Inc.",,,,,,8 Clarkson St,,New York,NY,100144301,,,2023-08-21,29.00,0.00,Software Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530640,500530033,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,# 6,San Jose,CA,951131608,,,2023-08-21,16.79,0.00,Telecommunications Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530039,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-09-22,7612.79,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500532129,500530039,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-09-22,31.88,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530662,500530039,SB21B,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2023-09-22,835.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500532131,500530039,SB21B,ORG,Salamander Resort,,,,,,500 N Pendleton St,,Middleburg,VA,201172683,,,2023-09-22,6700.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530011,500530039,SB21B,ORG,"Squarespace, Inc.",,,,,,8 Clarkson St,,New York,NY,100144301,,,2023-09-22,29.00,0.00,Website Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500532130,500530039,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,# 6,San Jose,CA,951131608,,,2023-09-22,16.91,0.00,Telecommunications Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500531867,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-11-03,13367.22,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500531868,500531867,SB21B,ORG,Dulles Executive Sedan Service,,,,,,22900 Shaw Rd,Ste 112-6,Sterling,VA,201664311,,,2023-11-03,858.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530457,500531867,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-08,31.88,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500528498,500531867,SB21B,ORG,Salamander Resort,,,,,,500 N Pendleton St,,Middleburg,VA,201172683,,,2023-11-03,11941.18,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530456,500531867,SB21B,ORG,"Squarespace, Inc.",,,,,,8 Clarkson St,,New York,NY,100144301,,,2023-11-03,29.00,0.00,Website Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530657,500531867,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,# 6,San Jose,CA,951131608,,,2023-11-03,58.47,0.00,Telecommunications Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500590711,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-11-20,376.87,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,CREDIT CARD PAYMENT
+SB21B,C00566562,500590710,500590711,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-20,31.88,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500590707,500590711,SB21B,ORG,"Squarespace, Inc.",,,,,,8 Clarkson St,,New York,NY,100144301,,,2023-11-20,29.00,0.00,Website Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500590705,500590711,SB21B,ORG,Staples,,,,,,500 Staples Dr,,Framingham,MA,017024478,,,2023-11-20,299.20,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500590709,500590711,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,# 6,San Jose,CA,951131608,,,2023-11-20,16.79,0.00,Telecommunications Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500607273,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-21,77.67,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500607272,500607273,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-21,31.88,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500607271,500607273,SB21B,ORG,"Squarespace, Inc.",,,,,,8 Clarkson St,,New York,NY,100144301,,,2023-12-21,29.00,0.00,Website Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500607270,500607273,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,# 6,San Jose,CA,951131608,,,2023-12-21,16.79,0.00,Telecommunications Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500531864,,,ORG,Colleen Browne,,,,,,2541 N Vermont St,,Arlington,VA,222074125,,,2023-10-02,475.00,0.00,Catering/Events Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500532133,500531864,SB21B,ORG,Salamander Resort,,,,,,500 N Pendleton St,,Middleburg,VA,201172683,,,2023-10-02,475.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500533453,,,ORG,Davey Consulting LLC,,,,,,322 17Th St NE,,Washington,DC,200026618,,,2023-11-02,1171.29,0.00,Catering/Events Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500533450,500533453,SB21B,ORG,Salamander Resort,,,,,,500 N Pendleton St,,Middleburg,VA,201172683,,,2023-11-02,901.62,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00566562,500530656,,,ORG,Susan Gage Caterers,,,,,,7100 Old Landover Rd,,Hyattsville,MD,207851500,,,2023-10-05,10256.82,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,,
+SB21B,C00566562,500530032,,,ORG,The Sugarplum Tent Company,,,,,,4959 New Design Rd,Ste 101,Frederick,MD,217035500,,,2023-08-11,1820.55,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,,

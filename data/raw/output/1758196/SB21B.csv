@@ -1,0 +1,37 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00525600,500071929,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-01-07,16.32,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071930,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-01-14,19.74,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071931,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-01-21,14.09,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071932,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-01-28,215.07,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071933,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-01-31,6.14,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071936,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-01-02,500.00,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071935,500071936,SB21B,ORG,La Goulue,,,,,,29 E 61St St,,New York,NY,100658009,,,2024-01-02,500.00,0.00,Event-Facilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071937,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-01-16,2595.88,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071940,500071937,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-01-15,-1127.90,0.00,Travel Expense Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071948,500071937,SB21B,ORG,Casa Susanna,,,,,,810 Co Rd,23B,Leeds,NY,12451,,,2024-01-15,368.64,0.00,Meetings/Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071949,500071937,SB21B,ORG,La Goulue,,,,,,29 E 61St St,,New York,NY,100658009,,,2024-01-15,2093.60,0.00,Event-Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071946,500071937,SB21B,ORG,Public Storage,,,,,,1230 S Capitol St SE,,Washington,DC,200033523,,,2024-01-15,300.14,0.00,Storage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071950,500071937,SB21B,ORG,Verizon Wireless,,,,,,2 Verizon Pl,,Alpharetta,GA,300048510,,,2024-01-15,266.53,0.00,Telephone Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071951,500071937,SB21B,ORG,Work Loft,,,,,,1 Spring St,,Marblehead,MA,019453313,,,2024-01-15,347.50,0.00,Office Rent,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071954,,,ORG,Blue Cross Blue Shield,,,,,,101 Huntington Ave,Ste 1300,Boston,MA,021997611,,,2024-01-02,1013.67,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071955,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-01-12,2745.04,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071957,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-01-12,98.10,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071956,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-01-31,2737.03,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071958,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-01-31,44.10,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071963,,,IND,,Conahan,Stefanie,,,,69 Gale Rd,,Swampscott,MA,019072809,,,2024-01-12,3297.68,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071964,,,IND,,Conahan,Stefanie,,,,69 Gale Rd,,Swampscott,MA,019072809,,,2024-01-31,3297.69,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071959,,,IND,,Graham,Emily,,,,427 Pacific St,Apt 2,Brooklyn,NY,112172204,,,2024-01-12,2393.14,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071960,,,IND,,Graham,Emily,,,,427 Pacific St,Apt 2,Brooklyn,NY,112172204,,,2024-01-31,2393.13,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071961,,,IND,,Martin,Mather,,,,180 Corwin St,Apt 1,San Francisco,CA,941142301,,,2024-01-04,18000.00,0.00,Professional Services-Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071962,,,IND,,Martin,Mather,,,,180 Corwin St,Apt 1,San Francisco,CA,941142301,,,2024-01-04,1091.97,0.00,Expense Reimbursement-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071983,500071962,SB21B,ORG,Sofitel,,,,,,8555 Beverly Blvd,,Los Angeles,CA,900483303,,,2024-01-04,200.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071993,500071962,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-01-04,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071994,500071962,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-01-04,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071995,500071962,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-01-04,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071996,500071962,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-01-04,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500072003,500071962,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-01-04,87.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500072004,500071962,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-01-04,119.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500072005,500071962,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2024-01-04,119.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500071966,,,IND,,Rustum,Annabel,,,,111 Montgomery St,Apt 6F,Brooklyn,NY,112252053,,,2024-01-12,1076.77,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071967,,,IND,,Rustum,Annabel,,,,111 Montgomery St,Apt 6F,Brooklyn,NY,112252053,,,2024-01-31,1076.78,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500071965,,,ORG,"Verdolino & Lowey, P.C.",,,,,,124 Washington St,Ste 101,Foxboro,MA,020351368,,,2024-01-18,1239.83,0.00,Professional Services-Accounting,,,,,,,,,,,,,,,,,,,,

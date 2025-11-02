@@ -1,0 +1,56 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00633248,500058807,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-12,32184.75,0.00,Salary Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500059081,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-12,2251.43,0.00,Health Insurance Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500059082,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-12,1190.89,0.00,Retirement Benefits Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500059083,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-12,2761.32,0.00,Payroll Taxes Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058814,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-20,523.35,0.00,Retirement Benefits Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058820,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-26,32184.75,0.00,Salary Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500059088,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-26,1714.24,0.00,Retirement Benefits Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500059089,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-26,2251.43,0.00,Health Insurance Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500059090,,,ORG,314 Action,,,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-26,2702.32,0.00,Payroll Taxes Allocation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500057872,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-02,608.14,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058108,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-09,1522.91,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058176,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-16,1233.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058540,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-23,1384.05,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058581,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-30,1136.97,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058816,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-26,198.60,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058823,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-26,50.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058818,,,ORG,Athenium Analytics,,,,,,1 Washington St,Ste 5145,Dover,NH,038203977,,,2023-04-26,14400.36,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058817,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-04-26,8000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058802,,,IND,,Carl,Emma,,,,PO Box 14560,,Washington,DC,200444560,,,2023-04-14,309.56,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058803,500058802,SB21B,ORG,Airbnb,,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2023-04-14,219.61,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058813,,,ORG,DC Office Of Tax And Revenue,,,,,,1101 4Th St SW,# 270,Washington,DC,200244457,,,2023-04-20,467.79,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058811,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2023-04-14,1782.80,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058815,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2023-04-25,1790.40,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058822,,,ORG,Engage USA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2023-04-28,1842.29,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058825,,,ORG,First Data Merchant Services,,,,,,5565 Glenridge Connector NE,,Atlanta,GA,303421651,,,2023-04-03,230.54,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058958,,,ORG,Foster Garvey,,,,,,1000 Potomac St NW,Fl 5,Washington,DC,200073501,,,2023-04-30,-1255.60,0.00,Void of Previously-Issued Check,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058810,,,ORG,Kastle Systems,,,,,,100 F St NE,,Washington,DC,200024224,,,2023-04-14,163.16,0.00,Security Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058805,,,ORG,"PACtion Data, Inc",,,,,,1 Thomas Cir NW,Ste 700,Washington,DC,200055800,,,2023-04-11,5000.00,0.00,Digital List Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058809,,,ORG,Pantheon Analytics,,,,,,2616 38Th Ave SW,,Seattle,WA,981262111,,,2023-04-14,2750.00,0.00,Analytics Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058806,,,ORG,Ramp,,,,,,71 5Th Ave,,New York,NY,100033004,,,2023-04-11,42815.86,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058834,500058806,SB21B,ORG,Bumperactive,,,,,,5907 Burnet Rd,,Austin,TX,787573224,,,2023-04-11,37.68,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058839,500058806,SB21B,ORG,Cloudflare,,,,,,1401 K St NW,,Washington,DC,200053418,,,2023-04-11,251.64,0.00,Web Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058848,500058806,SB21B,ORG,GRF CPAs & Advisors,,,,,,4550 Montgomery Ave,Ste 800N,Bethesda,MD,208143343,,,2023-04-11,2900.00,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058849,500058806,SB21B,ORG,GRF CPAs & Advisors,,,,,,4550 Montgomery Ave,Ste 800N,Bethesda,MD,208143343,,,2023-04-11,707.50,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058835,500058806,SB21B,ORG,Intuit,,,,,,601 Pennsylvania Ave NW,Ste 300N,Washington,DC,200043612,,,2023-04-11,58.30,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058837,500058806,SB21B,ORG,Intuit,,,,,,601 Pennsylvania Ave NW,Ste 300N,Washington,DC,200043612,,,2023-04-11,58.30,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058858,500058806,SB21B,ORG,Joiin.Co,,,,,,6 Babbage Way,Exeter England EX5 2FN United King,Dom,ZZ,00000,,,2023-04-11,36.12,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058859,500058806,SB21B,ORG,Joiin.Co,,,,,,6 Babbage Way,Exeter England EX5 2FN United King,Dom,ZZ,00000,,,2023-04-11,299.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058828,500058806,SB21B,ORG,Miniextensions.Com,,,,,,651 N Broad St,Ste 206,Middletown,DE,197096402,,,2023-04-11,139.25,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058856,500058806,SB21B,ORG,"New Blue Interactive, LLC",,,,,,4201 Connecticut Ave NW,Ste 400,Washington,DC,200081128,,,2023-04-11,10250.00,0.00,Consultant - Digital,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058833,500058806,SB21B,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-04-11,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058838,500058806,SB21B,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-04-11,15264.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058842,500058806,SB21B,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-04-11,106.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058861,500058806,SB21B,ORG,RCN,,,,,,650 College Rd E,Ste 3100,Princeton,NJ,085406629,,,2023-04-11,655.00,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058827,500058806,SB21B,ORG,Safeway,,,,,,320 SW Century Dr,,Bend,OR,977023037,,,2023-04-11,100.58,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058831,500058806,SB21B,ORG,Safeway,,,,,,320 SW Century Dr,,Bend,OR,977023037,,,2023-04-11,121.67,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058864,500058806,SB21B,ORG,Safeway,,,,,,320 SW Century Dr,,Bend,OR,977023037,,,2023-04-11,34.05,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058830,500058806,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-04-11,3278.58,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058832,500058806,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-04-11,4383.10,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058840,500058806,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-04-11,530.00,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058841,500058806,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-04-11,3222.40,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00633248,500058812,,,ORG,RWT Production,,,,,,8932 Orange Hunt Ln,,Annandale,VA,220034125,,,2023-04-18,4313.20,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058808,,,ORG,Windward Strategies,,,,,,5713 Overlea Rd,,Bethesda,MD,208161918,,,2023-04-13,5165.17,0.00,Consultant - Direct Mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058819,,,ORG,Windward Strategies,,,,,,5713 Overlea Rd,,Bethesda,MD,208161918,,,2023-04-26,654.88,0.00,Consultant - Direct Mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00633248,500058821,,,ORG,Windward Strategies,,,,,,5713 Overlea Rd,,Bethesda,MD,208161918,,,2023-04-27,7356.74,0.00,Consultant - Direct Mail,,,,,,,,,,,,,,,,,,,,

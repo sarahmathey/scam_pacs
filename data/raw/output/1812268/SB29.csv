@@ -1,0 +1,39 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00735738,500077974,,,ORG,Asana.com,,,,,,1550 Bryant St,Ste 200,San Francisco,CA,941034853,,,2024-07-19,68.12,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077939,,,ORG,Bitly.com,,,,,,601 W 26th St,Rm 357,New York,NY,100011133,,,2024-07-15,37.22,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077966,,,ORG,Clockify,,,,,,2100 Geng Rd,Ste 210,Palo Alto,CA,943033307,,,2024-07-08,59.88,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500078016,,,CCM,Friends of Anna Thomas,,,,,,PO Box 21521,,Lehigh Valley,PA,180021521,G2024,,2024-07-13,627.50,0.00,In-Kind: Staff Time/Labor (Non-Federal Committee),,,,,Thomas,Anna,,,,,PA,,,,,,,,X,*
+SB29,C00735738,500078019,,,IND,,Getzug,Jacob,,,,705 Saint Marks Ave,Apt 4C,Brooklyn,NY,112163783,,,2024-07-13,12.50,0.00,In-Kind: Staff Time (Non-Federal Committee),,,,,Thomas,Anna,,,,,PA,,,,,,,,,
+SB29,C00735738,500077964,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-07-01,177.65,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077970,,,ORG,Heroku.com,,,,,,415 Mission St,Ste 300,San Francisco,CA,941052504,,,2024-07-09,183.82,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077979,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-07-19,90.90,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500078018,,,IND,,Kramer,Alex,,,,65 S Portland Ave,Apt 4,Brooklyn,NY,112171373,G2024,,2024-07-13,262.50,0.00,In-Kind: Staff Time (Non-Federal Committee),,,,,Thomas,Anna,,,,,PA,,,,,,,,,
+SB29,C00735738,500077980,,,ORG,MailChimp.com,,,,,,675 Ponce De Leon Ave NE,Ste 500,Atlanta,GA,303081884,,,2024-07-19,21.78,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077982,,,ORG,MailChimp.com,,,,,,675 Ponce De Leon Ave NE,Ste 500,Atlanta,GA,303081884,,,2024-07-26,108.88,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077991,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-05,1877.66,0.00,Payroll - Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500078039,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-05,1616.11,0.00,Payroll (Vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500078043,500078039,SB29,IND,,Adkins,Michael,,,,132 Ponus Ave,,Norwalk,CT,068501833,,,2024-07-05,640.42,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078044,500078039,SB29,IND,,Plimpton,Daniel,,,,164 Shutesbury Rd,,Leverett,MA,010549703,,,2024-07-05,23.08,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078045,500078039,SB29,IND,,Rinehart,Ariane,,,,324 Empire Blvd,# 3,Brooklyn,NY,112253507,,,2024-07-05,11.55,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078046,500078039,SB29,IND,,Scott,Elena,,,,6 Spencer Pl,,Brooklyn,NY,112161807,,,2024-07-05,941.06,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078011,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-15,37.50,0.00,Payroll - Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077993,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-22,419.52,0.00,Payroll - Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500078040,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-22,784.71,0.00,Payroll (Vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500078048,500078040,SB29,IND,,Adkins,Michael,,,,132 Ponus Ave,,Norwalk,CT,068501833,,,2024-07-22,640.41,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078049,500078040,SB29,IND,,Plimpton,Daniel,,,,164 Shutesbury Rd,,Leverett,MA,010549703,,,2024-07-22,103.90,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078050,500078040,SB29,IND,,Rinehart,Ariane,,,,324 Empire Blvd,# 3,Brooklyn,NY,112253507,,,2024-07-22,34.62,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078053,500078040,SB29,IND,,Trowbridge,Tory,,,,360 Cabrini Blvd,Apt 6M,New York,NY,100403616,,,2024-07-22,5.78,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00735738,500078013,,,IND,,Plati,Alice,,,,666 Greenwich St,Apt 536,New York,NY,100146333,,,2024-07-25,600.00,0.00,Photography Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500078022,,,IND,,Radin,Sara,,,,5003 Pine St,# 3,Philadelphia,PA,191431614,,,2024-07-13,90.00,0.00,In-Kind: Staff Time (Non-Federal Committee),,,,,Thomas,Anna,,,,,PA,,,,,,,,,
+SB29,C00735738,500078020,,,IND,,Scott,Elena,,,,6 Spencer Pl,,Brooklyn,NY,112161807,,,2024-07-13,35.00,0.00,In-Kind: Staff Time (Non-Federal Committee),,,,,Thomas,Anna,,,,,PA,,,,,,,,,
+SB29,C00735738,500078021,,,IND,,Taglin,Lee,,,,11 Monroe Pl,Apt 3,Brooklyn,NY,112012633,,,2024-07-13,227.50,0.00,In-Kind: Staff Time (Non-Federal Committee),,,,,Thomas,Anna,,,,,PA,,,,,,,,,
+SB29,C00735738,500077973,,,ORG,USPS,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,,2024-07-16,50.00,0.00,Postage,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077975,,,ORG,USPS,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,,2024-07-29,100.00,0.00,Postage,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500076499,,,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101202,,,2024-07-01,27.34,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077948,,,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101202,,,2024-07-09,27.34,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077949,,,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101202,,,2024-07-10,9.84,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077950,,,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101202,,,2024-07-11,256.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077951,,,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101202,,,2024-07-29,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077952,,,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101202,,,2024-07-30,17.63,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077953,,,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101202,,,2024-07-31,14.87,0.00,Travel,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00735738,500077983,,,ORG,Zoom,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-07-29,68.02,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,Non-Contribution Account

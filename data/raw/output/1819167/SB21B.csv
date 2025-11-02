@@ -1,0 +1,30 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00761064,500083530,,,ORG,Spruce Street Compliance,,,,,,PO Box 22611,,Philadelphia,PA,191102611,,,2024-06-06,8566.78,0.00,Compliance Consulting and Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083540,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2024-04-26,70.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500084821,,,ORG,Spruce Street Compliance,,,,,,PO Box 22611,,Philadelphia,PA,191102611,,,2024-04-22,8566.78,0.00,Compliance Consulting and Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083531,,,ORG,Ballard Spahr LLP,,,,,,1909 K St NW,Fl 12,Washington,DC,200061152,,,2024-06-06,270.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083541,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2024-05-24,85.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083532,,,ORG,"EveryAction, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2024-06-29,2268.00,0.00,Database Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083542,,,ORG,Amalgamated Bank,,,,,,1875 K St NW,,Washington,DC,200061238,,,2024-06-28,56.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083613,,,ORG,Base Builder,,,,,,3126 Oakland Ave,,Minneapolis,MN,554071523,,,2024-05-13,7909.92,0.00,Canvassing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083533,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-04-22,1.39,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083534,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-04-29,0.99,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083535,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-01,79.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083545,,,ORG,American Express,,,,,,PO Box 6031,,Carol Stream,IL,601976031,,,2024-05-15,10273.25,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083551,500083545,SB21B,ORG,Salems Market Grill,,,,,,2923 Penn Ave,,Pittsburgh,PA,152011518,,,2024-05-15,251.18,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00761064,500083552,500083545,SB21B,ORG,Selamis Turkish Kebab House,,,,,,5501 Centre Ave,,Pittsburgh,PA,152321221,,,2024-05-15,244.99,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00761064,500083543,500083545,SB21B,ORG,AirBNB,,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-05-15,686.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00761064,500083544,500083545,SB21B,ORG,Econo Car Truck & Van Rental,,,,,,1110 Saw Mill Run Blvd,,Pittsburgh,PA,152261110,,,2024-05-15,780.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00761064,500083556,500083545,SB21B,ORG,US Coachways,,,,,,100 Saint Marys Ave,Ste 2B,Staten Island,NY,103051839,,,2024-05-15,5417.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00761064,500083547,500083545,SB21B,ORG,Holiday Inn Express,,,,,,875 Greentree Rd,,Pittsburgh,PA,152203508,,,2024-05-15,1420.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00761064,500083548,500083545,SB21B,ORG,Kabab N Curry,,,,,,2890 Banksville Rd,,Pittsburgh,PA,152162816,,,2024-05-15,1074.63,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00761064,500083585,,,ORG,Asian Pacific Islander Political Alliance,,,,,,PO Box 22611,,Philadelphia,PA,191102611,,,2024-06-28,16807.19,0.00,Staff Time & Overhead,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083536,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-20,0.40,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083576,,,ORG,Base Builder,,,,,,3126 Oakland Ave,,Minneapolis,MN,554071523,,,2024-05-13,4304.59,0.00,Phonebanking,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083586,,,ORG,Spruce Street Compliance,,,,,,PO Box 22611,,Philadelphia,PA,191102611,,,2024-05-13,8572.72,0.00,"Compliance Consulting, Postage, and Subscription",,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500080137,,,ORG,Spruce Street Compliance,,,,,,PO Box 22611,,Philadelphia,PA,191102611,,,2024-04-22,17150.99,0.00,Compliance Consulting and Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083537,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-06-03,79.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083587,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-06-30,79.00,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083538,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-06-17,0.40,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500083539,,,ORG,"Bubbleton, LLC",,,,,,1100 S Front St,,Philadelphia,PA,191475514,,,2024-05-13,1668.50,0.00,Event Space Rental and Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00761064,500084799,,,ORG,Base Builder,,,,,,3126 Oakland Ave,,Minneapolis,MN,554071523,,,2024-05-13,3068.97,0.00,Phonebanking,,,,,,,,,,,,,,,,,,,,

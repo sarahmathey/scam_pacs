@@ -1,0 +1,26 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00433680,500279961,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-09,98.75,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500280108,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-13,197.50,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500282753,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-20,8.23,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305575,,,ORG,"Campaign Compliance, Inc.",,,,,,3242 Cummins Way,,Missoula,MT,598023222,,,2023-02-14,3000.58,0.00,Compliance consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305577,,,ORG,Chraca Friedman Group,,,,,,220 7Th St NE,,Washington,DC,200026076,,,2023-02-27,10000.00,0.00,PAC fundraising consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305570,,,ORG,Holly Giarraputo,,,,,,3242 Cummins Way,,Missoula,MT,598023222,,,2023-02-01,100.00,0.00,Petty cash,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305571,,,ORG,Holly Giarraputo,,,,,,3242 Cummins Way,,Missoula,MT,598023222,,,2023-02-01,100.00,0.00,Petty cash,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305572,,,ORG,Holly Giarraputo,,,,,,3242 Cummins Way,,Missoula,MT,598023222,,,2023-02-01,100.00,0.00,Petty cash,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305573,,,ORG,Holly Giarraputo,,,,,,3242 Cummins Way,,Missoula,MT,598023222,,,2023-02-01,100.00,0.00,Petty cash,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305574,,,ORG,Holly Giarraputo,,,,,,3242 Cummins Way,,Missoula,MT,598023222,,,2023-02-01,100.00,0.00,Petty cash,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305545,,,ORG,Mastercard,,,,,,PO Box 31615,,Billings,MT,591071615,,,2023-02-22,8075.25,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305548,500305545,SB21B,ORG,Avis Rent-A-Car,,,,,,850 Gallatin Field Rd,,Belgrade,MT,597148541,,,2023-02-22,742.42,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305549,500305545,SB21B,ORG,Avis Rent-A-Car,,,,,,850 Gallatin Field Rd,,Belgrade,MT,597148541,,,2023-02-22,246.05,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305555,500305545,SB21B,ORG,Avis Rent-A-Car,,,,,,850 Gallatin Field Rd,,Belgrade,MT,597148541,,,2023-02-22,232.48,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305546,500305545,SB21B,ORG,Delta Air,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2023-02-22,745.40,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305547,500305545,SB21B,ORG,Delta Air,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2023-02-22,1792.40,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305551,500305545,SB21B,ORG,Delta Air,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2023-02-22,2292.40,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305552,500305545,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2023-02-22,1572.15,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305560,,,ORG,Mastercard,,,,,,PO Box 31615,,Billings,MT,591071615,,,2023-02-22,1616.94,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305562,500305560,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2023-02-22,374.70,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305563,500305560,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2023-02-22,1218.24,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305564,,,ORG,Mastercard,,,,,,PO Box 31615,,Billings,MT,591071615,,,2023-02-22,2724.11,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500305567,500305564,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-02-22,114.60,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305568,500305564,SB21B,ORG,Delta Air,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2023-02-22,1188.20,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500305569,500305564,SB21B,ORG,Delta Air,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2023-02-22,1188.20,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*

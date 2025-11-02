@@ -1,0 +1,271 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00147512,500453562,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-06,938.10,0.00,Contribution processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453907,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-13,734.72,0.00,Contribution processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453908,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-20,1120.93,0.00,Contribution processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453909,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-27,848.82,0.00,Contribution processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458467,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-31,655.79,0.00,Contribution processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458259,,,ORG,Addison Strategies,,,,,,205 Yoakum Pkwy,Unit 1524,Alexandria,VA,223043840,,,2023-08-22,46000.00,0.00,Administrative & Managerial Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458251,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-08-10,100.98,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458252,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-08-25,300.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453594,,,PAC,AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC),,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2023-08-02,157160.99,0.00,Credit card payment,,C00040535,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453628,500453594,SB21B,ORG,Ace Hotel,,,,,,600 Carondelet St,,New Orleans,LA,701303504,,,2023-06-30,311.50,0.00,Lodging services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453647,500453594,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-07-01,435.81,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453648,500453594,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-07-01,435.81,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453650,500453594,SB21B,PAC,AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC),,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2023-07-01,89.27,0.00,Card services disbursement,,C00040535,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453747,500453594,SB21B,PAC,AMERICAN EXPRESS COMPANY POLITICAL ACTION COMMITTEE (AXPPAC),,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2023-07-20,350.00,0.00,Card service fee,,C00040535,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453731,500453594,SB21B,ORG,Amtrak,,,,,,1712 K St,,Washington,DC,20001,,,2023-07-18,604.00,0.00,Train travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453732,500453594,SB21B,ORG,Amtrak,,,,,,1712 K St,,Washington,DC,20001,,,2023-07-18,412.00,0.00,Train travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453739,500453594,SB21B,ORG,Amtrak,,,,,,1712 K St,,Washington,DC,20001,,,2023-07-19,696.00,0.00,Train travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453757,500453594,SB21B,ORG,Amtrak,,,,,,1712 K St,,Washington,DC,20001,,,2023-07-20,242.00,0.00,Train travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453787,500453594,SB21B,ORG,Amtrak,,,,,,1712 K St,,Washington,DC,20001,,,2023-07-23,70.00,0.00,Train travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453735,500453594,SB21B,ORG,Bill.com,,,,,,6220 America Center Dr,Ste 100,Alviso,CA,950022563,,,2023-07-18,83.74,0.00,Payment processing services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453604,500453594,SB21B,ORG,Cardinal Expo Inc.,,,,,,4330 Michoud Blvd,,New Orleans,LA,701292232,,,2023-06-28,2980.80,0.00,Trade show exhibit services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453785,500453594,SB21B,ORG,Colonial Parking,,,,,,1050 Thomas Jefferson St NW,Ste 100,Washington,DC,200073819,,,2023-07-23,100.00,0.00,Parking fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453738,500453594,SB21B,ORG,CXRA Cafe,,,,,,132 W 31st St,Fl 6,New York,NY,100013470,,,2023-07-19,9785.14,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453717,500453594,SB21B,PAC,DELTA AIR LINES PAC,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2023-07-09,652.80,0.00,Airfare expenses,,C00104802,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453620,500453594,SB21B,ORG,Delta Airlines,,,,,,PO Box 20766,,Atlanta,GA,303200766,,,2023-06-29,30.00,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453708,500453594,SB21B,ORG,Delta Airlines,,,,,,PO Box 20766,,Atlanta,GA,303200766,,,2023-07-05,30.00,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453809,500453594,SB21B,ORG,Delta Airlines,,,,,,PO Box 20766,,Atlanta,GA,303200766,,,2023-07-25,200.00,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453656,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-01,36.21,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453673,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-02,45.14,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453682,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-03,68.27,0.00,Dinner expenses,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453700,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-04,30.89,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453707,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-05,38.08,0.00,Rideshare,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453710,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-06,30.25,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453711,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-06,22.92,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453715,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-08,56.20,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453721,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-10,106.08,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453726,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-12,33.58,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453727,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-13,56.99,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453729,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-17,56.77,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453737,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-18,35.42,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453745,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-19,31.45,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453749,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-20,100.09,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453753,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-20,37.65,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453762,500453594,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-21,74.65,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453649,500453594,SB21B,PAC,FedEx,,,,,,942 Shady Grove Rd S,,Memphis,TN,381204117,,,2023-07-01,273.63,0.00,Postage and shipping expenses,,C00068692,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453812,500453594,SB21B,PAC,FedEx,,,,,,942 Shady Grove Rd S,,Memphis,TN,381204117,,,2023-07-27,483.17,0.00,Postage and shipping expenses,,C00068692,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453733,500453594,SB21B,ORG,Flowers.com,,,,,,118 Shawan Rd,,Cockeysville,MD,210301318,,,2023-07-18,209.16,0.00,Bouquet purchase,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453713,500453594,SB21B,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-07,467.77,0.00,Mobile licensing services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453714,500453594,SB21B,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-07,381.60,0.00,Mobile licensing services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453601,500453594,SB21B,ORG,Heard Dat Kitchen,,,,,,2520 Felicity St,,New Orleans,LA,701132810,,,2023-06-28,8621.25,0.00,Catering services and expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453613,500453594,SB21B,ORG,Heard Dat Kitchen,,,,,,2520 Felicity St,,New Orleans,LA,701132810,,,2023-06-29,7759.13,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453759,500453594,SB21B,ORG,High Style Event,,,,,,445 SILLS Rd,,Yaphank,NY,11980,,,2023-07-21,2960.31,0.00,Furniture rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453614,500453594,SB21B,ORG,Kelly Green Sonic League LLC,,,,,,1131 Decatur St,,New Orleans,LA,701162605,,,2023-06-29,350.00,0.00,DJ service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453761,500453594,SB21B,ORG,La Grande Boucherie,,,,,,145 W 53rd St,,New York,NY,100196005,,,2023-07-21,170.12,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453779,500453594,SB21B,ORG,La Grande Boucherie,,,,,,145 W 53rd St,,New York,NY,100196005,,,2023-07-23,11818.88,0.00,Catering expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453763,500453594,SB21B,ORG,LaGos Time Square,,,,,,727 7th Ave,,New York,NY,100196805,,,2023-07-21,52.26,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453771,500453594,SB21B,ORG,LaGos Time Square,,,,,,727 7th Ave,,New York,NY,100196805,,,2023-07-22,3776.49,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453629,500453594,SB21B,ORG,Lincoln Center for the Performing Arts,,,,,,LINCOLN CENTER Plz,,New York,NY,10023,,,2023-06-30,164.00,0.00,Exhibit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453756,500453594,SB21B,ORG,Lincoln Center for the Performing Arts,,,,,,LINCOLN CENTER Plz,,New York,NY,10023,,,2023-07-20,11340.00,0.00,Venue rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453740,500453594,SB21B,ORG,Macao Trading Company,,,,,,311 Church St,,New York,NY,100132491,,,2023-07-19,275.83,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453780,500453594,SB21B,ORG,Macao Trading Company,,,,,,311 Church St,,New York,NY,100132491,,,2023-07-23,633.51,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453627,500453594,SB21B,ORG,New Orleans Jazz Heritage Museum,,,,,,400 Esplanade Ave,,New Orleans,LA,701162015,,,2023-06-30,5922.55,0.00,Exhibit and venue service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453781,500453594,SB21B,ORG,Nobu New York,,,,,,195 Broadway,,New York,NY,100073100,,,2023-07-23,289.32,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453728,500453594,SB21B,ORG,Ocean Prime,,,,,,1341 G St NW,,Washington,DC,200053105,,,2023-07-14,3996.90,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453755,500453594,SB21B,ORG,Ocean Prime,,,,,,1341 G St NW,,Washington,DC,200053105,,,2023-07-20,11912.36,0.00,Catering services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453705,500453594,SB21B,ORG,"PayPal, Inc.",,,,,,2211 N 1st St,,San Jose,CA,951312021,,,2023-07-05,4500.00,0.00,Payment processing services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453606,500453594,SB21B,ORG,Pose NOLA,,,,,,336 Camp St,,New Orleans,LA,701302827,,,2023-06-28,600.00,0.00,Exhibit service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453600,500453594,SB21B,ORG,Revive Events & Catering,,,,,,203 Florida Ave NW,,Washington,DC,200011801,,,2023-06-27,9265.00,0.00,Catering services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453808,500453594,SB21B,ORG,Revive Events & Catering,,,,,,203 Florida Ave NW,,Washington,DC,200011801,,,2023-07-25,4000.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453772,500453594,SB21B,ORG,Roxy Hotel,,,,,,2 Avenue of the Americas,,New York,NY,100132401,,,2023-07-22,218.28,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453782,500453594,SB21B,ORG,Roxy Hotel,,,,,,2 Avenue of the Americas,,New York,NY,100132401,,,2023-07-23,174.23,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453667,500453594,SB21B,ORG,"RPM Xpo, Inc.",,,,,,242 WESTFORK Ct,Ste A,Lithia Springs,GA,30122,,,2023-07-02,2217.97,0.00,Trade show exhibit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453608,500453594,SB21B,ORG,Saint John,,,,,,1117 Decatur St,,New Orleans,LA,701162605,,,2023-06-28,428.66,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453607,500453594,SB21B,PAC,Southwest Airlines Freedom Fund PAC,,,,,,PO Box 36611,Hdq 4GA,Dallas,TX,752351611,,,2023-06-28,436.00,0.00,Airfare expenses,,C00341602,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453723,500453594,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-11,530.00,0.00,Political outreach services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453725,500453594,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-12,3180.00,0.00,Political outreach services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453704,500453594,SB21B,ORG,Ten Eighty LLC,,,,,,1080 Tilman Rd,,Charlottesville,VA,229016332,,,2023-07-05,5000.00,0.00,Multimedia Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453760,500453594,SB21B,ORG,Topaz Thai,,,,,,127 W 56th St,,New York,NY,100193809,,,2023-07-21,389.86,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453610,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-28,56.94,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453612,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-28,8.45,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453624,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-28,16.62,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453616,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,54.00,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453617,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,41.10,0.00,Takeout,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453618,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,36.02,0.00,Takeout,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453621,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,19.12,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453622,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,18.10,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453623,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,18.09,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453625,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,5.00,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453626,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-29,3.01,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453630,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,65.01,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453631,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,50.67,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453632,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,49.93,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453633,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,45.87,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453634,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,44.67,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453635,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,43.60,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453636,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,43.59,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453637,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,43.37,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453638,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,35.11,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453639,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,32.23,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453640,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,31.18,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453641,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,16.60,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453642,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,11.61,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453643,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,11.61,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453644,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-06-30,10.89,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453653,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,41.73,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453654,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,40.92,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453655,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,39.71,0.00,Takeout,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453657,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,33.06,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453658,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,25.00,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453659,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,24.11,0.00,Takeout,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453660,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,23.27,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453661,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,19.93,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453663,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,12.76,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453664,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,5.75,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453665,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,5.75,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453666,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-01,5.00,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453671,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-02,52.92,0.00,Takeout,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453672,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-02,49.82,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453674,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-02,43.20,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453675,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-02,35.34,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453676,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-02,31.54,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453678,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-02,16.67,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453683,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,44.48,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453684,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,38.26,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453685,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,30.34,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453686,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,27.37,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453687,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,17.43,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453688,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,16.48,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453689,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,13.11,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453690,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-03,10.83,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453693,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,83.50,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453694,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,56.90,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453695,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,56.90,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453696,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,53.52,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453698,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,36.61,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453699,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,31.16,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453701,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,25.12,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453702,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,22.65,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453703,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-04,14.22,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453706,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-05,61.93,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453709,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-06,54.00,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453716,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-09,42.12,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453718,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-09,52.28,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453719,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-09,37.01,0.00,Takeout,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453720,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-09,27.84,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453722,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-10,29.61,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453724,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-11,49.00,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453730,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-17,35.47,0.00,Takeout,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453741,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-19,142.52,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453742,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-19,97.81,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453748,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-20,112.88,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453750,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-20,63.55,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453751,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-20,50.70,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453752,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-20,49.53,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453754,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-20,7.40,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453764,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-21,48.63,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453765,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-21,33.18,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453766,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-21,27.13,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453767,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-21,25.75,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453768,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-21,21.72,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453770,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-21,19.35,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453773,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-22,51.22,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453774,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-22,43.85,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453775,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-22,41.37,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453776,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-22,33.95,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453777,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-22,25.97,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453778,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-22,6.63,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453784,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,102.73,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453786,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,90.12,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453788,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,67.54,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453789,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,56.33,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453790,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,44.52,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453791,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,43.02,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453792,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,42.11,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453793,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,41.46,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453794,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,32.68,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453795,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,28.29,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453796,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,27.78,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453797,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,23.55,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453799,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,16.18,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453800,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,11.26,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453801,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-23,8.77,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453802,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-24,173.62,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453803,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-24,141.10,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453804,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-24,75.32,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453805,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-24,74.57,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453806,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-24,28.14,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453807,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-24,17.56,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453810,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,68.61,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453811,500453594,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,29.84,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453602,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-06-28,3175.64,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453603,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-06-28,3123.32,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453605,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-06-28,1657.95,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453609,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-06-28,75.92,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453668,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-07-02,2009.45,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453669,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-07-02,1750.64,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453691,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-07-04,265.58,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453692,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-07-04,204.97,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453697,500453594,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-07-04,48.49,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453712,500453594,SB21B,ORG,Waldorf Astoria,,,,,,1100 Pennsylvania Ave NW,,Washington,DC,200042501,,,2023-07-07,17348.48,0.00,Venue rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453615,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-06-29,123.60,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453619,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-06-29,34.95,0.00,Lunch expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453645,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-06-30,2.50,0.00,Restaurant merch,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453646,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-06-30,2.50,0.00,Restaurant merch,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453651,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-01,71.28,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453670,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-02,117.00,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453680,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-03,335.37,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453681,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-03,135.16,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453734,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-18,162.56,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453743,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-19,90.35,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453744,500453594,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-19,87.63,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453596,,,ORG,Atlantech Online,,,,,,1010 Wayne Ave,Ste 630,Silver Spring,MD,209105620,,,2023-08-02,74.90,0.00,Telecommunication Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453595,,,ORG,CBC Pac,,,,,,455 Massachusetts Ave NW,,Washington,DC,200012621,,,2023-08-02,1500.00,0.00,August rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458253,,,ORG,Comcast,,,,,,900 Michigan Ave NE,,Washington,DC,200171833,,,2023-08-15,540.27,0.00,Telecommunication Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500463459,,,PAC,DELTA AIR LINES PAC,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2023-08-07,784.10,0.00,Airfare expenses,,C00104802,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453589,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2023-08-03,20.21,0.00,Merchant services disbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453590,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2023-08-03,43.86,0.00,Merchant services disbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453591,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2023-08-03,70.69,0.00,Merchant services disbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458263,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2023-08-28,50706.77,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500459332,500458263,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-07-18,49.95,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459331,500458263,SB21B,ORG,Amtrak,,,,,,1712 K St,,Washington,DC,20001,,,2023-07-18,514.00,0.00,Train travel expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459373,500458263,SB21B,ORG,Amtrak,,,,,,1712 K St,,Washington,DC,20001,,,2023-07-26,161.00,0.00,Train travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459327,500458263,SB21B,ORG,Apple,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-07-06,8.47,0.00,Subscription services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459333,500458263,SB21B,ORG,Colonial Parking,,,,,,1050 Thomas Jefferson St NW,Ste 100,Washington,DC,200073819,,,2023-07-18,26.00,0.00,Parking fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459346,500458263,SB21B,ORG,Colonial Parking,,,,,,1050 Thomas Jefferson St NW,Ste 100,Washington,DC,200073819,,,2023-07-21,26.00,0.00,Parking fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459336,500458263,SB21B,ORG,DC Parking Meters,,,,,,101 Constitution Ave NW,,Washington,DC,200012133,,,2023-07-20,27.00,0.00,Parking fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459337,500458263,SB21B,ORG,DC Parking Meters,,,,,,101 Constitution Ave NW,,Washington,DC,200012133,,,2023-07-20,25.00,0.00,Parking fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459362,500458263,SB21B,ORG,DC Parking Meters,,,,,,101 Constitution Ave NW,,Washington,DC,200012133,,,2023-07-25,35.00,0.00,Parking fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459334,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-18,9.99,0.00,Takeout expenses,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459335,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-18,9.99,0.00,Takeout expenses,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459357,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-25,107.36,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459358,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-25,74.47,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459359,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-25,49.46,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459360,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-25,39.38,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459363,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-25,34.09,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459374,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-26,82.89,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459382,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-27,64.08,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459911,500458263,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2023-07-28,34.47,0.00,Takeout,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459338,500458263,SB21B,ORG,Eddie V's Restaurant,,,,,,73040 El Paseo,,Palm Desert,CA,922604211,,,2023-07-21,40880.00,0.00,Catering expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459328,500458263,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-07-17,1063.25,0.00,Multimedia and Fundraising services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459329,500458263,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-07-17,350.45,0.00,Multimedia and Fundraising services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459371,500458263,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-07-26,1608.75,0.00,Multimedia and Fundraising expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459325,500458263,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-07-06,155.00,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459326,500458263,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2023-07-06,10.00,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459348,500458263,SB21B,ORG,Ocean Prime,,,,,,1341 G St NW,,Washington,DC,200053105,,,2023-07-24,67.08,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459330,500458263,SB21B,ORG,"Shopify, Inc.",,,,,,33 Montgomery St,# 750,San Francisco,CA,941044522,,,2023-07-17,41.34,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459355,500458263,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2023-07-25,107.99,0.00,Stationary expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459368,500458263,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2023-07-25,15.00,0.00,Stationary expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459351,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,1369.83,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459352,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,660.04,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459353,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,637.08,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459354,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,358.30,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459361,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,35.66,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459365,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,26.40,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459369,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-25,8.78,0.00,Stationary expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459372,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-26,1581.48,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459376,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-26,60.87,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459377,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-26,56.09,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459378,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-26,11.66,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459380,500458263,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-07-26,90.84,0.00,Rideshare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500459375,500458263,SB21B,ORG,Zola's Restaurant,,,,,,800 F St NW,,Washington,DC,200041505,,,2023-07-26,73.18,0.00,Dinner expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500453597,,,ORG,"Frobenius, Conaway & Co., PC",,,,,,6411 Ivy Ln,Ste 308,Greenbelt,MD,207701405,,,2023-08-03,1412.50,0.00,Accounting services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458255,,,ORG,Kalik & Associates,,,,,,PO Box 341263,,Bethesda,MD,208271263,,,2023-08-18,1750.00,0.00,Political consulting and compliance services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458256,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2023-08-21,20000.00,0.00,Digital  fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458260,,,ORG,Microsoft Corporation,,,,,,901 K St NW,Fl 11,Washington,DC,200016441,,,2023-08-24,34.98,0.00,Software & Support,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458830,,,IND,,Streeter,Princess,,,,848 Ames Hill Dr,,Tewksbury,MA,018761170,,,2023-08-07,2000.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453599,,,ORG,Wall Street Journal,,,,,,200 Liberty St,,New York,NY,102811003,,,2023-08-04,41.33,0.00,Subscription Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500453593,,,IND,,Washington,Crystal,,,,9926 Rhodes Way,,White Plains,MD,206952891,,,2023-08-02,2500.00,0.00,NY Retreat,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458249,,,ORG,"Your Way IT Solutions, LLC",,,,,,9301 Largo Dr W,Ste 204,Upper Marlboro,MD,207744884,,,2023-08-07,500.00,0.00,Software support,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500458262,,,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-08-28,498.20,0.00,Software & Support,,,,,,,,,,,,,,,,,,,,

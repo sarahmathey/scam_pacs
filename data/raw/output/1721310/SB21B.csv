@@ -1,0 +1,38 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00491936,500027170,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-01-26,145.65,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027171,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-02-23,145.40,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027172,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-03-24,162.61,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027173,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-04-26,208.39,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027174,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-05-26,161.41,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027303,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-06-26,145.51,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027164,,,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-01-05,89.09,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027321,500027164,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-01-05,89.09,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027165,,,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-03-01,89.09,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027322,500027165,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-03-01,89.09,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027331,,,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-03-06,89.09,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027332,500027331,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-03-06,89.09,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027166,,,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-03-20,89.09,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027323,500027166,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-03-20,89.09,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027167,,,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-13,337.75,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027329,500027167,SB21B,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-13,-1.34,0.00,Early Pay Discount,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027330,500027167,SB21B,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-13,250.00,0.00,Membership Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027328,500027167,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-04-13,89.09,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027168,,,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-05-18,84.00,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027325,500027168,SB21B,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-05-18,-5.09,0.00,Early Pay Discount,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027324,500027168,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-05-18,89.09,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027169,,,PAC,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-06-13,87.75,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027326,500027169,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-06-13,89.09,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027327,500027169,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-06-13,-1.34,0.00,Early Pay Discount,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00491936,500027177,,,CCM,Bennet For Colorado,,,,,,PO Box 3078,,Denver,CO,802013078,,,2023-01-27,509.54,0.00,Staff Salary Allocation,,C00458398,,,Bennet,Michael,F,,,,CO,,,,,,,,,
+SB21B,C00491936,500027178,,,CCM,Bennet For Colorado,,,,,,PO Box 3078,,Denver,CO,802013078,,,2023-02-14,553.05,0.00,Staff Salary Allocation,,C00458398,,,Bennet,Michael,F,,,,CO,,,,,,,,,
+SB21B,C00491936,500027179,,,CCM,Bennet For Colorado,,,,,,PO Box 3078,,Denver,CO,802013078,,,2023-03-06,553.05,0.00,Staff Salary Allocation,,C00458398,,,Bennet,Michael,F,,,,CO,,,,,,,,,
+SB21B,C00491936,500027159,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-01-27,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027160,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-02-22,506.95,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027161,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-03-15,500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027162,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-04-07,506.95,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027163,,,ORG,Blue Wave Political Partners,,,,,,122 C St NW,Ste 360,Washington,DC,200012149,,,2023-05-03,500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027301,,,COM,"Democracy Engine, LLC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,,2023-06-28,284.56,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027302,,,COM,"Democracy Engine, LLC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,,2023-06-30,200.00,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027310,,,IND,,Kauffman,Kim,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-03-06,-292.00,0.00,Void of Previously-Issued Check,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027175,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-04-20,300.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00491936,500027176,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-05-26,300.00,0.00,Software,,,,,,,,,,,,,,,,,,,,

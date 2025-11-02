@@ -1,0 +1,39 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00882233,B-34431,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-05,5642.44,,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34436,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-05,1253.56,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34437,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-06,14.83,,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34438,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-13,132.17,,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34439,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-19,5642.44,,PAYROLL,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34444,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-19,1240.06,,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34445,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-20,14.83,,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34446,,,ORG,"ADP, Inc",,,,,,5451 East Williams Boulevard,,Tucson,AZ,85711,G2024,,2024-12-27,16.00,,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34464,,,ORG,American Airlines,,,,,,1 Skyview Drive,,Fort Worth,TX,76155,G2024,,2024-12-18,962.01,,TRAVEL,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34435,B-34431,,ORG,Blueprint Capital Services,,,,,,1226 Greenridge Avenue,,Lithonia,GA,30058,G2024,,2024-12-05,1500.00,,CONTRACTOR - PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34443,B-34439,,ORG,Blueprint Capital Services,,,,,,1226 Greenridge Avenue,,Lithonia,GA,30058,G2024,,2024-12-19,1500.00,,CONTRACTOR - PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34468,,,ORG,Campaign Monitor,,,,,,11 Lea Avenue,,Nashville,TN,37210,G2024,,2024-12-24,69.00,,Subscription,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34447,,,ORG,Compliance Alliance LLC,,,,,,1705 Shepard Street,,New Orleans,LA,70114,G2024,,2024-12-02,500.00,,DIGATAL ORGANIZING,003,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34463,,,ORG,Delta AirLines,,,,,,1030 Delta Boulevard,,Atlanta,GA,30354,G2024,,2024-12-16,125.00,,TRAVEL,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34461,,,ORG,EIG-Constant Contact,,,,,,1601 Trapelo Road,,Waltham,MA,02451,G2024,,2024-12-10,161.50,,ADMINISTRATIVE SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34460,,,ORG,EmailOctopus,,,,,,"86-90 Paul Street, London, UK",,,,24,G2024,,2024-12-09,54.00,,ADMINISTRATIVE SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34434,B-34431,,IND,,Foley,Nantambu,,,,8960 Old Southwick Pass,,Alpharetta,GA,30022,G2024,,2024-12-05,1600.39,,PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34442,B-34439,,IND,,Foley,Nantambu,,,,8960 Old Southwick Pass,,Alpharetta,GA,30022,G2024,,2024-12-19,1600.39,,PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34433,B-34431,,IND,,Foley,Verlyn,O,,,8860 Old Southwick Pass,,Johns Creek,GA,30022,G2024,,2024-12-05,1225.59,,PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34441,B-34439,,IND,,Foley,Verlyn,O,,,8860 Old Southwick Pass,,Johns Creek,GA,30022,G2024,,2024-12-19,1225.59,,PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34449,,,ORG,GoDaddy,,,,,,2155 E GoDaddy Way,,Tempe,AZ,85284,G2024,,2024-12-05,14.98,,Subscription,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34469,,,ORG,GoDaddy,,,,,,2155 E GoDaddy Way,,Tempe,AZ,85284,G2024,,2024-12-26,16.99,,Subscription,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34472,,,ORG,Google,,,,,,1600 Amphitheatre Parkway,,Mountain View,CA,94043,G2024,,2024-12-26,200.00,,Subscription,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34448,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,G2024,,2024-12-03,900.00,,ADMINISTRATIVE SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34456,,,ORG,Intuit,,,,,,2700 Coast Avenue,,Mountain View,CA,94043,G2024,,2024-12-02,105.00,,ACCOUNTING SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34776,,,ORG,Jewish Believers and Friends Inc.,,,,,,950 Pine Grove Road,,Roswell,GA,30075,G2024,,2024-11-27,25000.00,,YOUTH COMMUNITY-BUILDING  INITIATIVE,004,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34450,,,ORG,OBR Compliance LLC,,,,,,5305 Limestone Road,Ste 200,Wilmington,DE,19808,G2024,,2024-12-10,8100.00,,DIGITAL ORGANIZING,003,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34432,B-34431,,IND,,Robain,Jeffery,,,,8960 Old Southwick Pass,,Alpharetta,GA,30022,G2024,,2024-12-05,1316.46,,PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34440,B-34439,,IND,,Robain,Jeffery,,,,8960 Old Southwick Pass,,Alpharetta,GA,30022,G2024,,2024-12-19,1316.46,,PAYROLL,001,,,,,,,,,,,,,,,,,,X,"MEMO: Subvendor of-ADP, Inc"
+SB29,C00882233,B-34452,,,ORG,State of Georgia - Secretary of State,,,,,,313 West Tower,2 Martin Luther King Jr. Dr.,Atlanta,GA,303341530,G2024,,2024-12-05,250.00,,Annual Registration,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34470,,,ORG,Stubhub,,,,,,175 Greenwich Street,Floor 59,New York,NY,10007,G2024,,2024-12-24,692.87,,STAFF APPRECIATION,001,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34457,,,ORG,TextLA SM,,,,,,3300 Camp Bowie Boulevard,,Fort Worth,TX,76107,G2024,,2024-12-02,100.00,,Digital Marketing,004,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34455,,,ORG,TextLA SM,,,,,,3300 Camp Bowie Boulevard,,Fort Worth,TX,76107,G2024,,2024-12-06,50.00,,Digital Marketing,004,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34465,,,ORG,TextLA SM,,,,,,3300 Camp Bowie Boulevard,,Fort Worth,TX,76107,G2024,,2024-12-18,250.00,,Digital Marketing,004,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34467,,,ORG,TextLA SM,,,,,,3300 Camp Bowie Boulevard,,Fort Worth,TX,76107,G2024,,2024-12-23,50.00,,Digital Marketing,004,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34474,,,ORG,TextLA SM,,,,,,3300 Camp Bowie Boulevard,,Fort Worth,TX,76107,G2024,,2024-12-30,50.00,,Digital Marketing,004,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34458,,,ORG,Upwork,,,,,,475 Brannan Street,Ste 430,San Francisco,CA,94107,G2024,,2024-12-03,424.38,,DIGTAL ORGANIZING,004,,,,,,,,,,,,,,,,,,,
+SB29,C00882233,B-34459,,,ORG,Zoom,,,,,,55 North Almaden Boulevard,6th Floor,San Jose,CA,95113,G2024,,2024-12-03,15.99,,INTERNET MEETINGS,001,,,,,,,,,,,,,,,,,,,

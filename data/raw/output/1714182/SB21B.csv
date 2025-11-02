@@ -1,0 +1,72 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00628354,500045210,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-06-12,3698.42,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045440,,,IND,,Hwang,Annie,,,,PO Box 4146,,Saint Paul,MN,551040146,,,2023-05-31,252.78,0.00,Travel & Postage Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045441,500045440,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-05-31,17.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045442,500045440,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-05-31,225.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045361,,,ORG,Minneapolis Club,,,,,,729 2nd Ave S,,Minneapolis,MN,554022463,,,2023-05-31,1034.25,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045362,,,ORG,Susan Gage Caterers,,,,,,7411 Livingston Rd,Ste 101,Oxon Hill,MD,207451747,,,2023-05-31,2468.70,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045203,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-05-01,2437.08,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045453,,,ORG,Campaign Compliance Solutions,,,,,,370 Selby Ave,Ste 201,Saint Paul,MN,551022855,,,2023-06-30,1625.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045353,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-04-24,1390.48,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045363,,,ORG,Cardmember Service,,,,,,PO Box 6353,,Fargo,ND,581256353,,,2023-06-22,2960.09,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045370,500045363,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-06-22,-478.90,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045371,500045363,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-06-22,-225.90,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045372,500045363,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-06-22,-248.90,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045373,500045363,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2023-06-22,282.89,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045364,500045363,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-22,515.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045374,500045363,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2023-06-22,274.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045365,500045363,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-22,318.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045375,500045363,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2023-06-22,642.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045366,500045363,SB21B,ORG,Carey International,,,,,,4530 Wisconsin Ave NW,Ste 500,Washington,DC,200164643,,,2023-06-22,405.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045376,500045363,SB21B,ORG,Southwest Airlines,,,,,,PO Box 36647,,Dallas,TX,752351647,,,2023-06-22,389.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045367,500045363,SB21B,ORG,Carey International,,,,,,4530 Wisconsin Ave NW,Ste 500,Washington,DC,200164643,,,2023-06-22,149.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045377,500045363,SB21B,ORG,Southwest Airlines,,,,,,PO Box 36647,,Dallas,TX,752351647,,,2023-06-22,268.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045368,500045363,SB21B,ORG,Carey International,,,,,,4530 Wisconsin Ave NW,Ste 500,Washington,DC,200164643,,,2023-06-22,130.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045378,500045363,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2023-06-22,182.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045369,500045363,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-06-22,178.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045379,500045363,SB21B,ORG,United Airlines,,,,,,609 Main St,Fl 12,Houston,TX,770023167,,,2023-06-22,172.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045204,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-05-08,4862.86,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045454,,,ORG,NGP VAN,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2023-06-30,318.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045354,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-04-17,744.78,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045205,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-05-15,1531.43,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045355,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-04-10,1000.66,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045285,,,ORG,Campaign Finance Consultants,,,,,,750 1st St SE,Ste 1070,Washington,DC,200028008,,,2023-06-27,18032.70,0.00,Fundraising Consulting & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045295,,,ORG,Alaska Air,,,,,,19300 International Blvd,,Seattle,WA,981885304,,,2023-06-27,452.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045206,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-05-22,4641.88,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045526,,,ORG,Cardmember Service,,,,,,PO Box 6353,,Fargo,ND,581256353,,,2023-04-11,3768.59,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045530,500045526,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,Fl 4W,Washington,DC,200011401,,,2023-04-11,674.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045531,500045526,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-04-11,478.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045532,500045526,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-04-11,248.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045533,500045526,SB21B,ORG,Southwest Airlines,,,,,,PO Box 36647,,Dallas,TX,752351647,,,2023-04-11,253.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045534,500045526,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-04-11,225.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045535,500045526,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-04-11,225.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045536,500045526,SB21B,ORG,Boca Grande Hotel,,,,,,5800 Gasparilla Rd,,Boca Grande,FL,33921,,,2023-04-11,424.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045527,500045526,SB21B,ORG,Southwest Airlines,,,,,,PO Box 36647,,Dallas,TX,752351647,,,2023-04-11,557.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045528,500045526,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-11,268.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045529,500045526,SB21B,ORG,Jetblue Airways,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-04-11,409.65,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045356,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-04-03,857.15,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045266,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-06-20,1155.61,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045296,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-27,452.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045207,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-05-30,3618.60,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045357,,,ORG,Campaign Compliance Solutions,,,,,,370 Selby Ave,Ste 201,Saint Paul,MN,551022855,,,2023-05-31,4325.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045297,,,ORG,Beverly Hills Marriott,,,,,,1150 S Beverly Dr,,Los Angeles,CA,900351120,,,2023-06-27,794.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045208,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-06-01,366.37,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045338,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-06-26,1860.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045448,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-06-30,2000.00,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045358,,,ORG,Campaign Finance Consultants,,,,,,750 1st St SE,Ste 1070,Washington,DC,200028008,,,2023-05-09,8000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045298,,,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,31.74,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045209,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-06-05,815.69,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045319,,,IND,,Hwang,Annie,,,,PO Box 4146,,Saint Paul,MN,551040146,,,2023-06-27,2925.47,0.00,Travel & Printing Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045320,500045319,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-27,742.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045311,500045319,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,10.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045322,500045319,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,30.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045323,500045319,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,25.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045304,500045319,SB21B,ORG,Alaska Air,,,,,,19300 International Blvd,,Seattle,WA,981885304,,,2023-06-27,452.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045324,500045319,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,34.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045305,500045319,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-06-27,452.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045306,500045319,SB21B,ORG,Beverly Hills Marriott,,,,,,1150 S Beverly Dr,,Los Angeles,CA,900351120,,,2023-06-27,794.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045307,500045319,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,31.74,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045317,500045319,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,27.68,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045318,500045319,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2023-06-27,28.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500045459,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-06-30,1695.01,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500045359,,,ORG,Campaign Finance Consultants,,,,,,750 1st St SE,Ste 1070,Washington,DC,200028008,,,2023-04-11,24000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,

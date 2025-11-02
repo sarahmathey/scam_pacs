@@ -1,0 +1,25 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00658476,500168765,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,G2023,,2023-02-02,31901.35,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168766,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-02-03,10563.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168767,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-02-03,6039.65,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168716,,,IND,,Silverman,Lori,,,,1008 Hillwood Ave,,Falls Church,VA,220422423,G2023,,2023-02-03,8000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168768,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-02-08,7454.46,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168769,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-02-09,7381.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168719,,,ORG,"Mark Spengler, LLC",,,,,,324 U St NW,,Washington,DC,200011722,G2023,,2023-02-10,10000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168718,,,ORG,Pardo Consulting Group,,,,,,501 NE 109Th St,,Miami,FL,331617146,G2023,,2023-02-10,11144.18,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168720,,,ORG,Jafri Strategies LLC,,,,,,25 Snyder Rd,,Englewood Cliffs,NJ,076321619,G2023,,2023-02-13,12000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168721,,,ORG,Jafri Strategies LLC,,,,,,25 Snyder Rd,,Englewood Cliffs,NJ,076321619,G2023,,2023-02-13,4421.02,0.00,Event Supplies & Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168722,,,ORG,"Oliver Cheng Catering And Events, LLC",,,,,,1216 Vestry St,,New York,NY,100132085,G2023,,2023-02-13,12679.52,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168770,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-02-16,4500.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168771,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-02-16,2500.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168723,,,ORG,Moritz Photography,,,,,,1700 York Ave,Apt 4G,New York,NY,101287816,G2023,,2023-02-21,995.00,0.00,Event Photography,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168764,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,G2023,,2023-02-23,668.10,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168772,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,G2023,,2023-02-23,10000.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168064,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,022382110,G2023,,2023-02-28,0.99,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00658476,500168214,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,G2023,,2023-02-28,1356.74,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00658476,500168700,500168214,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-01-04,370.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500168702,500168214,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-01-06,-47.00,0.00,Travel; Rail; Credit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500168705,500168214,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-01-25,299.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500168708,500168214,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-01-26,183.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500168710,500168214,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-01-27,115.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00658476,500168711,500168214,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,G2023,,2023-01-27,115.00,0.00,Travel; Rail,,,,,,,,,,,,,,,,,,,X,*

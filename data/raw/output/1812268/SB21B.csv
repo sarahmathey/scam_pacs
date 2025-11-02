@@ -1,0 +1,27 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00735738,500076201,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-03,25.13,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500076202,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-10,125.93,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500076447,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-17,265.56,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077941,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-24,25.78,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077942,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-31,239.92,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500078002,,,IND,,Carpanini,Francesca,,,,140 Thompson St,Apt 2F,New York,NY,100123118,,,2024-07-31,150.00,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500078003,,,IND,,Carpanini,Francesca,,,,140 Thompson St,Apt 2F,New York,NY,100123118,,,2024-07-31,33.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500076442,,,ORG,Democracy Engine,,,,,,2125 14th St NW,Apt 101W,Washington,DC,200094497,,,2024-07-05,41.49,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500076443,,,ORG,Democracy Engine,,,,,,2125 14th St NW,Apt 101W,Washington,DC,200094497,,,2024-07-11,42.49,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500076444,,,ORG,Democracy Engine,,,,,,2125 14th St NW,Apt 101W,Washington,DC,200094497,,,2024-07-18,1.52,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077945,,,ORG,Democracy Engine,,,,,,2125 14th St NW,Apt 101W,Washington,DC,200094497,,,2024-07-25,154.93,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077946,,,ORG,Democracy Engine,,,,,,2125 14th St NW,Apt 101W,Washington,DC,200094497,,,2024-07-29,0.29,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500076346,,,IND,,Kramer,Alex,,,,65 S Portland Ave,Apt 4,Brooklyn,NY,112171373,,,2024-07-08,2399.61,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500078012,,,IND,,Kramer,Alex,,,,65 S Portland Ave,Apt 4,Brooklyn,NY,112171373,,,2024-07-25,1944.61,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077988,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-05,179.20,0.00,Payroll - Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500078037,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-05,1857.69,0.00,Payroll (Vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500078047,500078037,SB21B,IND,,Taglin,Lee,,,,11 Monroe Pl,Apt 3,Brooklyn,NY,112012633,,,2024-07-05,1857.69,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500077992,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-18,2159.06,0.00,Payroll - Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500078038,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-22,2493.87,0.00,Payroll (Vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500078051,500078038,SB21B,IND,,Scott,Elena,,,,6 Spencer Pl,,Brooklyn,NY,112161807,,,2024-07-22,898.68,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500078052,500078038,SB21B,IND,,Taglin,Lee,,,,11 Monroe Pl,Apt 3,Brooklyn,NY,112012633,,,2024-07-22,1595.19,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500078041,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-22,1212.79,0.00,Payroll - Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077989,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-07-23,149.12,0.00,Payroll - Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500076345,,,IND,,Radin,Sara,,,,5003 Pine St,# 3,Philadelphia,PA,191431614,,,2024-07-05,1350.00,0.00,Strategic Communication Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077998,,,IND,,Radin,Sara,,,,5003 Pine St,# 3,Philadelphia,PA,191431614,,,2024-07-19,1215.00,0.00,Strategic Communication Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500077999,,,IND,,Radin,Sara,,,,5003 Pine St,# 3,Philadelphia,PA,191431614,,,2024-07-31,164.83,0.00,Strategic Communication Consulting Services,,,,,,,,,,,,,,,,,,,,

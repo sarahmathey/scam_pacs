@@ -1,0 +1,55 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00576090,500491684,,,ORG,A&A Airport Limousine,,,,,,677 Berkmar Ct,,Charlottesville,VA,229011406,,,2023-07-21,560.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491685,,,ORG,A&A Airport Limousine,,,,,,677 Berkmar Ct,,Charlottesville,VA,229011406,,,2023-08-15,2240.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491746,,,PAC,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-24,59.25,0.00,Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491747,,,PAC,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-31,19.75,0.00,Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491683,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-08-31,4611.92,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491789,500491683,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-08-31,1000.00,0.00,Bookkeeping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491790,500491683,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-08-31,3500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491800,500491683,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-08-31,93.59,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491772,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-09-01,4054.77,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491788,500491772,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-09-01,3500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491799,500491772,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-09-01,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491802,500491772,SB21B,ORG,Occasions Cafe,,,,,,655 Taylor St NE,,Washington,DC,200172063,,,2023-09-01,525.62,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491773,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-09-02,5605.37,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491786,500491773,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-09-02,1000.00,0.00,Bookkeeping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491787,500491773,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-09-02,3500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491798,500491773,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-09-02,63.07,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491809,500491773,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2023-09-02,511.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491810,500491773,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2023-09-02,531.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491774,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-17,4658.73,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491784,500491774,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-17,1000.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491785,500491774,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-17,3500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491780,500491774,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-18,1000.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491781,500491774,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-18,3500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491797,500491774,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-17,29.15,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491795,500491774,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-18,66.78,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491777,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-17,5612.45,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491782,500491777,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-17,1000.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491783,500491777,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-10-17,3500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491792,500491777,SB21B,ORG,Fidelitas Wines,,,,,,14200 NE 145Th St,Ste B,Woodinville,WA,980727090,,,2023-10-17,288.90,0.00,Fundraiser Venue Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491796,500491777,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-10-17,66.78,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491801,500491777,SB21B,ORG,"Mark Ryan Winery, LLC",,,,,,14475 Woodinville Redmond Rd NE,,Woodinville,WA,980729095,,,2023-10-17,446.65,0.00,Fundraising Catering Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491775,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-12-05,4566.78,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491776,,,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-12-05,4566.78,0.00,Fundraising Consulting Fees and Reimbursed Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491778,500491776,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-12-05,1000.00,0.00,Compliance Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491779,500491776,SB21B,ORG,Angerholzer Broz Consulting LLC,,,,,,499 S Capitol St SW,Ste 422,Washington,DC,200034028,,,2023-12-05,3500.00,0.00,Fundraising Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491794,500491776,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-12-05,66.78,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00576090,500491687,,,ORG,Anthony's Pier 66 & Bell Street Diner,,,,,,2201 Alaskan Way,,Seattle,WA,981211604,,,2023-08-16,6015.01,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491681,,,ORG,Betz Family Winery,,,,,,13244 Woodinville Redmond Rd NE,,Redmond,WA,980522020,,,2023-07-25,1860.00,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491682,,,ORG,Betz Family Winery,,,,,,13244 Woodinville Redmond Rd NE,,Redmond,WA,980522020,,,2023-08-29,1426.00,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491694,,,ORG,Fidelitas Wines,,,,,,14200 NE 145Th St,Ste B,Woodinville,WA,980727090,,,2023-08-17,1270.50,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491693,,,ORG,Hammerstone Group,,,,,,3240 Wilson Blvd,Ste 210,Arlington,VA,222014429,,,2023-08-17,4020.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491766,,,ORG,Jackie American Bistro,,,,,,79 Potomac Ave SE,,Washington,DC,200033848,,,2023-12-01,1000.00,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491767,,,ORG,Jackie American Bistro,,,,,,79 Potomac Ave SE,,Washington,DC,200033848,,,2023-12-05,2437.50,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491695,,,ORG,"Mark Ryan Winery, LLC",,,,,,14475 Woodinville Redmond Rd NE,,Woodinville,WA,980729095,,,2023-08-22,1513.88,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491688,,,ORG,Newman Partners,,,,,,712 35Th Ave,,Seattle,WA,981225204,,,2023-07-18,2500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491689,,,ORG,Newman Partners,,,,,,712 35Th Ave,,Seattle,WA,981225204,,,2023-08-01,2500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491768,,,ORG,Newman Partners,,,,,,712 35Th Ave,,Seattle,WA,981225204,,,2023-10-11,5000.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491769,,,ORG,Newman Partners,,,,,,712 35Th Ave,,Seattle,WA,981225204,,,2023-10-31,2500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491770,,,ORG,Newman Partners,,,,,,712 35Th Ave,,Seattle,WA,981225204,,,2023-11-01,2500.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491771,,,ORG,Occasions Cafe,,,,,,655 Taylor St NE,,Washington,DC,200172063,,,2023-10-16,621.66,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491690,,,ORG,The Restaurant At DeLille Cellars,,,,,,14300 NE 145Th St,Ste 100,Woodinville,WA,980725004,,,2023-07-25,2000.00,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491691,,,ORG,The Restaurant At DeLille Cellars,,,,,,14300 NE 145Th St,Ste 100,Woodinville,WA,980725004,,,2023-07-25,2537.35,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491692,,,ORG,The Restaurant At DeLille Cellars,,,,,,14300 NE 145Th St,Ste 100,Woodinville,WA,980725004,,,2023-08-07,2537.36,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00576090,500491813,,,ORG,The Restaurant At DeLille Cellars,,,,,,14300 NE 145Th St,Ste 100,Woodinville,WA,980725004,,,2023-08-17,-226.20,0.00,Refund of Catering Expense,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,23 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00436022,501203192,,,ORG,Actblue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-10-02,39.50,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212270,,,ORG,Actblue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-10-09,4.35,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501210448,,,ORG,Actblue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-10-16,3.95,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212235,,,ORG,Benchmark Strategies,,,,,,PO Box 70179,,Washington,DC,200240179,,,2024-10-01,733.37,0.00,Reimbursement(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212243,501212235,SB21B,ORG,Corner Bakery,,,,,,1828 L St NW,Lbby 1,Washington,DC,200365100,,,2024-10-01,226.48,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212241,501212235,SB21B,ORG,"NGP Van, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-10-01,192.03,0.00,Computer support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212237,501212235,SB21B,ORG,Surveymonkey.Com,,,,,,1 Curiosity Way,,San Mateo,CA,944032396,,,2024-10-01,50.00,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212248,501212235,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2024-10-01,54.74,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212249,501212235,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2024-10-01,54.74,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212266,,,ORG,Benchmark Strategies,,,,,,PO Box 70179,,Washington,DC,200240179,,,2024-10-01,16000.00,0.00,PAC Fundraising consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212263,,,ORG,"Campaign Compliance, Inc.",,,,,,946 Bandmann Trl,,Missoula,MT,598028834,,,2024-10-01,2002.52,0.00,Compliance consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212267,,,ORG,First Interstate Bank,,,,,,PO Box 4667,,Missoula,MT,598064667,,,2024-10-01,0.50,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212269,,,ORG,First Interstate Bank,,,,,,PO Box 4667,,Missoula,MT,598064667,,,2024-10-15,85.36,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212264,,,ORG,Mandate Media,,,,,,PO Box 80151,,Portland,OR,972801151,,,2024-10-01,800.00,0.00,PAC Media consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212265,,,ORG,"Northern Compass Group, LLC",,,,,,310 K St,Ste 401,Anchorage,AK,995012039,,,2024-10-01,4500.00,0.00,PAC Media consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212268,,,ORG,Paragon,,,,,,3901 Centerview Dr,Ste W,Chantilly,VA,201513229,,,2024-10-02,124.58,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212250,,,ORG,Sue Hothem,,,,,,928 Ivycroft Rd,,Wayne,PA,190872014,,,2024-10-08,372.72,0.00,Reimbursement(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501212251,501212250,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-08,8.75,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212260,501212250,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-08,8.75,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212262,501212250,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-08,84.45,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212256,501212250,SB21B,ORG,Staples,,,,,,3804 Wilson Blvd,,Arlington,VA,222031920,,,2024-10-08,101.47,0.00,Office supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501212261,501212250,SB21B,ORG,Staples,,,,,,3804 Wilson Blvd,,Arlington,VA,222031920,,,2024-10-08,100.46,0.00,Office supplies,,,,,,,,,,,,,,,,,,,X,*

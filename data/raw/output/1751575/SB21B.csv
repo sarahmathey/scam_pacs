@@ -1,0 +1,125 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00349233,500882900,,,ORG,"GLH Consulting, Inc.",,,,,,425 Massachusetts Ave NW,Apt 1128,Washington,DC,200017636,,,2023-08-02,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898030,,,ORG,Jewish Standard,,,,,,1086 Teaneck Rd,Ste 2F,Teaneck,NJ,076664855,,,2023-10-26,384.00,0.00,Newspaper Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898031,,,ORG,"CFO Compliance, LLC",,,,,,1 Park Row,Ste 5,Providence,RI,029031235,,,2023-10-13,1251.32,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905491,,,ORG,"CFO Compliance, LLC",,,,,,1 Park Row,Ste 5,Providence,RI,029031235,,,2023-12-18,1250.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882902,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-07-26,50.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891902,,,ORG,"GLH Consulting, Inc.",,,,,,425 Massachusetts Ave NW,Apt 1128,Washington,DC,200017636,,,2023-09-07,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898032,,,IND,,Julien,Robert,,,,2300 24th Rd S,Apt 631,Arlington,VA,222062619,,,2023-10-13,752.40,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882903,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-07-26,20.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891903,,,IND,,Maltzman,Samantha,,,,5803 Melvern Dr,,Bethesda,MD,208172536,,,2023-09-08,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898023,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-11-29,10.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905493,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-07,18741.38,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905500,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,38.46,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905510,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,21.66,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905520,500905493,SB21B,ORG,Carey,,,,,,7445 New Technology Way,,Frederick,MD,217039401,,,2023-12-07,287.75,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905501,500905493,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-12-07,208.08,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905511,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,47.80,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905502,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,36.63,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905512,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,19.69,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905513,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,33.07,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905504,500905493,SB21B,ORG,Four Seasons Hotels,,,,,,2800 Pennsylvania Ave NW,,Washington,DC,200073717,,,2023-12-07,201.85,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905514,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,38.29,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905505,500905493,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-12-07,324.46,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905506,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,37.47,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905516,500905493,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-12-07,249.62,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905517,500905493,SB21B,ORG,"Dorado Beach, A Ritz-Carlton Reserve",,,,,,100 Dorado Beach Dr,,Dorado,PR,006462058,,,2023-12-07,16588.57,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905497,500905493,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-12-07,266.06,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905508,500905493,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-12-07,171.48,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905498,500905493,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-12-07,150.19,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905509,500905493,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-12-07,20.25,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500898024,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-11-29,20.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905494,,,IND,,Maltzman,Samantha,,,,5803 Melvern Dr,,Bethesda,MD,208172536,,,2023-12-05,2000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882905,,,IND,,Maltzman,Samantha,,,,5803 Melvern Dr,,Bethesda,MD,208172536,,,2023-07-07,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905825,,,ORG,"CFO Compliance, LLC",,,,,,1 Park Row,Ste 5,Providence,RI,029031235,,,2023-09-05,1250.66,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898025,,,ORG,"CFO Compliance, LLC",,,,,,1 Park Row,Ste 5,Providence,RI,029031235,,,2023-11-09,1253.30,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905495,,,ORG,"GLH Consulting, Inc.",,,,,,425 Massachusetts Ave NW,Apt 1128,Washington,DC,200017636,,,2023-12-05,2000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882606,,,ORG,American Express,,,,,,PO Box 53773,,Phoenix,AZ,850723773,,,2023-08-02,8541.92,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882601,500882606,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-02,72.10,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882591,500882606,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-08-02,239.27,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882592,500882606,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-02,33.59,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882603,500882606,SB21B,ORG,Clarke Cooke House,,,,,,24 Bannisters Wharf,,Newport,RI,028403003,,,2023-08-02,255.68,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882593,500882606,SB21B,ORG,Hilton Hotels,,,,,,333 Ofarrell St,,San Francisco,CA,941022116,,,2023-08-02,430.70,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882604,500882606,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-02,44.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882594,500882606,SB21B,ORG,Caruso Florist,,,,,,1717 M St NW,,Washington,DC,200364501,,,2023-08-02,114.59,0.00,Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882605,500882606,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-08-02,638.65,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882585,500882606,SB21B,ORG,"Dorado Beach, A Ritz-Carlton Reserve",,,,,,100 Dorado Beach Dr,,Dorado,PR,006462058,,,2023-08-02,5000.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882595,500882606,SB21B,ORG,Caruso Florist,,,,,,1717 M St NW,,Washington,DC,200364501,,,2023-08-02,114.59,0.00,Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882588,500882606,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-08-02,35.03,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882598,500882606,SB21B,ORG,Abe & Louie's,,,,,,793 Boylston St,,Boston,MA,021162603,,,2023-08-02,308.01,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882589,500882606,SB21B,ORG,Ritz-Carlton Hotel Company,,,,,,4445 Willard Ave,Ste 800,Chevy Chase,MD,208153699,,,2023-08-02,855.85,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882599,500882606,SB21B,ORG,Four Seasons Hotels,,,,,,2800 Pennsylvania Ave NW,,Washington,DC,200073717,,,2023-08-02,101.60,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882906,,,ORG,"GLH Consulting, Inc.",,,,,,425 Massachusetts Ave NW,Apt 1128,Washington,DC,200017636,,,2023-07-07,7118.49,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891916,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-09-27,10.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891926,,,ORG,Citi Cards,,,,,,PO Box 9001037,,Louisville,KY,402901037,,,2023-10-13,294.51,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891925,500891926,SB21B,ORG,116 Club,,,,,,234 3rd St NE,,Washington,DC,200025756,,,2023-10-13,294.51,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500898026,,,IND,,Maltzman,Samantha,,,,5803 Melvern Dr,,Bethesda,MD,208172536,,,2023-11-03,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905826,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-08-25,20.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882896,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-08-25,10.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891907,,,ORG,Chase Cardmember Services,,,,,,PO Box 1423,,Charlotte,NC,282011423,,,2023-09-20,243.99,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891908,500891907,SB21B,ORG,Truluck's Ocean's Finest Seafood,,,,,,700 K St NW,,Washington,DC,200015690,P2024,,2023-09-20,243.99,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500882907,,,ORG,"CFO Compliance, LLC",,,,,,1 Park Row,Ste 5,Providence,RI,029031235,,,2023-07-05,1250.63,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891917,,,IND,,Maltzman,Samantha,,,,5803 Melvern Dr,,Bethesda,MD,208172536,,,2023-10-02,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898027,,,ORG,"GLH Consulting, Inc.",,,,,,425 Massachusetts Ave NW,Apt 1128,Washington,DC,200017636,,,2023-11-02,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500905827,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-09-27,20.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891927,,,ORG,American Express,,,,,,PO Box 53773,,Phoenix,AZ,850723773,,,2023-10-08,2222.66,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500894290,500891927,SB21B,ORG,Southwest Airlines,,,,,,PO Box 36647,,Dallas,TX,752351647,,,2023-10-08,867.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894282,500891927,SB21B,ORG,Westin Hotels,,,,,,1 Star Pt,,Stamford,CT,069028911,,,2023-10-08,483.48,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894283,500891927,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-10-08,40.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894284,500891927,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-10-08,323.91,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894285,500891927,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-10-08,38.05,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894286,500891927,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-10-08,177.13,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894287,500891927,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-10-08,57.24,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894288,500891927,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-10-08,164.12,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500894289,500891927,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-10-08,35.65,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897037,,,ORG,American Express,,,,,,PO Box 53773,,Phoenix,AZ,850723773,,,2023-11-06,91502.01,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500897060,500897037,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-11-06,367.31,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897051,500897037,SB21B,ORG,Ritz-Carlton Hotel Company,,,,,,4445 Willard Ave,Ste 800,Chevy Chase,MD,208153699,,,2023-11-06,6293.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897061,500897037,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-06,42.05,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897052,500897037,SB21B,ORG,Ritz-Carlton Hotel Company,,,,,,4445 Willard Ave,Ste 800,Chevy Chase,MD,208153699,,,2023-11-06,63.13,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897062,500897037,SB21B,ORG,Bistro Bis,,,,,,15 E St NW,,Washington,DC,200011501,,,2023-11-06,66.10,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897053,500897037,SB21B,ORG,Ritz-Carlton Hotel Company,,,,,,4445 Willard Ave,Ste 800,Chevy Chase,MD,208153699,,,2023-11-06,1859.92,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897063,500897037,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-11-06,179.35,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897054,500897037,SB21B,ORG,"Dorado Beach, A Ritz-Carlton Reserve",,,,,,100 Dorado Beach Dr,,Dorado,PR,006462058,,,2023-11-06,26071.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897064,500897037,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-06,21.26,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897045,500897037,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-11-06,231.26,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897055,500897037,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-11-06,203.02,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897065,500897037,SB21B,ORG,Grissini,,,,,,484 Sylvan Ave,,Englewood Cliffs,NJ,076322933,,,2023-11-06,577.14,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897046,500897037,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-06,39.36,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897056,500897037,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-11-06,18.87,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897057,500897037,SB21B,ORG,"Dorado Beach, A Ritz-Carlton Reserve",,,,,,100 Dorado Beach Dr,,Dorado,PR,006462058,,,2023-11-06,54131.40,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897058,500897037,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-11-06,301.27,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897049,500897037,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-11-06,213.27,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500897059,500897037,SB21B,ORG,Joe's Seafood,,,,,,750 15th St NW,,Washington,DC,200051018,,,2023-11-06,653.54,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879547,,,ORG,American Express,,,,,,PO Box 53773,,Phoenix,AZ,850723773,,,2023-07-13,4429.05,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500879520,500879547,SB21B,ORG,Marriott Owings Mills Metro Centre,,,,,,10101 Grand Central Ave,,Owings Mills,MD,211174459,,,2023-07-13,236.78,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879540,500879547,SB21B,ORG,The Vault Restaurant,,,,,,555 California St,,San Francisco,CA,941041503,,,2023-07-13,249.91,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879511,500879547,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-13,155.35,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879531,500879547,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-07-13,262.77,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879541,500879547,SB21B,ORG,Four Seasons Hotel,,,,,,300 S Doheny Dr,,Los Angeles,CA,900483704,,,2023-07-13,1016.34,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879532,500879547,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-13,33.15,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879523,500879547,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,,,2023-07-13,565.79,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879543,500879547,SB21B,ORG,Spago Beverly Hills,,,,,,176 N Canon Dr,,Beverly Hills,CA,902105304,,,2023-07-13,420.89,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879545,500879547,SB21B,ORG,La Valencia Hotel,,,,,,1132 Prospect St,,La Jolla,CA,920374533,,,2023-07-13,372.14,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879536,500879547,SB21B,ORG,Ritz-Carlton Hotel Company,,,,,,4445 Willard Ave,Ste 800,Chevy Chase,MD,208153699,,,2023-07-13,674.26,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879546,500879547,SB21B,ORG,Grissini,,,,,,484 Sylvan Ave,,Englewood Cliffs,NJ,076322933,,,2023-07-13,334.56,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500879527,500879547,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2023-07-13,41.52,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886657,,,ORG,American Express,,,,,,PO Box 53773,,Phoenix,AZ,850723773,,,2023-09-08,5254.47,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500886650,500886657,SB21B,ORG,United Airlines,,,,,,2 N La Salle St,,Chicago,IL,606023702,P2024,,2023-09-08,1300.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886643,500886657,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,P2024,,2023-09-08,256.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886653,500886657,SB21B,ORG,United Airlines,,,,,,2 N La Salle St,,Chicago,IL,606023702,P2024,,2023-09-08,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886644,500886657,SB21B,ORG,Jetblue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,P2024,,2023-09-08,283.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886654,500886657,SB21B,ORG,Morton's Steakhouse,,,,,,1050 Connecticut Ave NW,,Washington,DC,200365303,P2024,,2023-09-08,209.38,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886645,500886657,SB21B,ORG,American Express,,,,,,PO Box 53773,,Phoenix,AZ,850723773,P2024,,2023-09-08,695.00,0.00,Membership Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886655,500886657,SB21B,ORG,Four Seasons Hotels,,,,,,2800 Pennsylvania Ave NW,,Washington,DC,200073717,P2024,,2023-09-08,662.10,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886656,500886657,SB21B,ORG,Uber Technologies,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,P2024,,2023-09-08,62.71,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886647,500886657,SB21B,ORG,U.S. Senate Gift Shop,,,,,,US Senate,,Washington,DC,20005,P2024,,2023-09-08,759.00,0.00,Donor Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886648,500886657,SB21B,ORG,American Express,,,,,,PO Box 53773,,Phoenix,AZ,850723773,P2024,,2023-09-08,-8.00,0.00,Credit,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500886649,500886657,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,P2024,,2023-09-08,834.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00349233,500905487,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-12-29,10.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882897,,,ORG,Jewish Standard,,,,,,1086 Teaneck Rd,Ste 2F,Teaneck,NJ,076664855,,,2023-08-14,720.00,0.00,Newspaper Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500891918,,,ORG,"GLH Consulting, Inc.",,,,,,425 Massachusetts Ave NW,Apt 1128,Washington,DC,200017636,,,2023-10-06,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898028,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-10-27,30.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882898,,,IND,,Maltzman,Samantha,,,,5803 Melvern Dr,,Bethesda,MD,208172536,,,2023-08-02,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500898029,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-10-27,20.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00349233,500882899,,,ORG,"CFO Compliance, LLC",,,,,,1 Park Row,Ste 5,Providence,RI,029031235,,,2023-08-02,1250.66,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,

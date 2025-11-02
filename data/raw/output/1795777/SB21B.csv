@@ -1,0 +1,256 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00571174,500201948,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-02,41.21,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500201949,,,ORG,NGP VAN Inc,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-07-03,12080.63,0.00,Database Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500201947,,,ORG,Slack Technologies Inc,,,,,,500 Howard St,,San Francisco,CA,941053000,,,2023-07-03,158.05,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283976,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-05,63.75,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283978,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-07-06,187.00,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283939,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-07-07,8505.36,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500284001,500283939,SB21B,IND,,Bell,Mary,Kate,,,223 Concord Tpke,Unit 428,Cambridge,MA,021402409,,,2023-07-07,2464.13,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284005,500283939,SB21B,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-07-07,372.84,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284008,500283939,SB21B,IND,,Jacobs,Brandon,,,,2135 F St NW,Rm 1006,Washington,DC,200520078,,,2023-07-07,1507.82,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284013,500283939,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-07-07,1372.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284011,500283939,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-07-07,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284003,500283939,SB21B,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-07-07,1631.40,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284009,500283939,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-07-07,264.35,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284019,500283939,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-07-07,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500283977,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-07-07,3218.83,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283943,,,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-07-07,88.70,0.00,Reimbursed Travel Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500284000,500283943,SB21B,ORG,British Petroleum - Corporate,,,,,,501 Westlake Park Blvd,,Houston,TX,770792604,,,2023-07-07,50.90,0.00,Auto Fuel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500283944,,,IND,,Jacobs,Brandon,,,,2135 F St NW,Rm 1006,Washington,DC,200520078,,,2023-07-07,373.80,0.00,Reimbursed Travel & Meeting Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500284017,500283944,SB21B,ORG,Life Alive Urban Oasis & Organic Cafe,,,,,,281 Essex St,,Salem,MA,019703421,,,2023-07-07,189.14,0.00,Staff Meal Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500283994,,,IND,,Jacobs,Brandon,,,,2135 F St NW,Rm 1006,Washington,DC,200520078,,,2023-07-07,153.27,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283995,,,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-07-07,50.16,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283942,,,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-07-07,124.72,0.00,Reimbursed Travel & Meeting Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500284007,500283942,SB21B,ORG,Lyft Inc,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-07-07,38.77,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284016,500283942,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-07-07,33.69,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500283980,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-09,264.93,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283988,,,IND,,Coats,Eric,,,,1633 W Estes Ave,Apt 4E,Chicago,IL,606264735,,,2023-07-10,2000.00,0.00,Digital Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283989,,,ORG,The Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-07-10,543.50,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283981,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-16,138.30,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283940,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-07-21,355.57,0.00,Credit Card Payment - See Memos if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500284035,500283940,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-07-21,-152.00,0.00,Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284039,500283940,SB21B,ORG,AT&T Inc,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-07-21,133.82,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284038,500283940,SB21B,ORG,Indigo DC,,,,,,243 K St NE,,Washington,DC,200023519,,,2023-07-21,78.00,0.00,Fundraising Meal Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284036,500283940,SB21B,ORG,Le Pain Quotidien,,,,,,16 E 44Th St,,New York,NY,100173612,,,2023-07-21,60.70,0.00,Meeting Meal Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284037,500283940,SB21B,ORG,Le Pain Quotidien,,,,,,16 E 44Th St,,New York,NY,100173612,,,2023-07-21,58.60,0.00,Meeting Meal Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284040,500283940,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-07-21,13.91,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500283938,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-07-21,7208.61,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500284002,500283938,SB21B,IND,,Bell,Mary,Kate,,,223 Concord Tpke,Unit 428,Cambridge,MA,021402409,,,2023-07-21,2512.93,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284006,500283938,SB21B,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-07-21,500.10,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284014,500283938,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-07-21,1407.33,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284012,500283938,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-07-21,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284004,500283938,SB21B,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-07-21,1631.41,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284010,500283938,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-07-21,264.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500284020,500283938,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-07-21,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500283979,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-07-21,2697.89,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283982,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-23,283.93,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283941,,,IND,,Moulton,Seth,Wilbur,,,37 Chestnut St,,Salem,MA,019703127,,,2023-07-25,28.00,0.00,Reimbursed Meal Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283987,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-07-26,243.30,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500283985,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-30,178.07,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500284071,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-31,25.47,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500488283,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-01,14.04,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500488284,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-01,741.03,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460496,,,ORG,Slack Technologies Inc,,,,,,500 Howard St,,San Francisco,CA,941053000,,,2023-08-03,161.04,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460509,,,IND,,Coats,Eric,,,,1633 W Estes Ave,Apt 4E,Chicago,IL,606264735,,,2023-08-04,2000.00,0.00,Digital Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460514,,,ORG,Common Cents Consulting LLC,,,,,,PO Box 26430,,Tempe,AZ,852856430,,,2023-08-04,2200.00,0.00,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460495,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-08-04,187.00,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460513,,,ORG,The Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-08-04,543.50,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460523,,,ORG,Tiku Consulting Group,,,,,,11 Maplewood St,,Watertown,MA,024723514,,,2023-08-04,5600.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460498,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-06,64.81,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460486,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-07,63.75,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460480,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-08-08,7578.53,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460451,500460480,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-08-08,252.16,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460398,500460480,SB21B,IND,,Bell,Mary,Kate,,,223 Concord Tpke,Unit 428,Cambridge,MA,021402409,,,2023-08-08,2512.92,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460417,500460480,SB21B,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-08-08,465.03,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460443,500460480,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-08-08,1407.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460437,500460480,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-08-08,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460404,500460480,SB21B,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-08-08,1631.40,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460431,500460480,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-08-08,264.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460446,500460480,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-08-08,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460458,500460480,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-08-08,152.84,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460490,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-08-08,2795.72,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460484,,,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-08-08,194.43,0.00,Reimbursed Travel Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460576,500460484,SB21B,ORG,Exxon Mobil,,,,,,5959 Las Colinas Blvd,,Irving,TX,750394202,,,2023-08-08,56.12,0.00,Auto Fuel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460577,500460484,SB21B,ORG,Exxon Mobil,,,,,,5959 Las Colinas Blvd,,Irving,TX,750394202,,,2023-08-08,45.71,0.00,Auto Fuel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460516,,,ORG,NGP VAN Inc,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-08-11,342.38,0.00,Database Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460504,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-13,247.86,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460499,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-20,352.85,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460479,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-08-22,7904.40,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460455,500460479,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-08-22,455.28,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460402,500460479,SB21B,IND,,Bell,Mary,Kate,,,223 Concord Tpke,Unit 428,Cambridge,MA,021402409,,,2023-08-22,2512.93,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460415,500460479,SB21B,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-08-22,465.04,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460438,500460479,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-08-22,1407.33,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460436,500460479,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-08-22,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460403,500460479,SB21B,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-08-22,1631.40,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460433,500460479,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-08-22,264.35,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460447,500460479,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-08-22,446.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460461,500460479,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-08-22,275.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460489,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-08-22,2807.71,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460517,,,ORG,NGP VAN Inc,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-08-23,342.37,0.00,Database Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460518,,,ORG,NGP VAN Inc,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-08-23,12080.63,0.00,Database Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460505,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-08-25,272.18,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460507,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-08-25,512.00,0.00,Legal Retainer,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460500,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-27,250.90,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460478,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-08-30,1481.45,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460399,500460478,SB21B,IND,,Bell,Mary,Kate,,,223 Concord Tpke,Unit 428,Cambridge,MA,021402409,,,2023-08-30,1481.45,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460491,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-08-30,518.35,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460501,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-08-31,112.42,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460481,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-08-31,641.65,0.00,Credit Card Payment - See Memos if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460510,500460481,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-08-31,144.10,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460511,500460481,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-08-31,205.11,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460525,500460481,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-31,51.00,0.00,Train Fare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460526,500460481,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-08-31,-398.00,0.00,Refund,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460531,500460481,SB21B,ORG,AT&T Inc,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-08-31,133.81,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460532,500460481,SB21B,ORG,AT&T Inc,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-08-31,144.13,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460530,500460481,SB21B,ORG,Indigo DC,,,,,,243 K St NE,,Washington,DC,200023519,,,2023-08-31,48.10,0.00,Meeting Meal Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460527,500460481,SB21B,ORG,Lyft Inc,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2023-08-31,15.99,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460515,,,ORG,Common Cents Consulting LLC,,,,,,PO Box 26430,,Tempe,AZ,852856430,,,2023-08-31,2200.00,0.00,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460485,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-09-01,14.07,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460488,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-09-01,665.55,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460497,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-03,117.93,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460487,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-09-05,63.75,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460512,,,ORG,The Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-09-05,543.50,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460544,,,ORG,True Blue Analytics LLC,,,,,,919 N Market St,Ste 950,Wilmington,DE,198013036,,,2023-09-05,5000.00,0.00,List Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460492,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-09-06,199.75,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460477,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-09-08,5478.88,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460456,500460477,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-09-08,455.28,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460416,500460477,SB21B,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-09-08,465.02,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460445,500460477,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-09-08,1407.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460435,500460477,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-09-08,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460407,500460477,SB21B,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-09-08,1631.40,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460429,500460477,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-09-08,264.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460448,500460477,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-09-08,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460460,500460477,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-09-08,275.60,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460493,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-09-08,1727.74,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460502,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-10,264.10,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460508,,,IND,,Coats,Eric,,,,1633 W Estes Ave,Apt 4E,Chicago,IL,606264735,,,2023-09-11,2000.00,0.00,Digital Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460483,,,IND,,Hauge,David,,,,907 S St NW,,Washington,DC,200014115,,,2023-09-11,53.95,0.00,Reimbursed Travel Expenses - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460580,500460483,SB21B,ORG,Exxon Mobil,,,,,,5959 Las Colinas Blvd,,Irving,TX,750394202,,,2023-09-11,48.59,0.00,Auto Fuel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460582,500460483,SB21B,ORG,Exxon Mobil,,,,,,5959 Las Colinas Blvd,,Irving,TX,750394202,,,2023-09-11,51.66,0.00,Auto Fuel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460524,,,ORG,Tiku Consulting Group,,,,,,11 Maplewood St,,Watertown,MA,024723514,,,2023-09-11,5600.00,0.00,Fundraising Consultant & Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460503,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-17,159.13,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460476,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-09-22,5013.88,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500460450,500460476,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-09-22,455.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460439,500460476,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-09-22,1407.33,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460434,500460476,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-09-22,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460406,500460476,SB21B,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-09-22,1631.41,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460430,500460476,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-09-22,264.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460449,500460476,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-09-22,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460459,500460476,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-09-22,275.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500460494,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-09-22,1554.60,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500461489,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-24,132.07,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500461500,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-09-24,576.00,0.00,Legal Retainer,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500461492,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-09-27,318.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500462026,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-09-30,244.42,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500462025,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-01,25.80,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500461692,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-01,14.06,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500461693,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-01,665.55,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464328,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-10-03,187.00,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464327,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-05,63.75,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500463704,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-10-06,4191.13,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500463746,500463704,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-10-06,455.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500463741,500463704,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-10-06,1407.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500463739,500463704,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-10-06,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500463732,500463704,SB21B,IND,,Naglic,Nicholas,,,,12033 Tango Ln,,Woodbridge,VA,221936111,,,2023-10-06,808.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500463738,500463704,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-10-06,264.35,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500463745,500463704,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-10-06,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500463748,500463704,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-10-06,275.60,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464330,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-10-06,1193.91,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464339,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-08,255.02,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464347,,,IND,,Coats,Eric,,,,1633 W Estes Ave,Apt 4E,Chicago,IL,606264735,,,2023-10-11,2453.51,0.00,Digital Consultant & Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464351,,,ORG,The Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-10-11,2000.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464363,,,ORG,Tiku Consulting Group,,,,,,11 Maplewood St,,Watertown,MA,024723514,,,2023-10-11,5600.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464340,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-15,89.14,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500463706,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-10-17,572.53,0.00,Credit Card Payment - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500463722,500463706,SB21B,ORG,AT&T Inc,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-10-17,164.77,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464354,,,ORG,Common Cents Consulting LLC,,,,,,PO Box 26430,,Tempe,AZ,852856430,,,2023-10-18,2200.00,0.00,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464345,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-10-20,256.00,0.00,Legal Retainer,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464334,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-10-20,988.16,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464821,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-10-20,3382.47,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464836,500464821,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-10-20,455.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464833,500464821,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-10-20,1407.33,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464832,500464821,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-10-20,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464831,500464821,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-10-20,264.37,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464834,500464821,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-10-20,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464837,500464821,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-10-20,275.58,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500464822,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-22,265.41,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500464824,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-10-27,267.04,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500477568,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-29,112.99,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500477566,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-31,131.27,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500477561,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-01,652.22,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500488302,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-01,13.52,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479055,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-11-02,174.25,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479065,,,IND,,Coats,Eric,,,,1633 W Estes Ave,Apt 4E,Chicago,IL,606264735,,,2023-11-03,2363.36,0.00,Digital Consultant & Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479073,,,ORG,Common Cents Consulting LLC,,,,,,PO Box 26430,,Tempe,AZ,852856430,,,2023-11-03,2200.00,0.00,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479068,,,ORG,The Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-11-03,2000.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479059,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-05,417.24,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479050,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-06,63.75,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479046,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-11-08,3382.47,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485641,500479046,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-11-08,455.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500479098,500479046,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-11-08,1407.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500479096,500479046,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-11-08,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500479095,500479046,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-11-08,264.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500488301,500479046,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-11-08,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500479113,500479046,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-11-08,275.60,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500479053,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-11-08,1256.99,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479060,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-12,521.38,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479048,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-11-17,320.20,0.00,Credit Card Payment - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500479101,500479048,SB21B,ORG,AT&T Inc,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-11-17,133.95,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500479080,,,ORG,Tiku Consulting Group,,,,,,11 Maplewood St,,Watertown,MA,024723514,,,2023-11-17,5600.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485459,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-19,185.59,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485485,,,ORG,CustomInk LLC,,,,,,2910 District Ave,,Fairfax,VA,220312282,,,2023-11-22,1567.71,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485444,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-11-22,3382.45,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485608,500485444,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-11-22,455.28,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485602,500485444,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-11-22,1407.33,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485597,500485444,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-11-22,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485594,500485444,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-11-22,264.35,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485603,500485444,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-11-22,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485609,500485444,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-11-22,275.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485451,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-11-22,1257.03,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500488299,,,ORG,Maydan,,,,,,1346 Florida Ave NW,,Washington,DC,200094838,,,2023-11-22,358.19,0.00,Meeting Meal Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500488300,,,ORG,Maydan,,,,,,1346 Florida Ave NW,,Washington,DC,200094838,,,2023-11-22,46.83,0.00,Meeting Meal Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500488303,,,ORG,Uber Technologies,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-11-22,17.95,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500488304,,,ORG,Uber Technologies,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-11-22,40.63,0.00,Ride Share Service,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485456,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-26,288.14,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485462,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-11-29,261.36,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485468,,,ORG,NGP VAN Inc,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-11-30,12080.63,0.00,Database Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485455,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-01,61.96,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485454,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-03,72.38,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485467,,,ORG,Common Cents Consulting LLC,,,,,,PO Box 26430,,Tempe,AZ,852856430,,,2023-12-04,2200.00,0.00,Compliance & Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485445,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-04,13.52,0.00,Google Apps,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485446,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-04,624.24,0.00,Google Apps,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485450,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-12-05,174.25,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485482,,,ORG,Switchboard Communications LLC,,,,,,888 16Th St NW,Ste 650,Washington,DC,200064112,,,2023-12-05,362.43,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485447,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-06,63.75,0.00,Google Apps,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485443,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-12-08,3595.94,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485606,500485443,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-12-08,455.28,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485601,500485443,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-12-08,1407.34,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485599,500485443,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-12-08,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485596,500485443,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-12-08,264.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485605,500485443,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-12-08,489.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485612,500485443,SB21B,IND,,Suchecki,Michael,,,,1341 Massachusetts Ave SE,,Washington,DC,200031540,,,2023-12-08,213.48,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485611,500485443,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-12-08,275.60,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485448,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-12-08,1043.53,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485452,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-10,606.15,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485466,,,ORG,The Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-12-13,2000.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485644,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,,,2023-12-14,133.95,0.00,Credit Card Payment - See Memos if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485643,500485644,SB21B,ORG,AT&T Inc,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-12-14,133.95,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485458,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-17,248.30,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485460,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-12-18,20.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485464,,,IND,,Coats,Eric,,,,1633 W Estes Ave,Apt 4E,Chicago,IL,606264735,,,2023-12-18,2000.00,0.00,Digital Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485489,,,IND,,Robinson,John,,,,3600 16Th St NW,,Washington,DC,200101102,,,2023-12-18,5000.00,0.00,Research Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485471,,,ORG,Tiku Consulting Group,,,,,,11 Maplewood St,,Watertown,MA,024723514,,,2023-12-18,5600.00,0.00,Fundraising Consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485478,,,ORG,True Blue Analytics LLC,,,,,,919 N Market St,Ste 950,Wilmington,DE,198013036,,,2023-12-18,5000.00,0.00,List Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485463,,,ORG,Caplin & Drysdale,,,,,,1 Thomas Cir NW,Ste 1100,Washington,DC,200055812,,,2023-12-22,576.00,0.00,Legal Retainer,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485442,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-12-22,3591.21,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485607,500485442,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2023-12-22,455.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485600,500485442,SB21B,IND,,Krantz,Ross,,,,54 A Garfield St,,Cambridge,MA,021381802,,,2023-12-22,1402.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485598,500485442,SB21B,IND,,Mallon,Ruby,,,,212 Stuart St,Unit 1604,Boston,MA,021165475,,,2023-12-22,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485595,500485442,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2023-12-22,264.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485604,500485442,SB21B,IND,,Smith,Trevor,,,,207 Goden St,,Belmont,MA,024782901,,,2023-12-22,489.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485613,500485442,SB21B,IND,,Suchecki,Michael,,,,1341 Massachusetts Ave SE,,Washington,DC,200031540,,,2023-12-22,213.48,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485610,500485442,SB21B,IND,,Van Lare,Rowan,,,,30 Florida Ave NW,,Washington,DC,200011456,,,2023-12-22,275.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500485449,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2023-12-22,1046.85,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485453,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-26,458.32,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485461,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-12-29,264.48,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500485457,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-31,2167.81,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,

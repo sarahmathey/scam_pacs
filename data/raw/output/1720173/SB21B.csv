@@ -1,0 +1,37 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00422774,500669670,,,ORG,Brad Elkins Consulting,,,,,,2205 Wilder Ln NW,,Albuquerque,NM,871043269,,,2023-01-10,12500.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670180,,,ORG,Brad Elkins Consulting,,,,,,2205 Wilder Ln NW,,Albuquerque,NM,871043269,,,2023-03-29,6250.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500671701,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-05-25,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670241,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-04-26,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500671781,,,IND,,Boland,Patrick,,,,360 S Grand Ave,,Pasadena,CA,911051641,,,2023-05-30,614.89,0.00,"Travel, Postage & Donor Gift Reimbursement - See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500671783,500671781,SB21B,ORG,Santa Rosa Taqueria,,,,,,301 Pennsylvania Ave SE,,Washington,DC,200031148,,,2023-05-30,188.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670242,,,ORG,Kaufman Legal Group,,,,,,777 S Figueroa St,Ste 4050,Los Angeles,CA,900175864,,,2023-01-06,500.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670633,,,ORG,Bankcard Center,,,,,,PO Box 30833,,Salt Lake City,UT,841300833,,,2023-04-14,2332.55,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670651,500670633,SB21B,ORG,Bankcard Center,,,,,,PO Box 30833,,Salt Lake City,UT,841300833,,,2023-04-14,-1575.47,0.00,Credit Card Rewards,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670661,500670633,SB21B,ORG,Doordash,,,,,,901 Market St,Fl 6,San Francisco,CA,941031729,,,2023-04-14,180.23,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670642,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,31.21,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670652,500670633,SB21B,ORG,Bankcard Center,,,,,,PO Box 30833,,Salt Lake City,UT,841300833,,,2023-04-14,75.27,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670662,500670633,SB21B,ORG,Doordash,,,,,,901 Market St,Fl 6,San Francisco,CA,941031729,,,2023-04-14,27.20,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670643,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,135.67,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670653,500670633,SB21B,ORG,Bankcard Center,,,,,,PO Box 30833,,Salt Lake City,UT,841300833,,,2023-04-14,75.57,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670644,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,174.08,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670654,500670633,SB21B,ORG,Bankcard Center,,,,,,PO Box 30833,,Salt Lake City,UT,841300833,,,2023-04-14,10.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670645,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,135.67,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670655,500670633,SB21B,ORG,Bankcard Center,,,,,,PO Box 30833,,Salt Lake City,UT,841300833,,,2023-04-14,10.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670646,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,-135.67,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670676,500670633,SB21B,ORG,Zoca Mexican Restaurant,,,,,,98 Garfield Pkwy,,Bethany Beach,DE,199307753,,,2023-04-14,1733.60,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670647,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,-33.93,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670648,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,-31.21,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670649,500670633,SB21B,ORG,"Amazon.com Holdings, Inc.",,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-14,664.62,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500670443,,,IND,,Boland,Patrick,,,,360 S Grand Ave,,Pasadena,CA,911051641,,,2023-03-29,4000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670445,,,ORG,AKPD Message and Media,,,,,,405 W Superior St,Ste 705,Chicago,IL,606548784,,,2023-04-10,15862.71,0.00,Production Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670446,,,ORG,Kieloch Consulting,,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-04-10,20000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,Inv 101
+SB21B,C00422774,500674717,,,IND,,Boland,Patrick,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-06-23,440.67,0.00,"Travel, Event Tickets & Catering Reimbursement - See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500675604,500674717,SB21B,ORG,Santa Rosa Taqueria,,,,,,301 Pennsylvania Ave SE,,Washington,DC,200031148,,,2023-06-23,157.62,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500675615,500674717,SB21B,ORG,Washington Nationals,,,,,,1500 S Capitol St SE,,Washington,DC,200033599,,,2023-06-23,218.00,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00422774,500674718,,,IND,,Boland,Patrick,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-06-23,14750.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500669628,,,ORG,Brad Elkins Consulting,,,,,,2205 Wilder Ln NW,,Albuquerque,NM,871043269,,,2023-03-29,6250.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500669668,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-04-18,1000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670178,,,IND,,French,Lauren,,,,317 10th St NE,Apt 13,Washington,DC,200026250,,,2023-03-29,4000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500669629,,,ORG,AKPD Message and Media,,,,,,405 W Superior St,Ste 705,Chicago,IL,606548784,,,2023-03-29,15862.71,0.00,Production Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00422774,500670179,,,IND,,Abrams,Kyle,,,,1200 N St NW,Apt 718,Washington,DC,200055193,,,2023-03-29,4000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,

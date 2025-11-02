@@ -1,0 +1,818 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB29,C00495028,500483400,,,ORG,Paragon Strategies LLC,,,,,,2131 Pacific St,Apt 2,Brooklyn,NY,112334011,,,2023-12-22,2500.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488000,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2023-10-03,6306.64,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463800,,,ORG,"Allied Telecom Group, LLC",,,,,,1400 Crystal Dr,Ste 700,Arlington,VA,222024153,,,2023-09-06,376.46,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484510,,,ORG,Civix Strategy Group,,,,,,114 N Main St,,Concord,NH,033014946,,,2023-12-20,3000.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463910,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-09-21,14697.24,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463920,500463910,SB29,ORG,"Adobe Systems, Inc.",,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-09-21,100.68,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463960,500463910,SB29,ORG,Microsoft Corporation,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-09-21,139.92,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463970,500463910,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-09-21,231.00,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463951,500463910,SB29,ORG,CVS Corporation,,,,,,1 Cvs Dr,,Woonsocket,RI,028956146,,,2023-09-21,157.13,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463932,500463910,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-09-21,164.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463952,500463910,SB29,ORG,The Des Moines Register,,,,,,13095 Publishers Dr,,Fishers,IN,460388826,,,2023-09-21,21.19,0.00,News Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463962,500463910,SB29,ORG,The Philadelphia Inquirer,,,,,,801 Market St,Ste 300,Philadelphia,PA,191073183,,,2023-09-21,21.96,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463963,500463910,SB29,ORG,Ready Refresh by Nestle,,,,,,9921 Business Pkwy,,Lanham,MD,207061836,,,2023-09-21,18.96,0.00,Water Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463954,500463910,SB29,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-09-21,928.39,0.00,Email Services & TV Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463964,500463910,SB29,ORG,RingCentral Inc.,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2023-09-21,433.65,0.00,Utilities - Phones,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463935,500463910,SB29,ORG,123InkJets.com,,,,,,3700 Cover St,,Long Beach,CA,908081782,,,2023-09-21,449.09,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463945,500463910,SB29,ORG,Cloudflare,,,,,,101 Townsend St,Ste 900,San Francisco,CA,941071934,,,2023-09-21,53.00,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463955,500463910,SB29,PAC,International Brotherhood of Teamsters,,,,,,25 Louisiana Ave NW,,Washington,DC,200012130,,,2023-09-21,220.00,0.00,Facility Rental,,C00032979,International Brotherhood of Teamsters,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463965,500463910,SB29,ORG,Spin DC,,,,,,1332 F St NW,,Washington,DC,200041182,,,2023-09-21,1538.48,0.00,Venue Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463927,500463910,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-09-21,160.99,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463937,500463910,SB29,ORG,Dialpad Meetings,,,,,,275 Sacramento St,,San Francisco,CA,941113810,,,2023-09-21,174.90,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463957,500463910,SB29,ORG,LexisNexis,,,,,,PO Box 7147,,Philadelphia,PA,191700001,,,2023-09-21,839.52,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463967,500463910,SB29,ORG,The Management Center,,,,,,1920 L St NW,Ste 775,Washington,DC,200365068,,,2023-09-21,6815.00,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463948,500463910,SB29,ORG,Comcast,,,,,,1500 Market St,Fl 11E,Philadelphia,PA,191022107,,,2023-09-21,215.49,0.00,Utilities - Internet,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463958,500463910,SB29,ORG,MailChimp,,,,,,512 Means St NW,Ste 404,Atlanta,GA,303185788,,,2023-09-21,106.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463968,500463910,SB29,ORG,Wachete S.R.O.,,,,,,128,5/5,Prague,,15000,,,2023-09-21,54.90,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463929,500463910,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-09-21,300.62,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463959,500463910,SB29,ORG,Mosyle Corporation,,,,,,444 W New England Ave,Ste 212,Winter Park,FL,327894376,,,2023-09-21,1144.80,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478010,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,5211.08,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488010,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-10-03,54.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462210,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,2463.43,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341010,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-17,17.00,0.00,Reimbursement,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462220,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,3116.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500317820,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-23,201.19,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482020,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-23,66.03,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482021,500482020,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-10-23,66.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488020,,,ORG,"NCEC Services, LLC",,,,,,218 D St SE,Fl 3,Washington,DC,200031900,,,2023-10-06,2000.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341020,,,ORG,"Mark Heinitz, CPA",,,,,,6433 Burwell St,,Springfield,VA,221501215,,,2023-07-18,264.00,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463820,,,ORG,"Kieloch Consulting, Inc.",,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-08-09,90000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488030,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-10-30,25549.98,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462230,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,2337.15,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482130,,,ORG,"Kieloch Consulting, Inc.",,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-11-13,453.50,0.00,"Fundraising Expenses, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482131,500482130,SB29,ORG,Avalon Catering,,,,,,6400 Woodridge Rd,,Alexandria,VA,223121334,,,2023-11-13,453.50,0.00,Event Catering and Equipment Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463830,,,ORG,"NCEC Services, LLC",,,,,,218 D St SE,Fl 3,Washington,DC,200031900,,,2023-09-07,2000.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341040,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-20,177.83,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488596,500341040,SB29,ORG,AT&T Mobility,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-07-20,60.63,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488597,500341040,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-07-20,70.51,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488598,500341040,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-07-20,46.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488040,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-10-31,10337.23,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463840,,,ORG,"Fight for Children, Inc.",,,,,,1250 Connecticut Ave NW,Ste 850,Washington,DC,200362668,,,2023-09-22,12901.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485140,,,ORG,Quorum Creative,,,,,,,,,,,,,2023-12-22,750.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463640,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-14,238.25,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462240,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,6887.34,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484240,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3690.31,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500480540,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-11-26,678.72,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481750,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,2959.53,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462250,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,2485.13,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463850,,,IND,,Ribeiro,Elis,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-08,10000.00,0.00,Operations Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463860,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-10,178.58,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488600,500463860,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-08-10,49.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488601,500463860,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-08-10,68.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488599,500463860,SB29,ORG,AT&T Mobility,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-08-10,60.63,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462260,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,2402.19,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463760,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,5211.07,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488560,,,IND,,Presta,Lisa,,,,163 Forest Side Ave,,San Francisco,CA,941271315,,,2023-10-06,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484260,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,2466.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341070,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-07-20,12500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463870,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-21,62.50,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488606,500463870,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-08-21,35.00,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463770,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-09-24,9060.86,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462270,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,6967.39,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463980,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-08-31,153.62,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463880,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-09-14,880.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488580,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-14,750.62,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484180,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,9061.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462280,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,2485.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463590,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-08-25,374.55,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478690,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,2959.52,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488590,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-12-08,12500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462290,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,3421.76,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482101,,,ORG,Waterfront Strategies,,,,,,3050 K St NW,Ste 100,Washington,DC,200075161,,,2023-10-30,2805.00,0.00,Television Advertising,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463901,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-08-21,13221.93,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463900,500463901,SB29,ORG,Abbey Party Rents,,,,,,8860 Production Ave,,San Diego,CA,921212218,,,2023-08-21,1743.60,0.00,Catering & Facility Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463930,500463901,SB29,ORG,Ready Refresh by Nestle,,,,,,9921 Business Pkwy,,Lanham,MD,207061836,,,2023-08-21,270.01,0.00,Water Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463940,500463901,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-08-21,231.00,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463911,500463901,SB29,ORG,CVS Corporation,,,,,,1 Cvs Dr,,Woonsocket,RI,028956146,,,2023-08-21,20.50,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463921,500463901,SB29,ORG,LexisNexis,,,,,,PO Box 7147,,Philadelphia,PA,191700001,,,2023-08-21,839.52,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463931,500463901,SB29,ORG,RingCentral Inc.,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2023-08-21,433.65,0.00,Utilities,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463912,500463901,SB29,ORG,The Des Moines Register,,,,,,13095 Publishers Dr,,Fishers,IN,460388826,,,2023-08-21,24.70,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463922,500463901,SB29,ORG,MailChimp,,,,,,512 Means St NW,Ste 404,Atlanta,GA,303185788,,,2023-08-21,106.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463903,500463901,SB29,ORG,"Adobe Systems, Inc.",,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-08-21,100.68,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463913,500463901,SB29,ORG,FedEx,,,,,,13155 Noel Rd,Ste 1900,Dallas,TX,752405052,,,2023-08-21,61.05,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463923,500463901,SB29,ORG,Msbill.info,,,,,,91 Main St,Fl 8,Orono,ME,044734002,,,2023-08-21,139.92,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463943,500463901,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-08-21,811.81,0.00,Subscription and Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463904,500463901,SB29,ORG,Beltway Office Solutions,,,,,,9190 Red Branch Rd,Ste E,Columbia,MD,210452049,,,2023-08-21,132.10,0.00,Printer Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463905,500463901,SB29,ORG,Dialpad Meetings,,,,,,275 Sacramento St,,San Francisco,CA,941113810,,,2023-08-21,174.90,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463916,500463901,SB29,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-08-21,836.17,0.00,Subscription and Email Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463926,500463901,SB29,ORG,The Philadelphia Inquirer,,,,,,801 Market St,Ste 300,Philadelphia,PA,191073183,,,2023-08-21,21.96,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463908,500463901,SB29,ORG,Cloudflare,,,,,,101 Townsend St,Ste 900,San Francisco,CA,941071934,,,2023-08-21,53.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463918,500463901,SB29,ORG,Houston Chronicle,,,,,,4747 Southwest Fwy,,Houston,TX,770276901,,,2023-08-21,35.91,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463938,500463901,SB29,ORG,UI.COM,,,,,,685 3rd Ave,Ste 2702,New York,NY,100174142,,,2023-08-21,1179.94,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463909,500463901,SB29,ORG,Comcast,,,,,,1500 Market St,Fl 11E,Philadelphia,PA,191022107,,,2023-08-21,215.49,0.00,Internet Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463919,500463901,SB29,ORG,"Technolutionary, LLC",,,,,,1003 S Creek View Ct,,Churchton,MD,207332500,,,2023-08-21,1050.00,0.00,Technology Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463939,500463901,SB29,ORG,ZeroBounce,,,,,,10 E Yanonali St,,Santa Barbara,CA,931011875,,,2023-08-21,4150.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463949,500463901,SB29,ORG,Wachete S.R.O.,,,,,,128,5/5,Prague,,15000,,,2023-08-21,54.90,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488001,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2023-11-01,7260.42,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478011,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,2923.49,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483411,,,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-21,17.29,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488011,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-11-03,54.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462211,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,2287.51,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463811,,,ORG,Switchboard Public Benefit Corporation,,,,,,PO Box 33485,,Washington,DC,200330485,,,2023-07-19,23307.85,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500317821,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-30,214.01,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462221,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,2328.43,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488021,,,ORG,"NCEC Services, LLC",,,,,,218 D St SE,Fl 3,Washington,DC,200031900,,,2023-11-07,2000.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341021,,,ORG,Premier Political Compliance,,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-18,35000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463821,,,ORG,"TruVerse, Inc.",,,,,,221 Main St,Unit 324,Los Altos,CA,940239007,,,2023-08-09,6764.64,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462231,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,3267.02,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488031,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-11-14,26626.87,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484231,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,6258.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463831,,,ORG,"Kieloch Consulting, Inc.",,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-09-07,45000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341041,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-20,59.32,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488621,500341041,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-07-20,38.69,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500481741,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,4173.86,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463841,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-09-22,20000.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485141,,,ORG,Wavelength Strategy LLC,,,,,,712 H St NE,Unit 526,Washington,DC,200023627,,,2023-12-22,8000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463641,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-14,250.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462241,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,4017.61,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484241,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,4512.08,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488041,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-11-15,9956.98,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500480541,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-11-19,3553.10,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481751,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,3904.61,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462251,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,3046.38,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463861,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-10,1371.22,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488608,500463861,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-08-10,363.84,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488618,500463861,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-08-10,41.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488609,500463861,SB29,ORG,Colonial Parking,,,,,,1025 Thomas Jefferson St NW,,Washington,DC,200075201,,,2023-08-10,750.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488619,500463861,SB29,ORG,55 M Street Garage,,,,,,55 M St SE,,Washington,DC,200033522,,,2023-08-10,88.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462261,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,3421.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463761,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,2923.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488561,,,IND,,Presta,Lisa,,,,163 Forest Side Ave,,San Francisco,CA,941271315,,,2023-11-07,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484261,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,9237.03,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341071,,,ORG,"Ryan, Swanson, & Cleveland, PLLC",,,,,,1201 3rd Ave,Ste 3400,Seattle,WA,981013268,,,2023-07-31,939.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463871,,,IND,,Ribeiro,Elis,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-11,10000.00,0.00,Operations Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484571,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-21,1806.37,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484580,500484571,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-21,522.16,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500484590,500484571,SB29,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,761552603,,,2023-12-21,412.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500484584,500484571,SB29,ORG,"Delta Air Lines, Inc.",,,,,,1275 K St NW,Ste 1200,Washington,DC,200054069,,,2023-12-21,871.31,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463771,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-10-02,11658.96,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463971,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-14,6134.52,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462271,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,3695.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484171,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,4173.84,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463981,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-08-30,22223.73,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488581,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-15,260.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463881,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-09-28,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462281,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,3046.38,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478691,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,3904.60,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484191,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3650.91,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463591,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-09-27,449.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462291,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,5595.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485402,,,ORG,Spiros Consulting,,,,,,1735 New Hampshire Ave NW,Apt 102,Washington,DC,200092556,,,2023-12-20,12000.00,0.00,Research Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488002,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2023-12-01,8495.84,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463802,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-09-05,432.54,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478012,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,3904.61,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483412,,,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-21,80.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482012,,,ORG,Premier Political Compliance,,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-03,35000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462212,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,7082.15,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488012,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-12-04,54.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463812,,,ORG,"EveryAction,Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2023-07-19,4706.40,0.00,Database & Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500317822,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-08-01,13.38,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462222,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,2980.93,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483422,,,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-21,45.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488022,,,ORG,New Media Campaigns,,,,,,118 E Main St,Ste A,Carrboro,NC,275102300,,,2023-11-03,414.00,0.00,Website Hosting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482022,,,ORG,Houston Livestock & Rodeo,,,,,,3 Nrg Park,,Houston,TX,770541574,,,2023-10-24,35000.00,0.00,Event Tickets and Venue Rental,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341022,,,ORG,Capital Strategies,,,,,,13900 Old Harbor Ln,Apt 108,Marina Del Rey,CA,902927333,,,2023-07-19,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463822,,,ORG,Switchboard Public Benefit Corporation,,,,,,PO Box 33485,,Washington,DC,200330485,,,2023-08-09,25625.47,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462232,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,5446.53,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482132,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-11-15,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484232,,,IND,,Boland,Thomas,J.,,IV,,,,,,,,2023-12-15,1923.95,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463832,,,ORG,Capital Strategies,,,,,,13900 Old Harbor Ln,Apt 108,Marina Del Rey,CA,902927333,,,2023-09-07,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488032,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-11-29,28576.21,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481742,,,IND,,Boland,Thomas,J.,,IV,,,,,,,,2023-11-30,3086.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488042,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-11-30,9771.98,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463842,,,IND,,Williams,Eva,,,,311 N Virginia Ave,,Falls Church,VA,220463315,,,2023-08-01,480.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485142,,,ORG,The Majority Institute LLC,,,,,,139 W Dartmouth Ave,,Englewood,CO,801101531,,,2023-12-22,608.75,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462242,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,2923.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484242,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3093.66,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481752,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,2511.76,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462252,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,1668.60,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463862,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-10,548.55,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489391,500463862,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-08-10,97.57,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489385,500463862,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-08-10,144.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489387,500463862,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-08-10,57.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462262,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,5595.06,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463762,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,3904.60,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488562,,,IND,,Presta,Lisa,,,,163 Forest Side Ave,,San Francisco,CA,941271315,,,2023-12-07,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484262,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,6403.26,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463872,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-09-11,12500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463772,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-10-01,21.23,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462272,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,2923.49,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484172,,,IND,,Boland,Thomas,J.,,IV,,,,,,,,2023-12-15,1633.64,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463972,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-28,23331.78,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,31451172I,31451172,SA17,PAC,"Democratic Victory PAC, Inc.",,,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2023-11-19,128058.67,0.00,"Non-Contribution Account, In kind:  Staff Time and Event Production",,C00753558,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB29,C00495028,500463882,,,ORG,"Chef Drew, Inc.",,,,,,3241 Clay Ave,,San Diego,CA,921131511,,,2023-07-31,2762.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487982,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-11-01,444.11,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463982,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-09-14,22911.07,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478682,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,4173.84,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488582,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-28,687.27,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462282,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,1932.25,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463592,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-07-03,19.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485392,,,ORG,AmTrust North America,,,,,,PO Box 6939,,Cleveland,OH,441011939,,,2023-12-14,6147.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478692,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,2511.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462292,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,1762.37,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487992,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-11-29,109.48,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478003,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,4136.40,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482103,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-01,2378.26,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482104,500482103,SB29,ORG,Lodge at Torrey Pines,,,,,,11480 N Torrey Pines Rd,,La Jolla,CA,920371045,,,2023-11-01,1745.22,0.00,Room Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482105,500482103,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-11-01,190.69,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482107,500482103,SB29,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2023-11-01,16.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482108,500482103,SB29,ORG,Fairmont Hotel,,,,,,950 Mason St,,San Francisco,CA,941086000,,,2023-11-01,367.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500483403,,,ORG,Global Strategy Group LLC,,,,,,215 Park Ave S,Fl 15,New York,NY,100031612,,,2023-12-11,14875.00,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341003,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-07-14,422.95,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488003,,,ORG,Elections in Motion,,,,,,19406 Lomond Blvd,,Shaker Heights,OH,441225110,,,2023-11-07,1614.38,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478013,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,2479.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462213,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,3865.43,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463813,,,ORG,1029 Vermont Venture,,,,,,7811 Montrose Rd,Ste 200,Potomac,MD,208543353,,,2023-07-24,12073.75,0.00,Rent,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482013,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-10-04,444.48,0.00,Meals,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488013,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-12-06,19.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462223,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,1506.86,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483423,,,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-21,13.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482123,,,ORG,"Gragert Research, LLC.",,,,,,PO Box 410521,,Chicago,IL,606410521,,,2023-11-03,1050.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482023,,,ORG,Deliver Strategies LLC,,,,,,PO Box 100970,,Arlington,VA,222103970,,,2023-10-25,2836.86,0.00,Printing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500317823,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-08-06,194.57,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488023,,,ORG,New Media Campaigns,,,,,,118 E Main St,Ste A,Carrboro,NC,275102300,,,2023-11-28,414.00,0.00,Website Hosting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341023,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2023-07-19,5352.78,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463823,,,ORG,America Votes,,,,,,1155 Connecticut Ave NW,Ste 600,Washington,DC,200364324,,,2023-08-09,50000.00,0.00,Donation,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500477523,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-10-29,227.13,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462233,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,2416.65,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488033,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-10-13,238.25,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,31020933I,31020933,SA17,IND,,Hauptman,Andrew,,,,221 S Cliffwood Ave,,Los Angeles,CA,900493823,,,2023-10-14,5010.84,0.00,"Non-Contribution Account, Event Catering",,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB29,C00495028,500484233,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,2878.32,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482133,,,ORG,Global Strategy Group LLC,,,,,,215 Park Ave S,Fl 15,New York,NY,100031612,,,2023-11-16,17375.00,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463833,,,ORG,Urban Legend Media,,,,,,128 King St,Fl 2,Alexandria,VA,223143208,,,2023-09-08,21829.50,0.00,Digital Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341043,,,IND,,Barrientos,Jasmine,,,,13400 Jamie Ave,,Sylmar,CA,913422147,,,2023-07-20,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481743,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,2520.68,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463843,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-01,147.75,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488602,500463843,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-08-01,45.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488603,500463843,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-08-01,34.61,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488605,500463843,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-08-01,35.00,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478843,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-11-12,2724.15,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462243,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,3398.74,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484243,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,4809.89,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484443,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-12-28,2665.25,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488043,,,ORG,Gambit Strategies LLC,,,,,,2939 Van Ness St NW,Apt 1006,Washington,DC,200084605,,,2023-12-29,98355.03,0.00,Digital Advertising & Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481753,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,3766.79,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462253,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,2351.19,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463853,,,IND,,Maxit,Cesar,,,,1830 Belmont Rd NW,,Washington,DC,200095162,,,2023-08-01,2625.00,0.00,Graphic Design Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463753,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,4136.40,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485153,,,ORG,Boysenberry Strategies,,,,,,1804 Bay St SE,,Washington,DC,200032509,,,2023-12-28,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463863,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-10,42.69,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488624,500463863,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-08-10,42.69,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482063,,,ORG,AT&T Mobility,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-10-30,368.77,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462263,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,2329.44,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463763,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,2479.03,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488563,,,ORG,"NCEC Services, LLC",,,,,,218 D St SE,Fl 3,Washington,DC,200031900,,,2023-12-07,2000.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484263,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,2959.53,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463873,,,ORG,Pavitra Abraham LLC,,,,,,2418 W Bloomingdale Ave,Apt 106,Chicago,IL,606474364,,,2023-09-11,1500.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463973,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-31,153.62,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484473,,,ORG,Hart Research Associates,,,,,,1724 Connecticut Ave NW,,Washington,DC,200091103,,,2023-12-21,37500.00,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462273,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,2165.74,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484173,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,2520.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488373,,,ORG,"Allied Telecom Group, LLC",,,,,,1400 Crystal Dr,Ste 700,Arlington,VA,222024153,,,2023-12-05,376.46,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463773,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-10-08,190.96,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487983,,,ORG,Boysenberry Strategies,,,,,,1804 Bay St SE,,Washington,DC,200032509,,,2023-10-10,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485183,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-11,7662.41,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485290,500485183,SB29,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2023-10-11,961.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485293,500485183,SB29,ORG,"Delta Air Lines, Inc.",,,,,,1275 K St NW,Ste 1200,Washington,DC,200054069,,,2023-10-11,612.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485285,500485183,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-10-11,807.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485286,500485183,SB29,ORG,Marriott,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2023-10-11,2250.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485287,500485183,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-10-11,84.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485288,500485183,SB29,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,761552603,,,2023-10-11,198.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485289,500485183,SB29,ORG,Lodge at Torrey Pines,,,,,,11480 N Torrey Pines Rd,,La Jolla,CA,920371045,,,2023-10-11,2747.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488583,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-14,30502.28,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463983,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-09-15,178.62,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478683,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,2520.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484183,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,6296.15,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463583,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-07-26,110.41,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463883,,,ORG,"Chef Drew, Inc.",,,,,,3241 Clay Ave,,San Diego,CA,921131511,,,2023-09-07,5502.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484483,,,ORG,Rare Steakhouse & Tavern,,,,,,1595 I St NW,,Washington,DC,200051106,,,2023-12-18,5118.25,0.00,Catering,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462283,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,2351.19,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463793,,,ORG,JBW Consulting LLC,,,,,,601 E 20th St,Apt 10F,New York,NY,100107636,,,2023-09-11,7250.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463593,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-07-03,54.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478693,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,3766.78,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482193,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-12-05,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484193,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,6122.57,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487993,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-11-29,158.73,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478004,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,2485.13,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483404,,,ORG,Union Insurance Group,,,,,,2125 W Roscoe St,,Chicago,IL,606186219,,,2023-12-15,906.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485104,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-26,47.71,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485106,500485104,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-26,21.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485107,500485104,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-26,25.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488004,,,ORG,Elections in Motion,,,,,,19406 Lomond Blvd,,Shaker Heights,OH,441225110,,,2023-10-06,1614.38,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463804,,,ORG,Elections in Motion,,,,,,19406 Lomond Blvd,,Shaker Heights,OH,441225110,,,2023-09-07,1614.38,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478014,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,3733.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488014,,,ORG,Industriouso,,,,,,119 W 24th St,Fl 4,New York,NY,100111913,,,2023-11-02,896.99,0.00,Rent,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462214,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,2777.11,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463814,,,ORG,"Fight for Children, Inc.",,,,,,1250 Connecticut Ave NW,Ste 850,Washington,DC,200362668,,,2023-07-24,12901.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462224,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,2463.42,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482124,,,ORG,Premier Political Compliance,,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-03,35000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463824,,,ORG,"Politico, LLC",,,,,,1100 Wilson Blvd,Fl 6,Arlington,VA,222092257,,,2023-08-14,30607.50,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488024,,,ORG,"EveryAction,Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055701,,,2023-10-04,14993.70,0.00,Database & Email Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341024,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-07-19,31414.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488034,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-10-13,260.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462234,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,3452.98,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484234,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3847.91,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482134,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-11-16,20000.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463834,,,ORG,Lodge at Torrey Pines,,,,,,11480 N Torrey Pines Rd,,La Jolla,CA,920371045,,,2023-09-08,615.52,0.00,Room Rental,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341044,,,IND,,Barrientos,Jasmine,,,,13400 Jamie Ave,,Sylmar,CA,913422147,,,2023-07-20,142.40,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488260,500341044,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5th St NW,,Washington,DC,200012610,,,2023-07-20,46.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488261,500341044,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-07-20,96.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500481744,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,3139.16,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463844,,,ORG,Pavitra Abraham LLC,,,,,,2418 W Bloomingdale Ave,Apt 106,Chicago,IL,606474364,,,2023-08-01,7500.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462244,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,2402.20,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484244,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,15002.50,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488044,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-28,28767.98,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488080,500488044,SB29,ORG,FedEx,,,,,,13155 Noel Rd,Ste 1900,Dallas,TX,752405052,,,2023-12-28,45.49,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488101,500488044,SB29,ORG,Ready Refresh by Nestle,,,,,,9921 Business Pkwy,,Lanham,MD,207061836,,,2023-12-28,229.06,0.00,Water Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488111,500488044,SB29,ORG,The Post Oak Hotel,,,,,,263 HOUSTON Ave,,Houston,TX,77027,,,2023-12-28,5866.00,0.00,Meetings - Event Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488121,500488044,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-12-28,959.77,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488061,500488044,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-12-28,278.71,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488091,500488044,SB29,ORG,MailChimp,,,,,,512 Means St NW,Ste 404,Atlanta,GA,303185788,,,2023-12-28,116.60,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488092,500488044,SB29,ORG,Microsoft Corporation,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-12-28,160.32,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488063,500488044,SB29,ORG,Apple Inc.,,,,,,12545 Riata Vista Cir,,Austin,TX,787276524,,,2023-12-28,3831.90,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488083,500488044,SB29,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-12-28,1324.37,0.00,Email Services & TV Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488114,500488044,SB29,ORG,Hine Restaurants,,,,,,3307 M St NW,Fl 4,Washington,DC,200073539,,,2023-12-28,160.91,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488064,500488044,SB29,ORG,Beltway Office Solutions,,,,,,9190 Red Branch Rd,Ste E,Columbia,MD,210452049,,,2023-12-28,668.40,0.00,Printer Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488115,500488044,SB29,ORG,Jack Rose Dining,,,,,,2007 18th St NW,,Washington,DC,200091805,,,2023-12-28,2821.01,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488065,500488044,SB29,ORG,Dialpad Meetings,,,,,,275 Sacramento St,,San Francisco,CA,941113810,,,2023-12-28,174.90,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488075,500488044,SB29,ORG,Dell Inc.,,,,,,1 Dell Way,,Round Rock,TX,786827000,,,2023-12-28,2047.40,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488066,500488044,SB29,ORG,Call Your Mother Deli,,,,,,1471 P St NW,,Washington,DC,200051907,,,2023-12-28,150.00,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488107,500488044,SB29,ORG,RingCentral Inc.,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2023-12-28,437.01,0.00,Utilities - Phones,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488057,500488044,SB29,ORG,"Adobe Systems, Inc.",,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-12-28,100.68,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488067,500488044,SB29,ORG,Cloudflare,,,,,,101 Townsend St,Ste 900,San Francisco,CA,941071934,,,2023-12-28,53.00,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488087,500488044,SB29,ORG,NOVA Confections,,,,,,1025 N Fillmore St,Ste H,Arlington,VA,222016700,,,2023-12-28,1515.80,0.00,Gifts for Donors,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488068,500488044,SB29,ORG,Comcast,,,,,,1500 Market St,Fl 11E,Philadelphia,PA,191022107,,,2023-12-28,215.49,0.00,Utilities - Internet,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488088,500488044,SB29,ORG,LinkedIn,,,,,,2029 Stierlin Ct,Ste 200,Mountain View,CA,940434655,,,2023-12-28,584.31,0.00,Advertisement,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488109,500488044,SB29,ORG,St Regis Hotel,,,,,,125 3rd St,,San Francisco,CA,941033107,,,2023-12-28,4313.05,0.00,Facilities Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488119,500488044,SB29,ORG,Wachete S.R.O.,,,,,,128,5/5,Prague,,15000,,,2023-12-28,54.90,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488059,500488044,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-12-28,1695.37,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488089,500488044,SB29,ORG,LexisNexis,,,,,,PO Box 7147,,Philadelphia,PA,191700001,,,2023-12-28,839.52,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500481754,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,6122.57,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482054,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-30,2772.32,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482070,500482054,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-10-30,185.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482080,500482054,SB29,ORG,Eastern Point Collective,,,,,,300 7th St SE,,Washington,DC,200032504,,,2023-10-30,1718.75,0.00,Catering & Facility Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482072,500482054,SB29,ORG,Goldbelly NY,,,,,,27 Union Sq W,,New York,NY,100033305,,,2023-10-30,237.85,0.00,Gifts for Donors,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482066,500482054,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-10-30,368.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482058,500482054,SB29,ORG,AT&T Mobility,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-10-30,216.25,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462254,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,2269.17,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463854,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-01,1227.54,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489353,500463854,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-08-01,79.70,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489354,500463854,SB29,ORG,Colonial Parking,,,,,,1025 Thomas Jefferson St NW,,Washington,DC,200075201,,,2023-08-01,299.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489355,500463854,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-08-01,442.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489356,500463854,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-08-01,18.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489358,500463854,SB29,ORG,Hilton Hotels,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2023-08-01,294.72,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500308754,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-03,54.55,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463754,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,2485.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488554,,,ORG,Capital Strategies,,,,,,13900 Old Harbor Ln,Apt 108,Marina Del Rey,CA,902927333,,,2023-12-07,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463864,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-08-10,828.92,0.00,Catering,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463764,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,3733.47,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462264,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,5109.13,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484264,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,3904.60,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463874,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-11,547.98,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489300,500463874,SB29,ORG,Colonial Parking,,,,,,1025 Thomas Jefferson St NW,,Washington,DC,200075201,,,2023-09-11,18.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489302,500463874,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-09-11,184.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489352,500463874,SB29,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2023-09-11,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489249,500463874,SB29,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2023-09-11,216.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463974,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-31,6771.80,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462274,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,2402.19,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463774,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-10-15,561.55,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488374,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-12-29,168.76,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463584,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-08-25,115.40,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463884,,,ORG,NYSIF,,,,,,PO Box 66699,Albany,Albany,NY,122066699,,,2023-08-15,947.19,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463984,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-09-15,260.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478684,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,3046.39,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484184,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,2959.52,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487984,,,ORG,Boysenberry Strategies,,,,,,1804 Bay St SE,,Washington,DC,200032509,,,2023-11-08,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488584,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-18,9310.54,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462284,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,2269.18,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484494,,,IND,,Boland,Thomas,J.,,IV,,,,,,,,2023-12-21,37.63,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484496,500484494,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-21,37.63,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500487794,,,ORG,AmTrust North America,,,,,,PO Box 6939,,Cleveland,OH,441011939,,,2023-09-12,4109.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463794,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-10-02,432.54,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463594,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-08-03,19.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478694,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,6122.57,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487994,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-11-29,489.30,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500459105,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-09-10,175.17,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488005,,,IND,,Ribeiro,Elis,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-10,10000.00,0.00,Operations Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478005,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,3046.39,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341005,,,ORG,"Allied Telecom Group, LLC",,,,,,1400 Crystal Dr,Ste 700,Arlington,VA,222024153,,,2023-07-17,376.46,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463805,,,ORG,Elections in Motion,,,,,,19406 Lomond Blvd,,Shaker Heights,OH,441225110,,,2023-08-07,1614.38,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478015,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,6061.08,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483415,,,ORG,DoubleTree by Hilton,,,,,,1 Massachusetts Ave NW,,Newark,NJ,07114,,,2023-12-21,252.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482015,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-10-13,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482115,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-03,419.00,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482116,500482115,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-11-03,15.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482117,500482115,SB29,ORG,Mr. Smith's,,,,,,3205 K St NW,,Washington,DC,200074412,,,2023-11-01,381.78,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482118,500482115,SB29,ORG,Go Daddy,,,,,,14455 N Hayden Rd,Ste 219,Scottsdale,AZ,852606993,,,2023-11-03,22.17,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462215,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,3441.53,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463815,,,IND,,Presta,Lisa,,,,163 Forest Side Ave,,San Francisco,CA,941271315,,,2023-08-07,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488015,,,ORG,Boysenberry Strategies,,,,,,1804 Bay St SE,,Washington,DC,200032509,,,2023-12-08,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462225,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,2205.16,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463825,,,ORG,"Ryan, Swanson, & Cleveland, PLLC",,,,,,1201 3rd Ave,Ste 3400,Seattle,WA,981013268,,,2023-08-18,2621.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341025,,,ORG,"TruVerse, Inc.",,,,,,221 Main St,Unit 324,Los Altos,CA,940239007,,,2023-07-19,4210.48,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488035,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-10-31,153.62,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462235,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,2485.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484235,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,2308.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485135,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-12-26,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500458235,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-08-27,220.73,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482135,,,ORG,"ALG Polling, Inc.",,,,,,260 Commerce St,Fl 4,Montgomery,AL,361042546,,,2023-11-17,6000.00,0.00,Polling,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463835,,,ORG,Catalist,,,,,,1090 Vermont Ave NW,Ste 300,Washington,DC,200054966,,,2023-09-08,76002.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341045,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-20,180.57,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489383,500341045,SB29,ORG,AT&T Mobility,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-07-20,144.60,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489384,500341045,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-07-20,35.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500481745,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,1966.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463845,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-01,103.00,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489414,500463845,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5th St NW,,Washington,DC,200012610,,,2023-08-01,90.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489415,500463845,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-08-01,13.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462245,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,3421.76,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484245,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,4732.94,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481755,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,2801.91,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462255,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,7363.64,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484555,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-21,19.50,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484556,500484555,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-21,19.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500308755,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-02,43.37,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463755,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,3046.39,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463855,,,ORG,Boysenberry Strategies,,,,,,1804 Bay St SE,,Washington,DC,200032509,,,2023-08-08,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484255,,,IND,,Bosscher,Jonathan,,,,1308 Clifton St NW,Apt 402,Washington,DC,200097031,,,2023-12-29,3520.61,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463865,,,IND,,Barrientos,Jasmine,,,,13400 Jamie Ave,,Sylmar,CA,913422147,,,2023-08-10,202.37,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488258,500463865,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5th St NW,,Washington,DC,200012610,,,2023-08-10,26.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488259,500463865,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-08-10,176.37,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463765,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,5595.06,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462265,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,2485.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488565,,,ORG,Pavitra Abraham LLC,,,,,,2418 W Bloomingdale Ave,Apt 106,Chicago,IL,606474364,,,2023-12-08,1500.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484265,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,2511.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463875,,,ORG,"MKZ Strategies & Events, Inc.",,,,,,2108 Military Rd,,Arlington,VA,222073925,,,2023-09-11,3500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463975,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-08-11,255.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462275,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,3421.76,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488575,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-15,7920.98,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488375,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-12-29,93.27,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487985,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-10-10,12500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463885,,,ORG,Ace Parking Mobility Solution,,,,,,645 Ash St,,San Diego,CA,921013211,,,2023-08-21,400.00,0.00,Parking,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463985,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-09-15,7523.79,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478685,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,1966.68,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484185,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3904.60,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463585,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-09-27,109.47,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488585,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-28,33200.30,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462285,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,6967.40,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463595,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-08-03,54.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463795,,,IND,,Mongia,Jasbir,,,,11478 Oak Leaf Dr,,Silver Spring,MD,209015042,,,2023-07-14,750.00,0.00,Office Moving Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Report
+SB29,C00495028,500478695,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,2677.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482495,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-12-17,2183.75,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487995,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-10-27,410.10,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478006,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,1932.25,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500464506,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-10-22,204.44,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500459106,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-09-03,79.38,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341006,,,IND,,Rojas,Antonio,,,,,,Washington,DC,,,,2023-07-17,1000.00,0.00,Office Moving Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488006,,,IND,,Ribeiro,Elis,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-08,10000.00,0.00,Operations Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463806,,,ORG,Elections in Motion,,,,,,19406 Lomond Blvd,,Shaker Heights,OH,441225110,,,2023-07-19,1077.50,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478016,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,2643.01,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483416,,,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-12-21,138.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482016,,,ORG,Normington Petts & Associates,,,,,,1010 Wisconsin Ave NW,Ste 208,Washington,DC,200073683,,,2023-10-13,56980.00,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462216,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,2337.16,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488016,,,ORG,JBW Consulting LLC,,,,,,601 E 20th St,Apt 10F,New York,NY,100107636,,,2023-10-04,7250.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485116,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-26,566.24,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485120,500485116,SB29,ORG,DoubleTree by Hilton,,,,,,1 Massachusetts Ave NW,,Newark,NJ,07114,,,2023-12-26,252.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485121,500485116,SB29,ORG,55 M Street Garage,,,,,,55 M St SE,,Washington,DC,200033522,,,2023-12-26,126.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485118,500485116,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-26,49.29,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485119,500485116,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-12-26,138.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500341016,,,IND,,Barrientos,Jasmine,,,,13400 Jamie Ave,,Sylmar,CA,913422147,,,2023-07-17,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463816,,,ORG,"NCEC Services, LLC",,,,,,218 D St SE,Fl 3,Washington,DC,200031900,,,2023-08-07,2000.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341026,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-20,2121.40,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489361,500341026,SB29,ORG,"Delta Air Lines, Inc.",,,,,,1275 K St NW,Ste 1200,Washington,DC,200054069,,,2023-07-20,615.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489371,500341026,SB29,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-07-20,79.68,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489362,500341026,SB29,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2023-07-20,395.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489363,500341026,SB29,ORG,Colonial Parking,,,,,,1025 Thomas Jefferson St NW,,Washington,DC,200075201,,,2023-07-20,353.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489364,500341026,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-07-20,36.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489365,500341026,SB29,ORG,LAZ Parking,,,,,,655 15th St NW,Ste 420,Washington,DC,200055708,,,2023-07-20,21.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489366,500341026,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-07-20,337.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489367,500341026,SB29,ORG,Dauphine's,,,,,,1100 15th St NW,,Washington,DC,200051707,,,2023-07-20,98.97,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462226,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,6726.02,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463826,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-08-21,35054.75,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500477526,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-10-31,33.35,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500429226,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-08-13,184.03,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483426,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,223.20,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483427,500483426,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-12-15,223.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482126,,,ORG,"MKZ Strategies & Events, Inc.",,,,,,2108 Military Rd,,Arlington,VA,222073925,,,2023-11-06,3500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488036,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-11-10,260.00,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463836,,,ORG,"TruVerse, Inc.",,,,,,221 Main St,Unit 324,Los Altos,CA,940239007,,,2023-09-11,6402.62,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482136,,,ORG,Minuteman Press Chicago,,,,,,1249 N Clybourn Ave,,Chicago,IL,606106693,,,2023-11-21,13618.40,0.00,Printing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463636,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-03,217.22,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462236,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,3046.39,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484236,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3093.65,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481746,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,2563.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463846,,,IND,,Barrientos,Jasmine,,,,13400 Jamie Ave,,Sylmar,CA,913422147,,,2023-08-01,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488046,,,ORG,JBW Consulting LLC,,,,,,601 E 20th St,Apt 10F,New York,NY,100107636,,,2023-12-04,7250.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462246,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,5595.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462256,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,3942.69,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463756,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,1932.25,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463856,,,ORG,JBW Consulting LLC,,,,,,601 E 20th St,Apt 10F,New York,NY,100107636,,,2023-08-08,7250.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484256,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,2520.68,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484566,,,ORG,The Majority Institute LLC,,,,,,139 W Dartmouth Ave,,Englewood,CO,801101531,,,2023-12-20,36000.00,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488266,,,ORG,Amwins Connect Administrators,,,,,,6 N Park Dr,Ste 310,Cockeysville,MD,210301821,,,2023-12-01,535.81,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463766,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,2643.01,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462266,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,3046.39,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463866,,,IND,,Barrientos,Jasmine,,,,13400 Jamie Ave,,Sylmar,CA,913422147,,,2023-08-15,320.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500460066,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-09-17,249.37,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484266,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,3766.78,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463876,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-09-12,410.97,0.00,Meals,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500464376,,,ORG,Industriouso,,,,,,119 W 24th St,Fl 4,New York,NY,100111913,,,2023-10-04,896.99,0.00,Rent,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462276,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,5595.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463976,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-08-15,178.62,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484176,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3139.17,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488576,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-18,8276.02,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478686,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,2563.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484186,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,2511.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463586,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-07-26,184.35,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487986,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-11-08,12500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462286,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,3942.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463886,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2023-08-09,6306.64,0.00,Insurance,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463986,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-09-29,7537.92,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482496,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-12-10,865.41,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500340996,,,ORG,JBW Consulting LLC,,,,,,601 E 20th St,Apt 10F,New York,NY,100107636,,,2023-07-11,7250.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500479596,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-11-21,12106.54,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500479610,500479596,SB29,ORG,Comcast,,,,,,1500 Market St,Fl 11E,Philadelphia,PA,191022107,,,2023-11-21,215.49,0.00,Utilities - Internet,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479601,500479596,SB29,ORG,"Adobe Systems, Inc.",,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-11-21,100.68,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479631,500479596,SB29,ORG,Ready Refresh by Nestle,,,,,,9921 Business Pkwy,,Lanham,MD,207061836,,,2023-11-21,139.28,0.00,Water Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479641,500479596,SB29,ORG,The Imperial,,,,,,2001 18th St NW,,Washington,DC,200092330,,,2023-11-21,1000.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479602,500479596,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-11-21,270.00,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479612,500479596,SB29,ORG,CVS Corporation,,,,,,1 Cvs Dr,,Woonsocket,RI,028956146,,,2023-11-21,21.58,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479622,500479596,SB29,ORG,King Ranch Kitchen,,,,,,1605 Post Oak Blvd,,Houston,TX,770562902,,,2023-11-21,1625.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479603,500479596,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-11-21,559.87,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479613,500479596,SB29,ORG,Dell Inc.,,,,,,1 Dell Way,,Round Rock,TX,786827000,,,2023-11-21,2076.54,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479623,500479596,SB29,ORG,LexisNexis,,,,,,PO Box 7147,,Philadelphia,PA,191700001,,,2023-11-21,839.52,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479614,500479596,SB29,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-11-21,940.00,0.00,Email Services & TV Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479644,500479596,SB29,ORG,The Management Center,,,,,,1920 L St NW,Ste 775,Washington,DC,200365068,,,2023-11-21,-387.50,0.00,Credit,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479654,500479596,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-11-21,1704.29,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479605,500479596,SB29,ORG,Beltway Office Solutions,,,,,,9190 Red Branch Rd,Ste E,Columbia,MD,210452049,,,2023-11-21,145.06,0.00,Printer Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479625,500479596,SB29,ORG,MailChimp,,,,,,512 Means St NW,Ste 404,Atlanta,GA,303185788,,,2023-11-21,106.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479606,500479596,SB29,ORG,Avalon Catering,,,,,,6400 Woodridge Rd,,Alexandria,VA,223121334,,,2023-11-21,453.50,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479626,500479596,SB29,ORG,Microsoft Corporation,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-11-21,150.08,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479607,500479596,SB29,ORG,Dialpad Meetings,,,,,,275 Sacramento St,,San Francisco,CA,941113810,,,2023-11-21,174.90,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479647,500479596,SB29,ORG,Wachete S.R.O.,,,,,,128,5/5,Prague,,15000,,,2023-11-21,54.90,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479608,500479596,SB29,ORG,Calendly LLC,,,,,,88 N Avondale Rd,Ste 603,Avondale Estates,GA,300021323,,,2023-11-21,44.71,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479618,500479596,SB29,ORG,"Technolutionary, LLC",,,,,,1003 S Creek View Ct,,Churchton,MD,207332500,,,2023-11-21,175.00,0.00,Technology Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479609,500479596,SB29,ORG,Cloudflare,,,,,,101 Townsend St,Ste 900,San Francisco,CA,941071934,,,2023-11-21,53.00,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479619,500479596,SB29,ORG,"Technolutionary, LLC",,,,,,1003 S Creek View Ct,,Churchton,MD,207332500,,,2023-11-21,700.00,0.00,Technology Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500479639,500479596,SB29,ORG,RingCentral Inc.,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2023-11-21,462.55,0.00,Utilities - Phones,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485396,,,ORG,JBW Consulting LLC,,,,,,601 E 20th St,Apt 10F,New York,NY,100107636,,,2023-12-21,7250.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463596,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-09-05,54.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487996,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-10-27,109.77,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463796,,,IND,,Mongia,Jasbir,,,,11478 Oak Leaf Dr,,Silver Spring,MD,209015042,,,2023-07-19,750.00,0.00,Office Moving Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Report
+SB29,C00495028,500459107,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-09-01,124.69,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463807,,,ORG,Boysenberry Strategies,,,,,,1804 Bay St SE,,Washington,DC,200032509,,,2023-09-11,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478007,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,2528.68,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462207,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,2328.44,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488007,,,IND,,Ribeiro,Elis,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-08,10000.00,0.00,Operations Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483417,,,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-21,49.29,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462217,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,3267.03,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483517,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-12-24,25696.85,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488017,,,ORG,JBW Consulting LLC,,,,,,601 E 20th St,Apt 10F,New York,NY,100107636,,,2023-11-06,7250.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463817,,,ORG,"Kieloch Consulting, Inc.",,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-08-07,45000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482017,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-10-17,20000.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500429227,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-08-20,592.98,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488027,,,ORG,Pavitra Abraham LLC,,,,,,2418 W Bloomingdale Ave,Apt 106,Chicago,IL,606474364,,,2023-10-10,1500.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462227,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,4139.07,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463827,,,ORG,Deliver Strategies LLC,,,,,,PO Box 100970,,Arlington,VA,222103970,,,2023-08-24,1144.94,0.00,Printing,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463837,,,ORG,Switchboard Public Benefit Corporation,,,,,,PO Box 33485,,Washington,DC,200330485,,,2023-09-11,56647.39,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482137,,,ORG,"Lever, Inc.",,,,,,85 Main St,Ste 218,North Adams,MA,012473429,,,2023-11-21,5671.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488037,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-11-14,679.91,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462237,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,1668.58,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484237,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3129.06,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341047,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-20,280.79,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489396,500341047,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-07-20,153.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489397,500341047,SB29,ORG,AT&T Mobility,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2023-07-20,127.40,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500481747,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,2466.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463847,,,IND,,Williams,Eva,,,,311 N Virginia Ave,,Falls Church,VA,220463315,,,2023-08-01,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488047,,,ORG,Industriouso,,,,,,119 W 24th St,Fl 4,New York,NY,100111913,,,2023-12-04,896.99,0.00,Rent,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484247,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,4173.86,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484557,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-21,25.06,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484558,500484557,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-21,25.06,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463757,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,2528.66,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488557,,,ORG,Elections in Motion,,,,,,19406 Lomond Blvd,,Shaker Heights,OH,441225110,,,2023-12-07,1614.38,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463857,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-08-08,12500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484257,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,3139.17,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484567,,,IND,,Presta,Lisa,,,,163 Forest Side Ave,,San Francisco,CA,941271315,,,2023-12-20,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484967,,,ORG,Paragon Strategies LLC,,,,,,2131 Pacific St,Apt 2,Brooklyn,NY,112334011,,,2023-12-22,5000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462267,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,1932.24,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463867,,,IND,,Williams,Eva,,,,311 N Virginia Ave,,Falls Church,VA,220463315,,,2023-08-15,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484267,,,IND,,Shah,Shripal,N.,,,1283 Oates St NE,,Washington,DC,200023825,,,2023-12-29,7513.41,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487977,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-02,2054.24,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489372,500487977,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-10-02,128.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489373,500487977,SB29,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2023-10-02,1042.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489375,500487977,SB29,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,761552603,,,2023-10-02,167.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489376,500487977,SB29,ORG,Alaska Airlines,,,,,,19300 International Blvd,,Seatac,WA,981885304,,,2023-10-02,408.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489378,500487977,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-10-02,185.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463877,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-14,26.21,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463977,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-08-14,24001.80,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462277,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,2206.94,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484177,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,1966.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488377,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-12-29,453.85,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488577,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-29,7670.48,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487987,,,ORG,Ralston Lapp Guinn Media,,,,,,1054 31st St NW,Ste 430,Washington,DC,200076042,,,2023-10-30,12017.38,0.00,Television Production,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485087,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-21,260.27,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485090,500485087,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-21,13.63,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485088,500485087,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-12-21,81.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485089,500485087,SB29,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2023-12-21,143.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488587,,,ORG,Premier Political Compliance,,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-04,35000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463587,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-08-25,158.08,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478687,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,2466.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484187,,,IND,,Roshfeld,Adam,J.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,3766.79,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462287,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,2923.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463987,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-09-29,153.62,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463797,,,IND,,Mongia,Jasbir,,,,11478 Oak Leaf Dr,,Silver Spring,MD,209015042,,,2023-09-22,1000.00,0.00,Office Moving Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Report
+SB29,C00495028,500463597,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-09-05,19.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487997,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-10-27,182.05,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463808,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-01,33.94,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463810,500463808,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-08-01,15.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463809,500463808,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5th St NW,,Washington,DC,200012610,,,2023-08-01,18.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478008,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,2466.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483408,,,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-21,21.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488008,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-10-03,19.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462208,,,IND,,Etienne-Jones,Johnathan,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,2980.93,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485108,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-26,98.02,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485110,500485108,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-26,80.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485109,500485108,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-26,17.29,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500341008,,,ORG,Boysenberry Strategies,,,,,,1804 Bay St SE,,Washington,DC,200032509,,,2023-07-17,5000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462218,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,5446.55,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488018,,,ORG,"Kieloch Consulting, Inc.",,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-10-06,45000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341018,,,ORG,"MKZ Strategies & Events, Inc.",,,,,,2108 Military Rd,,Arlington,VA,222073925,,,2023-07-17,3500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463818,,,ORG,Capital Strategies,,,,,,13900 Old Harbor Ln,Apt 108,Marina Del Rey,CA,902927333,,,2023-08-07,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482018,,,ORG,"Gragert Research, LLC.",,,,,,PO Box 410521,,Chicago,IL,606410521,,,2023-10-17,300.00,0.00,Research Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500317818,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-09,165.48,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462228,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,2777.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463828,,,ORG,"Fight for Children, Inc.",,,,,,1250 Connecticut Ave NW,Ste 850,Washington,DC,200362668,,,2023-08-24,12901.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485128,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-26,71.22,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485132,500485128,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-26,45.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485133,500485128,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-26,13.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488028,,,ORG,Pavitra Abraham LLC,,,,,,2418 W Bloomingdale Ave,Apt 106,Chicago,IL,606474364,,,2023-11-08,1500.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500317638,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-07-11,17996.62,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500340970,500317638,SB29,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-07-11,130.17,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340780,500317638,SB29,ORG,CVS Corporation,,,,,,1 Cvs Dr,,Woonsocket,RI,028956146,,,2023-07-11,32.74,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340790,500317638,SB29,ORG,Microsoft Corporation,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-07-11,139.08,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340821,500317638,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-07-11,247.95,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340771,500317638,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-07-11,677.44,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340781,500317638,SB29,ORG,The Des Moines Register,,,,,,13095 Publishers Dr,,Fishers,IN,460388826,,,2023-07-11,24.70,0.00,Newspaper Subscriptions,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340802,500317638,SB29,ORG,Players Club DC,,,,,,1400 14th Street NW,,Washington,DC,200054552,,,2023-07-11,964.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340762,500317638,SB29,ORG,"Adobe Systems, Inc.",,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-07-11,10.59,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340772,500317638,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-07-11,1660.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340972,500317638,SB29,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2023-07-11,-33.00,0.00,Refund,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340782,500317638,SB29,ORG,FedEx,,,,,,13155 Noel Rd,Ste 1900,Dallas,TX,752405052,,,2023-07-11,37.46,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340823,500317638,SB29,ORG,Sfoglina Restaurant,,,,,,3050 K St NW,Ste 301,Washington,DC,200075173,,,2023-07-11,2218.13,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340773,500317638,SB29,ORG,"Catering By Avalon, Inc.",,,,,,109 Clermont Ave,,Alexandria,VA,223044837,,,2023-07-11,396.44,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340783,500317638,SB29,ORG,Capitol River Cruises,,,,,,14101 Parkvale Rd,,Rockville,MD,208532527,,,2023-07-11,492.80,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340774,500317638,SB29,ORG,Beltway Office Solutions,,,,,,9190 Red Branch Rd,Ste E,Columbia,MD,210452049,,,2023-07-11,156.58,0.00,IT Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340784,500317638,SB29,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-11,757.89,0.00,Email Services & TV Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340794,500317638,SB29,ORG,The Philadelphia Inquirer,,,,,,801 Market St,Ste 300,Philadelphia,PA,191073183,,,2023-07-11,21.96,0.00,Newspaper Subscriptions,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340775,500317638,SB29,ORG,Dialpad Meetings,,,,,,275 Sacramento St,,San Francisco,CA,941113810,,,2023-07-11,174.90,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340785,500317638,SB29,ORG,Hine Restaurants,,,,,,3307 M St NW,Fl 4,Washington,DC,200073539,,,2023-07-11,4076.13,0.00,Fundraising - Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340795,500317638,SB29,ORG,Pinstripes,,,,,,1064 Wisconsin Ave NW,,Washington,DC,200073633,,,2023-07-11,927.28,0.00,Meetings - Bowling,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340776,500317638,SB29,ORG,"Wickr, Inc.",,,,,,1459 18th St,# 313,San Francisco,CA,941072801,,,2023-07-11,13.68,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340786,500317638,SB29,ORG,Houston Chronicle,,,,,,4747 Southwest Fwy,,Houston,TX,770276901,,,2023-07-11,35.91,0.00,Newspaper Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340796,500317638,SB29,ORG,Priceline.com,,,,,,800 Connecticut Ave,,Norwalk,CT,068541631,,,2023-07-11,1029.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340777,500317638,SB29,ORG,Call Your Mother Deli,,,,,,1471 P St NW,,Washington,DC,200051907,,,2023-07-11,285.80,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340787,500317638,SB29,ORG,Paint the Town,,,,,,6 El Cerrito Ave,,San Mateo,CA,944021210,,,2023-07-11,816.89,0.00,Meetings - Event Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340797,500317638,SB29,ORG,Ready Refresh by Nestle,,,,,,9921 Business Pkwy,,Lanham,MD,207061836,,,2023-07-11,224.02,0.00,Water Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340818,500317638,SB29,ORG,Little Chicken,,,,,,1100 15th St NW,,Washington,DC,200051707,,,2023-07-11,437.50,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340778,500317638,SB29,ORG,Cloudflare,,,,,,101 Townsend St,Ste 900,San Francisco,CA,941071934,,,2023-07-11,53.00,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340788,500317638,SB29,ORG,LexisNexis,,,,,,PO Box 7147,,Philadelphia,PA,191700001,,,2023-07-11,839.52,0.00,LexisNexis Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340819,500317638,SB29,ORG,Wachete S.R.O.,,,,,,128,5/5,Prague,,15000,,,2023-07-11,54.90,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340779,500317638,SB29,ORG,Comcast,,,,,,1500 Market St,Fl 11E,Philadelphia,PA,191022107,,,2023-07-11,215.49,0.00,Utilities - Internet,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340789,500317638,SB29,ORG,MailChimp,,,,,,512 Means St NW,Ste 404,Atlanta,GA,303185788,,,2023-07-11,106.00,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500340799,500317638,SB29,ORG,RingCentral Inc.,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2023-07-11,433.49,0.00,Utilities - Phones,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463838,,,ORG,Capital Strategies,,,,,,13900 Old Harbor Ln,Apt 108,Marina Del Rey,CA,902927333,,,2023-09-11,1212.34,0.00,"Fundraising Consulting Expenses, Travel",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462238,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,2529.53,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482138,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-05,657.92,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482141,500482138,SB29,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,761552603,,,2023-12-05,178.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482142,500482138,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-12-05,232.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482144,500482138,SB29,ORG,Colonial Parking,,,,,,1025 Thomas Jefferson St NW,,Washington,DC,200075201,,,2023-12-05,36.00,0.00,Parking,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500482145,500482138,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-12-05,120.06,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500484238,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,11331.25,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488038,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-11-29,657.11,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341048,,,IND,,DeCourcey,Meghan,A,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-20,156.00,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489402,500341048,SB29,ORG,FedEx,,,,,,13155 Noel Rd,Ste 1900,Dallas,TX,752405052,,,2023-07-20,2.18,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489398,500341048,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5th St NW,,Washington,DC,200012610,,,2023-07-20,8.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489399,500341048,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-07-20,122.08,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500481748,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,9061.06,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482048,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-10-30,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489248,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-11,3352.26,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485363,500489248,SB29,ORG,Loews Regency Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2023-10-11,750.22,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485365,500489248,SB29,ORG,Fairmont Hotel,,,,,,950 Mason St,,San Francisco,CA,941086000,,,2023-10-11,768.54,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500485366,500489248,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-10-11,165.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489247,500489248,SB29,ORG,"United Airlines, Inc.",,,,,,233 S Wacker Dr,Ste 430,Chicago,IL,606066435,,,2023-10-11,1513.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00495028,500485367,500489248,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-10-11,154.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500460748,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,3520.51,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462248,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,2535.69,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484248,,,IND,,Boland,Thomas,J.,,IV,,,,,,,,2023-12-29,1633.62,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462258,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,2923.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463758,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,2466.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463858,,,ORG,Pavitra Abraham LLC,,,,,,2418 W Bloomingdale Ave,Apt 106,Chicago,IL,606474364,,,2023-08-08,1500.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484258,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,1966.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484468,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2023-12-20,20000.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463868,,,IND,,Williams,Eva,,,,311 N Virginia Ave,,Falls Church,VA,220463315,,,2023-08-21,240.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462268,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,2351.19,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484268,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,6045.99,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481378,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-12-01,4186.82,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463978,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-08-15,7193.82,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484178,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,2563.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462278,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,3529.19,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485388,,,ORG,Normington Petts & Associates,,,,,,1010 Wisconsin Ave NW,Ste 208,Washington,DC,200073683,,,2023-11-10,34445.00,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487988,,,ORG,"Allied Telecom Group, LLC",,,,,,1400 Crystal Dr,Ste 700,Arlington,VA,222024153,,,2023-10-03,376.46,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478688,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,9061.06,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484188,,,IND,,Shah,Shripal,N.,,,1283 Oates St NE,,Washington,DC,200023825,,,2023-12-15,6189.74,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488588,,,IND,,Cervinka,Ryan,,,,2701 Calvert St NW,Apt 306,Washington,DC,200082618,,,2023-12-15,1200.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463588,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-09-27,158.45,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463888,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-08-08,4935.95,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463890,500463888,SB29,ORG,Beltway Office Solutions,,,,,,9190 Red Branch Rd,Ste E,Columbia,MD,210452049,,,2023-08-08,127.64,0.00,IT Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463891,500463888,SB29,ORG,The Des Moines Register,,,,,,13095 Publishers Dr,,Fishers,IN,460388826,,,2023-08-08,24.70,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463892,500463888,SB29,ORG,Hine Restaurants,,,,,,3307 M St NW,Fl 4,Washington,DC,200073539,,,2023-08-08,3743.75,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463893,500463888,SB29,ORG,Houston Chronicle,,,,,,4747 Southwest Fwy,,Houston,TX,770276901,,,2023-08-08,19.96,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463894,500463888,SB29,ORG,"Technolutionary, LLC",,,,,,1003 S Creek View Ct,,Churchton,MD,207332500,,,2023-08-08,87.50,0.00,Technology Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463895,500463888,SB29,ORG,Msbill.info,,,,,,91 Main St,Fl 8,Orono,ME,044734002,,,2023-08-08,146.92,0.00,Technology License,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463896,500463888,SB29,ORG,NRG Management,,,,,,2000 Mount Vernon Ave,,Alexandria,VA,223011310,,,2023-08-08,375.00,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463897,500463888,SB29,ORG,The Philadelphia Inquirer,,,,,,801 Market St,Ste 300,Philadelphia,PA,191073183,,,2023-08-08,21.96,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463898,500463888,SB29,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-08-08,231.00,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463889,500463888,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-08-08,119.08,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463899,500463888,SB29,ORG,CVS Corporation,,,,,,1 Cvs Dr,,Woonsocket,RI,028956146,,,2023-08-08,27.84,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463988,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-09-28,21241.23,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462288,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,2165.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487998,,,ORG,Capital Strategies,,,,,,13900 Old Harbor Ln,Apt 108,Marina Del Rey,CA,902927333,,,2023-10-06,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478009,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-31,8793.93,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500483409,,,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-12-21,25.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500488009,,,ORG,First Data Corporation,,,,,,PO Box 407066,,Fort Lauderdale,FL,333407066,,,2023-11-03,19.95,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462209,,,IND,,Gerais,Ramses,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,1506.84,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462219,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-14,2416.65,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500317819,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-16,194.57,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488019,,,ORG,"Kieloch Consulting, Inc.",,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-11-07,45000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463819,,,ORG,Premier Political Compliance,,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-09,35000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462229,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-31,3441.53,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488029,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-10-12,26389.14,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463829,,,IND,,Presta,Lisa,,,,163 Forest Side Ave,,San Francisco,CA,941271315,,,2023-09-07,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500482129,,,ORG,GBAO Strategies,,,,,,1701 K St NW,Ste 600,Washington,DC,200063821,,,2023-11-08,63818.56,0.00,Polling Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488539,,,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-07-20,79.68,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB29,C00495028,500463839,,,ORG,Premier Political Compliance,,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-11,35024.49,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463639,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-07-13,23390.25,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488039,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-10-13,10337.23,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462239,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-15,2269.17,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484239,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,8114.07,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478139,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-10-26,19160.95,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478200,500478139,SB29,ORG,"Technolutionary, LLC",,,,,,1003 S Creek View Ct,,Churchton,MD,207332500,,,2023-10-26,700.00,0.00,Technology Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478150,500478139,SB29,ORG,Comcast,,,,,,1500 Market St,Fl 11E,Philadelphia,PA,191022107,,,2023-10-26,215.49,0.00,Utilities - Internet,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478201,500478139,SB29,ORG,LexisNexis,,,,,,PO Box 7147,,Philadelphia,PA,191700001,,,2023-10-26,839.52,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478211,500478139,SB29,ORG,The Management Center,,,,,,1920 L St NW,Ste 775,Washington,DC,200365068,,,2023-10-26,775.00,0.00,Professional Development,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478202,500478139,SB29,ORG,MailChimp,,,,,,512 Means St NW,Ste 404,Atlanta,GA,303185788,,,2023-10-26,106.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478212,500478139,SB29,ORG,Wachete S.R.O.,,,,,,128,5/5,Prague,,15000,,,2023-10-26,54.90,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478142,500478139,SB29,ORG,"Adobe Systems, Inc.",,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-10-26,100.68,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478162,500478139,SB29,ORG,Fairmont Hotel,,,,,,950 Mason St,,San Francisco,CA,941086000,,,2023-10-26,2365.30,0.00,Venue Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478203,500478139,SB29,ORG,MBRF Inc.,,,,,,1335 14th St NW,,Washington,DC,200053610,,,2023-10-26,649.67,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478143,500478139,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-11-09,77.21,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478163,500478139,SB29,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-10-26,935.37,0.00,Email Services & TV Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478204,500478139,SB29,ORG,Microsoft Corporation,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-10-26,139.92,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478154,500478139,SB29,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-10-26,-289.07,0.00,Credit,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478205,500478139,SB29,ORG,NRG Management,,,,,,2000 Mount Vernon Ave,,Alexandria,VA,223011310,,,2023-10-26,2076.92,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478145,500478139,SB29,ORG,Amazon.com,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-10-26,267.72,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478146,500478139,SB29,ORG,Beltway Office Solutions,,,,,,9190 Red Branch Rd,Ste E,Columbia,MD,210452049,,,2023-10-26,134.12,0.00,Printer Rental,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478176,500478139,SB29,ORG,Hine Restaurants,,,,,,3307 M St NW,Fl 4,Washington,DC,200073539,,,2023-10-26,6700.75,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478207,500478139,SB29,ORG,The Philadelphia Inquirer,,,,,,801 Market St,Ste 300,Philadelphia,PA,191073183,,,2023-10-26,21.96,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478147,500478139,SB29,ORG,Dialpad Meetings,,,,,,275 Sacramento St,,San Francisco,CA,941113810,,,2023-10-26,174.90,0.00,Conference Calls,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478208,500478139,SB29,ORG,Ready Refresh by Nestle,,,,,,9921 Business Pkwy,,Lanham,MD,207061836,,,2023-10-26,397.19,0.00,Water Services,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478148,500478139,SB29,ORG,Cloudflare,,,,,,101 Townsend St,Ste 900,San Francisco,CA,941071934,,,2023-10-26,53.00,0.00,Technology Subscription,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478158,500478139,SB29,ORG,CVS Corporation,,,,,,1 Cvs Dr,,Woonsocket,RI,028956146,,,2023-10-26,36.54,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478209,500478139,SB29,ORG,RingCentral Inc.,,,,,,20 Davis Dr,,Belmont,CA,940023002,,,2023-10-26,433.65,0.00,Utilities - Phones,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500478199,500478139,SB29,ORG,Mangia DC,,,,,,10523 Saint Paul St,,Kensington,MD,208952614,,,2023-10-26,2092.19,0.00,Catering,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500481749,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-30,5284.81,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462249,,,IND,,Baker,Sarah,D.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,3079.13,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463849,,,IND,,Ribeiro,Elis,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-07,5000.00,0.00,Operations Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500485149,,,ORG,Civix Strategy Group,,,,,,114 N Main St,,Concord,NH,033014946,,,2023-12-28,3000.00,0.00,Grassroots Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463859,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-10,460.71,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462259,,,IND,,Mormile,Marisa,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-08-31,3398.76,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463759,,,IND,,Horrell,Abigail,C.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-10-13,8886.96,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488559,,,ORG,"Kieloch Consulting, Inc.",,,,,,228 2nd St SE,,Washington,DC,200031943,,,2023-12-07,45000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484259,,,IND,,Gilmartin-Donohue,Ceara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,2563.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500341069,,,IND,,Smith,Michael,K.,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-07-20,2521.20,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489410,500341069,SB29,ORG,Loews Regency Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2023-07-20,48.37,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489411,500341069,SB29,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,,Fort Worth,TX,761552603,,,2023-07-20,213.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489412,500341069,SB29,ORG,"Delta Air Lines, Inc.",,,,,,1275 K St NW,Ste 1200,Washington,DC,200054069,,,2023-07-20,393.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489413,500341069,SB29,ORG,TWA Hotel,,,,,,1 Idlewild Dr,,Jamaica,NY,114301962,,,2023-07-20,406.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489406,500341069,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-07-20,955.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489407,500341069,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-07-20,29.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489408,500341069,SB29,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,Unit C105,Washington,DC,200024278,,,2023-07-20,337.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489409,500341069,SB29,ORG,Sonoma Restaurant,,,,,,223 Pennsylvania Ave SE,,Washington,DC,200031107,,,2023-07-20,137.30,0.00,Meals,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500463869,,,IND,,Williams,Eva,,,,311 N Virginia Ave,,Falls Church,VA,220463315,,,2023-08-21,45.15,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489382,500463869,SB29,ORG,Washington Metropolitan Area Transit Authority,,,,,,600 5th St NW,,Washington,DC,200012610,,,2023-08-21,45.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500462269,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-15,2269.17,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500484269,,,IND,,Warnke,Christopher,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-29,3650.91,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463979,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-08-31,8074.57,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500481379,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-12-03,588.89,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463879,,,IND,,Lasko,Mara,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-25,100.86,0.00,"Reimbursement, See Below",,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500489392,500463879,SB29,ORG,Lyft,,,,,,568 Brannan St,,San Francisco,CA,941071611,,,2023-09-25,18.77,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500489393,500463879,SB29,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2023-09-25,8.64,0.00,Travel,,,,,,,,,,,,,,,,,,,X,* Non-Contribution Account
+SB29,C00495028,500484179,,,IND,,Heng,Alisha,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-12-15,2466.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500488579,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2023-12-08,309.16,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487989,,,ORG,"Allied Telecom Group, LLC",,,,,,1400 Crystal Dr,Ste 700,Arlington,VA,222024153,,,2023-11-03,376.46,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478089,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-11-05,4223.37,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500478689,,,IND,,Komar,Bradley,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-11-15,5284.79,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463589,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-07-26,698.40,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500462289,,,IND,,Pekec,Dora,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2023-09-29,2231.79,0.00,Salary,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500463799,,,ORG,"Allied Telecom Group, LLC",,,,,,1400 Crystal Dr,Ste 700,Arlington,VA,222024153,,,2023-08-03,376.46,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account
+SB29,C00495028,500487999,,,ORG,Capital Strategies,,,,,,13900 Old Harbor Ln,Apt 108,Marina Del Rey,CA,902927333,,,2023-11-07,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,Non-Contribution Account

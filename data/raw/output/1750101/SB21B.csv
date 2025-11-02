@@ -1,0 +1,28 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00506907,500066297,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-04,135.29,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500066697,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-11,49.05,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500066905,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-18,67.79,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067146,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-25,77.76,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067429,,,ORG,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-31,149.69,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067430,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-12-29,86.00,0.00,PAC Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067439,,,ORG,Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-12-06,5435.00,0.00,PAC Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067440,,,ORG,Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-12-06,7.07,0.00,"Reimbursement, See below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067441,,,ORG,Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-12-06,2094.86,0.00,"Reimbursement, See below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067447,500067441,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-12-06,59.26,0.00,PAC Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067446,500067441,SB21B,ORG,Pearl River Mart,,,,,,452 Broadway,,New York,NY,100132538,,,2023-12-06,1771.15,0.00,PAC Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067445,500067441,SB21B,ORG,UPrinting,,,,,,10930 Santa Monica Blvd,,West Los Angeles,CA,900254539,,,2023-12-06,264.45,0.00,PAC Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067442,,,ORG,Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2023-12-06,30678.82,0.00,"Reimbursement, See below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067448,500067442,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2023-12-06,337.00,0.00,PAC Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067452,500067442,SB21B,ORG,Bar Hugo,,,,,,525 Greenwich St,,New York,NY,100131002,,,2023-12-06,7939.13,0.00,PAC Event Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067453,500067442,SB21B,ORG,NoMo SoHo,,,,,,9 Crosby St,,New York,NY,100133102,,,2023-12-06,22031.45,0.00,PAC Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067449,500067442,SB21B,ORG,Uber,,,,,,1445 Market St,# 400,San Francisco,CA,941031308,,,2023-12-06,121.71,0.00,PAC Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067450,500067442,SB21B,ORG,Uber,,,,,,1445 Market St,# 400,San Francisco,CA,941031308,,,2023-12-06,115.10,0.00,PAC Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067451,500067442,SB21B,ORG,Uber,,,,,,1445 Market St,# 400,San Francisco,CA,941031308,,,2023-12-06,134.43,0.00,PAC Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00506907,500067432,,,IND,,Jordan,Nicholas,,,,51 T St NE,Unit 1,Washington,DC,200021578,,,2023-12-28,5118.11,0.00,PAC Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067431,,,ORG,Karis Consulting Group,,,,,,4320 48Th St,,Sunnyside,NY,111041655,,,2023-12-06,5000.00,0.00,PAC Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067434,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2023-12-28,2453.57,0.00,PAC Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067433,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2023-12-29,209.46,0.00,PAC Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067435,,,ORG,"PCMS, LLC",,,,,,PO Box 65322,,Washington,DC,200355322,,,2023-12-06,1683.75,0.00,PAC Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067436,,,ORG,Sapphire Strategies,,,,,,3225 Mckinley St NW,,Washington,DC,200151634,,,2023-12-06,7155.53,0.00,PAC SMS Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067437,,,ORG,Squarespace Inc.,,,,,,225 Varick St,Fl 12,New York,NY,100144383,,,2023-12-04,34.98,0.00,PAC Website Hosting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00506907,500067438,,,ORG,Switchboard,,,,,,100 E Penn Sq,Ste 400,Philadelphia,PA,191073310,,,2023-12-06,3556.92,0.00,PAC SMS Fundraising Services,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,63 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00772517,500066250,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-12,1228.91,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500066180,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-21,7571.47,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500066200,500066180,SB21B,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2024-11-21,29.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066210,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,110.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066230,500066180,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-11-21,371.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066190,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,-299.98,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066201,500066180,SB21B,ORG,Starbucks Coffee Company,,,,,,3805 E Flamingo Rd,,Las Vegas,NV,891216258,,,2024-11-21,32.21,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066211,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,118.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066221,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,135.78,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066231,500066180,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-11-21,372.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066191,500066180,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-11-21,-1.00,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066202,500066180,SB21B,ORG,Starbucks Coffee Company,,,,,,3805 E Flamingo Rd,,Las Vegas,NV,891216258,,,2024-11-21,49.80,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066212,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,120.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066222,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,145.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066232,500066180,SB21B,ORG,Hyatt Hotels Corporation,,,,,,8401 W Sunset Blvd,,West Hollywood,CA,900691909,,,2024-11-21,384.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066192,500066180,SB21B,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2024-11-21,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066203,500066180,SB21B,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2024-11-21,51.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066213,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,120.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066223,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,194.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066233,500066180,SB21B,ORG,Hyatt Hotels Corporation,,,,,,8401 W Sunset Blvd,,West Hollywood,CA,900691909,,,2024-11-21,523.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066193,500066180,SB21B,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2024-11-21,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066204,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,60.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066214,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,120.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066224,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,248.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066234,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,705.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066205,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,60.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066215,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,121.50,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066225,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,275.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066235,500066180,SB21B,ORG,"Libra Labs, LLC",,,,,,6800 Montour Dr,,Falls Church,VA,220431744,,,2024-11-21,1000.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066195,500066180,SB21B,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2024-11-21,6.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066206,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,64.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066216,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,125.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066226,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,275.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066236,500066180,SB21B,ORG,Ramerino,,,,,,16 E 39th St,,New York,NY,100160108,,,2024-11-21,146.85,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066196,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,10.01,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066217,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,125.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066227,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,299.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066197,500066180,SB21B,ORG,"Uber Technologies, Inc.",,,,,,800 Market St,Fl 7,San Francisco,CA,941023034,,,2024-11-21,20.88,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066208,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,95.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066218,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,125.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066228,500066180,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-11-21,333.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066209,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,105.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066219,500066180,SB21B,ORG,Fine Flowers,,,,,,1105 S Rainbow Blvd,Ste 104,Las Vegas,NV,891461066,,,2024-11-21,130.00,0.00,Thank You Gift,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066229,500066180,SB21B,ORG,Marriott International,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-11-21,371.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500066199,500066180,SB21B,ORG,Starbucks Coffee Company,,,,,,3805 E Flamingo Rd,,Las Vegas,NV,891216258,,,2024-11-21,29.24,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500065312,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-25,29.19,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065962,,,ORG,"Fulkerson, Kennedy & Company",,,,,,660 Pennsylvania Ave SE,Ste 201,Washington,DC,200034365,,,2024-11-25,5808.52,0.00,Travel and Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500064992,,,ORG,"Fulkerson, Kennedy & Company",,,,,,660 Pennsylvania Ave SE,Ste 201,Washington,DC,200034365,,,2024-10-29,11478.28,0.00,Travel and Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065313,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-28,785.29,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500064763,,,IND,,Day,Beth Ann,,,,194 Riverside Dr,Apt 2A,New York,NY,100257209,,,2024-10-20,2405.90,0.00,Catering Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500064764,500064763,SB21B,ORG,Jessica Cakes and Catering,,,,,,3 Marble St,,Baldwinsville,NY,130272918,,,2024-10-20,2405.90,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500064893,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-23,123.21,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065314,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-30,1744.64,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065574,,,ORG,"Fulkerson, Kennedy & Company",,,,,,660 Pennsylvania Ave SE,Ste 201,Washington,DC,200034365,,,2024-11-13,5000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065674,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-18,9.18,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500064894,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-21,1311.51,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065315,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-01,685.93,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065316,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-04,1891.01,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500066246,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-25,4.25,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065186,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2024-11-01,22037.23,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500065147,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-10-29,248.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500066248,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,528.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,

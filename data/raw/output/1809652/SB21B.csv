@@ -1,0 +1,40 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00674093,500114517,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-07,238.27,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114518,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-14,282.81,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114519,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-17,265.52,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114755,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-21,243.37,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115141,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-28,332.49,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115142,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-31,120.75,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114745,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-07-26,106.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114515,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-07-16,1860.50,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115187,500114515,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-07-16,350.00,0.00,Membership Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115188,500114515,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-07-16,280.30,0.00,Interest Charges,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115193,500114515,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-07-16,210.64,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115194,500114515,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-07-16,203.35,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115196,500114515,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115197,500114515,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,11.67,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115198,500114515,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,13.83,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115199,500114515,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,3.57,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115200,500114515,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,5.49,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115201,500114515,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,17.85,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115202,500114515,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,27.44,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115207,500114515,SB21B,ORG,MailChimp,,,,,,405 N Angier Ave NE,,Atlanta,GA,303083139,,,2024-07-16,47.70,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115208,500114515,SB21B,ORG,MailChimp,,,,,,405 N Angier Ave NE,,Atlanta,GA,303083139,,,2024-07-16,47.70,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115213,500114515,SB21B,ORG,"Zoom, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-07-16,169.49,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115214,500114515,SB21B,ORG,"Zoom, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-07-16,16.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500114869,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-07-16,139.50,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115175,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,39.75,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115176,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,4.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115177,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,17.88,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115178,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,3.58,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115179,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,4.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115180,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,16.73,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115181,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,25.09,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115182,500114869,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-07-16,5.02,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500114513,,,ORG,Brady Campaign To Prevent Gun Violence,,,,,,840 1St St NE,Ste 400,Washington,DC,200028040,,,2024-07-11,3500.00,0.00,Advance Payment for Estimated Staff Time and Overhead,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114514,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-07-11,4016.50,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114750,,,ORG,Etchin Design,,,,,,246 Fox Haven Dr,,O Fallon,MO,633686592,,,2024-07-22,1350.00,0.00,Graphic Design Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114754,,,ORG,"Everyaction, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-07-22,7897.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115143,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-07-22,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114516,,,ORG,Switchboard Public Benefit Corp,,,,,,875 10Th St NW,Apt 1031,Washington,DC,200015169,,,2024-07-11,1650.70,0.00,Digital Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500114746,,,ORG,"Zack DiGregorio, LLC",,,,,,1458 Columbia Rd NW,,Washington,DC,200094770,,,2024-07-22,2200.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,

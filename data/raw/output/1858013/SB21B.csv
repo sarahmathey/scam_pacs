@@ -1,0 +1,35 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00431478,500388186,,,ORG,Alaska Air,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2024-10-09,62.99,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388187,,,ORG,Alaska Air,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2024-10-09,529.21,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388188,,,ORG,Alaska Air,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2024-10-09,529.21,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388189,,,ORG,Alaska Air,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2024-10-09,62.99,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388192,,,ORG,Amazon.Com,,,,,,1516 2Nd Ave,,Seattle,WA,981011543,,,2024-10-10,68.77,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388193,,,ORG,Amazon.Com,,,,,,1516 2Nd Ave,,Seattle,WA,981011543,,,2024-10-15,86.75,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388190,,,IND,,Canaley,Allison,,,,1023 Mccully Ct,,Oviedo,FL,327657057,,,2024-10-03,2000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388191,,,IND,,Canaley,Allison,,,,1023 Mccully Ct,,Oviedo,FL,327657057,,,2024-10-16,1790.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388207,,,ORG,First Bank Merchant Services,,,,,,5565 Glenridge Connector NE,Ste 20002,Atlanta,GA,303421651,,,2024-10-03,27.74,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388208,,,ORG,First Bank Merchant Services,,,,,,5565 Glenridge Connector NE,Ste 20002,Atlanta,GA,303421651,,,2024-10-03,321.50,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388209,,,ORG,First Bank Merchant Services,,,,,,5565 Glenridge Connector NE,Ste 20002,Atlanta,GA,303421651,,,2024-10-03,1.28,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388213,,,ORG,Intuit Quickbooks,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-10-04,68.90,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388222,,,ORG,Southwest Airlines,,,,,,PO Box 36647,,Dallas,TX,752351647,,,2024-10-03,115.00,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388223,,,ORG,Southwest Airlines,,,,,,PO Box 36647,,Dallas,TX,752351647,,,2024-10-15,102.00,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388225,,,ORG,Spectrum,,,,,,400 Atlantic St,,Stamford,CT,069013512,,,2024-10-07,82.99,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388226,,,ORG,Staples,,,,,,500 Staples Dr,,Framingham,MA,017024478,,,2024-10-04,200.00,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388228,,,ORG,Starbucks,,,,,,5300 S Howell Ave,,Milwaukee,WI,532076156,,,2024-10-04,100.00,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388199,,,IND,,Trull,Chris,,,,70 I St SE,Apt 426,Washington,DC,200034815,,,2024-10-08,1236.71,0.00,"Reimbursement: Food and Beverage, Travel Expenses and Postage",,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388198,500388199,SB21B,ORG,Ambassador Hotel,,,,,,2308 W Wisconsin Ave,,Milwaukee,WI,532331826,,,2024-10-08,650.30,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00431478,500388196,500388199,SB21B,ORG,Mr. Henry's Restaurant,,,,,,601 Pennsylvania Ave SE,,Washington,DC,200034303,,,2024-10-08,136.41,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00431478,500388197,500388199,SB21B,ORG,USPS,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,,2024-10-08,450.00,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00431478,500388204,,,IND,,Trull,Chris,,,,70 I St SE,Apt 426,Washington,DC,200034815,,,2024-10-15,1201.36,0.00,"Reimbursement: Food and Beverage, Travel Expenses and Printing",,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388203,500388204,SB21B,ORG,Ambassador Hotel,,,,,,2308 W Wisconsin Ave,,Milwaukee,WI,532331826,,,2024-10-15,348.44,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00431478,500388200,500388204,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-15,365.36,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00431478,500388201,500388204,SB21B,ORG,United Parcel Service (UPS),,,,,,6060 Cornerstone Ct W,,San Diego,CA,921213712,,,2024-10-15,350.00,0.00,Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00431478,500388232,,,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-07,89.22,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388233,,,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-07,66.63,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388235,,,ORG,Uber Technologies Inc,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-10-09,20.18,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388236,,,ORG,Uber Technologies Inc,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-10-15,31.44,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388237,,,ORG,Uber Technologies Inc,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-10-15,75.33,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388238,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-04,324.47,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388239,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-09,334.47,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388240,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-09,13.99,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00431478,500388241,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-15,8.00,0.00,Travel Expenses,,,,,,,,,,,,,,,,,,,,

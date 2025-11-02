@@ -1,0 +1,47 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00674093,500111092,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-06,227.92,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111093,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-13,187.32,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111096,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-20,319.70,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111090,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-25,566.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111091,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-29,257.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111094,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-02-09,5000.00,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111167,500111094,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-02-09,309.12,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111168,500111094,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2024-02-09,342.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111169,500111094,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2024-02-09,144.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111182,500111094,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-02-09,500.00,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111170,500111094,SB21B,ORG,BEI San Francisco,,,,,,50 8Th St,,San Francisco,CA,941031409,,,2024-02-09,515.80,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111171,500111094,SB21B,ORG,BEI San Francisco,,,,,,50 8Th St,,San Francisco,CA,941031409,,,2024-02-09,15.04,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111179,500111094,SB21B,ORG,GoDaddy.Com,,,,,,14455 N Hayden Rd,Ste 219,Scottsdale,AZ,852606993,,,2024-02-09,899.98,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111180,500111094,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-02-09,161.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111181,500111094,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-02-09,178.72,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111183,500111094,SB21B,ORG,Kimpton Theta Hotel,,,,,,790 8Th Ave,,New York,NY,100197568,,,2024-02-09,278.26,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111172,500111094,SB21B,ORG,The Bouqs Company,,,,,,4094 Glencoe Ave,,Marina Del Rey,CA,902925608,,,2024-02-09,125.68,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111173,500111094,SB21B,ORG,The Bouqs Company,,,,,,4094 Glencoe Ave,,Marina Del Rey,CA,902925608,,,2024-02-09,148.84,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111195,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,11.37,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111196,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,11.42,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111197,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,11.18,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111198,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,12.53,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111199,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,24.97,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111200,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,27.91,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111201,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,17.02,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111202,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,17.08,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111203,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,45.02,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111204,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,31.04,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111205,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,11.41,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111206,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,13.96,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111207,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,15.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111208,500111094,SB21B,ORG,"Uber Technologies, Inc.",,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-02-09,18.36,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111209,500111094,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-09,40.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111210,500111094,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-09,51.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111211,500111094,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-09,567.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111212,500111094,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-09,11.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111213,500111094,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-09,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500111081,,,ORG,Brady Campaign To Prevent Gun Violence,,,,,,840 1St St NE,Ste 400,Washington,DC,200028040,,,2024-02-05,1000.00,0.00,Advance Payment for Estimated Staff Time and Overhead,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111082,,,ORG,Brady Campaign To Prevent Gun Violence,,,,,,840 1St St NE,Ste 400,Washington,DC,200028040,,,2024-02-05,11000.00,0.00,Advance Payment for Estimated Staff Time and Overhead,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,19160154I,19160154,SA11AI,IND,,Grumbly,Thomas,,,,9200 Windsor Meadows Ln,,Vienna,VA,221821600,,,2024-02-29,5000.00,0.00,In-kinded toward loan,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00674093,500111095,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-02-20,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111087,,,ORG,MissionWired,,,,,,650 Massachusetts Ave NW,,Washington,DC,200013796,,,2024-02-08,10000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111088,,,ORG,MissionWired,,,,,,650 Massachusetts Ave NW,,Washington,DC,200013796,,,2024-02-08,20000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111085,,,ORG,Switchboard Public Benefit Corp,,,,,,875 10Th St NW,Apt 1031,Washington,DC,200015169,,,2024-02-22,1467.01,0.00,Digital Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111086,,,ORG,Switchboard Public Benefit Corp,,,,,,875 10Th St NW,Apt 1031,Washington,DC,200015169,,,2024-02-22,1413.39,0.00,Digital Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500111083,,,ORG,"Zack DiGregorio, LLC",,,,,,1458 Columbia Rd NW,,Washington,DC,200094770,,,2024-02-23,1000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,

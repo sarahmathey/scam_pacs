@@ -1,0 +1,80 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00833350,500027000,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-10,1601.77,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027120,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-12-29,120.00,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026831,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-05,1232.40,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026851,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-12,716.94,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026871,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-11-17,11478.57,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026880,500026871,SB21B,ORG,Mookies BBQ,,,,,,1141 Walker Rd,,Great Falls,VA,220661816,,,2023-11-17,3523.18,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026881,500026871,SB21B,ORG,L'Ardente,,,,,,200 Massachusetts Ave NW,,Washington,DC,200011429,,,2023-11-17,2829.44,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026872,500026871,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2023-11-17,446.02,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026882,500026871,SB21B,ORG,Death & Company,,,,,,124 Blagden Aly NW,,Washington,DC,200014269,,,2023-11-17,513.75,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026883,500026871,SB21B,ORG,JR LIMO CAR SERVICE,,,,,,175 William F Mcclellan Hwy,Ste 3,East Boston,MA,021281196,,,2023-11-17,891.95,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026884,500026871,SB21B,ORG,JR LIMO CAR SERVICE,,,,,,175 William F Mcclellan Hwy,Ste 3,East Boston,MA,021281196,,,2023-11-17,260.51,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026885,500026871,SB21B,ORG,JetBlue Airlines,,,,,,6322 S 3000 E,,Salt Lake City,UT,841216922,,,2023-11-17,2381.60,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026877,500026871,SB21B,ORG,Uber Eats,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-11-17,93.97,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026891,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-11-16,3006.87,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027112,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-24,750.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026932,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-19,578.69,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026672,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-08,990.29,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026813,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-29,2664.28,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026733,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-10-18,31335.34,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026750,500026733,SB21B,ORG,Amazon Catering,,,,,,510 14Th St S,,Arlington,VA,222022900,,,2023-10-18,5733.52,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026741,500026733,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2023-10-18,3250.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026751,500026733,SB21B,ORG,Legacy Car Service,,,,,,10557 W 32Nd Ln,,Hialeah,FL,330182113,,,2023-10-18,1125.00,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026732,500026733,SB21B,ORG,Loews Coral,,,,,,800 Connecticut Ave,Ste 3W01,Norwalk,CT,068541628,,,2023-10-18,447.48,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026742,500026733,SB21B,ORG,Joselito Restaurant,,,,,,117 N Granada St,,Arlington,VA,222031228,,,2023-10-18,2707.63,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026752,500026733,SB21B,ORG,"Luxy, Inc.",,,,,,30 Controls Dr,,Shelton,CT,064846157,,,2023-10-18,554.88,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026723,500026733,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2023-10-18,2172.95,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026753,500026733,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2023-10-18,1249.70,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026724,500026733,SB21B,ORG,Lyft Ride,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-10-18,166.65,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026734,500026733,SB21B,ORG,Le Meridien,,,,,,1121 19Th St N,,Arlington,VA,222091704,,,2023-10-18,592.30,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026744,500026733,SB21B,ORG,W. Millar & Co.,,,,,,1335 14Th St NW,,Washington,DC,200053610,,,2023-10-18,628.75,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026754,500026733,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2023-10-18,1650.35,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026725,500026733,SB21B,ORG,Amtrak,,,,,,400 N Capitol St NW,,Washington,DC,200011511,,,2023-10-18,337.00,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026745,500026733,SB21B,ORG,Masters Of Mixology,,,,,,5504 7Th Rd S,,Arlington,VA,222042606,,,2023-10-18,5586.96,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026755,500026733,SB21B,ORG,Amazon,,,,,,PO Box 81226,,Seattle,WA,981081300,,,2023-10-18,949.99,0.00,Catering/Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026746,500026733,SB21B,ORG,Flik International Corp,,,,,,PO Box 417632,,Boston,MA,022417632,,,2023-10-18,508.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026756,500026733,SB21B,ORG,Condado Vanderbilt,,,,,,1055 Ave Ashford,,San Juan,PR,009071128,,,2023-10-18,444.89,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026737,500026733,SB21B,ORG,Hotel Booking,,,,,,2961 W Maple Loop Dr,Ste 300,Lehi,UT,840435722,,,2023-10-18,315.99,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026747,500026733,SB21B,ORG,Le Pain Quotidien,,,,,,40 Water St,Fl 5,Boston,MA,021093604,,,2023-10-18,1391.58,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026757,500026733,SB21B,ORG,Crescent Court Lodging,,,,,,400 Crescent Ct,,Dallas,TX,752011838,,,2023-10-18,616.94,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026738,500026733,SB21B,ORG,Helen Olivia Flowers,,,,,,1519 Leslie Ave,,Alexandria,VA,223011620,,,2023-10-18,227.00,0.00,Flowers for Donors,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026748,500026733,SB21B,ORG,Death & Company,,,,,,124 Blagden Aly NW,,Washington,DC,200014269,,,2023-10-18,1729.15,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026759,500026733,SB21B,ORG,Att Unbound,,,,,,30 W 39Th St,,New York,NY,100183802,,,2023-10-18,480.06,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026773,,,ORG,"TH Fundraising Consulting, LLC",,,,,,1134 N Stuart St,# 3,Arlington,VA,22201,,,2023-10-24,15837.43,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026772,500026773,SB21B,ORG,Ser Restaurant,,,,,,1110 N Glebe Rd,,Arlington,VA,222014795,,,2023-10-24,15837.43,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027104,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2023-12-13,6950.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026824,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-31,229.10,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027024,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-17,1826.89,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026974,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2023-12-04,664.38,0.00,Catering/Events Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026973,500026974,SB21B,ORG,Albi Yellow,,,,,,1346 4Th St SE,,Washington,DC,200032597,,,2023-12-04,664.38,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026684,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-10-13,5763.12,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027105,,,ORG,"TH Fundraising Consulting, LLC",,,,,,1134 N Stuart St,# 3,Arlington,VA,22201,,,2023-12-13,6950.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027125,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-31,2415.43,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026975,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-12-03,187.64,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026685,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-10-13,5227.62,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026956,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-26,178.74,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026766,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-22,1264.04,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026966,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-11-29,140.25,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026886,,,ORG,"TH Fundraising Consulting, LLC",,,,,,1134 N Stuart St,# 3,Arlington,VA,22201,,,2023-11-17,7000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026967,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-30,573.74,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026887,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2023-11-17,7000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026708,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-10-15,1527.71,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026818,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-10-27,90.00,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027278,,,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2023-12-04,3500.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027049,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-12-21,35818.73,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500027040,500027049,SB21B,ORG,Centrolina,,,,,,974 Palmer Aly NW,,Washington,DC,200014508,,,2023-12-21,1829.68,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027050,500027049,SB21B,ORG,EzCater Tatte Bakery,,,,,,40 Water St,Fl 5,Boston,MA,021093604,,,2023-12-21,321.25,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027041,500027049,SB21B,ORG,Total Wine & More,,,,,,3901 Richmond Hwy,,Alexandria,VA,223053124,,,2023-12-21,3391.74,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027042,500027049,SB21B,ORG,L'Ardente,,,,,,200 Massachusetts Ave NW,,Washington,DC,200011429,,,2023-12-21,6762.43,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027043,500027049,SB21B,ORG,Hill Country,,,,,,410 7Th St NW,,Washington,DC,200042217,,,2023-12-21,8197.62,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027034,500027049,SB21B,ORG,Jefferson Hotel,,,,,,1200 16Th St NW,,Washington,DC,200363202,,,2023-12-21,415.14,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027044,500027049,SB21B,ORG,Death & Company,,,,,,124 Blagden Aly NW,,Washington,DC,200014269,,,2023-12-21,513.75,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027045,500027049,SB21B,ORG,Chopsmith,,,,,,11 District Sq SW,,Washington,DC,200242490,,,2023-12-21,521.90,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027036,500027049,SB21B,ORG,Windows Catering Company,,,,,,5724 General Washington Dr,,Alexandria,VA,223122407,,,2023-12-21,5591.51,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027046,500027049,SB21B,ORG,Charlie Palmer Steakhouse,,,,,,101 Constitution Ave NW,Fl 1E,Washington,DC,200012157,,,2023-12-21,1370.20,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027027,500027049,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2023-12-21,2576.14,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027037,500027049,SB21B,ORG,Oyamel,,,,,,401 7Th St NW,,Washington,DC,200042202,,,2023-12-21,1613.10,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027028,500027049,SB21B,ORG,Lyft Ride,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-12-21,113.89,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027038,500027049,SB21B,ORG,Kinship Metier,,,,,,1015 7Th St NW,,Washington,DC,200013607,,,2023-12-21,409.96,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500027039,500027049,SB21B,ORG,JOSELITO CASA,,,,,,660 Pennsylvania Ave SE,,Washington,DC,200034346,,,2023-12-21,1700.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*

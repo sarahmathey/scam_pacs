@@ -1,0 +1,36 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00462333,500012530,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-08,5086.71,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012529,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-14,9357.64,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012528,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-22,15563.39,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012527,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-28,458.20,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012526,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-05,19.75,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012525,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-12,167.88,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012524,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-29,39.50,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012523,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-29,39.50,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012235,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-07-26,70.99,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012531,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-08-29,171.01,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012532,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-09-26,103.95,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012559,,,ORG,American Express,,,,,,PO Box 360001,,Fort Lauderdale,FL,333360001,,,2024-07-30,425.95,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012560,500012559,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-06-21,425.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012535,,,ORG,American Express,,,,,,PO Box 360001,,Fort Lauderdale,FL,333360001,,,2024-08-27,16183.58,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012542,500012535,SB21B,ORG,American Airlines Group Inc.,,,,,,PO Box 619616,,Dfw Airport,TX,752619616,,,2024-07-10,239.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012543,500012535,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-21,-425.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012545,500012535,SB21B,ORG,Hotels.Com,,,,,,5400 Lyndon B Johnson Fwy,Ste 500,Dallas,TX,752401019,,,2024-07-16,297.88,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012546,500012535,SB21B,ORG,Oak Steakhouse,,,,,,801 Clark Pl,,Nashville,TN,372032563,,,2024-07-20,14696.09,0.00,Event expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012549,500012535,SB21B,ORG,Omni Hotel Nashville,,,,,,250 Rep John Lewis Way S,,Nashville,TN,372034206,,,2024-07-19,448.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012550,500012535,SB21B,ORG,Omni Hotel Nashville,,,,,,250 Rep John Lewis Way S,,Nashville,TN,372034206,,,2024-07-19,448.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012547,500012535,SB21B,ORG,Omni Hotel Nashville,,,,,,250 Rep John Lewis Way S,,Nashville,TN,372034206,,,2024-07-21,-34.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012548,500012535,SB21B,ORG,Omni Hotel Nashville,,,,,,250 Rep John Lewis Way S,,Nashville,TN,372034206,,,2024-07-26,-100.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012551,500012535,SB21B,ORG,Renaissance Hotel Nashville,,,,,,611 Commerce St,,Nashville,TN,372033742,,,2024-07-22,336.14,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012534,,,ORG,American Express,,,,,,PO Box 360001,,Fort Lauderdale,FL,333360001,,,2024-09-05,278.96,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012571,500012534,SB21B,ORG,American Airlines Group Inc.,,,,,,PO Box 619616,,Dfw Airport,TX,752619616,,,2024-06-26,278.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012517,,,PTY,DCCC,,,,,,430 S Capitol St SE,Fl 2,Washington,DC,200034024,,,2024-09-30,1210.37,0.00,Event reimbursement,,C00000935,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012520,500012517,SB21B,ORG,Egencia,,,,,,666 3Rd Ave,Fl 4,New York,NY,100174160,,,2024-06-28,289.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012519,500012517,SB21B,ORG,Egencia,,,,,,666 3Rd Ave,Fl 4,New York,NY,100174160,,,2024-07-16,626.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012552,,,ORG,Embassy Suites Hotel Nashville,,,,,,708 Demonbreun St,,Nashville,TN,372033940,,,2024-07-05,4519.93,0.00,Event expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012553,,,ORG,Embassy Suites Hotel Nashville,,,,,,708 Demonbreun St,,Nashville,TN,372033940,,,2024-07-12,21583.39,0.00,Event expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012554,,,ORG,Embassy Suites Hotel Nashville,,,,,,708 Demonbreun St,,Nashville,TN,372033940,,,2024-08-15,2164.25,0.00,Event expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012567,,,IND,,Ogle,Patti,,,,120 Maryland Ave NE,,Washington,DC,200025610,,,2024-09-24,312.17,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012569,500012567,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-07-21,239.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00462333,500012555,,,ORG,Schimanski & Associates,,,,,,3412 P St NW,,Washington,DC,200072705,,,2024-07-31,404.82,0.00,Reimbursement for event charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00462333,500012557,500012555,SB21B,ORG,Orbitz,,,,,,500 W Madison St,Ste 1000,Chicago,IL,606612559,,,2023-07-25,322.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*

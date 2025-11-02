@@ -1,0 +1,28 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00652164,500739040,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-12-13,404.01,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500739173,500739040,SB21B,IND,,Khalil,Dean,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-12-13,404.01,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500742050,,,ORG,"H & P Consulting, LLC",,,,,,12 N State Rt 17,,Paramus,NJ,076522644,,,2024-12-26,4250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500739041,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-12-13,74.61,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500742051,,,ORG,MS Public Affairs LLC,,,,,,38 Rea Avenue Ext,,Hawthorne,NJ,075063334,,,2024-12-27,3750.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500739462,,,ORG,Green Consultants LLC,,,,,,1401 Mercantile Ln,Ste 200H,Upper Marlboro,MD,207744310,,,2024-12-19,4375.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500733564,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-12-02,74.61,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500733566,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-12-02,165.21,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500741896,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-30,18704.50,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500741900,500741896,SB21B,ORG,Amazon,,,,,,1516 2nd Ave,,Seattle,WA,981011543,,,2024-12-30,648.27,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741910,500741896,SB21B,ORG,Ocean Casino Resort,,,,,,500 Boardwalk,,Atlantic City,NJ,084017609,,,2024-12-30,7976.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741920,500741896,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-30,5.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741901,500741896,SB21B,ORG,Call Your Mother,,,,,,3301 Georgia Ave NW,,Washington,DC,200102512,,,2024-12-30,397.45,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741911,500741896,SB21B,ORG,Ocean Casino Resort,,,,,,500 Boardwalk,,Atlantic City,NJ,084017609,,,2024-12-30,4246.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741921,500741896,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-30,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741913,500741896,SB21B,ORG,The Water Club,,,,,,1 Borgata Way,,Atlantic City,NJ,084011946,,,2024-12-30,525.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741904,500741896,SB21B,ORG,Chopsmith,,,,,,11 District Sq SW,,Washington,DC,200242490,,,2024-12-30,262.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741914,500741896,SB21B,ORG,The Water Club,,,,,,1 Borgata Way,,Atlantic City,NJ,084011946,,,2024-12-30,525.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741907,500741896,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-12-30,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741897,500741896,SB21B,ORG,Cava,,,,,,3644 King St,,Alexandria,VA,223021908,,,2024-12-30,761.63,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741908,500741896,SB21B,ORG,"Ritz Carlton, South Beach",,,,,,1 Lincoln Rd,,Miami Beach,FL,331392000,,,2024-12-30,1434.48,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741918,500741896,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-30,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741919,500741896,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-12-30,-5.60,0.00,Refund From Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500741899,500741896,SB21B,ORG,Amazon,,,,,,1516 2nd Ave,,Seattle,WA,981011543,,,2024-12-30,35.88,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500742057,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-12-13,104.63,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500733567,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-12-02,572.30,0.00,Payroll - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500733569,500733567,SB21B,IND,,Dubner,Solomon,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-12-02,572.30,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*

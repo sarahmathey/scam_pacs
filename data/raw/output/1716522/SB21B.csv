@@ -1,0 +1,26 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00343574,500658355,,,ORG,"Contribution Solutions, LLC",,,,,,1346 The Alameda,# 7-380,San Jose,CA,951265006,,,2023-02-15,2403.75,0.00,Bookkeeping and Reporting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500671745,,,ORG,"Contribution Solutions, LLC",,,,,,1346 The Alameda,# 7-380,San Jose,CA,951265006,,,2023-04-25,1500.00,0.00,Bookkeeping and Reporting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500671730,,,ORG,Helvetica Good Design LLC,,,,,,452 M St NW,Apt 6,Washington,DC,200014664,,,2023-03-30,2500.00,0.00,Event Coordination,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500671738,,,ORG,Helvetica Good Design LLC,,,,,,452 M St NW,Apt 6,Washington,DC,200014664,,,2023-04-03,4750.00,0.00,Event Coordination,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500671740,,,ORG,Invariant LLC,,,,,,901 7th St NW,Ste 600,Washington,DC,200014496,,,2023-04-03,450.00,0.00,Event Venue and Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500658360,,,CCM,Lofgren for Congress,,,,,,1346 the Alameda,# 7-380,San Jose,CA,951262699,,,2023-02-15,568.99,0.00,Reimbursement: Event Supplies,,C00289603,,,Lofgren,Zoe,,,,H,CA,18,,,,,,,,
+SB21B,C00343574,500658356,500658360,SB21B,ORG,Amazon.com,,,,,,1200 12th Ave S,,Seattle,WA,981442712,,,2023-01-23,273.73,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500658357,500658360,SB21B,ORG,Amazon.com,,,,,,1200 12th Ave S,,Seattle,WA,981442712,,,2023-01-23,64.58,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500658358,500658360,SB21B,ORG,Amazon.com,,,,,,1200 12th Ave S,,Seattle,WA,981442712,,,2023-01-23,169.86,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500658359,500658360,SB21B,ORG,Amazon.com,,,,,,1200 12th Ave S,,Seattle,WA,981442712,,,2023-01-23,60.82,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500673665,,,CCM,Lofgren for Congress,,,,,,1346 the Alameda,# 7-380,San Jose,CA,951262699,,,2023-06-16,429.89,0.00,Reimbursement: Event Supplies,,C00289603,,,Lofgren,Zoe,,,,H,CA,18,,,,,,,,
+SB21B,C00343574,500673664,500673665,SB21B,ORG,Amazon.com,,,,,,1200 12th Ave S,,Seattle,WA,981442712,,,2023-04-26,429.89,0.00,Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500658354,,,ORG,"New Blue Interactive, LLC",,,,,,1146 19th St NW,Ste 750,Washington,DC,200363740,,,2023-02-09,1000.00,0.00,New Media Strategy Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500671739,,,ORG,"New Blue Interactive, LLC",,,,,,1146 19th St NW,Ste 750,Washington,DC,200363740,,,2023-04-03,1000.00,0.00,New Media Strategy Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500652249,,,ORG,Rolla Group,,,,,,211 S St NW,,Washington,DC,200011832,,,2023-01-03,4775.56,0.00,Reimbursement: Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500652248,500652249,SB21B,ORG,Carmel Valley Ranch,,,,,,1 Old Ranch Rd,,Carmel,CA,939238551,,,2023-01-01,4775.56,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500658362,,,ORG,Rolla Group,,,,,,211 S St NW,,Washington,DC,200011832,,,2023-02-15,1271.88,0.00,Reimbursement: Event Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500658361,500658362,SB21B,ORG,The Duck the Peach,,,,,,300 7th St SE,,Washington,DC,200032504,,,2023-01-30,1271.88,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500671735,,,ORG,Rolla Group,,,,,,211 S St NW,,Washington,DC,200011832,,,2023-04-03,7462.56,0.00,Reimbursement: Event Catering and Decor,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500671737,500671735,SB21B,ORG,DC Taste Catering,,,,,,1600 Fitzgerald Ln,,Alexandria,VA,223022004,,,2023-04-03,1697.50,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500671734,500671735,SB21B,ORG,Heirloom DC,,,,,,362 W Broad St,,Falls Church,VA,220463319,,,2023-03-27,4978.81,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500671736,500671735,SB21B,ORG,San Jose Balloons,,,,,,610 Lochburry Ct,,San Jose,CA,951231324,,,2023-03-22,786.25,0.00,Event Decor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500671744,,,ORG,Rolla Group,,,,,,211 S St NW,,Washington,DC,200011832,,,2023-04-25,6856.96,0.00,Reimbursement: Event Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00343574,500671743,500671744,SB21B,ORG,Folktale Winery & Vineyards,,,,,,8940 Carmel Valley Rd,,Carmel,CA,939239577,,,2023-04-23,640.03,0.00,Event Beverages,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00343574,500671741,500671744,SB21B,ORG,Meso,,,,,,3060 Olsen Dr,Ste 50,San Jose,CA,951282155,,,2023-04-23,6216.93,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*

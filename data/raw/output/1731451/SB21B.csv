@@ -1,0 +1,38 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00838912,500178515,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-07-11,10920.00,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178507,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-07-19,22771.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500176694,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-07-20,923.51,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00838912,500177231,500176694,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-06-16,267.71,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177228,500176694,SB21B,ORG,Hyatt Regency Greenwich,,,,,,1800 E Putnam Ave,,Old Greenwich,CT,068701320,,,2023-06-17,315.10,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500178504,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-07-26,640.95,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178508,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-08-02,13038.18,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178502,,,ORG,CrossCity Production Services LLC,,,,,,PO Box 436,,Mohegan Lake,NY,105470436,,,2023-08-09,11067.14,0.00,Event production & site rentals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178501,,,ORG,Moritz Photography,,,,,,1700 York Ave,Apt 4G,New York,NY,101287816,,,2023-08-09,1200.00,0.00,Photography Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500177571,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-08-11,10528.49,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00838912,500177750,500177571,SB21B,ORG,Precision NY LLC,,,,,,1237 Avenue Z,Apt NN,Brooklyn,NY,112354338,,,2023-06-28,464.79,0.00,Travel; Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177751,500177571,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-06-29,14.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177752,500177571,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-06-29,46.15,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177753,500177571,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2023-07-23,328.90,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177754,500177571,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-07-23,194.72,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177755,500177571,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-07-23,598.08,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177756,500177571,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-07-23,324.88,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177757,500177571,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-07-23,423.24,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177758,500177571,SB21B,ORG,Alpana,,,,,,831 N State St,,Chicago,IL,606103325,,,2023-07-24,884.23,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177760,500177571,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-07-24,217.58,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177762,500177571,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-24,33.72,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177763,500177571,SB21B,ORG,Uber,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-24,115.30,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177764,500177571,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-07-24,258.80,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177766,500177571,SB21B,ORG,"Powell Photography, Inc.",,,,,,531 S Plymouth Ct,,Chicago,IL,606051510,,,2023-07-26,1107.50,0.00,Photography Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500177767,500177571,SB21B,ORG,RPM Steak,,,,,,66 W Kinzie St,,Chicago,IL,606544627,,,2023-07-26,5273.43,0.00,"Catering, Food & Beverages",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500178505,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-08-25,212.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178503,,,PTY,DNC Services Corp./Dem. Nat'l Committee,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-08-28,51673.07,0.00,Salary & Overhead Expenses,,C00010603,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178509,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-08-31,20318.32,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178510,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-09-05,1591.64,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178511,,,ORG,"Democracy Engine, Inc PAC",,,,,,237 Florida Ave NW,,Washington,DC,200011801,,,2023-09-21,3950.30,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178506,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-09-27,216.75,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178512,,,ORG,"Democracy Engine, Inc PAC",,,,,,237 Florida Ave NW,,Washington,DC,200011801,,,2023-09-28,1975.05,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178500,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-09-29,11050.00,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00838912,500178517,500178500,SB21B,ORG,AMP Event Group,,,,,,5201 Bella Vista Rd,,Drexel Hill,PA,19026,,,2023-06-30,11050.00,0.00,Event production & site rentals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500178513,,,ORG,"Democracy Engine, Inc PAC",,,,,,237 Florida Ave NW,,Washington,DC,200011801,,,2023-09-30,3950.30,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178514,,,ORG,"Democracy Engine, Inc PAC",,,,,,237 Florida Ave NW,,Washington,DC,200011801,,,2023-09-30,2882.80,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500178516,,,ORG,"Democracy Engine, Inc PAC",,,,,,237 Florida Ave NW,,Washington,DC,200011801,,,2023-09-30,2445.29,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,

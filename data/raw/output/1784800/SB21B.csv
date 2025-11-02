@@ -1,0 +1,32 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00683250,500439885,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-15,268.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439886,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-15,268.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439887,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-15,268.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439888,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-15,410.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439889,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-15,410.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439890,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-15,410.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500440438,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-23,268.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500440439,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-25,19.92,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500440440,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-25,268.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500440441,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-25,201.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439893,,,ORG,Delta Air Lines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2024-04-15,211.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439894,,,ORG,Delta Air Lines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2024-04-15,211.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439895,,,ORG,Delta Air Lines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2024-04-15,211.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500440443,,,ORG,Delta Air Lines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2024-04-25,211.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500440444,,,ORG,Delta Air Lines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2024-04-26,211.10,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500440446,,,ORG,Delta Air Lines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2024-04-29,1674.30,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439237,,,ORG,Fairmount El San Juan Hotel,,,,,,6063 Ave Isla Verde,,Carolina,PR,009795706,,,2024-04-10,212.97,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439238,,,ORG,Fairmount El San Juan Hotel,,,,,,6063 Ave Isla Verde,,Carolina,PR,009795706,,,2024-04-10,298.11,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500436323,,,IND,,Gomez,Jimmy,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-04-01,2564.80,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500436324,500436323,SB21B,ORG,Delta Air Lines,,,,,,PO Box 20980,,Atlanta,GA,303200980,,,2024-04-01,659.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683250,500436325,500436323,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-04-01,286.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683250,500436326,500436323,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-04-01,286.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683250,500436327,500436323,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-04-01,286.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683250,500436328,500436323,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-04-01,522.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683250,500436329,500436323,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-04-01,522.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683250,500438687,,,IND,,Gomez,Jimmy,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-04-15,1000.00,0.00,Reimbursement - Childcare for Events,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500438688,500438687,SB21B,IND,,Provance,Seychelle,Ascencion,,,2005 W Linden St,Apt 22,Riverside,CA,925073517,,,2024-04-15,1000.00,0.00,Childcare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00683250,500439896,,,ORG,Intuit,,,,,,7535 Torrey Santa Fe Rd,,San Diego,CA,921295704,,,2024-04-15,63.60,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439897,,,ORG,Intuit,,,,,,7535 Torrey Santa Fe Rd,,San Diego,CA,921295704,,,2024-04-22,87.21,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500441165,,,ORG,NB Goods,,,,,,9 S 9Th St,Ste 2,Nashville,TN,372063966,,,2024-04-30,917.70,0.00,Fundraising Event Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00683250,500439898,,,ORG,Screen Gems Silkscreen Inc.,,,,,,10871 Portal Dr,,Los Alamitos,CA,907202508,,,2024-04-15,505.00,0.00,Merchandise Production,,,,,,,,,,,,,,,,,,,,

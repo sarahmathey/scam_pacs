@@ -1,0 +1,21 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00395889,500650941,,,ORG,Comcast,,,,,,1 Comcast Ctr,,Philadelphia,PA,191032838,,,2024-01-16,156.59,0.00,Internet,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500650963,,,ORG,Comcast,,,,,,1 Comcast Ctr,,Philadelphia,PA,191032838,,,2024-02-19,333.68,0.00,Internet Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500650957,,,ORG,ComEd,,,,,,PO Box 6111,,Carol Stream,IL,601976111,,,2024-01-23,91.64,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500650955,,,ORG,ComEd,,,,,,PO Box 6111,,Carol Stream,IL,601976111,,,2024-02-24,94.27,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500650951,,,ORG,ComEd,,,,,,PO Box 6111,,Carol Stream,IL,601976111,,,2024-03-19,90.45,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500650962,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,,,2024-01-02,108.50,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500651055,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2024,,2024-01-24,2452.30,0.00,Credit Card Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500651053,500651055,SB21B,ORG,NGP Software,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,G2024,,2024-01-24,187.43,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500651061,500651055,SB21B,ORG,Vonage America Inc,,,,,,23 Main St,,Holmdel,NJ,077332136,G2024,,2024-01-24,74.48,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500650959,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,,,2024-02-02,253.42,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500651073,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2024,,2024-02-21,2419.07,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500651068,500651073,SB21B,ORG,NGP Software,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,G2024,,2024-02-21,187.44,0.00,Database,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500651066,500651073,SB21B,ORG,Northshore Center for the Performing Arts,,,,,,9501 Skokie Blvd,,Skokie,IL,600771314,G2024,,2024-02-21,936.00,0.00,Fundraiser,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500651069,500651073,SB21B,ORG,Northshore Center for the Performing Arts,,,,,,9501 Skokie Blvd,,Skokie,IL,600771314,G2024,,2024-02-21,1123.20,0.00,Fundraiser,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500651067,500651073,SB21B,ORG,Vonage America Inc,,,,,,23 Main St,,Holmdel,NJ,077332136,G2024,,2024-02-21,75.18,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500650934,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,,,2024-03-04,51.59,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500651087,,,ORG,First Bank Chicago - Cardmember Service,,,,,,PO Box 790403,,Saint Louis,MO,631790403,G2024,,2024-03-21,1380.53,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00395889,500651080,500651087,SB21B,ORG,Jamesons Original Charhouse,,,,,,9525 Skokie Blvd,,Skokie,IL,600771314,G2024,,2024-03-21,945.00,0.00,Fundraiser-Food,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500651083,500651087,SB21B,ORG,NGP Software,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,G2024,,2024-03-21,187.44,0.00,Database Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00395889,500651082,500651087,SB21B,ORG,Vonage America Inc,,,,,,23 Main St,,Holmdel,NJ,077332136,G2024,,2024-03-21,75.18,0.00,Telephone Services,,,,,,,,,,,,,,,,,,,X,*

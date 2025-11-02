@@ -1,0 +1,39 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00571174,500546022,,,IND,,Coats,Eric,,,,1633 W Estes Ave,Apt 4E,Chicago,IL,606264735,,,2024-10-03,2000.00,0.00,Digital Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546017,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-10-03,187.00,0.00,Payroll Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546030,,,ORG,NGP VAN Inc,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-10-03,318.75,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546043,,,ORG,The Frost Group,,,,,,3701 Porter St NW,,Washington,DC,200163103,,,2024-10-03,2000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546045,,,ORG,True Blue Analytics LLC,,,,,,919 N Market St,Ste 950,Wilmington,DE,198013036,,,2024-10-03,5000.00,0.00,List Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546013,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-06,467.72,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546012,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-07,76.50,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500545997,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-10-08,6301.61,0.00,Payroll - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546001,500545997,SB21B,IND,,Ackerman,William,,,,10 Bradlee Rd,,Marblehead,MA,019452625,,,2024-10-08,454.54,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500545998,500545997,SB21B,IND,,Chilliak,Matt,,,,75 Highland Rd,,Andover,MA,018102013,,,2024-10-08,2524.02,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546003,500545997,SB21B,IND,,Feller-Kopman,Jesse,,,,173 Chellis Rd,,Plainfield,NH,03781,,,2024-10-08,507.92,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546000,500545997,SB21B,IND,,Krantz,Ross,,,,54 Garfield St,# A,Cambridge,MA,021381802,,,2024-10-08,1577.15,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500545999,500545997,SB21B,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2024-10-08,264.35,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546002,500545997,SB21B,IND,,Suchecki,Michael,,,,1341 Massachusetts Ave SE,,Washington,DC,200031540,,,2024-10-08,213.49,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546004,500545997,SB21B,IND,,Van Lare,Rowan,,,,PO Box 2013,,Salem,MA,019706213,,,2024-10-08,275.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546005,500545997,SB21B,IND,,Wise,Hannah,,,,6785 Alderley Way,,West Bloomfield,MI,483223852,,,2024-10-08,484.55,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546016,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-10-08,1928.15,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500537944,,,ORG,Chase Card Services,,,,,,PO Box 94014,,Palatine,IL,600944014,P2024,,2024-10-09,0.00,0.00,Credit Card Payment - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500538054,500537944,SB21B,ORG,JetBlue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2024-07-19,272.19,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538057,500537944,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-09,-2889.25,0.00,Refund of Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538053,500537944,SB21B,ORG,AT&T Inc,,,,,,PO Box 536216,,Atlanta,GA,303536216,,,2024-10-09,164.78,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538049,500537944,SB21B,ORG,Enterprise Holdings,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-10-09,184.86,0.00,Rental Car,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538050,500537944,SB21B,ORG,Enterprise Holdings,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-10-09,19.10,0.00,Rental Car,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538045,500537944,SB21B,ORG,Holiday Inn,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-10-09,-722.02,0.00,Refund of Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538046,500537944,SB21B,ORG,Holiday Inn,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-10-09,1500.24,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538047,500537944,SB21B,ORG,Holiday Inn,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-10-09,750.12,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538048,500537944,SB21B,ORG,Holiday Inn,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-10-09,4.24,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500538055,500537944,SB21B,ORG,JetBlue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2024-10-09,232.20,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546009,,,IND,,Krantz,Ross,,,,54 Garfield St,# A,Cambridge,MA,021381802,,,2024-10-09,95.48,0.00,Reimbursed Expenses - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546010,500546009,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-10-09,23.48,0.00,Rideshare Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546021,,,IND,,Simon,Sydney,,,,71 Potomac Ave SE,Apt 823,Washington,DC,200034966,,,2024-10-09,889.00,0.00,Reimbursed Expenses - See Memos,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546023,500546021,SB21B,ORG,Delta Airlines,,,,,,1212 New York Ave NW,Ste 200,Washington,DC,200056609,,,2024-10-09,340.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546026,500546021,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-10-09,123.72,0.00,Rideshare Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546027,500546021,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-09,304.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00571174,500546014,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-13,587.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546044,,,ORG,Tiku Consulting Group,,,,,,11 Maplewood St,,Watertown,MA,024723514,,,2024-10-15,5600.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546015,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-16,453.03,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00571174,500546029,,,ORG,Equator Creative Media,,,,,,87 W State Ave,,Phoenix,AZ,850218751,,,2024-10-16,500.00,0.00,Video Production,,,,,,,,,,,,,,,,,,,,

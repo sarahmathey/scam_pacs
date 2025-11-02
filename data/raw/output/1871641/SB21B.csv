@@ -1,0 +1,49 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00412791,500056750,,,IND,,Fouhy,Malcolm,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-12-02,750.00,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056690,,,IND,,Golden,Zachary,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-12-02,1595.75,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066651,,,ORG,MBA Consulting Group,,,,,,PO Box 15845,,Washington,DC,200030845,,,2024-12-16,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066372,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-11-27,97.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066743,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-06,12011.35,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066770,500066743,SB21B,ORG,"Fleet Transportation, LLC",,,,,,4741 Clifton Rd,,Temple Hills,MD,207481902,,,2024-12-06,1380.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066780,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,895.08,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066790,500066743,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-06,-39.00,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066781,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,304.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066782,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,537.04,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066773,500066743,SB21B,ORG,Quirk Hotel,,,,,,201 W Broad St,,Richmond,VA,232204268,,,2024-12-06,277.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066783,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,609.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066764,500066743,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-06,3.71,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066784,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,654.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066775,500066743,SB21B,ORG,Reston Limousine,,,,,,45685 Elmwood Ct,,Sterling,VA,201664209,,,2024-12-06,312.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066785,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,654.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066776,500066743,SB21B,ORG,Reston Limousine,,,,,,45685 Elmwood Ct,,Sterling,VA,201664209,,,2024-12-06,250.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066786,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,841.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066767,500066743,SB21B,ORG,"Fleet Transportation, LLC",,,,,,4741 Clifton Rd,,Temple Hills,MD,207481902,,,2024-12-06,1035.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066777,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,89.13,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066787,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,403.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066768,500066743,SB21B,ORG,"Fleet Transportation, LLC",,,,,,4741 Clifton Rd,,Temple Hills,MD,207481902,,,2024-12-06,1035.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066778,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,46.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066788,500066743,SB21B,ORG,Total Wine And More,,,,,,1451 Chain Bridge Rd,,Mc Lean,VA,221013722,,,2024-12-06,664.31,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066769,500066743,SB21B,ORG,"Fleet Transportation, LLC",,,,,,4741 Clifton Rd,,Temple Hills,MD,207481902,,,2024-12-06,1035.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066779,500066743,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-06,813.02,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066789,500066743,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-06,-16.34,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066653,,,ORG,Campaign Finance Consultants,,,,,,750 1st St NE,Ste 1070,Washington,DC,200028008,,,2024-12-16,10634.32,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056714,,,IND,,Falcone,Elizabeth,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-12-02,695.04,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066744,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-10,728.32,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066791,500066744,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-10,654.88,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066792,500066744,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-10,16.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066793,500066744,SB21B,ORG,The Publisher Hotel,,,,,,711 William St,,Fredericksburg,VA,224015713,,,2024-12-10,56.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066254,,,IND,,Falcone,Elizabeth,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-12-02,382.15,0.00,Travel Reimbursement  - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066251,500066254,SB21B,ORG,ZipCar,,,,,,35 Thomson Pl,,Boston,MA,022101282,,,2024-12-02,238.41,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066374,,,IND,,Bonitt,Margaret,Ann,,,304 S Columbus St,,Alexandria,VA,223143604,,,2024-12-03,5138.00,0.00,Event Production Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056726,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-12-16,18600.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500067666,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500067176,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-12-30,71.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056738,,,IND,,Cohen,Rachel,S.,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-12-02,312.50,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500056848,,,ORG,Cynthia M. Downs,,,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-12-02,1583.33,0.00,PAC Administration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500058458,,,ORG,"V2 Consulting, LLC",,,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-12-16,5950.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500067178,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-20,890.94,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500067182,500067178,SB21B,ORG,Blacklane,,,,,,80 State St,,Albany,NY,122072541,,,2024-12-20,104.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500067179,500067178,SB21B,ORG,The Jefferson Hotel,,,,,,201 N Union St,,Alexandria,VA,223142642,,,2024-12-20,229.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066809,,,IND,,Sabato,Larry,,,,201 N Union St,Ste 300,Alexandria,VA,223142650,,,2024-12-11,503.70,0.00,Travel Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500066808,500066809,SB21B,ORG,Ambassador Limousine,,,,,,277 Hydraulic Ridge Rd,Ste 105,Charlottesville,VA,229018127,,,2024-12-11,503.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500066649,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-12-16,6897.60,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,

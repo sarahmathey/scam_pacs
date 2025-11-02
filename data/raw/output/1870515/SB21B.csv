@@ -1,0 +1,59 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00573709,500576604,,,ORG,Angerholzer Broz Consulting LLC,,,,,,1 M St SE,Ste 275,Washington,DC,200035125,,,2024-11-27,73.14,0.00,Reimbursable Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576682,500576604,SB21B,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-11-27,73.14,0.00,Accounting Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576666,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-11-29,121.90,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576672,,,ORG,Mary Plasencia,,,,,,Address Requested,,Washington,DC,20003,,,2024-11-29,3860.99,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576681,,,IND,,Medzhibovsky,Boris,,,,331 1/2 La Paloma St,,Redlands,CA,923736013,,,2024-11-29,2247.78,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576591,,,ORG,Angerholzer Broz Consulting LLC,,,,,,1 M St SE,Ste 275,Washington,DC,200035125,,,2024-12-03,2000.00,0.00,Fundraising and Compliance Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576636,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-12-03,318.00,0.00,Campaign Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576620,,,ORG,Bank Of America,,,,,,1455 Pennsylvania Ave NW,Ste 950,Washington,DC,200041043,,,2024-12-06,15.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576663,,,ORG,Internal Revenue Service,,,,,,PO Box 409101,,Ogden,UT,844099101,,,2024-12-06,2260.54,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576671,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-12-06,71.35,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576662,,,ORG,Next Insurance,,,,,,975 California Ave,,Palo Alto,CA,943041104,,,2024-12-09,34.53,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576683,,,ORG,Invariant LLC,,,,,,740 15Th St NW,Ste 500,Washington,DC,200051047,,,2024-12-16,472.50,0.00,Fundraiser Catering Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576621,,,ORG,Bank Of America,,,,,,1455 Pennsylvania Ave NW,Ste 950,Washington,DC,200041043,,,2024-12-17,5.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576667,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-18,43297.06,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576631,500576667,SB21B,ORG,Alamo Rent A Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,1369.35,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576596,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,1003.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576633,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,-5.60,0.00,Refund of Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576634,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,481.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576637,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,59.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576638,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,5.60,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576639,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,446.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576640,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,5.60,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576641,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,49.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576643,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,486.98,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576645,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,29.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576647,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,35.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576648,500576667,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-18,35.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576678,500576667,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-18,29.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576679,500576667,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-18,58.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576680,500576667,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-18,376.97,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576602,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,1586.64,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576612,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,1617.77,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576613,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,493.35,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576614,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,349.04,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576615,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,775.14,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576616,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,465.48,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576653,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,1700.78,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576654,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,3501.15,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576655,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,800.16,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576656,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,682.48,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576657,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,3308.23,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576658,500576667,SB21B,ORG,Enterprise Rent-A-Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-18,741.49,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576628,500576667,SB21B,ORG,Fullerton Marriott,,,,,,2701 Nutwood Ave,,Fullerton,CA,928315400,,,2024-12-18,3.50,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576629,500576667,SB21B,ORG,Fullerton Marriott,,,,,,2701 Nutwood Ave,,Fullerton,CA,928315400,,,2024-12-18,1481.02,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576622,500576667,SB21B,ORG,Garlic & Chives,,,,,,Address Requested,,Washington,DC,20003,,,2024-12-18,62.22,0.00,Food and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576594,500576667,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-12-18,8.76,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576605,500576667,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-12-18,15.91,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576652,500576667,SB21B,ORG,Metro DC,,,,,,Address Requested,,Washington,DC,20003,,,2024-12-18,28.13,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576600,500576667,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2024-12-18,5.34,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576608,500576667,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2024-12-18,2.84,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576609,500576667,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2024-12-18,52.95,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576610,500576667,SB21B,ORG,Uber,,,,,,706 Mission St,Fl 9,San Francisco,CA,941033169,,,2024-12-18,25.27,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576593,500576667,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606066311,,,2024-12-18,40.00,0.00,Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00573709,500576665,,,ORG,MSL Strategies,,,,,,4315 Brookfield Dr,,Charlotte,NC,282106305,,,2024-12-18,8750.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576595,,,ORG,Bank Of America,,,,,,1455 Pennsylvania Ave NW,Ste 950,Washington,DC,200041043,,,2024-12-23,30.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576664,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-12-30,121.90,0.00,Payroll Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576668,,,ORG,Mary Plasencia,,,,,,Address Requested,,Washington,DC,20003,,,2024-12-31,3860.99,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00573709,500576669,,,IND,,Medzhibovsky,Boris,,,,331 1/2 La Paloma St,,Redlands,CA,923736013,,,2024-12-31,2247.59,0.00,Salary,,,,,,,,,,,,,,,,,,,,

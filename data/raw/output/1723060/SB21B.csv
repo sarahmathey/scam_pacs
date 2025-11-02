@@ -1,0 +1,64 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00513176,VQZ94AQJKJ8,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-03,128.91,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNC3,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-10,361.76,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJWA3,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-17,546.37,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJW95,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-24,486.75,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJYH2,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-31,312.87,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJYJ0,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-07-31,403.10,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJM96,,,ORG,Aisle 518,,,,,,2045 W Grand Ave,Ste B,Chicago,IL,606121577,,,2023-07-07,12000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNP2,,,ORG,Aisle 518,,,,,,2045 W Grand Ave,Ste B,Chicago,IL,606121577,,,2023-07-11,3698.92,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJXJ7,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100018400,,,2023-07-26,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJXK5,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100018400,,,2023-07-26,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJXM3,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100018400,,,2023-07-26,105.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNW9,,,ORG,American Express Company,,,,,,3 World Financial Ctr,200 Vesey Street,New York,NY,102850001,,,2023-07-13,5502.26,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJPS8,VQZ94AQJNW9,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2023-07-13,58.29,0.00,Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJNX7,VQZ94AQJNW9,SB21B,ORG,American Express Company,,,,,,3 World Financial Ctr,200 Vesey Street,New York,NY,102850001,,,2023-07-13,250.00,0.00,Credit Card Member Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPW2,VQZ94AQJNW9,SB21B,ORG,American Express Company,,,,,,3 World Financial Ctr,200 Vesey Street,New York,NY,102850001,,,2023-07-13,250.00,0.00,Credit Card Member Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPX0,VQZ94AQJNW9,SB21B,ORG,American Express Company,,,,,,3 World Financial Ctr,200 Vesey Street,New York,NY,102850001,,,2023-07-13,-138.70,0.00,Fraud Refund Given as Future Credit - See Dec 2022 Report,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP35,VQZ94AQJNW9,SB21B,ORG,Capital Hill Wine & Spirits,,,,,,323 Pennsylvania Ave SE,,Washington,DC,200031148,,,2023-07-13,297.32,0.00,Beverages for Event,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPC6,VQZ94AQJNW9,SB21B,ORG,CHIKO,,,,,,423 8Th St SE,,Washington,DC,200032833,,,2023-07-13,611.33,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPG7,VQZ94AQJNW9,SB21B,ORG,Flywheel,,,,,,1405 Harney St,201,Omaha,NE,681022277,,,2023-07-13,30.00,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJNZ3,VQZ94AQJNW9,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-07-13,66.25,0.00,Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP19,VQZ94AQJNW9,SB21B,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-07-13,90.10,0.00,Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPK1,VQZ94AQJNW9,SB21B,ORG,Mailchimp,,,,,,675 Ponce De Leon Ave NE,E178,Atlanta,GA,303081884,,,2023-07-13,106.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJNY5,VQZ94AQJNW9,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-13,596.78,0.00,Texting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP43,VQZ94AQJNW9,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-13,592.54,0.00,Texting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPE2,VQZ94AQJNW9,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-13,531.06,0.00,Texting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPH5,VQZ94AQJNW9,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-13,530.00,0.00,Texting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPJ3,VQZ94AQJNW9,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-13,534.24,0.00,Texting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPR1,VQZ94AQJNW9,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-07-13,540.60,0.00,Texting Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPF9,VQZ94AQJNW9,SB21B,ORG,The Congress Plaza Hotel & Convention Center,,,,,,520 S Michigan Ave,,Chicago,IL,606051602,,,2023-07-13,327.55,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP50,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,12.94,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP68,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,1.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP76,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,14.62,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP84,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,9.22,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJP92,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,1.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPA0,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,10.22,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPM9,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,14.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPN7,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,13.12,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPP5,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,14.55,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPQ3,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,9.96,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJPT6,VQZ94AQJNW9,SB21B,ORG,Uber Technologies,,,,,,1455 Market St,Fl 4,San Francisco,CA,941031355,,,2023-07-13,1.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00513176,VQZ94AQJNQ0,,,IND,,Bailey,Ernest,,,,1827 Kilbourne Pl NW,,Washington,DC,200102622,,,2023-07-13,2306.25,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJZH4,,,IND,,Bailey,Ernest,,,,1827 Kilbourne Pl NW,,Washington,DC,200102622,,,2023-07-31,2306.23,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNR8,,,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2023-07-13,36.15,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNS6,,,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2023-07-13,3419.49,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJZJ2,,,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2023-07-31,36.15,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJZK0,,,IND,,Brown,Evan,,,,965 Florida Ave NW,Apt 728,Washington,DC,200015587,,,2023-07-31,3419.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJXP8,,,ORG,Budget Signs,,,,,,2225 Industrial Dr,,Monona,WI,537134806,,,2023-07-24,2676.90,0.00,Gifts for Supporters,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNT4,,,IND,,Darner,Michael,,,,1303 John St,,Baltimore,MD,212174116,,,2023-07-13,786.88,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJZM8,,,IND,,Darner,Michael,,,,1303 John St,,Baltimore,MD,212174116,,,2023-07-31,786.86,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJM63,,,ORG,DC Health Link,,,,,,645 H St NE,,Washington,DC,200024347,,,2023-07-03,2528.16,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJVX0,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-07-18,256.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNN4,,,ORG,Fidelity Investments Institutional Operations Company,,,,,,PO Box 770002,,Cincinnati,OH,452771102,,,2023-07-14,805.58,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJXN0,,,ORG,Fidelity Investments Institutional Operations Company,,,,,,PO Box 770002,,Cincinnati,OH,452771102,,,2023-07-28,805.58,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJM89,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-07-06,122.11,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNM6,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-07-13,4504.08,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJZB7,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-07-31,4498.99,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNV1,,,IND,,Hines,Gillian,,,,2778 N Milwaukee Ave,Apt 217,Chicago,IL,606471323,,,2023-07-13,1937.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJZN6,,,IND,,Hines,Gillian,,,,2778 N Milwaukee Ave,Apt 217,Chicago,IL,606471323,,,2023-07-31,1937.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJMA4,,,ORG,Kieloch Consulting,,,,,,228 2Nd St SE,,Washington,DC,200031943,,,2023-07-03,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJMB2,,,ORG,LexisNexis,,,,,,230 Park Ave,Fl 7,New York,NY,101690935,,,2023-07-06,355.10,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJNK8,,,ORG,NGP VAN,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2023-07-10,31672.80,0.00,Software Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJVW2,,,ORG,Olson Remcho LLP,,,,,,555 Capitol Mall,Ste 400,Sacramento,CA,958144503,,,2023-07-14,50.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00513176,VQZ94AQJXQ6,,,ORG,"Politico, LLC",,,,,,1000 Wilson Blvd,Ste 800,Arlington,VA,222093901,,,2023-07-27,8209.70,0.00,Subscription,,,,,,,,,,,,,,,,,,,,

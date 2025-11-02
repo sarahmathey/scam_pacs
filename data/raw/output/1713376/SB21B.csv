@@ -1,0 +1,26 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00502096,500862099,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-01-17,92.02,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500862100,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-03-20,1328.45,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500862103,500862100,SB21B,ORG,Conrad NY Midtown,,,,,,151 W 54Th St,,New York,NY,100195302,,,2023-03-20,692.85,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500862105,500862100,SB21B,ORG,District Taco,,,,,,1919 M St NW,,Washington,DC,200363521,,,2023-03-20,243.86,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500869457,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-04-21,378.30,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500869458,500869457,SB21B,ORG,Sonoma Restaurant And Wine Bar,,,,,,223 Pennsylvania Ave SE,,Washington,DC,200031107,,,2023-04-21,378.30,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500869459,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-04-21,725.00,0.00,Credit Card Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500869461,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-05-12,294.01,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500869462,500869461,SB21B,ORG,Capital Grille,,,,,,601 Pennsylvania Ave NW,,Washington,DC,200042601,,,2023-05-12,220.41,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500871759,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-06-14,1591.33,0.00,Credit Card Payment - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500871761,500871759,SB21B,ORG,501 Bar & Grill,,,,,,500 S Saginaw St,,Flint,MI,485021811,,,2023-06-14,1116.03,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500871763,500871759,SB21B,ORG,Washington Nationals Baseball Club,,,,,,1500 S Capitol St SE,,Washington,DC,200033599,,,2023-06-14,364.00,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00502096,500862089,,,ORG,Blue Wave Political Partners,,,,,,401 2Nd Ave S,Ste 303,Seattle,WA,981042862,,,2023-01-17,1480.25,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500851825,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-01-17,2000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500862091,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-02-13,2000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500875262,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-03-07,2000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500862093,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-03-08,4000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500862094,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-03-08,39.60,0.00,Fundraising Reimbursements,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500869448,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-04-05,2000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500869465,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-05-15,2019.30,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500862092,,,ORG,Molly Allen Associates LLC,,,,,,412 1St St SE,Ste 100,Washington,DC,200031804,,,2023-06-20,2009.65,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500862088,,,IND,,Tippett,Jeffrey,D,,,8077 Hawkcrest Dr,,Grand Blanc,MI,484392422,,,2023-03-13,2499.99,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500869444,,,IND,,Tippett,Jeffrey,D,,,8077 Hawkcrest Dr,,Grand Blanc,MI,484392422,,,2023-04-14,833.33,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500869445,,,IND,,Tippett,Jeffrey,D,,,8077 Hawkcrest Dr,,Grand Blanc,MI,484392422,,,2023-05-02,833.33,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00502096,500871755,,,IND,,Tippett,Jeffrey,D,,,8077 Hawkcrest Dr,,Grand Blanc,MI,484392422,,,2023-06-02,833.33,0.00,General Strategy Consulting,,,,,,,,,,,,,,,,,,,,

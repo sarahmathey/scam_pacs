@@ -1,0 +1,45 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00831545,500353242,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-10-23,197.50,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355054,,,ORG,Alaska Air,,,,,,PO Box 68900S,,Seattle,WA,98168,,,2023-10-24,16.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355009,,,ORG,Alex Ortiz,,,,,,2001 Taylor St NE,,Washington,DC,200183235,,,2023-10-06,1824.47,0.00,Reimbursement(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355010,500355009,SB21B,ORG,Alaska Air,,,,,,PO Box 68900S,,Seattle,WA,98168,,,2023-10-06,745.10,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355011,500355009,SB21B,ORG,Alaska Air,,,,,,PO Box 68900S,,Seattle,WA,98168,,,2023-10-06,30.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355012,500355009,SB21B,ORG,Alaska Air,,,,,,PO Box 68900S,,Seattle,WA,98168,,,2023-10-06,30.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355016,500355009,SB21B,ORG,Alaska Air,,,,,,PO Box 68900S,,Seattle,WA,98168,,,2023-10-06,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355017,500355009,SB21B,ORG,Alaska Air,,,,,,PO Box 68900S,,Seattle,WA,98168,,,2023-10-06,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355015,500355009,SB21B,ORG,Hilton Anchorage,,,,,,500 W 3Rd Ave,,Anchorage,AK,995012210,,,2023-10-06,396.43,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355013,500355009,SB21B,ORG,Westmark Hotel Anchorage,,,,,,720 W 5Th Ave,,Anchorage,AK,995012118,,,2023-10-06,301.39,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355014,500355009,SB21B,ORG,Westmark Hotel Anchorage,,,,,,720 W 5Th Ave,,Anchorage,AK,995012118,,,2023-10-06,250.99,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00831545,500355038,,,ORG,Best Buy,,,,,,800 E Dimond Blvd,Ste 100,Anchorage,AK,995152048,,,2023-10-23,339.98,0.00,Computer software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355021,,,ORG,Campaign Compliance Inc.,,,,,,946 Bandmann Trl,,Missoula,MT,598028834,,,2023-10-09,1347.66,0.00,Compliance consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355040,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Hapeville,GA,303541989,,,2023-10-23,69.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355041,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Hapeville,GA,303541989,,,2023-10-23,10.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355042,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Hapeville,GA,303541989,,,2023-10-23,1505.10,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355043,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Hapeville,GA,303541989,,,2023-10-23,12.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355044,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Hapeville,GA,303541989,,,2023-10-23,29.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355049,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Hapeville,GA,303541989,,,2023-10-23,10.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355050,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Hapeville,GA,303541989,,,2023-10-23,10.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355029,,,ORG,Moxy Downtown,,,,,,1260 S Figueroa St,,Los Angeles,CA,900152887,,,2023-10-02,225.97,0.00,Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355030,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-10-03,300.00,0.00,Computer software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355052,,,ORG,Sullivans,,,,,,320 W 5Th Ave,,Anchorage,AK,995012357,,,2023-10-23,1010.07,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355022,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-02,6.98,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355023,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-02,8.69,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355024,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-02,46.83,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355025,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-02,44.90,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355031,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-03,100.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355032,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-06,2.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355033,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-10,61.44,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355034,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-11,43.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355035,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-12,38.95,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355039,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-23,37.91,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355048,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-23,18.93,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355051,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-23,12.92,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355053,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-24,8.25,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355055,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-25,1.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355059,,,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2023-10-25,42.92,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355026,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-10-02,8.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355027,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-10-02,9.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355028,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-10-02,9.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355047,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-10-23,9.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355057,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-10-25,187.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00831545,500355058,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-10-25,370.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,,

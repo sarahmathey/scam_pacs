@@ -1,0 +1,76 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00331694,VTD7FAF7S60,,,ORG,Intuit Market,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-04-03,58.30,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6Z80,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-05-01,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7NB0,,,ORG,Chase Card Services,,,,,,Cardmember Service,PO Box 15153,Wilmington,DE,198860001,,,2023-02-23,403.78,0.00,Credit Card Payment-Attribution below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF82C5,VTD7FAF7NB0,SB21B,ORG,Blue Point Grille,,,,,,700 W Saint Clair Ave,,Cleveland,OH,441131287,,,2023-02-23,351.78,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6YC0,,,ORG,Velocity Direct,,,,,,6410 Eastland Rd,Ste G,Cleveland,OH,441421306,,,2023-01-10,629.15,0.00,Printing - Campaign Materials,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6YG0,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-02-28,171.95,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6ZC1,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-05-26,2501.47,0.00,Compliance Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SF1,,,ORG,Chase Card Services,,,,,,Cardmember Service,PO Box 15153,Wilmington,DE,198860001,,,2023-06-18,100.84,0.00,Credit Card Payment-Attribution Below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71Q1,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-05-17,7896.15,0.00,Reimbursement-Catering & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SQ4,VTD7FAF71Q1,SB21B,ORG,DNCSS,,,,,,2401 Ontario St,Progressive Field,Cleveland,OH,441154003,,,2023-05-17,1211.21,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7SP6,VTD7FAF71Q1,SB21B,ORG,Bin 216,,,,,,1515 Euclid Ave,,Cleveland,OH,441152100,,,2023-05-17,6594.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF71R9,VTD7FAF71Q1,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-05-17,30.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7S02,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-02-02,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7S52,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-03-03,128.72,0.00,Reimbursement-Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6Z72,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-04-26,185.93,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7NA2,,,ORG,Chase Card Services,,,,,,Cardmember Service,PO Box 15153,Wilmington,DE,198860001,,,2023-01-18,76.60,0.00,Credit Card Payment-Attribution below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6YB2,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-01-09,7000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71K2,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-04-18,599.62,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71M7,VTD7FAF71K2,SB21B,PAC,American Airlines,,,,,,1101 17Th St NW,Ste 600,Washington,DC,200364718,,,2023-04-18,599.62,0.00,Travel,,C00107300,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6YM2,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-03-24,69.71,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF70V2,,,IND,,Kramer,Josh,,,,208 I St NE,,Washington,DC,200024340,,,2023-03-03,104.00,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6Y63,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-06-06,56.28,0.00,Reimbursement-Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7S93,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-05-26,106.63,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SA1,VTD7FAF7S93,SB21B,ORG,American Airlines,,,,,,PO Box 619612,,Dallas,TX,752619612,,,2023-05-26,96.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6ZB3,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-05-26,105.61,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SE3,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-06-02,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7S44,,,ORG,Intuit Market,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-03-03,58.30,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6Z64,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-04-26,170.99,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6YK4,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-03-01,2500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6ZA5,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-05-11,2500.49,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SD5,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-06-26,105.61,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF70N5,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-03-02,50.24,0.00,Reimbursement - Meals & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF70Q1,VTD7FAF70N5,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-03-02,12.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF71N5,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-05-17,830.23,0.00,Reimbursement-Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7S85,VTD7FAF71N5,SB21B,ORG,"Michael Coscia, LLC",,,,,,304 12Th St SE,,Washington,DC,200032206,,,2023-05-17,830.23,0.00,Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6YQ5,,,ORG,"NGP VAN, Inc.",,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2023-04-03,246.45,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7RT5,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-01-10,476.18,0.00,Reimbursement-Catering & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7RW1,VTD7FAF7RT5,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-01-10,116.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7RV3,VTD7FAF7RT5,SB21B,ORG,Corner Bakery,,,,,,1425 K St NW,,Washington,DC,200053546,,,2023-01-10,267.50,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6Z56,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-04-07,2501.96,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7ND6,,,ORG,Chase Card Services,,,,,,Cardmember Service,PO Box 15153,Wilmington,DE,198860001,,,2023-04-17,104.15,0.00,Credit Card Payment-Attribution below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6YE6,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-01-26,73.67,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SH6,,,ORG,Intuit Market,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-06-02,58.30,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71H6,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-04-18,14213.12,0.00,Reimbursement-Event Tickets & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SM0,VTD7FAF71H6,SB21B,ORG,Hotel Viking Newport,,,,,,1 Bellevue Ave,,Newport,RI,028403205,,,2023-04-18,1108.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7SK2,VTD7FAF71H6,SB21B,ORG,American Airlines,,,,,,PO Box 619612,,Dallas,TX,752619612,,,2023-04-18,382.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF71J4,VTD7FAF71H6,SB21B,ORG,Cleveland Guardians Baseball Co.,,,,,,2401 Ontario St,,Cleveland,OH,441154003,,,2023-04-18,12423.60,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7SN8,VTD7FAF71H6,SB21B,ORG,American Airlines,,,,,,PO Box 619612,,Dallas,TX,752619612,,,2023-04-18,297.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6YJ6,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-03-01,6000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71S6,,,IND,,Kramer,Josh,,,,208 I St NE,,Washington,DC,200024340,,,2023-05-17,560.42,0.00,Reimbursement-Travel & Event Tickets,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7202,VTD7FAF71S6,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-05-17,48.22,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7243,VTD7FAF71S6,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-05-17,93.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF71T4,VTD7FAF71S6,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-05-17,42.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF71Z4,VTD7FAF71S6,SB21B,ORG,Cleveland Guardians Baseball Co.,,,,,,2401 Ontario St,,Cleveland,OH,441154003,,,2023-05-17,150.00,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7235,VTD7FAF71S6,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-05-17,22.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7228,VTD7FAF71S6,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-05-17,43.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7RY6,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-01-10,1468.88,0.00,Reimbursement-Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7RZ4,VTD7FAF7RY6,SB21B,ORG,Catering By Avalon,,,,,,109 Clermont Ave,,Alexandria,VA,223044837,,,2023-01-10,1468.88,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6Z97,,,ORG,Intuit Market,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2023-05-01,58.30,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71C7,,,IND,,Rice,Shannon,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-03-03,34.83,0.00,Meals & Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71F0,VTD7FAF71C7,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-03-03,12.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF71E3,VTD7FAF71C7,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-03-03,9.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF71D5,VTD7FAF71C7,SB21B,ORG,Uber Technologies,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2023-03-03,11.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7SC7,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-06-26,146.09,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6ZE7,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2023-05-26,2500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6YP7,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-04-03,6000.00,0.00,Fundraising Consulting Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7S28,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-02-21,4140.00,0.00,Reimbursement-Event Tickets,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7S36,VTD7FAF7S28,SB21B,ORG,Cleveland Guardians Baseball Co.,,,,,,2401 Ontario St,,Cleveland,OH,441154003,,,2023-02-21,4140.00,0.00,Event Tickets,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF7NC8,,,ORG,Chase Card Services,,,,,,Cardmember Service,PO Box 15153,Wilmington,DE,198860001,,,2023-03-24,57.63,0.00,Credit Card Payment-Attribution below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6YD8,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-01-26,174.30,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF71G8,,,IND,,Kauffman,Kimberly,A.,,,615 G St SE,,Washington,DC,200032723,,,2023-04-07,3186.00,0.00,Reimbursement-Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF7SJ4,VTD7FAF71G8,SB21B,ORG,Great Day Tours,,,,,,375 Treeworth Blvd,,Broadview Heights,OH,441472985,,,2023-04-07,3186.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00331694,VTD7FAF6YH8,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-02-28,70.56,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6ZD9,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-05-26,169.17,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00331694,VTD7FAF6YN9,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-03-24,141.59,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,

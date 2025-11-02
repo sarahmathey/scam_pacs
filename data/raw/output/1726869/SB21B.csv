@@ -1,0 +1,93 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00412791,500051129,,,PAC,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-03-26,79.00,0.00,Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051564,,,PAC,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-04-16,395.00,0.00,Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500052880,,,PAC,ACTBLUE,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-06-30,395.00,0.00,Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050545,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-01-26,260.00,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050771,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-02-23,205.00,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051159,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-03-24,125.50,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051714,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-04-26,365.50,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500052256,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-05-26,245.25,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500052677,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-06-26,210.50,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050366,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-01-18,1708.48,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050363,500050366,SB21B,ORG,Airlie,,,,,,6809 AIRLIE RD,,Warrenton,VA,201877110,,,2023-01-18,1278.59,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500050362,500050366,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2023-01-18,209.39,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500050364,500050366,SB21B,ORG,Williamsburg Chauffeur Service LLC,,,,,,3306 Craggy Oak Ct,Ste 101,Williamsburg,VA,231881064,,,2023-01-18,202.50,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500050640,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-02-17,2338.25,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050639,500050640,SB21B,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-17,2300.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500050638,500050640,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2023-02-17,38.25,0.00,Postage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500051058,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-03-17,912.17,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051056,500051058,SB21B,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-03-17,600.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500051057,500051058,SB21B,ORG,The Monocle On Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-03-17,312.17,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500051551,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-04-14,25230.42,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051550,500051551,SB21B,ORG,Acacia,,,,,,2363 Roux St,Ste 105,Richmond,VA,232302384,,,2023-04-14,5334.11,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500051545,500051551,SB21B,ORG,Boar's Head Inn,,,,,,200 Ednam Dr,,Charlottesville,VA,229034674,,,2023-04-14,19073.10,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500051548,500051551,SB21B,ORG,Hotel AKA Alexandria,,,,,,625 First St,,Alexandria,VA,223141511,,,2023-04-14,364.12,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500051549,500051551,SB21B,ORG,The Monocle On Capitol Hill,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-04-14,246.64,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500052251,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-05-15,1045.10,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500052247,500052251,SB21B,ORG,Jefferson Hotel,,,,,,1200 16Th St NW,,Washington,DC,200363202,,,2023-05-15,391.94,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500052246,500052251,SB21B,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-05-15,450.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500052248,500052251,SB21B,ORG,Williamsburg Chauffeur Service LLC,,,,,,3306 Craggy Oak Ct,Ste 101,Williamsburg,VA,231881064,,,2023-05-15,108.00,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500052527,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-06-15,984.66,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500052523,500052527,SB21B,ORG,Boar's Head Inn,,,,,,200 Ednam Dr,,Charlottesville,VA,229034674,,,2023-06-15,41.16,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500052518,500052527,SB21B,ORG,Hay Adams Hotel,,,,,,800 16Th St NW,,Washington,DC,200064102,,,2023-06-15,472.03,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500052522,500052527,SB21B,ORG,Staples,,,,,,1320 Richmond Rd,,Williamsburg,VA,231852831,,,2023-06-15,216.08,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00412791,500049914,,,IND,,Buchanan,Katherine,M.,,,1751 Potomac Greens Dr,,Alexandria,VA,223146233,,,2023-01-01,4000.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050523,,,IND,,Buchanan,Katherine,M.,,,1751 Potomac Greens Dr,,Alexandria,VA,223146233,,,2023-02-01,4000.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050700,,,IND,,Buchanan,Katherine,M.,,,1751 Potomac Greens Dr,,Alexandria,VA,223146233,,,2023-03-01,4000.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050846,,,IND,,Buchanan,Katherine,M.,,,1751 Potomac Greens Dr,,Alexandria,VA,223146233,,,2023-04-01,4000.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050847,,,IND,,Buchanan,Katherine,M.,,,1751 Potomac Greens Dr,,Alexandria,VA,223146233,,,2023-05-01,4000.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050848,,,IND,,Buchanan,Katherine,M.,,,1751 Potomac Greens Dr,,Alexandria,VA,223146233,,,2023-06-01,4000.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050367,,,ORG,Campaign Finance Consultants,,,,,,750 1St St NE,Ste 1070,Washington,DC,200028008,,,2023-01-17,9073.53,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050617,,,ORG,Campaign Finance Consultants,,,,,,750 1St St NE,Ste 1070,Washington,DC,200028008,,,2023-02-10,9133.53,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051024,,,ORG,Campaign Finance Consultants,,,,,,750 1St St NE,Ste 1070,Washington,DC,200028008,,,2023-03-08,9092.61,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051517,,,ORG,Campaign Finance Consultants,,,,,,750 1St St NE,Ste 1070,Washington,DC,200028008,,,2023-04-13,24169.72,0.00,FUNDRAISING CONSULTING SERVICES,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051835,,,ORG,Campaign Finance Consultants,,,,,,750 1St St NE,Ste 1070,Washington,DC,200028008,,,2023-05-11,9092.57,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500052309,,,ORG,Campaign Finance Consultants,,,,,,750 1St St NE,Ste 1070,Washington,DC,200028008,,,2023-06-09,9095.39,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050694,,,IND,,Cohen,Rachel,S,,,6602 Westmoreland Ave,,Takoma Park,MD,209124739,,,2023-03-01,312.50,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050892,,,IND,,Cohen,Rachel,S,,,6602 Westmoreland Ave,,Takoma Park,MD,209124739,,,2023-04-01,312.50,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050891,,,IND,,Cohen,Rachel,S,,,6602 Westmoreland Ave,,Takoma Park,MD,209124739,,,2023-05-01,312.50,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050890,,,IND,,Cohen,Rachel,S,,,6602 Westmoreland Ave,,Takoma Park,MD,209124739,,,2023-06-01,312.50,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500049919,,,ORG,Cynthia M Downs,,,,,,14107 Lyndhurst Dr,,Chester,VA,238318804,,,2023-01-01,1583.33,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050521,,,ORG,Cynthia M Downs,,,,,,14107 Lyndhurst Dr,,Chester,VA,238318804,,,2023-02-01,1583.33,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050727,,,ORG,Cynthia M Downs,,,,,,14107 Lyndhurst Dr,,Chester,VA,238318804,,,2023-03-01,1583.33,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050813,,,ORG,Cynthia M Downs,,,,,,14107 Lyndhurst Dr,,Chester,VA,238318804,,,2023-04-01,1583.33,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050864,,,ORG,Cynthia M Downs,,,,,,14107 Lyndhurst Dr,,Chester,VA,238318804,,,2023-05-01,1583.33,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050865,,,ORG,Cynthia M Downs,,,,,,14107 Lyndhurst Dr,,Chester,VA,238318804,,,2023-06-01,1583.33,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050413,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-01-19,6068.30,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050707,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-02-17,177.75,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051074,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-03-17,967.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051628,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-04-20,681.75,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500052054,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2023-05-19,591.75,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050706,,,IND,,Falcone,Elizabeth,,,,2501 M St NW,Unit 605,Washington,DC,200371312,,,2023-03-01,695.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050893,,,IND,,Falcone,Elizabeth,,,,2501 M St NW,Unit 605,Washington,DC,200371312,,,2023-04-01,695.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050894,,,IND,,Falcone,Elizabeth,,,,2501 M St NW,Unit 605,Washington,DC,200371312,,,2023-05-01,695.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050895,,,IND,,Falcone,Elizabeth,,,,2501 M St NW,Unit 605,Washington,DC,200371312,,,2023-06-01,695.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500049913,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-01-01,9100.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050078,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-01-03,12000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050522,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-02-01,9100.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050772,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-03-01,9100.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050855,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-04-01,9100.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050856,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-05-01,9100.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050857,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-06-01,9100.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050691,,,ORG,Malcolm Fouhy,,,,,,929 Florida Ave NW,Apt 6003,Washington,DC,200015063,,,2023-03-01,750.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050882,,,ORG,Malcolm Fouhy,,,,,,929 Florida Ave NW,Apt 6003,Washington,DC,200015063,,,2023-04-01,750.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050885,,,ORG,Malcolm Fouhy,,,,,,929 Florida Ave NW,Apt 6003,Washington,DC,200015063,,,2023-05-01,750.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050886,,,ORG,Malcolm Fouhy,,,,,,929 Florida Ave NW,Apt 6003,Washington,DC,200015063,,,2023-06-01,750.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500049918,,,ORG,Mr. Wyatt Larkin,,,,,,241 River St,Unit 9,Cambridge,MA,021394482,,,2023-01-01,750.00,0.00,Computer Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050524,,,ORG,Mr. Wyatt Larkin,,,,,,241 River St,Unit 9,Cambridge,MA,021394482,,,2023-02-01,750.00,0.00,Computer Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050699,,,ORG,Mr. Wyatt Larkin,,,,,,241 River St,Unit 9,Cambridge,MA,021394482,,,2023-03-01,750.00,0.00,Computer Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050869,,,ORG,Mr. Wyatt Larkin,,,,,,241 River St,Unit 9,Cambridge,MA,021394482,,,2023-04-01,750.00,0.00,Computer Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050870,,,ORG,Mr. Wyatt Larkin,,,,,,241 River St,Unit 9,Cambridge,MA,021394482,,,2023-05-01,250.00,0.00,Computer Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050871,,,ORG,Mr. Wyatt Larkin,,,,,,241 River St,Unit 9,Cambridge,MA,021394482,,,2023-06-01,750.00,0.00,Computer Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500051062,,,ORG,Omar's Carriage House,,,,,,313 W Bute St,,Norfolk,VA,235101301,,,2023-03-16,760.37,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050594,,,ORG,"V2 Consulting, LLC",,,,,,525 W 28Th St,Apt 852,New York,NY,100016636,,,2023-02-01,5950.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050702,,,ORG,"V2 Consulting, LLC",,,,,,525 W 28Th St,Apt 852,New York,NY,100016636,,,2023-03-01,5950.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050861,,,ORG,"V2 Consulting, LLC",,,,,,525 W 28Th St,Apt 852,New York,NY,100016636,,,2023-04-01,5950.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050862,,,ORG,"V2 Consulting, LLC",,,,,,525 W 28Th St,Apt 852,New York,NY,100016636,,,2023-05-01,5950.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050863,,,ORG,"V2 Consulting, LLC",,,,,,525 W 28Th St,Apt 852,New York,NY,100016636,,,2023-06-01,5950.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500049920,,,ORG,Zachary Golden,,,,,,1313 S Quincy St,,Arlington,VA,22201,,,2023-01-03,1250.00,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050520,,,ORG,Zachary Golden,,,,,,1313 S Quincy St,,Arlington,VA,22201,,,2023-02-01,1250.00,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050695,,,ORG,Zachary Golden,,,,,,1313 S Quincy St,,Arlington,VA,22201,,,2023-03-01,1595.75,0.00,Political Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050875,,,ORG,Zachary Golden,,,,,,1313 S Quincy St,,Arlington,VA,22201,,,2023-04-01,1595.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050876,,,ORG,Zachary Golden,,,,,,1313 S Quincy St,,Arlington,VA,22201,,,2023-05-01,1595.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00412791,500050877,,,ORG,Zachary Golden,,,,,,1313 S Quincy St,,Arlington,VA,22201,,,2023-06-01,1595.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,

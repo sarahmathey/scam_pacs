@@ -1,0 +1,13 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00542621,500698516,,,ORG,ADP,,,,,,225 2nd Ave,,Waltham,MA,024511122,,,2024-08-01,26.70,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698517,,,ORG,ADP,,,,,,225 2nd Ave,,Waltham,MA,024511122,,,2024-08-01,757.04,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698519,,,ORG,ADP,,,,,,225 2nd Ave,,Waltham,MA,024511122,,,2024-08-01,2485.66,0.00,See Memo Entry,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698518,500698519,SB21B,IND,,Woodside,Meredith,,,,120 Wild Apple Ln,,Richmond,VT,054777733,,,2024-08-01,2485.66,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00542621,500698510,,,ORG,ADP,,,,,,225 2nd Ave,,Waltham,MA,024511122,,,2024-08-09,138.25,0.00,Payroll Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698505,,,ORG,ADP,,,,,,225 2nd Ave,,Waltham,MA,024511122,,,2024-08-29,25.50,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698507,,,ORG,ADP,,,,,,225 2nd Ave,,Waltham,MA,024511122,,,2024-08-29,2485.66,0.00,See Memo Entry,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698506,500698507,SB21B,IND,,Woodside,Meredith,,,,120 Wild Apple Ln,,Richmond,VT,054777733,,,2024-08-29,2485.66,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00542621,500698508,,,ORG,ADP,,,,,,225 2nd Ave,,Waltham,MA,024511122,,,2024-08-29,757.04,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698509,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-08-28,68.90,0.00,Online Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698514,,,ORG,Kieloch Consulting,,,,,,228 2nd St SE,,Washington,DC,200031943,,,2024-08-08,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00542621,500698512,,,ORG,The Lodge at Spruce Peak,,,,,,7412 Mountain Rd,,Stowe,VT,056725179,,,2024-08-08,4500.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,36 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00488387,500140173,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-04,1.98,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140174,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-11,639.90,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140175,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-18,19.75,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140176,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-26,0.60,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500141022,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2023-12-31,67.15,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140184,,,ORG,Bread N Wine NY,,,,,,1417 Lexington Ave,,New York,NY,101281613,,,2023-12-15,39.29,0.00,PAC Meeting Food and Beverage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140195,,,ORG,City Wide Flowers NYC,,,,,,1423 Lexington Ave,,New York,NY,101281613,,,2023-12-15,112.69,0.00,PAC Fundraising Event Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140199,,,ORG,Curb Mobility LLC,,,,,,1111 34Th Ave,,Long Island City,NY,111064923,,,2023-12-01,57.25,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140200,,,ORG,Curb Mobility LLC,,,,,,1111 34Th Ave,,Long Island City,NY,111064923,,,2023-12-07,18.00,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140201,,,ORG,Curb Mobility LLC,,,,,,1111 34Th Ave,,Long Island City,NY,111064923,,,2023-12-12,15.00,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140202,,,ORG,Curb Mobility LLC,,,,,,1111 34Th Ave,,Long Island City,NY,111064923,,,2023-12-28,14.90,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140185,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2023-12-01,6250.00,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140188,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2023-12-01,222.32,0.00,PAC Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140187,500140188,SB21B,IND,,Sudolsky,Brian,,,,131 E 93Rd St,Apt 1CD,New York,NY,101281606,,,2023-12-01,50.00,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500140189,500140188,SB21B,ORG,Verizon Wireless,,,,,,140 West St,,New York,NY,100072141,,,2023-12-01,172.32,0.00,PAC Phone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500140166,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2023-12-14,169.99,0.00,PAC Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140163,500140166,SB21B,ORG,Staples,,,,,,1280 Lexington Ave,,New York,NY,100282105,,,2023-12-14,41.43,0.00,PAC Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500140165,500140166,SB21B,IND,,Sudolsky,Brian,,,,131 E 93Rd St,Apt 1CD,New York,NY,101281606,,,2023-12-14,62.50,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500140164,500140166,SB21B,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2023-12-14,66.06,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500140186,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2023-12-14,900.00,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140169,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2023-12-27,252.00,0.00,PAC Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140168,500140169,SB21B,IND,,Sudolsky,Brian,,,,131 E 93Rd St,Apt 1CD,New York,NY,101281606,,,2023-12-27,112.50,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500140167,500140169,SB21B,ORG,Verizon Wireless,,,,,,140 West St,,New York,NY,100072141,,,2023-12-27,139.50,0.00,PAC Phone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500140209,,,ORG,Emerge212,,,,,,125 Park Ave,,New York,NY,100175529,,,2023-12-15,796.34,0.00,PAC Conference Room Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140210,,,ORG,JetBlue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2023-12-26,139.00,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140216,,,ORG,Michael Priest Photography,,,,,,20 W 20Th St,Ste 400,New York,NY,100119258,,,2023-12-19,527.75,0.00,PAC Photography Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140227,,,ORG,NYC Taxi,,,,,,33 Beaver St,,New York,NY,100042736,,,2023-12-27,24.50,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140229,,,ORG,"Political Compliance Management Services, LLC",,,,,,910 17Th St NW Ste 925,,Washington,DC,200062641,,,2023-12-06,500.32,0.00,PAC Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140211,,,IND,,Stanton,James,,,,235 E 22Nd St,# 15HI,New York,NY,100104616,,,2023-12-27,125.00,0.00,PAC Graphic Design,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140238,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2023-12-01,148.26,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140242,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2023-12-04,155.13,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140239,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2023-12-12,105.67,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140240,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2023-12-15,88.06,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140241,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2023-12-29,34.69,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500140244,,,ORG,William Greenberg Desserts,,,,,,1100 Madison Ave,,New York,NY,100280327,,,2023-12-07,164.35,0.00,PAC Event Catering,,,,,,,,,,,,,,,,,,,,

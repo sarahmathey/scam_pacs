@@ -1,0 +1,37 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00628354,500053400,,,ORG,Renaissance Minneapolis Hotel,,,,,,225 3rd Ave S,,Minneapolis,MN,554012524,,,2024-12-12,1407.52,0.00,Event Space Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053411,,,ORG,NGP VAN,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2024-12-20,318.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053811,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,137.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053962,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,0.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053433,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-16,0.32,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053434,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-23,1.47,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053435,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-30,0.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053785,,,IND,,Hwang,Annie,,,,PO Box 4146,,Saint Paul,MN,551040146,,,2024-12-19,2141.35,0.00,Travel & Food and Beverage - See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053800,500053785,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2024-12-19,30.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053790,500053785,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-19,405.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053801,500053785,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2024-12-19,35.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053803,500053785,SB21B,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-19,11.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053804,500053785,SB21B,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-19,8.61,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053794,500053785,SB21B,ORG,Kowalski's Market,,,,,,2440 Hennepin Ave,,Minneapolis,MN,554052604,,,2024-12-19,44.16,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053805,500053785,SB21B,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-19,13.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053795,500053785,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2024-12-19,30.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053806,500053785,SB21B,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-19,11.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053786,500053785,SB21B,ORG,AC Hotel Minneapolis Downtown,,,,,,401 Hennepin Ave,,Minneapolis,MN,554015007,,,2024-12-19,300.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053796,500053785,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2024-12-19,37.22,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053807,500053785,SB21B,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-19,21.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053787,500053785,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-19,358.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053797,500053785,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2024-12-19,26.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053808,500053785,SB21B,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-19,9.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053798,500053785,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2024-12-19,49.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053789,500053785,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-19,455.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053799,500053785,SB21B,ORG,Lyft,,,,,,1455 Market St,Ste 600,San Francisco,CA,941031332,,,2024-12-19,15.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053226,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,103.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053286,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-30,0.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053296,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-09,2.38,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053397,,,ORG,Campaign Finance Consultants,,,,,,750 1st St SE,Ste 1070,Washington,DC,200028008,,,2024-12-12,10010.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053258,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2024-12-02,6000.73,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053468,,,ORG,Cardmember Service,,,,,,PO Box 6353,,Fargo,ND,581256353,,,2024-12-20,2054.37,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00628354,500053472,500053468,SB21B,ORG,Vincent on Camelback,,,,,,3930 E Camelback Rd,,Phoenix,AZ,850182617,,,2024-12-20,343.13,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053473,500053468,SB21B,ORG,1 Hotel Park,,,,,,1414 Avenue Of The Americas,,New York,NY,100192514,,,2024-12-20,19.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053474,500053468,SB21B,ORG,1 Hotel Park,,,,,,1414 Avenue Of The Americas,,New York,NY,100192514,,,2024-12-20,777.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00628354,500053476,500053468,SB21B,ORG,Hilton Worldwide,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2024-12-20,778.31,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*

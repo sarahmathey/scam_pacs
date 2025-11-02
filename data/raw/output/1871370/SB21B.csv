@@ -1,0 +1,53 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00630707,500200984,,,ORG,3I LLC,,,,,,23 Upland Rd,Ste 1,Cambridge,MA,021402717,,,2024-11-27,15001.00,0.00,Telemarketing Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202097,,,ORG,AB Data Ltd.,,,,,,PO Box 170062,,Milwaukee,WI,532178000,,,2024-12-19,74.89,0.00,Direct Mail,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200336,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-26,19.59,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200337,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-30,98.04,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200338,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-01,9.25,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500201108,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-08,75.96,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500201295,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,69.93,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500201720,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-22,78.70,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500201769,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-29,90.81,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200985,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,1090.55,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202117,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,377.23,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202087,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-12,8050.99,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202202,500202087,SB21B,ORG,Battle House Renaissance Hotel,,,,,,26 N Royal St,,Mobile,AL,366023802,,,2024-12-12,1863.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500202222,500202087,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-12,926.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500202211,500202087,SB21B,ORG,DMV Limousine Service,,,,,,1627 K St NW,Ste 00-16,Washington,DC,200061702,,,2024-12-12,553.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500202214,500202087,SB21B,ORG,The Haberdasher,,,,,,113 Dauphin St,,Mobile,AL,366023209,,,2024-12-12,257.58,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500202210,500202087,SB21B,ORG,The Inn at Harbor Shores,,,,,,800 Whitwam Dr,,Saint Joseph,MI,490851112,,,2024-12-12,736.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500202212,500202087,SB21B,ORG,The Westin Book Cadillac Detroit,,,,,,1114 Washington Blvd,,Detroit,MI,482261907,,,2024-12-12,3340.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500202215,500202087,SB21B,ORG,Uber Technologies Inc,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-12-12,115.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500200983,,,ORG,"Barton Brown - TradewaterSouth, LLC",,,,,,2637 E Atlantic Blvd,Ste 1054,Pompano Beach,FL,330624939,,,2024-11-27,9332.28,0.00,Security Services & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202082,,,ORG,"Burdick Consulting Group, LLC",,,,,,71 E Division St,,Chicago,IL,606108307,,,2024-12-09,3000.00,0.00,Direct Mail Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200987,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-12-03,2500.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202098,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-12-19,2500.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202099,,,ORG,EngageUSA,,,,,,880 N East St,Unit 205,Frederick,MD,217015045,,,2024-12-19,2027.24,0.00,Caging Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202083,,,ORG,"EveryAction, Inc.",,,,,,655 15th St NW,Ste 650,Washington,DC,200055738,,,2024-12-10,6415.44,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200986,,,ORG,First Data Corporation,,,,,,5565 Glenridge Connector NE,,Atlanta,GA,303421651,,,2024-12-03,737.29,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200991,,,IND,,Holder,Eric,,,,850 10th St NW,,Washington,DC,200014956,,,2024-12-03,2806.46,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200990,500200991,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-03,801.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500200988,500200991,SB21B,ORG,The Inn at Harbor Shores,,,,,,800 Whitwam Dr,,Saint Joseph,MI,490851112,,,2024-12-03,536.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500200989,500200991,SB21B,ORG,The Westin Book Cadillac Detroit,,,,,,1114 Washington Blvd,,Detroit,MI,482261907,,,2024-12-03,1468.17,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500201999,,,IND,,Lillard,Brooke,,,,300 Morse St NE,Apt 1014,Washington,DC,200027575,,,2024-12-09,225.46,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500201997,500201999,SB21B,ORG,Uber Technologies Inc,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-12-09,111.12,0.00,Travel & Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630707,500202100,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2024-12-19,3021.84,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202102,,,ORG,"Salesberry Group, LLC",,,,,,2045 W Grand Ave,Ste B31638,Chicago,IL,606121576,,,2024-12-19,264.51,0.00,Subscriptions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200981,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-11-26,2.62,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200982,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-11-26,5.24,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200992,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-03,0.87,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200993,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-03,0.87,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200994,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-04,2.62,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200996,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-06,4.37,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200997,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-09,1.75,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500200998,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-10,5.25,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202090,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-16,6.12,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202092,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-17,1.75,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202093,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-17,2.62,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202095,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-17,2.62,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202104,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-20,1.75,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202111,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-24,2.62,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202112,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-24,3.50,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202113,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-26,6.12,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202114,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-27,3.50,0.00,Postage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630707,500202116,,,ORG,U. S. Postal Service,,,,,,2000 14th St NW,Ste 104,Washington,DC,200095093,,,2024-12-31,0.87,0.00,Postage,,,,,,,,,,,,,,,,,,,,

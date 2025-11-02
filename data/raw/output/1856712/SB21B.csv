@@ -1,0 +1,24 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00767871,500042951,,,ORG,Chraca Friedman Group,,,,,,220 7th St NE,,Washington,DC,200026076,,,2024-11-01,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00767871,500042973,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-10-28,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00767871,500042983,,,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2024-11-04,25.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00767871,500042955,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-29,200.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00767871,500042996,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-10-31,118945.02,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00767871,500043230,500042996,SB21B,ORG,Royal Coach Limosuine Services Inc,,,,,,988 Enterprise Way,,Napa,CA,945586209,,,2024-10-31,1919.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043240,500042996,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-31,-136.99,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043231,500042996,SB21B,ORG,Royal Coach Limosuine Services Inc,,,,,,988 Enterprise Way,,Napa,CA,945586209,,,2024-10-31,1745.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043241,500042996,SB21B,ORG,Hall Wines St. Helena,,,,,,401 Saint Helena Hwy S,,Saint Helena,CA,945742200,,,2024-10-31,16162.50,0.00,Fundraising Event,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043232,500042996,SB21B,ORG,Tre Posti,,,,,,641 Main St,,Saint Helena,CA,945742004,,,2024-10-31,7555.85,0.00,Facility Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043242,500042996,SB21B,ORG,Hotel Villagio,,,,,,6481 Washington St,,Yountville,CA,945991331,,,2024-10-31,64782.33,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043233,500042996,SB21B,ORG,The Cloister at Sea Island,,,,,,100 Cloister Dr,,Sea Island,GA,315619705,,,2024-10-31,15000.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043224,500042996,SB21B,ORG,Ad Hoc + Addendum,,,,,,6476 Washington St,,Yountville,CA,945991294,,,2024-10-31,1386.73,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043225,500042996,SB21B,ORG,Ad Hoc + Addendum,,,,,,6476 Washington St,,Yountville,CA,945991294,,,2024-10-31,384.09,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043235,500042996,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-31,420.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043236,500042996,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-31,380.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043227,500042996,SB21B,ORG,Bistro Jeanty,,,,,,6510 Washington St,,Yountville,CA,945991385,,,2024-10-31,339.82,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043237,500042996,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-31,330.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043228,500042996,SB21B,ORG,Brown Estate Vineyards,,,,,,3233 Sage Canyon Rd,,Saint Helena,CA,945749642,,,2024-10-31,7704.13,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043238,500042996,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-31,136.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043229,500042996,SB21B,ORG,Enterprise Rental Car,,,,,,2200 Rental Car Center Pkwy,,College Park,GA,30337,,,2024-10-31,519.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500043239,500042996,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-31,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00767871,500042979,,,ORG,Elias Law Group,,,,,,10 G St NE,Ste 600,Washington,DC,200024253,,,2024-10-29,140.40,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,

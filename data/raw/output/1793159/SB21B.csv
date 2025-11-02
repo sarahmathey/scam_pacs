@@ -1,0 +1,40 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00460972,500353930,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-19,0.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354450,,,IND,,Kauffman,Kimberly,,,,615 G St SE,,Washington,DC,200032723,,,2024-05-31,929.25,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354448,500354450,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2024-05-31,611.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500354449,500354450,SB21B,ORG,United Airlines,,,,,,77 W Wacker Dr,,Chicago,IL,606011604,,,2024-05-31,318.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500350921,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-12,233.95,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500353931,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-26,711.83,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354451,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-05-28,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500350922,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-12,1.98,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354432,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-03,65.08,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500353932,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-26,0.36,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354442,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-31,1403.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354440,500354442,SB21B,IND,,McGuire,Molly,S.,,,PO Box 14172,,Portland,OR,972930172,,,2024-05-31,1003.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500354441,500354442,SB21B,IND,,Stevens,Jessica,,,,PO Box 14172,,Portland,OR,972930172,,,2024-05-31,400.92,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500354452,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-05-24,150.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500350123,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-05-02,1502.45,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354433,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-10,99.67,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500353933,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-31,634.79,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354443,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-15,585.10,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354453,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-05-24,12.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500350124,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-05-01,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500353934,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-31,52.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354434,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-17,26.85,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354444,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-31,585.11,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354435,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-24,40.00,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354445,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-15,10.00,0.00,Retirement Contributions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354455,,,IND,,Kauffman,Kimberly,,,,615 G St SE,,Washington,DC,200032723,,,2024-05-07,462.20,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354454,500354455,SB21B,ORG,The Nines,,,,,,525 SW Morrison St,,Portland,OR,972041440,,,2024-05-07,462.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500350275,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-05,229.27,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354436,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-24,99.67,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354446,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-31,10.00,0.00,Retirement Contributions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500350276,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-05,0.04,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354447,,,ORG,The Kauffman Group,,,,,,328 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-05-31,4000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500350129,,,IND,,Kauffman,Kimberly,,,,615 G St SE,,Washington,DC,200032723,,,2024-05-02,1416.96,0.00,Reimbursement - Catering & Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500350127,500350129,SB21B,ORG,The Brig,,,,,,1007 8th St SE,,Washington,DC,200033634,,,2024-05-02,462.40,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500350128,500350129,SB21B,ORG,The Nines,,,,,,525 SW Morrison St,,Portland,OR,972041440,,,2024-05-02,954.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500353929,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-05-19,249.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354439,,,ORG,"ADP, Inc.",,,,,,1851 N Resler Dr,Ms 600,El Paso,TX,799128023,,,2024-05-15,1403.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00460972,500354437,500354439,SB21B,IND,,McGuire,Molly,S.,,,PO Box 14172,,Portland,OR,972930172,,,2024-05-15,1003.03,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00460972,500354438,500354439,SB21B,IND,,Stevens,Jessica,,,,PO Box 14172,,Portland,OR,972930172,,,2024-05-15,400.92,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*

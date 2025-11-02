@@ -1,0 +1,135 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00734319,500052920,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-05-17,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052930,,,ORG,Ravinett Strategies,,,,,,180 Corwin St,Apt 1,San Francisco,CA,941142301,,,2024-05-01,8000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052921,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-06-17,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052931,,,ORG,Ravinett Strategies,,,,,,180 Corwin St,Apt 1,San Francisco,CA,941142301,,,2024-06-01,8000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052922,,,ORG,"LED Strategy Group, Inc.",,,,,,1409 15Th St NW,Apt 19,Washington,DC,200051928,,,2024-04-01,2500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052932,,,IND,,Sciaino,Anne,,,,PO Box 32009,,Newark,NJ,071020409,,,2024-04-01,9000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052913,,,ORG,540 Historic MT LLC,,,,,,540 Broad St,,Newark,NJ,071023108,,,2024-06-03,750.00,0.00,Event Space,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052923,,,ORG,"LED Strategy Group, Inc.",,,,,,1409 15Th St NW,Apt 19,Washington,DC,200051928,,,2024-05-01,2500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052933,,,IND,,Sciaino,Anne,,,,PO Box 32009,,Newark,NJ,071020409,,,2024-05-01,9000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052924,,,ORG,"LED Strategy Group, Inc.",,,,,,1409 15Th St NW,Apt 19,Washington,DC,200051928,,,2024-06-01,2500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052934,,,IND,,Sciaino,Anne,,,,PO Box 32009,,Newark,NJ,071020409,,,2024-06-03,9000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052915,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-04-01,1516.48,0.00,"Credit Card Payment, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052941,500052915,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-04-01,1358.90,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052942,500052915,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-04-01,19.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052925,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-06-05,795.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052935,,,IND,,Schepps,Samantha,L.,,,PO Box 32009,,Newark,NJ,071020409,,,2024-04-01,8000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052916,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-05-08,5507.15,0.00,"Credit Card Payment, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052950,500052916,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-05-08,305.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052951,500052916,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-05-08,1039.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052944,500052916,SB21B,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-05-08,1554.18,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052945,500052916,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-05-08,698.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052946,500052916,SB21B,ORG,The London West Hollywood Hotel,,,,,,1020 N San Vicente Blvd,,West Hollywood,CA,900693802,,,2024-05-08,1138.22,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052947,500052916,SB21B,ORG,The Westin Union Square,,,,,,335 Powell St,,San Francisco,CA,941021804,,,2024-05-08,331.82,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052949,500052916,SB21B,ORG,Katana,,,,,,8439 W Sunset Blvd,,West Hollywood,CA,900691921,,,2024-05-08,369.13,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052926,,,ORG,Paragon Payment Solutions,,,,,,1505 N Hayden Rd,Ste 110,Scottsdale,AZ,852573770,,,2024-04-02,2196.16,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052936,,,IND,,Schepps,Samantha,L.,,,PO Box 32009,,Newark,NJ,071020409,,,2024-05-01,8876.17,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052917,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-06-06,18956.52,0.00,"Credit Card Payment, See Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500053000,500052917,SB21B,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-06-06,281.06,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053030,500052917,SB21B,ORG,Westin San Francisco Airport Hotel,,,,,,1 Old Bayshore Hwy,,Millbrae,CA,940303120,,,2024-06-06,0.31,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053040,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,4.76,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053050,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,25.18,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052960,500052917,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-06-06,453.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053060,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,29.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053070,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,18.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052980,500052917,SB21B,ORG,The Fairmont San Francisco,,,,,,950 Mason St,,San Francisco,CA,941086000,,,2024-06-06,560.04,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053080,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,153.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052990,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,4.88,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053090,500052917,SB21B,ORG,Alaska Airlines,,,,,,7000 NE Airport Way,,Portland,OR,972181009,,,2024-06-06,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053031,500052917,SB21B,ORG,Westin San Francisco Airport Hotel,,,,,,1 Old Bayshore Hwy,,Millbrae,CA,940303120,,,2024-06-06,48.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053041,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,38.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053051,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,31.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052961,500052917,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-06-06,611.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053061,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,31.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053071,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,102.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052981,500052917,SB21B,ORG,The Fairmont San Francisco,,,,,,950 Mason St,,San Francisco,CA,941086000,,,2024-06-06,147.26,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053081,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,334.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052991,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,7.12,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053032,500052917,SB21B,ORG,Westin San Francisco Airport Hotel,,,,,,1 Old Bayshore Hwy,,Millbrae,CA,940303120,,,2024-06-06,0.24,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053042,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,31.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053052,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,12.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053062,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,26.36,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053072,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,159.31,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052982,500052917,SB21B,ORG,The Fairmont San Francisco,,,,,,950 Mason St,,San Francisco,CA,941086000,,,2024-06-06,868.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053082,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,1945.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052992,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,211.98,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053092,500052917,SB21B,ORG,Wiseguy Pizza,,,,,,300 Massachusetts Ave NE,,Washington,DC,200025702,,,2024-06-06,218.66,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053023,500052917,SB21B,ORG,The London West Hollywood Hotel,,,,,,1020 N San Vicente Blvd,,West Hollywood,CA,900693802,,,2024-06-06,802.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053033,500052917,SB21B,ORG,Westin San Francisco Airport Hotel,,,,,,1 Old Bayshore Hwy,,Millbrae,CA,940303120,,,2024-06-06,131.56,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053043,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,1.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053053,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,4.04,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053063,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053073,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,115.04,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052983,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,9.75,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053083,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,363.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052993,500052917,SB21B,ORG,"The Beverly Hilton - Beverly Hills, CA",,,,,,9876 Wilshire Blvd,,Beverly Hills,CA,902103115,,,2024-06-06,37.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053024,500052917,SB21B,ORG,The London West Hollywood Hotel,,,,,,1020 N San Vicente Blvd,,West Hollywood,CA,900693802,,,2024-06-06,32.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053034,500052917,SB21B,ORG,Westin San Francisco Airport Hotel,,,,,,1 Old Bayshore Hwy,,Millbrae,CA,940303120,,,2024-06-06,51.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053044,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,21.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052954,500052917,SB21B,ORG,Alaska Airlines,,,,,,7000 NE Airport Way,,Portland,OR,972181009,,,2024-06-06,268.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053054,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,29.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053064,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,15.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053074,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,5.65,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052984,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,1.09,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053084,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,519.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052994,500052917,SB21B,ORG,"The Beverly Hilton - Beverly Hills, CA",,,,,,9876 Wilshire Blvd,,Beverly Hills,CA,902103115,,,2024-06-06,642.32,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053094,500052917,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-06-06,154.75,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053025,500052917,SB21B,ORG,The London West Hollywood Hotel,,,,,,1020 N San Vicente Blvd,,West Hollywood,CA,900693802,,,2024-06-06,153.33,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053045,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,21.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052955,500052917,SB21B,ORG,Alaska Airlines,,,,,,7000 NE Airport Way,,Portland,OR,972181009,,,2024-06-06,15.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053055,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,34.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053065,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,22.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053075,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,23.02,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052985,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,2.41,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053085,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,183.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052995,500052917,SB21B,ORG,"The Beverly Hilton - Beverly Hills, CA",,,,,,9876 Wilshire Blvd,,Beverly Hills,CA,902103115,,,2024-06-06,700.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053095,500052917,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-06-06,154.75,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053006,500052917,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-06-06,19.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053016,500052917,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-06-06,159.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053026,500052917,SB21B,ORG,The London West Hollywood Hotel,,,,,,1020 N San Vicente Blvd,,West Hollywood,CA,900693802,,,2024-06-06,639.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053036,500052917,SB21B,ORG,Paraiso,,,,,,101 PENNSYLVANIA Ave SE,Unit 1,Washington,DC,20003,,,2024-06-06,354.20,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053046,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,3.24,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052956,500052917,SB21B,ORG,Alaska Airlines,,,,,,7000 NE Airport Way,,Portland,OR,972181009,,,2024-06-06,228.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053056,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,2.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053066,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,11.18,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052976,500052917,SB21B,ORG,Delta Air Lines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-06-06,438.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053076,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,20.55,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052986,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,0.78,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053086,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,439.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052996,500052917,SB21B,ORG,"The Beverly Hilton - Beverly Hills, CA",,,,,,9876 Wilshire Blvd,,Beverly Hills,CA,902103115,,,2024-06-06,723.06,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053007,500052917,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-06-06,98.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053047,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,5.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053057,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,6.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053067,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,21.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053077,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,30.31,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052987,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,0.21,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053087,500052917,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2024-06-06,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052997,500052917,SB21B,ORG,Hilton Garden Inn,,,,,,4216 El Camino Real,,Palo Alto,CA,943064404,,,2024-06-06,619.04,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053008,500052917,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 68514,San Francisco,CA,941045401,,,2024-06-06,16.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053028,500052917,SB21B,ORG,Westin San Francisco Airport Hotel,,,,,,1 Old Bayshore Hwy,,Millbrae,CA,940303120,,,2024-06-06,0.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053038,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,14.38,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053048,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,21.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053058,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,12.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053068,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,8.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053078,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,32.70,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052988,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,1.91,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052998,500052917,SB21B,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-06-06,155.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053019,500052917,SB21B,ORG,Sticky Rice DC,,,,,,1224 H St NE,,Washington,DC,200024445,,,2024-06-06,274.08,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053029,500052917,SB21B,ORG,Westin San Francisco Airport Hotel,,,,,,1 Old Bayshore Hwy,,Millbrae,CA,940303120,,,2024-06-06,156.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053039,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,70.16,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053049,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,36.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052959,500052917,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-06-06,77.05,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053059,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,15.62,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052969,500052917,SB21B,ORG,Carneros Inn,,,,,,4048 Sonoma Hwy,,Napa,CA,945599745,,,2024-06-06,388.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053069,500052917,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,,2024-06-06,42.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053079,500052917,SB21B,ORG,Uber Eats,,,,,,555 Market St,,San Francisco,CA,941052800,,,2024-06-06,131.26,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052989,500052917,SB21B,ORG,"FedEx - Washington, DC",,,,,,800 K St NW,,Washington,DC,204723698,,,2024-06-06,2.76,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500053089,500052917,SB21B,ORG,Alaska Airlines,,,,,,7000 NE Airport Way,,Portland,OR,972181009,,,2024-06-06,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052999,500052917,SB21B,ORG,Hotels.Com,,,,,,10440 N Central Expy,Ste 400,Dallas,TX,752312228,,,2024-06-06,471.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00734319,500052927,,,ORG,Paragon Payment Solutions,,,,,,1505 N Hayden Rd,Ste 110,Scottsdale,AZ,852573770,,,2024-05-02,12072.62,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052937,,,IND,,Schepps,Samantha,L.,,,PO Box 32009,,Newark,NJ,071020409,,,2024-06-03,8000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052918,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-06-06,1846.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052928,,,ORG,Paragon Payment Solutions,,,,,,1505 N Hayden Rd,Ste 110,Scottsdale,AZ,852573770,,,2024-06-03,4228.61,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052919,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-04-17,95.40,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00734319,500052929,,,ORG,Ravinett Strategies,,,,,,180 Corwin St,Apt 1,San Francisco,CA,941142301,,,2024-04-01,8000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,

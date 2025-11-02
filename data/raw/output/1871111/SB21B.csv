@@ -1,0 +1,54 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00525600,500075452,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-11-30,1.60,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075453,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-12-01,2.29,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075460,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-12-08,11.04,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075498,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-12-15,7.75,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075500,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-12-22,11.33,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075501,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-12-29,10.24,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075444,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-11-26,105.50,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075445,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2024-12-30,115.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075455,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-02,633.47,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075458,500075455,SB21B,ORG,La Goulue,,,,,,29 E 61St St,,New York,NY,100658009,,,2024-12-02,425.71,0.00,Meetings/Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075469,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-12-15,2898.81,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075473,500075469,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-12-15,38.16,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075474,500075469,SB21B,ORG,Loews Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-12-15,690.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075478,500075469,SB21B,ORG,Public Storage,,,,,,1230 S Capitol St SE,,Washington,DC,200033523,,,2024-12-15,300.14,0.00,Storage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075480,500075469,SB21B,ORG,Shake Shack,,,,,,2000 Sansom St,# 2,Philadelphia,PA,191034417,,,2024-12-15,488.11,0.00,Meetings/Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075482,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,12.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075483,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,16.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075484,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,22.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075485,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,33.88,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075486,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,33.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075487,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,35.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075488,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,49.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075489,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,59.87,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075490,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,19.96,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075491,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,25.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075492,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,16.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075493,500075469,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-12-15,50.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075494,500075469,SB21B,ORG,Verizon Wireless,,,,,,2 Verizon Pl,,Alpharetta,GA,300048510,,,2024-12-15,356.29,0.00,Telephone Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075495,500075469,SB21B,ORG,Work Loft,,,,,,1 Spring St,,Marblehead,MA,019453313,,,2024-12-15,347.50,0.00,Office Rent,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075496,500075469,SB21B,ORG,WPEngine.Com,,,,,,504 Lavaca St,,Austin,TX,787012900,,,2024-12-15,30.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075497,500075469,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Ste 6,San Jose,CA,951131608,,,2024-12-15,229.47,0.00,Video Conferencing Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500075454,,,ORG,Blue Cross Blue Shield,,,,,,101 Huntington Ave,Ste 1300,Boston,MA,021997611,,,2024-12-02,1063.48,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075508,,,ORG,Blue Cross Blue Shield,,,,,,101 Huntington Ave,Ste 1300,Boston,MA,021997611,,,2024-12-31,1063.48,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075446,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-11-29,50.34,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075447,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-11-29,6463.00,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075463,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-13,48.54,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075464,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-13,6735.53,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075502,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-31,48.54,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075503,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-12-31,6609.59,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075448,,,IND,,Conahan,Stefanie,,,,69 Gale Rd,,Swampscott,MA,019072809,,,2024-11-29,4443.27,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075465,,,IND,,Conahan,Stefanie,,,,69 Gale Rd,,Swampscott,MA,019072809,,,2024-12-13,4443.26,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075504,,,IND,,Conahan,Stefanie,,,,69 Gale Rd,,Swampscott,MA,019072809,,,2024-12-31,4443.24,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075449,,,IND,,Fassler,Jess,,,,4313 Van Buren St,,University Park,MD,207821190,,,2024-11-29,5673.37,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075510,,,IND,,Fassler,Jess,,,,4313 Van Buren St,,University Park,MD,207821190,,,2024-12-13,5269.34,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075505,,,IND,,Fassler,Jess,,,,4313 Van Buren St,,University Park,MD,207821190,,,2024-12-31,5269.34,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075450,,,IND,,Graham,Emily,,,,427 Pacific St,Apt 2,Brooklyn,NY,112172204,,,2024-11-29,3267.99,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075509,,,IND,,Graham,Emily,,,,427 Pacific St,Apt 2,Brooklyn,NY,112172204,,,2024-12-13,3268.00,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075506,,,IND,,Graham,Emily,,,,427 Pacific St,Apt 2,Brooklyn,NY,112172204,,,2024-12-31,3267.99,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075468,,,IND,,Lukaske,Evan,,,,3810 13Th St NW,Unit 1,Washington,DC,200115632,,,2024-12-13,2063.18,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075507,,,IND,,Lukaske,Evan,,,,3810 13Th St NW,Unit 1,Washington,DC,200115632,,,2024-12-31,2063.18,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075459,,,IND,,Martin,Mather,,,,180 Corwin St,Apt 1,San Francisco,CA,941142301,,,2024-12-06,6000.00,0.00,Professional Services-Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075451,,,IND,,Rustum,Annabel,,,,111 Montgomery St,Apt 6F,Brooklyn,NY,112252053,,,2024-11-29,1223.28,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500075499,,,ORG,"Verdolino & Lowey, P.C.",,,,,,124 Washington St,Ste 101,Foxboro,MA,020351368,,,2024-12-18,982.00,0.00,Professional Services-Accounting,,,,,,,,,,,,,,,,,,,,

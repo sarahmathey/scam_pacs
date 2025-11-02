@@ -1,0 +1,34 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00855437,500107581,,,ORG,ActBlue LLC,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-12,187.63,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500107582,,,ORG,ActBlue LLC,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-25,9.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500107585,,,ORG,Democratic Conference Luncheon Fund,,,,,,S309 THE CAPITOL,,Washington,DC,205100001,,,2024-09-19,750.00,0.00,Meeting Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500108611,,,ORG,First National Bank of Omaha (FNBO),,,,,,PO Box 2557,,Omaha,NE,681032557,,,2024-07-26,964.28,0.00,Credit Card Payment - see itemization below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500108616,500108611,SB21B,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,# MD4415,Fort Worth,TX,761552603,,,2024-07-26,26.37,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108617,500108611,SB21B,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,# MD4415,Fort Worth,TX,761552603,,,2024-07-26,494.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108618,500108611,SB21B,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,# MD4415,Fort Worth,TX,761552603,,,2024-07-26,442.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108612,,,ORG,First National Bank of Omaha (FNBO),,,,,,PO Box 2557,,Omaha,NE,681032557,,,2024-07-26,511.95,0.00,Credit Card Payment - see itemization below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500108619,500108612,SB21B,ORG,American Airlines,,,,,,4255 Amon Carter Blvd,# MD4415,Fort Worth,TX,761552603,,,2024-07-26,511.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108613,,,ORG,First National Bank of Omaha (FNBO),,,,,,PO Box 2557,,Omaha,NE,681032557,,,2024-08-22,3274.42,0.00,Credit Card Payment - see itemization below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500108620,500108613,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-08-22,990.99,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108621,500108613,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-08-22,2283.43,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108614,,,ORG,First National Bank of Omaha (FNBO),,,,,,PO Box 2557,,Omaha,NE,681032557,,,2024-09-19,4685.37,0.00,Credit Card Payment - see itemization below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500108629,500108614,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2024-09-19,62.10,0.00,Ground Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108630,500108614,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2024-09-19,10.25,0.00,Ground Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108631,500108614,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2024-09-19,30.00,0.00,Ground Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108632,500108614,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2024-09-19,30.60,0.00,Ground Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108633,500108614,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2024-09-19,35.50,0.00,Ground Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108634,500108614,SB21B,ORG,Curb,,,,,,1111 34th Ave,,Astoria,NY,111064923,,,2024-09-19,35.50,0.00,Ground Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108625,500108614,SB21B,ORG,Hyatt Hotel,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-09-19,1591.80,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108626,500108614,SB21B,ORG,Hyatt Hotel,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-09-19,1591.80,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108627,500108614,SB21B,ORG,Hyatt Hotel,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-09-19,546.35,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108628,500108614,SB21B,ORG,Hyatt Hotel,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-09-19,397.95,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108639,500108614,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-09-22,98.70,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108640,500108614,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-09-22,30.82,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108641,500108614,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-09-22,33.06,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108642,500108614,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-09-22,36.17,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108643,500108614,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-09-22,52.78,0.00,Lodging Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500108615,,,ORG,First National Bank of Omaha (FNBO),,,,,,PO Box 2557,,Omaha,NE,681032557,,,2024-09-19,441.48,0.00,Credit Card Payment - see itemization below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500108624,500108615,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-09-19,298.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00855437,500107579,,,ORG,Kaufman Legal Group,,,,,,777 S Figueroa St,Ste 4050,Los Angeles,CA,900175864,,,2024-08-08,3019.26,0.00,Legal & Treasury Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500107580,,,ORG,Kaufman Legal Group,,,,,,777 S Figueroa St,Ste 4050,Los Angeles,CA,900175864,,,2024-09-13,1973.50,0.00,Legal & Treasury Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00855437,500107586,,,IND,,Lerner,Jeffrey,,,,1422 Allison St NW,,Washington,DC,200117026,,,2024-09-09,430.80,0.00,Travel Expense Reimbursement - No Itemization,,,,,,,,,,,,,,,,,,,,

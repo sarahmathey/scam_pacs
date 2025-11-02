@@ -1,0 +1,38 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00507574,500550963,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,98.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500551445,,,ORG,American Express,,,,,,PO Box 360001,,Fort Lauderdale,FL,333360001,,,2024-11-13,1019.46,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500551480,500551445,SB21B,ORG,The Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2024-11-13,354.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551490,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,8.83,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551481,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,52.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551491,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551482,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,19.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551492,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,7.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551483,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,21.75,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551493,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551484,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,7.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551485,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,57.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551486,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,35.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551487,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,11.27,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551478,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,19.81,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551488,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,42.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551479,500551445,SB21B,ORG,The Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2024-11-13,363.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551489,500551445,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-11-13,9.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551695,,,ORG,American Express,,,,,,PO Box 360001,,Fort Lauderdale,FL,333360001,,,2024-10-28,2447.71,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500551700,500551695,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-28,234.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551701,500551695,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-10-28,73.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551702,500551695,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-28,12.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551703,500551695,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-28,46.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551704,500551695,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-28,61.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551705,500551695,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-10-28,56.32,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551706,500551695,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-10-28,738.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551697,500551695,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-10-28,321.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551698,500551695,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-10-28,628.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500551699,500551695,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-10-28,272.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00507574,500549316,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-28,237.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500545976,,,ORG,"Paramita Sound, LLC",,,,,,1517 Broadway St,,Detroit,MI,482262114,,,2024-10-22,1260.00,0.00,Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500549647,,,ORG,Farough and Associates,,,,,,108 E Grand River Ave,,Brighton,MI,481161585,,,2024-10-24,1000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500553618,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-18,39.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500549638,,,ORG,"Fulkerson, Kennedy & Company",,,,,,660 Pennsylvania Ave SE,Ste 201,Washington,DC,200034365,,,2024-10-25,5500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500550088,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,19.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500549639,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Num 143,Washington,DC,200034303,,,2024-10-23,1500.73,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00507574,500549669,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,P2026,,2024-10-29,279.95,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,

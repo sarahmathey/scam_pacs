@@ -1,0 +1,28 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00883017,500128996,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-17,207.39,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500128997,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-17,207.39,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129001,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-17,35.99,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129777,,,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-10-17,30.99,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500128151,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-20,61.95,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129004,,,ORG,Canopy By Hilton,,,,,,108 E University Dr,,Tempe,AZ,852813800,,,2024-10-21,239.87,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129017,,,ORG,Easirent Car Hire Phoenix Airport,,,,,,2410 S Central Ave,,Phoenix,AZ,850042910,,,2024-10-21,13.18,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129254,,,ORG,Canopy By Hilton,,,,,,108 E University Dr,,Tempe,AZ,852813800,,,2024-10-22,6.04,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129255,,,ORG,Canopy By Hilton,,,,,,108 E University Dr,,Tempe,AZ,852813800,,,2024-10-22,85.35,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129007,,,ORG,Homewood Suites By Hilton,,,,,,4250 N Campbell Ave,,Tucson,AZ,857186580,,,2024-10-22,219.18,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129267,,,IND,,Sueiro,Luis,E.,,,795 2Nd St E,,Sonoma,CA,954767103,,,2024-10-25,18.46,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129268,500129267,SB21B,ORG,Canopy By Hilton,,,,,,108 E University Dr,,Tempe,AZ,852813800,,,2024-10-25,18.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00883017,500129738,,,IND,,Walsh,Joe,,,,2900 Connecticut Ave NW,Apt 406,Washington,DC,200081411,,,2024-10-26,585.93,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129754,500129738,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-10-26,475.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00883017,500129756,500129738,SB21B,ORG,Mayflower Cab,,,,,,1439 S 40Th Ave,,Phoenix,AZ,850096121,,,2024-10-26,9.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00883017,500129758,500129738,SB21B,ORG,Starbucks,,,,,,2401 Utah Ave S,,Seattle,WA,981341436,,,2024-10-26,15.83,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00883017,500129755,500129738,SB21B,ORG,Tacos Calafia,,,,,,414 S Mill Ave,Ste 155,Tempe,AZ,852812845,,,2024-10-26,10.23,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00883017,500129753,500129738,SB21B,ORG,Uber,,,,,,1725 3Rd St,,San Francisco,CA,941582203,,,2024-10-26,33.58,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00883017,500129757,500129738,SB21B,ORG,Washington Flyer Taxi,,,,,,1 Saarinen Cir,,Sterling,VA,201667500,,,2024-10-26,41.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00883017,500128936,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,274.44,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129712,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,190.87,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500129713,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-03,132.84,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500131110,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,30.67,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500131057,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-10,6.98,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500131394,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-17,7.13,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500132115,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-24,7.91,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00883017,500132484,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-25,0.33,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,

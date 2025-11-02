@@ -1,0 +1,42 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00433680,500316890,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-12,98.75,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500319010,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-07-18,185.98,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320729,,,ORG,"Campaign Compliance, Inc.",,,,,,946 Bandmann Trl,,Missoula,MT,598028834,,,2023-07-10,2000.00,0.00,Compliance consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320732,,,ORG,First Interstate Bank,,,,,,PO Box 30918,,Billings,MT,591160918,,,2023-07-17,0.24,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320733,,,ORG,First Interstate Bank,,,,,,PO Box 30918,,Billings,MT,591160918,,,2023-07-17,0.12,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320734,,,ORG,First Interstate Bank,,,,,,PO Box 30918,,Billings,MT,591160918,,,2023-07-21,17.00,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320736,,,ORG,First Interstate Bank,,,,,,PO Box 30918,,Billings,MT,591160918,,,2023-07-26,24.50,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320735,,,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,32714.32,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320689,,,ORG,Mastercard,,,,,,PO Box 31616,,Billings,MT,591071616,,,2023-07-20,7184.55,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320690,500320689,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-20,1144.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320691,500320689,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-20,800.80,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320693,500320689,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-20,250.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320697,500320689,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-20,300.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320698,500320689,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-20,250.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320700,500320689,SB21B,ORG,Carey International,,,,,,5300 Spectrum Dr,Ste D,Frederick,MD,217037324,,,2023-07-20,800.08,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320696,500320689,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-20,3793.91,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320695,500320689,SB21B,ORG,Staples,,,,,,2501 Brooks St,Ste 3,Missoula,MT,598017801,,,2023-07-20,118.06,0.00,Office supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320692,500320689,SB21B,ORG,UPS,,,,,,PO Box 894820,,Los Angeles,CA,901894820,,,2023-07-20,53.52,0.00,PAC postage/shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320694,500320689,SB21B,ORG,UPS,,,,,,PO Box 894820,,Los Angeles,CA,901894820,,,2023-07-20,107.33,0.00,PAC postage/shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320699,500320689,SB21B,ORG,UPS,,,,,,PO Box 894820,,Los Angeles,CA,901894820,,,2023-07-20,66.89,0.00,PAC postage/shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320701,,,ORG,Mastercard,,,,,,PO Box 31616,,Billings,MT,591071616,,,2023-07-25,236.38,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320704,,,ORG,Mastercard,,,,,,PO Box 31616,,Billings,MT,591071616,,,2023-07-26,3251.23,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320705,500320704,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-26,75.70,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320714,500320704,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-26,300.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320715,500320704,SB21B,ORG,Bistro Cacao,,,,,,320 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-07-26,300.00,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320708,500320704,SB21B,ORG,Enterprise Rent A Car,,,,,,3015 Prospect Ave,,Helena,MT,596019749,,,2023-07-26,2165.09,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320712,500320704,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,246.89,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320713,500320704,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,11.33,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320716,,,ORG,Mastercard,,,,,,PO Box 31616,,Billings,MT,591071616,,,2023-07-26,13125.72,0.00,Credit card payment(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320721,500320716,SB21B,ORG,Last Chair Kitchen & Bar,,,,,,230 Dakota Ave,,Whitefish,MT,599372206,,,2023-07-26,10891.23,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320718,500320716,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,19.04,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320722,500320716,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,832.19,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320723,500320716,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,20.60,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320724,500320716,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,36.90,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320725,500320716,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,10.30,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320726,500320716,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,838.46,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320728,500320716,SB21B,ORG,Lodge At Whitefish,,,,,,1380 Wisconsin Ave,,Whitefish,MT,599373338,,,2023-07-26,210.57,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320717,500320716,SB21B,ORG,Staples,,,,,,2501 Brooks St,Ste 3,Missoula,MT,598017801,,,2023-07-26,161.61,0.00,Office supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320727,500320716,SB21B,ORG,Staples,,,,,,2501 Brooks St,Ste 3,Missoula,MT,598017801,,,2023-07-26,89.76,0.00,Office supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00433680,500320730,,,ORG,Samantha Padavic,,,,,,1011 M St NW,Unit 804,Washington,DC,200015357,,,2023-07-10,1027.95,0.00,Reimbursement(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00433680,500320731,500320730,SB21B,ORG,Budget Rent A Car,,,,,,Glacier International Airport,,Kalispell,MT,59901,,,2023-07-10,1027.95,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*

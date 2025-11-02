@@ -1,0 +1,55 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00829929,500052310,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-05-31,43877.84,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052312,500052310,SB21B,ORG,Wynn Hotel,,,,,,3131 Las Vegas Blvd S,,Las Vegas,NV,891091967,,,2023-05-31,24383.95,0.00,"Venue Rental, Catering, and Travel",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500052313,500052310,SB21B,ORG,La Cave,,,,,,3131 Las Vegas Blvd S,,Las Vegas,NV,891091967,,,2023-05-31,11442.91,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500052314,500052310,SB21B,ORG,Wynn Hotel,,,,,,3131 Las Vegas Blvd S,,Las Vegas,NV,891091967,,,2023-05-31,8050.98,0.00,"Venue Rental, Catering, and Travel",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051110,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-16,1224.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051820,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-05-02,17950.94,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051818,500051820,SB21B,ORG,Wynn Hotel,,,,,,3131 Las Vegas Blvd S,,Las Vegas,NV,891091967,,,2023-05-02,6670.59,0.00,"Venue Rental, Catering, and Travel",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051819,500051820,SB21B,ORG,Wynn Hotel,,,,,,3131 Las Vegas Blvd S,,Las Vegas,NV,891091967,,,2023-05-02,11280.35,0.00,"Venue Rental, Catering, and Travel",,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051120,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-06,319.95,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051330,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-04-05,2741.94,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051840,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2023-04-27,6132.31,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051841,500051840,SB21B,ORG,Cairo Wine & Liquor,,,,,,1618 17th St NW,,Washington,DC,200092404,,,2023-04-27,341.16,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051842,500051840,SB21B,ORG,Charlie Palmer Steak,,,,,,101 Constitution Ave NW,,Washington,DC,200012133,,,2023-04-27,788.10,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051843,500051840,SB21B,ORG,Charlie Palmer Steak,,,,,,101 Constitution Ave NW,,Washington,DC,200012133,,,2023-04-27,400.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051844,500051840,SB21B,ORG,Charlie Palmer Steak,,,,,,101 Constitution Ave NW,,Washington,DC,200012133,,,2023-04-27,400.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051845,500051840,SB21B,ORG,Joselito Casa de Comidas,,,,,,660 Pennsylvania Ave SE,,Washington,DC,200034346,,,2023-04-27,1828.45,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051846,500051840,SB21B,ORG,Joselito Casa de Comidas,,,,,,660 Pennsylvania Ave SE,,Washington,DC,200034346,,,2023-04-27,1465.70,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500051847,500051840,SB21B,ORG,Joselito Casa de Comidas,,,,,,660 Pennsylvania Ave SE,,Washington,DC,200034346,,,2023-04-27,908.90,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00829929,500052590,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-20,440.43,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052290,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-06-02,5000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052090,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-08,375.25,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051111,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-23,959.85,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051121,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-13,1161.30,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052881,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-30,888.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052091,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-15,300.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051112,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-01-30,1220.55,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051212,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2023-03-24,75.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051122,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-20,1457.56,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051162,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-27,778.17,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052292,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-05,150.10,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051113,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-06,829.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,5829104I,5829104,SA11AI,IND,,Wellish,Janet,,,,427 Wedgewood Dr,,Henderson,NV,890143786,,,2023-04-23,2286.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00829929,500051114,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-13,1623.45,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052534,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-12,576.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052184,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-22,722.85,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051115,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-21,2605.15,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051116,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2023-02-23,55.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051636,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-24,86.90,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052566,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-31,126.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051117,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-27,1441.76,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051637,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-03,130.35,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051787,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-04-28,5000.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051808,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-28,128.38,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051118,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-02-28,260.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051228,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-31,175.78,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051638,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-10,1753.80,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052288,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2023-05-26,130.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051709,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2023-04-26,90.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051119,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-01,39.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051229,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-03-31,1363.15,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500051639,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-17,2907.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052259,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-05-30,359.45,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052679,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-06-26,872.95,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00829929,500052699,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2023-06-26,135.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,

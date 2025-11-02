@@ -1,0 +1,85 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00409730,500433946,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-02,5.36,0.00,PAC Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433947,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-03,145.59,0.00,PAC Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433948,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-03,40.77,0.00,PAC Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434955,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-16,130.46,0.00,PAC Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434956,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-23,99.43,0.00,PAC Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434957,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-30,50.01,0.00,PAC Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434958,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-31,10.96,0.00,PAC Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433950,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-11-27,482.00,0.00,PAC Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434959,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-12-30,210.25,0.00,PAC Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433870,,,ORG,American Express,,,,,,PO Box 53852,,Phoenix,AZ,850723852,P2026,,2024-12-09,11567.83,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433879,500433870,SB21B,ORG,Budget,,,,,,1908 L St NW,,Washington,DC,200365008,,,2024-12-09,417.45,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433917,500433870,SB21B,ORG,Carmine's,,,,,,425 7Th Street Northwest At East S,,Washington,DC,20004,,,2024-12-09,965.91,0.00,PAC Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433920,500433870,SB21B,ORG,Carmine's,,,,,,425 7Th Street Northwest At East S,,Washington,DC,20004,,,2024-12-09,15.00,0.00,PAC Food and Beverages,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434140,500433870,SB21B,ORG,Colonial Parking,,,,,,1050 Thomas Jefferson St NW,,Washington,DC,200073837,,,2024-12-09,412.00,0.00,PAC Parking and Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433871,500433870,SB21B,ORG,Hertz Rent-A-Car,,,,,,8501 Williams Rd,,Estero,FL,339283325,,,2024-12-09,24.19,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434148,500433870,SB21B,ORG,Hertz Rent-A-Car,,,,,,8501 Williams Rd,,Estero,FL,339283325,,,2024-12-09,37.69,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433880,500433870,SB21B,ORG,HiView Solutions,,,,,,852 Pacific Ave,,Cayucos,CA,934301624,,,2024-12-09,105.60,0.00,PAC Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433875,500433870,SB21B,ORG,Le Pain Quotidien,,,,,,800 17Th St NW,,Washington,DC,200063962,,,2024-12-09,18.69,0.00,PAC Food and Beverages,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433895,500433870,SB21B,ORG,Le Pain Quotidien,,,,,,800 17Th St NW,,Washington,DC,200063962,,,2024-12-09,11.34,0.00,PAC Food and Beverages,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433992,500433870,SB21B,ORG,Mailchimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2024-12-09,90.10,0.00,PAC Mailing Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433873,500433870,SB21B,ORG,Marriott International Inc.,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-12-09,252.73,0.00,PAC Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433874,500433870,SB21B,ORG,Marriott International Inc.,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-12-09,228.83,0.00,PAC Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434138,500433870,SB21B,ORG,McCarthy's Red Stag,,,,,,,,Bethlehem,PA,18018,,,2024-12-09,202.44,0.00,PAC Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434124,500433870,SB21B,ORG,Millworks,,,,,,340 Verbeke St,,Harrisburg,PA,171022052,,,2024-12-09,517.40,0.00,PAC Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433921,500433870,SB21B,ORG,Root And Stem Catering,,,,,,2941 Fairview Park Dr,Ste 110,Falls Church,VA,220424526,,,2024-12-09,2393.85,0.00,PAC Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433922,500433870,SB21B,ORG,Root And Stem Catering,,,,,,2941 Fairview Park Dr,Ste 110,Falls Church,VA,220424526,,,2024-12-09,2047.14,0.00,PAC Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433919,500433870,SB21B,ORG,Slack,,,,,,415 Mission St,,San Francisco,CA,941052533,,,2024-12-09,89.17,0.00,PAC Software Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434098,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,132.87,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434099,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,115.11,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434100,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,115.11,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434101,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,115.11,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434102,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,115.11,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434103,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,115.11,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434104,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,115.11,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434105,500433870,SB21B,ORG,Spring Hill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-12-09,96.00,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434110,500433870,SB21B,ORG,Tacos Y Tequila,,,,,,530 Hamilton St,,Allentown,PA,181011516,,,2024-12-09,212.82,0.00,PAC Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433877,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,37.57,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433878,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,41.06,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433881,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,17.35,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433882,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,17.94,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433883,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,10.98,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433884,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,10.96,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433912,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,3.00,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433913,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,16.90,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433914,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,21.13,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433915,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,28.02,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433916,500433870,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,,San Francisco,CA,941051611,,,2024-12-09,4.22,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434111,500433870,SB21B,ORG,Union And Finch,,,,,,1528 W Union St,,Allentown,PA,181024451,,,2024-12-09,712.92,0.00,PAC Fundraising Catering Event,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433872,500433870,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2024-12-09,40.00,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433923,500433870,SB21B,ORG,We The Pizza,,,,,,303 Pennsylvania Ave SE,,Washington,DC,200031148,,,2024-12-10,1075.86,0.00,PAC Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500433951,,,ORG,Bernstein Management Group,,,,,,2095 Chain Bridge Rd,,Vienna,VA,221823794,,,2024-11-27,1825.52,0.00,PAC Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433953,,,ORG,DC Healthlink,,,,,,1207 Taylor St NW,,Washington,DC,200115617,,,2024-12-03,1219.42,0.00,PAC Employee Healthcare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433955,,,IND,,Devney,Patrick,,,,PO Box 65332,,Washington,DC,200355332,,,2024-11-29,880.17,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434960,,,IND,,Devney,Patrick,,,,PO Box 65332,,Washington,DC,200355332,,,2024-12-31,880.17,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433956,,,IND,,Escobar,Alexander,,,,PO Box 65322,,Washington,DC,200355322,,,2024-11-29,631.08,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434961,,,IND,,Escobar,Alexander,,,,PO Box 65322,,Washington,DC,200355322,,,2024-12-31,4347.54,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433957,,,IND,,Gonin,Jonathan,,,,600 Pennsylvania Ave SE,Ste 410,Washington,DC,200034350,,,2024-11-29,7738.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434962,,,IND,,Gonin,Jonathan,,,,600 Pennsylvania Ave SE,Ste 410,Washington,DC,200034350,,,2024-12-17,346.39,0.00,Reimbursement- See below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434963,500434962,SB21B,ORG,Alamo Car Rental,,,,,,2500 National Avenue Parking 1,,Arlington,VA,22202,,,2024-12-17,346.39,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434964,,,IND,,Gonin,Jonathan,,,,600 Pennsylvania Ave SE,Ste 410,Washington,DC,200034350,,,2024-12-17,164.56,0.00,Reimbursement- See below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434965,500434964,SB21B,ORG,Budget,,,,,,1908 L St NW,,Washington,DC,200365008,,,2024-12-17,164.56,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00409730,500434966,,,IND,,Gonin,Jonathan,,,,600 Pennsylvania Ave SE,Ste 410,Washington,DC,200034350,,,2024-12-31,16772.44,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433958,,,IND,,Harrison,Bridgette,,,,1636 15Th St NW,,Washington,DC,200093850,,,2024-11-29,7339.25,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434967,,,IND,,Harrison,Bridgette,,,,1636 15Th St NW,,Washington,DC,200093850,,,2024-12-31,16451.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433959,,,ORG,Helen Milby & Company,,,,,,233 Pennsylvania Ave SE,,Washington,DC,200031121,,,2024-12-03,22000.00,0.00,PAC Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434968,,,ORG,Helen Milby & Company,,,,,,233 Pennsylvania Ave SE,,Washington,DC,200031121,,,2024-12-30,34000.00,0.00,PAC Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433960,,,IND,,Huch,Leighton,,,,PO Box 65332,,Washington,DC,200355332,,,2024-11-29,736.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434969,,,IND,,Huch,Leighton,,,,PO Box 65332,,Washington,DC,200355332,,,2024-12-31,4421.16,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434970,,,ORG,JBW Consulting LLC,,,,,,601 E 20Th St,Apt 10F,New York,NY,100107636,,,2024-12-17,5000.00,0.00,PAC Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433961,,,ORG,Kahn Communications,,,,,,600 New Jersey Ave NW,,Washington,DC,200012022,,,2024-12-04,15000.00,0.00,PAC Communication Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433963,,,ORG,Momentum Campaigns LLC,,,,,,1835 7Th St NW,# 272,Washington,DC,200013107,,,2024-12-05,852.69,0.00,PAC Digital Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433964,,,ORG,"NGP VAN, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-12-09,1240.20,0.00,PAC Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433965,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2024-11-29,12533.49,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433966,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2024-11-29,161.81,0.00,Payroll Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434971,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2024-12-31,44975.95,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434972,,,ORG,Paychex,,,,,,3060 Williams Dr,Ste 200,Fairfax,VA,220314642,,,2024-12-31,161.81,0.00,Payroll Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433967,,,ORG,Political Compliance Management Services,,,,,,910 17Th St NW,Ste 1050,Washington,DC,200062623,,,2024-12-10,5000.73,0.00,PAC Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434974,,,IND,,Rosati,Koray,,,,PO Box 65322,,Washington,DC,200355322,,,2024-12-31,2213.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433968,,,IND,,Schouten,Amelia,,,,PO Box 65322,,Washington,DC,200355322,,,2024-11-29,2968.03,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434973,,,IND,,Schouten,Amelia,,,,PO Box 65322,,Washington,DC,200355322,,,2024-12-31,9234.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433969,,,IND,,Sokolov,Anne,,,,PO Box 65332,,Washington,DC,200355332,,,2024-11-29,2040.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434975,,,IND,,Sokolov,Anne,,,,PO Box 65332,,Washington,DC,200355332,,,2024-12-31,2040.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500433971,,,IND,,Weir,Emma,,,,1737 P St NW,Apt 502,Washington,DC,200361316,,,2024-11-29,2099.44,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00409730,500434976,,,IND,,Weir,Emma,,,,1737 P St NW,Apt 502,Washington,DC,200361316,,,2024-12-31,5182.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,,

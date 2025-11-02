@@ -1,0 +1,103 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00603084,500335682,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-08,3177.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336972,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-16,3194.99,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500337417,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-22,5808.99,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338383,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-29,3229.85,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338933,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-31,1154.30,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339105,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102811013,,,2024-01-19,28084.40,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339072,500339105,SB21B,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,,2024-01-19,635.89,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339075,500339105,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-01-19,511.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339099,500339105,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-01-19,15.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339074,500339105,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102811013,,,2024-01-19,39.00,0.00,Credit Card Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339076,500339105,SB21B,ORG,Apple,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2024-01-19,2263.38,0.00,Computers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339077,500339105,SB21B,ORG,Articulate Global,,,,,,244 5Th Ave,Ste 2960,New York,NY,100017604,,,2024-01-19,11863.52,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339078,500339105,SB21B,ORG,Buffer,,,,,,2243 Fillmore St,# 380-7163,San Francisco,CA,941152221,,,2024-01-19,600.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339087,500339105,SB21B,ORG,Intercontinental Hotel,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-01-19,417.13,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339088,500339105,SB21B,ORG,Kimpton Carlyle Hotel,,,,,,1731 New Hampshire Ave NW,,Washington,DC,200092501,,,2024-01-19,1475.68,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339090,500339105,SB21B,ORG,Lyft,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2024-01-19,565.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339091,500339105,SB21B,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,,2024-01-19,1086.50,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339093,500339105,SB21B,ORG,NGP VAN,,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-01-19,1265.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339095,500339105,SB21B,ORG,Pocit,,,,,,47 W 13Th St,,New York,NY,100117956,,,2024-01-19,210.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339100,500339105,SB21B,ORG,WP Engine,,,,,,504 Lavaca St,Ste 1000,Austin,TX,787012857,,,2024-01-19,3161.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339101,500339105,SB21B,ORG,Yours Truly,,,,,,1143 New Hampshire Ave NW,,Washington,DC,200371522,,,2024-01-19,212.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500339103,500339105,SB21B,ORG,Zoom.Us,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-01-19,2642.17,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00603084,500335842,,,ORG,Atlas Strategy Group Inc,,,,,,837 Washington Ave,,Bronx,NY,104514842,,,2024-01-11,5000.00,0.00,Political Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339132,,,ORG,"Ballot Ready, Inc.",,,,,,PO Box 220881,,Chicago,IL,606220030,,,2024-01-08,7500.00,0.00,Database Use,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338455,,,IND,,Barry,Caitlin A,,,,910 17Th St NW,Ste 1050,Washington,DC,200062623,,,2024-01-31,438.32,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336936,,,IND,,Brown,Akiya M,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2734.56,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338456,,,IND,,Brown,Akiya M,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2734.56,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336937,,,IND,,Bru,Guy-David,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-12,3867.23,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338457,,,IND,,Bru,Guy-David,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-31,3867.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336938,,,IND,,Burke,Matthew S,S,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2807.67,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338458,,,IND,,Burke,Matthew S,S,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2807.69,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336939,,,IND,,Chandra,Jaco,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2616.10,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338459,,,IND,,Chandra,Jaco,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2616.10,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339133,,,ORG,DC Health Link,,,,,,1207 Taylor St NW,,Washington,DC,200115617,,,2024-01-03,13545.51,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336940,,,IND,,Dietrich,Kelly L,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,5426.53,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338460,,,IND,,Dietrich,Kelly L,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,5426.54,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500335843,,,ORG,Docebo NA Inc.,,,,,,600 N Thomas St,Ste A,Athens,GA,306012639,,,2024-01-11,12490.39,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336941,,,IND,,Escobar,Laura T,T,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,3237.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338461,,,IND,,Escobar,Laura T,T,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,3237.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336942,,,IND,,Flores-Recinos,Nathalie M,M,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2357.43,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338462,,,IND,,Flores-Recinos,Nathalie M,M,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2357.43,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336943,,,IND,,Gaetjens,Jan L,L,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,3115.94,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338463,,,IND,,Gaetjens,Jan L,L,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,3115.93,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336944,,,IND,,Gartner,Paul S,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-12,5759.33,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338464,,,IND,,Gartner,Paul S,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-31,5625.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336945,,,IND,,Geraghty,Bridget,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,3207.62,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338465,,,IND,,Geraghty,Bridget,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,3207.63,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336946,,,IND,,Grathwohl,Amanda N,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,1857.90,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338466,,,IND,,Grathwohl,Amanda N,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,1906.88,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500334877,,,ORG,HR Collaborative LLC,,,,,,678 Front Ave NW,Ste 190,Grand Rapids,MI,495045323,,,2024-01-04,2650.00,0.00,HR Consulting Retainer,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336947,,,IND,,Hunt,Jocelyn M,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,3019.42,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338467,,,IND,,Hunt,Jocelyn M,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,3019.43,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336948,,,IND,,Johnson,James D,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2309.32,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338468,,,IND,,Johnson,James D,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2324.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336949,,,IND,,Khan,Amani Z,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2968.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338469,,,IND,,Khan,Amani Z,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2968.50,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338470,,,IND,,Kong,Carina L,,,,910 17Th St NW,Ste 1050,Washington,DC,200062623,,,2024-01-31,461.22,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336950,,,IND,,Marks,Justice,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2804.52,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338471,,,IND,,Marks,Justice,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2804.53,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336951,,,IND,,McRaith,Alexandra R,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2814.78,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338472,,,IND,,McRaith,Alexandra R,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2792.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500337422,,,ORG,Meso Solutions,,,,,,3323 N Paulina St,Apt 3D,Chicago,IL,606571077,,,2024-01-26,1875.00,0.00,Consultant: Human Resources,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339135,,,ORG,Message Digital,,,,,,2054 University Ave,Ste 600,Berkeley,CA,947041076,,,2024-01-16,2120.00,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339136,,,ORG,Message Digital,,,,,,2054 University Ave,Ste 600,Berkeley,CA,947041076,,,2024-01-30,224720.00,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339138,,,ORG,Mothership Strategies,,,,,,1875 Connecticut Ave NW,,Washington,DC,200095728,,,2024-01-04,50000.00,0.00,Fundraising services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339139,,,ORG,Mothership Strategies,,,,,,1875 Connecticut Ave NW,,Washington,DC,200095728,,,2024-01-04,15000.00,0.00,Fundraising services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339140,,,ORG,Mothership Strategies,,,,,,1875 Connecticut Ave NW,,Washington,DC,200095728,,,2024-01-04,52914.00,0.00,Fundraising services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339141,,,ORG,Mothership Strategies,,,,,,1875 Connecticut Ave NW,,Washington,DC,200095728,,,2024-01-12,50000.00,0.00,Fundraising services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339142,,,ORG,Mothership Strategies,,,,,,1875 Connecticut Ave NW,,Washington,DC,200095728,,,2024-01-12,100000.00,0.00,Fundraising services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339143,,,ORG,Mothership Strategies,,,,,,1875 Connecticut Ave NW,,Washington,DC,200095728,,,2024-01-12,3081.94,0.00,Fundraising services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339144,,,ORG,Mothership Strategies,,,,,,1875 Connecticut Ave NW,,Washington,DC,200095728,,,2024-01-18,45000.00,0.00,Fundraising services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336952,,,IND,,Musmar,Roda J,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2534.32,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338473,,,IND,,Musmar,Roda J,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2491.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339145,,,ORG,NGP VAN,,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-01-16,13356.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339146,,,ORG,Paychex,,,,,,20 F St NW,Fl 7,Washington,DC,200016700,,,2024-01-11,310.91,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,Health Insurance
+SB21B,C00603084,500339147,,,ORG,Paychex,,,,,,20 F St NW,Fl 7,Washington,DC,200016700,,,2024-01-11,833.24,0.00,Payroll Processing,,,,,,,,,,,,,,,,,,,,Health Insurance
+SB21B,C00603084,500339148,,,ORG,Paychex,,,,,,20 F St NW,Fl 7,Washington,DC,200016700,,,2024-01-12,33894.03,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Health Insurance
+SB21B,C00603084,500339149,,,ORG,Paychex,,,,,,20 F St NW,Fl 7,Washington,DC,200016700,,,2024-01-22,59.64,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Health Insurance
+SB21B,C00603084,500339150,,,ORG,Paychex,,,,,,20 F St NW,Fl 7,Washington,DC,200016700,,,2024-01-31,901.08,0.00,Payroll Processing,,,,,,,,,,,,,,,,,,,,Health Insurance
+SB21B,C00603084,500339151,,,ORG,Paychex,,,,,,20 F St NW,Fl 7,Washington,DC,200016700,,,2024-01-31,298.99,0.00,Workers Compensation,,,,,,,,,,,,,,,,,,,,Health Insurance
+SB21B,C00603084,500339152,,,ORG,Paychex,,,,,,20 F St NW,Fl 7,Washington,DC,200016700,,,2024-01-31,34331.62,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,Health Insurance
+SB21B,C00603084,500339153,,,ORG,"PCMS, LLC",,,,,,910 17Th St NW,,Washington,DC,200062601,,,2024-01-04,4871.89,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336953,,,IND,,Pegg,April P,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,3505.57,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338474,,,IND,,Pegg,April P,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,3505.57,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500337423,,,IND,,Petersohn,Sean,A,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-26,455.00,0.00,Consultant: Live Training Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336954,,,IND,,Riddle,Donald,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2136.64,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338475,,,IND,,Riddle,Donald,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2136.65,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500335845,,,ORG,Sandler Reiff Lamb Rosenstein & Birkenstock,,,,,,1025 Vermont Ave NW,Ste 300,Washington,DC,200056302,,,2024-01-11,700.00,0.00,Legal: services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336955,,,IND,,Schwartzberg,Gayle H,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-12,2314.56,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338476,,,IND,,Schwartzberg,Gayle H,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-31,2314.56,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336956,,,IND,,Senanayake,Allison,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2664.73,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338477,,,IND,,Senanayake,Allison,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2664.71,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336957,,,IND,,Shanley,Caroline E,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-12,2184.04,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338478,,,IND,,Shanley,Caroline E,,,,PO Box 65322,,Washington,DC,200355322,,,2024-01-31,2184.04,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339154,,,ORG,Sun Life Financial,,,,,,PO Box 807009,,Kansas City,MO,641807009,,,2024-01-30,1328.77,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500334878,,,ORG,VizKid Analytics,,,,,,4209 Queensbury Rd,,Hyattsville,MD,207811438,,,2024-01-05,382.50,0.00,Consultant: Marketing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339155,,,ORG,Voya Financial,,,,,,780 3Rd Ave,,New York,NY,100172024,,,2024-01-02,13134.54,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339156,,,ORG,Voya Financial,,,,,,780 3Rd Ave,,New York,NY,100172024,,,2024-01-12,15137.81,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500339157,,,ORG,Voya Financial,,,,,,780 3Rd Ave,,New York,NY,100172024,,,2024-01-31,15385.80,0.00,Employee Benefits,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338479,,,IND,,Willson,Eleanor C,,,,910 17Th St NW,Ste 1050,Washington,DC,200062623,,,2024-01-31,564.82,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500336958,,,IND,,Zimmermann,Grace,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-12,306.17,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00603084,500338480,,,IND,,Zimmermann,Grace,,,,910 17Th St NW,Ste 925,Washington,DC,200062641,,,2024-01-31,472.03,0.00,Payroll,,,,,,,,,,,,,,,,,,,,

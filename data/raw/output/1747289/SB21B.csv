@@ -1,0 +1,48 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00768200,SB21B-635,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-10-08,2478.91,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-638,,,ORG,The Strathdee Group LLC ,,,,,,517 14th St. NE,,Washington,DC,20002,,,2023-10-10,2531.28,0.00,Travel ,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-643,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-10-15,1781.45,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-644,,,ORG,"Bank of America, N.A. ",,,,,,1800 K St. NW,,Washington,DC,20006,,,2023-10-16,93.44,0.00,Generic Cmte. Bank Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-657,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-10-22,5670.63,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-676,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-10-29,5833.18,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-687,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-10-30,2259.40,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-690,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-10-31,99.74,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-701,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-11-05,1975.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-708,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-11-12,1975.28,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-709,,,IND,,Tovar,Michelle,,,,430 S Capitol St. SE,Fl. 2,Washington,DC,20003,,,2023-11-15,150.00,0.00,Per Diem ,,,,,,,,,,,,,,,,,,,,ACH Payment
+SB21B,C00768200,SB21B-710,,,ORG,The Strathdee Group LLC ,,,,,,517 14th St. NE,,Washington,DC,20002,,,2023-11-15,463.94,0.00,Travel ,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-711,,,IND,,Wofsy,Layla,,,,430 S Capitol St. SE,Fl. 2,Washington,DC,20003,,,2023-11-15,300.00,0.00,Per Diem ,,,,,,,,,,,,,,,,,,,,ACH Payment
+SB21B,C00768200,SB21B-713,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-11-19,5925.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-724,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-11-30,1975.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-719,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2023-11-30,72.02,0.00,Generic Cmte. Postage/Delivery,001,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-719-10000,SB21B-719,SB21B,ORG,The UPS Store,,,,,,55 Glenlake Pkwy. NE,,Atlanta,GA,30328,,,2023-11-30,72.02,0.00,Generic Cmte. Postage/Delivery,001,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-720,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2023-11-30,43.04,0.00,Generic Cmte. Printing,,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-720-10000,SB21B-720,SB21B,ORG,Fedex,,,,,,942 S Shady Grove Rd.,,Memphis,TN,38120,,,2023-11-30,0.87,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-720-20000,SB21B-720,SB21B,ORG,Fedex,,,,,,942 S Shady Grove Rd.,,Memphis,TN,38120,,,2023-11-30,1.30,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-720-30000,SB21B-720,SB21B,ORG,Fedex,,,,,,942 S Shady Grove Rd.,,Memphis,TN,38120,,,2023-11-30,24.98,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-720-40000,SB21B-720,SB21B,ORG,Fedex,,,,,,942 S Shady Grove Rd.,,Memphis,TN,38120,,,2023-11-30,15.89,0.00,Generic Cmte. Printing,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2023-11-30,1089.13,0.00,Travel ,002,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-721-10000,SB21B-721,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2023-11-30,26.98,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-20000,SB21B-721,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2023-11-30,16.95,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-30000,SB21B-721,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2023-11-30,51.54,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-40000,SB21B-721,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2023-11-30,30.97,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-50000,SB21B-721,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2023-11-30,20.95,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-60000,SB21B-721,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2023-11-30,16.96,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-70000,SB21B-721,SB21B,ORG,Uber,,,,,,"1455 Market St., Ste. 400",,San Francisco,CA,94103,,,2023-11-30,20.94,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-80000,SB21B-721,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave. NE,,Washington,DC,20002,,,2023-11-30,169.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-90000,SB21B-721,SB21B,ORG,Hyatt Hotels,,,,,,"5400 LBJ Fwy., Ste. 500",,Dallas,TX,75240,,,2023-11-30,353.66,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-100000,SB21B-721,SB21B,ORG,Delta,,,,,,1030 Delta Blvd.,,Atlanta,GA,30320,,,2023-11-30,372.18,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-721-110000,SB21B-721,SB21B,ORG,Egencia Fee,,,,,,3150 139th Ave. SE,,Bellevue,WA,98005,,,2023-11-30,9.00,0.00,Travel ,002,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-722,,,PTY,DCCC ,,,,,,430 South Capitol Street SE,2nd Floor,Washington,DC,20003,,,2023-11-30,36.04,0.00,Generic Cmte. Postage/Delivery,001,C00000935,DCCC ,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00768200,SB21B-722-10000,SB21B-722,SB21B,ORG,Quick Messenger Service,,,,,,"4829 Fairmont Ave., Ste. B",,Bethesda,MD,20814,,,2023-11-30,36.04,0.00,Generic Cmte. Postage/Delivery,001,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00768200,SB21B-741,,,ORG,Democracy Engine LLC ,,,,,,237 Florida Ave. NW,,Washington,DC,20001,,,2023-12-06,1762.50,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-733,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-12-10,0.28,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-771,,,ORG,Democracy Engine LLC ,,,,,,237 Florida Ave. NW,,Washington,DC,20001,,,2023-12-13,2402.50,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-779,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-12-17,2379.88,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-743,,,ORG,The Strathdee Group LLC ,,,,,,517 14th St. NE,,Washington,DC,20002,,,2023-12-18,303.49,0.00,Travel ,002,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-790,,,ORG,Democracy Engine LLC ,,,,,,237 Florida Ave. NW,,Washington,DC,20001,,,2023-12-20,767.50,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-798,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-12-24,9225.23,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-808,,,ORG,Democracy Engine LLC ,,,,,,237 Florida Ave. NW,,Washington,DC,20001,,,2023-12-27,50.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-800,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-12-28,39.50,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-806,,,ORG,ActBlue Technical Services ,,,,,,366 Summer St.,,Somerville,MA,02144,,,2023-12-31,1678.75,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00768200,SB21B-822,,,ORG,NOR PAC ,,,,,,P.O. Box 1543,,Englewood Cliffs,NJ,07632,,,2023-12-31,1265.00,0.00,Generic Cmte. Processing Fees,,,,,,,,,,,,,,,,,,,,

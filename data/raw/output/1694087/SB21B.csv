@@ -1,0 +1,42 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00271338,VNH36AJCFD0,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-22,171.72,0.00,Databases Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCPR0,,,ORG,Heartland Payroll Solutions Inc.,,,,,,2001 Aerospace Pkwy,,Cleveland,OH,441421002,,,2023-02-27,7912.40,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJBN01,,,ORG,"MG Trust Company, LLC",,,,,,717 17th St,Ste 1300,Denver,CO,802023304,,,2023-02-02,1690.00,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC411,,,ORG,TD Card Services,,,,,,PO Box 2580,,Cherry Hill,NJ,080340372,,,2023-02-02,15330.63,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC4B0,VNH36AJC411,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-02-02,13100.54,0.00,Text Messaging Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJC4M1,VNH36AJC411,SB21B,ORG,Mastro's Steakhouse,,,,,,600 13th St NW,,Washington,DC,200053005,,,2023-02-02,1173.47,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJC494,VNH36AJC411,SB21B,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-02-02,489.61,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJCE21,,,ORG,"BOTC, LLC",,,,,,7651 Montpelier Rd,,Laurel,MD,207236016,,,2023-02-16,1109.33,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCF31,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-22,11130.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCCR1,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-12,1091.74,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCDX1,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-16,146.28,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC352,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-05,661.69,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCD62,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-15,11395.00,0.00,Email Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCCE2,,,IND,,Goldstein-Smith,Benjamin,L.,,,5411 Roosevelt St,,Bethesda,MD,208173779,,,2023-02-14,99.93,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCCF0,VNH36AJCCE2,SB21B,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-02-14,99.93,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJCPW2,,,ORG,Fiorello Consulting,,,,,,3914 Barcroft Mews Ct,,Falls Church,VA,220411218,,,2023-02-27,3000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJBKH3,,,ORG,Granite Insurance/E-COMP,,,,,,360 Lindbergh Ave,,Livermore,CA,94551,,,2023-02-01,106.73,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJBNJ3,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-01,572.55,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCDW3,,,ORG,"NGP VAN, Inc./EveryAction",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-02-16,636.00,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC9A4,,,ORG,H&W Printing,,,,,,3616 Oak Ln,,Mount Rainier,MD,207122128,,,2023-02-14,205.33,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJBNV4,,,ORG,First Bank Merchant Services,,,,,,200 E Jackson St,,Muncie,IN,473052835,,,2023-02-03,6.70,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCPV4,,,IND,,Pogacar,Antonia,M.,,,4521 1/2 Georgia Ave NW,Unit 2,Washington,DC,200117125,,,2023-02-27,6878.65,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCQ45,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-26,666.51,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC3V5,,,IND,,Pogacar,Antonia,M.,,,4521 1/2 Georgia Ave NW,Unit 2,Washington,DC,200117125,,,2023-02-01,125.38,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC3W3,VNH36AJC3V5,SB21B,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-02-01,125.38,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJCFM6,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-02-23,102.95,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCPP6,,,IND,,Pogacar,Antonia,M.,,,4521 1/2 Georgia Ave NW,Unit 2,Washington,DC,200117125,,,2023-02-27,125.38,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCPQ4,VNH36AJCPP6,SB21B,ORG,Verizon Wireless,,,,,,PO Box 25505,,Lehigh Valley,PA,180025505,,,2023-02-27,125.38,0.00,Telephone,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJBNT6,,,ORG,First Bank Merchant Services,,,,,,200 E Jackson St,,Muncie,IN,473052835,,,2023-02-03,192.82,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCPT6,,,IND,,Goldstein-Smith,Benjamin,L.,,,5411 Roosevelt St,,Bethesda,MD,208173779,,,2023-02-27,5705.98,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCPC7,,,ORG,CenturyLink,,,,,,100 Centurylink Dr,,Monroe,LA,712032042,,,2023-02-03,549.70,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC4C8,,,ORG,TD Card Services,,,,,,PO Box 2580,,Cherry Hill,NJ,080340372,,,2023-02-02,1752.88,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC4E4,VNH36AJC4C8,SB21B,ORG,Shoto,,,,,,1100 15th St NW,,Washington,DC,200051707,,,2023-02-02,1213.70,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJC4D6,VNH36AJC4C8,SB21B,ORG,Capital Gifts & Awards,,,,,,2012 Renard Ct,,Annapolis,MD,214016761,,,2023-02-02,380.66,0.00,Staff Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00271338,VNH36AJCJP8,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2023-02-27,1298.63,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJBNS8,,,ORG,First Bank Merchant Services,,,,,,200 E Jackson St,,Muncie,IN,473052835,,,2023-02-03,1.51,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCPS8,,,ORG,Heartland Payroll Solutions Inc.,,,,,,2001 Aerospace Pkwy,,Cleveland,OH,441421002,,,2023-02-27,94.25,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJC4Z8,,,ORG,"Mark Heinitz, CPA",,,,,,6433 Burwell St,,Springfield,VA,221501215,,,2023-02-09,360.00,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCE39,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2023-02-17,55865.00,0.00,Digital Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCFQ9,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2023-02-19,635.35,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00271338,VNH36AJCDY9,,,ORG,"Perkins Coie, LLP",,,,,,1201 3rd Ave,Fl 40,Seattle,WA,981013029,,,2023-02-16,5998.43,0.00,Legal & Compliance Services,,,,,,,,,,,,,,,,,,,,

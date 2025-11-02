@@ -1,0 +1,41 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00674093,500115411,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-06,283.16,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115412,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-11,231.68,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115413,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-15,249.47,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115608,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-21,218.23,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115745,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-25,332.68,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115750,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-29,412.83,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115751,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-31,203.95,0.00,Merchant Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115752,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-08-29,90.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115610,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-08-16,2000.00,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115861,500115610,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-08-16,15.89,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115862,500115610,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-08-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115863,500115610,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-08-16,15.89,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115864,500115610,SB21B,ORG,Adobe,,,,,,801 N 34Th St,,Seattle,WA,981038882,,,2024-08-16,21.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115871,500115610,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-08-16,210.64,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115872,500115610,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-08-16,12.72,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115873,500115610,SB21B,ORG,Hyatt Regency,,,,,,151 E Wacker Dr,,Chicago,IL,606013764,,,2024-08-16,1366.70,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115875,500115610,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-08-16,3.57,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115876,500115610,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-08-16,5.49,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115877,500115610,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-08-16,17.85,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115878,500115610,SB21B,ORG,Lyft,,,,,,185 Berry St,,San Francisco,CA,941075705,,,2024-08-16,27.44,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115881,500115610,SB21B,ORG,MailChimp,,,,,,405 N Angier Ave NE,,Atlanta,GA,303083139,,,2024-08-16,47.70,0.00,Digital Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115883,500115610,SB21B,ORG,"Zoom, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2024-08-16,16.95,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00674093,500115403,,,ORG,Brady Campaign To Prevent Gun Violence,,,,,,840 1St St NE,Ste 400,Washington,DC,200028040,,,2024-08-06,8500.00,0.00,Advance Payment for Estimated Staff Time and Overhead,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115408,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-08-02,4022.35,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115409,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-08-02,4017.50,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115632,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-08-27,4017.99,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115422,,,ORG,Evergreen Strategy,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-08-05,5000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115423,,,ORG,Evergreen Strategy,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-08-05,5000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115629,,,ORG,"Everyaction, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-08-27,7897.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115842,,,ORG,Intuit,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-08-20,104.94,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115415,,,ORG,MissionWired,,,,,,650 Massachusetts Ave NW,,Washington,DC,200013796,,,2024-08-09,10000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115417,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, P.C.",,,,,,1090 Vermont Ave NW,,Washington,DC,200054905,,,2024-08-16,260.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115418,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, P.C.",,,,,,1090 Vermont Ave NW,,Washington,DC,200054905,,,2024-08-16,1822.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115419,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, P.C.",,,,,,1090 Vermont Ave NW,,Washington,DC,200054905,,,2024-08-16,940.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115630,,,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, P.C.",,,,,,1090 Vermont Ave NW,,Washington,DC,200054905,,,2024-08-27,1687.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115840,,,ORG,Switchboard Public Benefit Corp,,,,,,875 10Th St NW,Apt 1031,Washington,DC,200015169,,,2024-08-28,3725.83,0.00,Digital Acquisition,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115404,,,ORG,"Zack DiGregorio, LLC",,,,,,1458 Columbia Rd NW,,Washington,DC,200094770,,,2024-08-05,1000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115405,,,ORG,"Zack DiGregorio, LLC",,,,,,1458 Columbia Rd NW,,Washington,DC,200094770,,,2024-08-05,600.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115407,,,ORG,"Zack DiGregorio, LLC",,,,,,1458 Columbia Rd NW,,Washington,DC,200094770,,,2024-08-05,1600.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00674093,500115631,,,ORG,"Zack DiGregorio, LLC",,,,,,1458 Columbia Rd NW,,Washington,DC,200094770,,,2024-08-27,1000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,

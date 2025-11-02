@@ -1,0 +1,50 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00538835,500027303,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-01-26,100.50,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027475,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-02-27,45.00,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027686,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-03-27,65.00,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027023,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-01-07,7131.92,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027018,500027023,SB21B,ORG,Jefferson Hotel,,,,,,1200 16Th St NW,,Washington,DC,200363202,,,2024-01-07,1269.98,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027020,500027023,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2024-01-07,5000.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027021,500027023,SB21B,ORG,Total Wine & More,,,,,,800 N Glebe Rd,,Arlington,VA,222032149,,,2024-01-07,243.78,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027022,500027023,SB21B,ORG,Williamsburg Chauffeur,,,,,,3306 Craggy Oak Ct,Ste 101,Williamsburg,VA,231881064,,,2024-01-07,344.25,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027183,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-02-08,5943.26,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027181,500027183,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2024-02-08,5000.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027182,500027183,SB21B,ORG,Williamsburg Chauffeur,,,,,,3306 Craggy Oak Ct,Ste 101,Williamsburg,VA,231881064,,,2024-02-08,627.75,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027369,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-03-07,8123.92,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027368,500027369,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2024-03-08,549.87,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027364,500027369,SB21B,ORG,Grand Bohemian Hotel,,,,,,2655 Lane Park Rd,,Mountain Brk,AL,352231182,,,2024-03-08,434.07,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027366,500027369,SB21B,ORG,Hine Restaurant,,,,,,300 7Th St SE,,Washington,DC,200032504,,,2024-03-08,571.69,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027363,500027369,SB21B,ORG,Jefferson Hotel,,,,,,1200 16Th St NW,,Washington,DC,200363202,,,2024-03-08,851.44,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027365,500027369,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2024-03-08,5000.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027356,500027369,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-03-07,218.21,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027367,500027369,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-03-08,335.26,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500027145,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-01-15,701.08,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027146,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-01-15,292.93,0.00,Payroll Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027217,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-01-31,92.03,0.00,Payroll Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027218,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-01-31,701.05,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027311,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-02-15,92.03,0.00,Payroll Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027312,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-02-15,701.08,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027405,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-02-29,92.03,0.00,Payroll Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027406,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-02-29,701.03,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027494,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-03-15,698.63,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027495,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-03-15,92.03,0.00,Payroll Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027602,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-03-29,92.03,0.00,Payroll Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027603,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-03-29,693.48,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027300,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-01-01,4750.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027301,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-02-01,4750.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027302,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-03-01,4750.00,0.00,Fundraising Consulting Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027343,,,ORG,Katherine Buchanan,,,,,,PO Box 1619,,Bethany Beach,DE,199301619,,,2024-01-02,3900.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027296,,,ORG,Katherine Buchanan,,,,,,PO Box 1619,,Bethany Beach,DE,199301619,,,2024-02-01,3900.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027297,,,ORG,Katherine Buchanan,,,,,,PO Box 1619,,Bethany Beach,DE,199301619,,,2024-03-01,3900.00,0.00,Accounting/Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027147,,,ORG,Krystel A Jordan,,,,,,10121 Mulholland Dr,,Glen Allen,VA,230597013,,,2024-01-15,1219.14,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027238,,,ORG,Krystel A Jordan,,,,,,10121 Mulholland Dr,,Glen Allen,VA,230597013,,,2024-01-31,1294.15,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027333,,,ORG,Krystel A Jordan,,,,,,10121 Mulholland Dr,,Glen Allen,VA,230597013,,,2024-02-15,1219.14,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027407,,,ORG,Krystel A Jordan,,,,,,10121 Mulholland Dr,,Glen Allen,VA,230597013,,,2024-02-29,1294.16,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027498,,,ORG,Krystel A Jordan,,,,,,10121 Mulholland Dr,,Glen Allen,VA,230597013,,,2024-03-15,1219.14,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027600,,,ORG,Krystel A Jordan,,,,,,10121 Mulholland Dr,,Glen Allen,VA,230597013,,,2024-03-29,1292.96,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027149,,,ORG,Tara Saye,,,,,,5720 Metroview Pkwy,Apt 253,Alexandria,VA,223031557,,,2024-01-15,836.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027234,,,ORG,Tara Saye,,,,,,5720 Metroview Pkwy,Apt 253,Alexandria,VA,223031557,,,2024-01-31,836.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027334,,,ORG,Tara Saye,,,,,,5720 Metroview Pkwy,Apt 253,Alexandria,VA,223031557,,,2024-02-15,836.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027408,,,ORG,Tara Saye,,,,,,5720 Metroview Pkwy,Apt 253,Alexandria,VA,223031557,,,2024-02-29,836.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027499,,,ORG,Tara Saye,,,,,,5720 Metroview Pkwy,Apt 253,Alexandria,VA,223031557,,,2024-03-15,836.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500027601,,,ORG,Tara Saye,,,,,,5720 Metroview Pkwy,Apt 253,Alexandria,VA,223031557,,,2024-03-29,835.02,0.00,Salary,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,75 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00147512,500536889,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-06,13552.76,0.00,Contribution processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540341,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-13,13466.76,0.00,Contribution processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540617,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-10,100.98,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540618,,,ORG,AMERICAN EXPRESS,,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2024-10-11,11029.98,0.00,Credit card payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500550567,500540618,SB21B,ORG,Amazon.com,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-09-24,13.77,0.00,Prime video,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550575,500540618,SB21B,ORG,Amazon.com,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-09-29,5.29,0.00,Prime video,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550578,500540618,SB21B,ORG,Amazon.com,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-09-30,3.17,0.00,Office supplies expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550547,500540618,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2024-09-23,829.96,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550548,500540618,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2024-09-23,829.96,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550549,500540618,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2024-09-23,829.96,0.00,Airfare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550546,500540618,SB21B,ORG,AMERICAN EXPRESS,,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2024-09-23,1634.92,0.00,Lodging expenses through CC program,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550550,500540618,SB21B,ORG,AMERICAN EXPRESS,,,,,,801 Pennsylvania Ave NW,Ste 650,Washington,DC,200042673,,,2024-09-23,477.24,0.00,Rental car expenses through CC program,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550592,500540618,SB21B,ORG,Conrad Hotel,,,,,,950 New York Ave NW,,Washington,DC,200013894,,,2024-10-07,4260.48,0.00,Lodging expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550552,500540618,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2024-09-23,72.52,0.00,Staff meals,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550571,500540618,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2024-09-26,27.80,0.00,Staff meals,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550573,500540618,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2024-09-29,10.59,0.00,Staff meals,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550577,500540618,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2024-09-30,68.21,0.00,Staff meals,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550583,500540618,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2024-10-03,44.21,0.00,Staff meals,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550585,500540618,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2024-10-04,75.20,0.00,Staff meals,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550588,500540618,SB21B,PAC,"DOORDASH, INC. POLITICAL ACTION COMMITTEE (DASH PAC)",,,,,,28 Liberty Ship Way,Ste 2815,Sausalito,CA,949653321,,,2024-10-06,34.62,0.00,Staff meals,,C00820167,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550563,500540618,SB21B,ORG,Eleven Wireless Wifi,,,,,,315 SW 11th Ave,Ste 300,Portland,OR,972052609,,,2024-09-24,59.95,0.00,Air WiFi expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550587,500540618,SB21B,ORG,Enterprise Rent-A-Car,,,,,,3900 NW 25th St,,Miami,FL,331426701,,,2024-10-05,100.00,0.00,Rental car expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550580,500540618,SB21B,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-01,338.35,0.00,Digital advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550576,500540618,SB21B,ORG,Instacart,,,,,,50 Beale St,Ste 600,San Francisco,CA,941051871,,,2024-09-30,216.14,0.00,Grocery delivery,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550553,500540618,SB21B,ORG,Microsoft Corporation,,,,,,901 K St NW,Fl 11,Washington,DC,200016441,,,2024-09-23,69.96,0.00,Software support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550581,500540618,SB21B,ORG,Storage USA,,,,,,1420 U St NW,,Washington,DC,200093916,,,2024-10-02,270.00,0.00,Public storage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550551,500540618,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2024-09-23,186.70,0.00,Office supplies expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550569,500540618,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2024-09-25,10.00,0.00,Office supplies expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550570,500540618,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2024-09-26,195.03,0.00,Office supplies expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550572,500540618,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2024-09-28,4.00,0.00,Office supplies expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550554,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-23,50.48,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550555,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-23,34.11,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550556,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-23,24.25,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550558,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-23,19.66,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550562,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-24,114.28,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550564,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-24,49.92,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550565,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-24,18.01,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550566,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-24,17.40,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550568,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-25,65.76,0.00,Staff meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550574,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-09-29,9.99,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550584,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-10-03,30.08,0.00,Staff meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550586,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-10-04,14.97,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550589,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-10-06,22.28,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550590,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-10-06,14.16,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500550591,500540618,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2024-10-06,12.98,0.00,Rideshare expenses,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,500537257,,,ORG,CBG Strategies,,,,,,1201 19th St N,,Birmingham,AL,352342560,,,2024-10-02,75000.00,0.00,Digital outreach strategy services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545315,,,ORG,Comcast,,,,,,900 Michigan Ave NE,,Washington,DC,200171833,,,2024-10-15,588.86,0.00,Telecommunication Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500537261,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-10-03,6.06,0.00,Merchant services discount,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500537263,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-10-03,57.04,0.00,Merchant services discount,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500537265,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-10-03,261.15,0.00,Merchant services discount,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540606,,,ORG,Global Strategy Group,,,,,,901 New York Ave NW,Ste 400W,Washington,DC,200015796,,,2024-10-07,29291.66,0.00,Public Affairs & Research Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540607,,,ORG,Global Strategy Group,,,,,,901 New York Ave NW,Ste 400W,Washington,DC,200015796,,,2024-10-10,9600.00,0.00,Public Affairs & Research Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540612,,,ORG,GPS Impact,,,,,,220 SE 6th St,Ste 330,Des Moines,IA,503094845,,,2024-10-08,93698.00,0.00,Media buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540613,,,ORG,GPS Impact,,,,,,220 SE 6th St,Ste 330,Des Moines,IA,503094845,,,2024-10-08,73000.00,0.00,Media buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540614,,,ORG,GPS Impact,,,,,,220 SE 6th St,Ste 330,Des Moines,IA,503094845,,,2024-10-10,93698.00,0.00,Media buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545320,,,ORG,GPS Impact,,,,,,220 SE 6th St,Ste 330,Des Moines,IA,503094845,,,2024-10-16,20028.85,0.00,Media buy,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540605,,,ORG,Harlem Strategies,,,,,,193 Malcolm X Blvd,Frnt A,New York,NY,100261378,,,2024-10-07,20205.00,0.00,Political consulting services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545326,,,ORG,HIT Strategies,,,,,,1220 L St NW,Ste Pm 100,Washington,DC,200054033,,,2024-10-16,60320.82,0.00,Strategy Consulting & Focus Group Panels,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540604,,,ORG,Kalik & Associates,,,,,,PO Box 341263,,Bethesda,MD,208271263,,,2024-10-07,1750.00,0.00,Political consulting and compliance services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500537252,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-01,100000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500537253,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-01,50000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540608,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-07,100000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540609,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-07,50000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540610,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-08,100000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540611,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-08,100000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540615,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-10,50000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545322,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-16,55000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545323,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-16,100000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545325,,,ORG,Liftoff Campaigns,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-16,100000.00,0.00,Digital fundraising and outreach/communication services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545318,,,ORG,Public Policy Polling,,,,,,2912 Highwoods Blvd,Ste 201,Raleigh,NC,276041095,,,2024-10-16,3500.00,0.00,Polling services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500537266,,,IND,,Streeter,Princess,,,,848 Ames Hill Dr,,Tewksbury,MA,018761170,,,2024-10-03,1500.00,0.00,Fundraising consulting services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500540616,,,ORG,The New York Times,,,,,,620 8th Ave,,New York,NY,100181618,,,2024-10-09,24.38,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500545314,,,ORG,The Washington Post,,,,,,1150 15th St NW,,Washington,DC,200710001,,,2024-10-15,12.72,0.00,Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,500537255,,,ORG,"Your Way IT Solutions, LLC",,,,,,9301 Largo Dr W,Ste 204,Upper Marlboro,MD,207744884,,,2024-10-02,500.00,0.00,Software support,,,,,,,,,,,,,,,,,,,X,*

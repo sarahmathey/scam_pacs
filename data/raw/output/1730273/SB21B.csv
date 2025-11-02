@@ -1,0 +1,75 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00833350,500026330,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-07-31,90.85,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026280,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-07-23,2415.45,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026512,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-10,2253.50,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026203,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-07-16,2211.07,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026613,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-24,1348.17,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026223,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-07-14,14469.11,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026210,500026223,SB21B,ORG,Newport News Marriot,,,,,,740 Town Center Dr,,Newport News,VA,236064274,,,2023-07-14,799.69,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026220,500026223,SB21B,ORG,Guardian Parking Service,,,,,,3003 Chartwood Dr,,Sandston,VA,231504122,,,2023-07-14,1900.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026211,500026223,SB21B,ORG,Jefferson Hotel,,,,,,1200 16Th St NW,,Washington,DC,200363202,,,2023-07-14,377.45,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026221,500026223,SB21B,ORG,Resortman,,,,,,12 Beetle Swamp Rd,,Edgartown,MA,025397504,,,2023-07-14,866.33,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026212,500026223,SB21B,ORG,RPM Italian,,,,,,650 K St NW,,Washington,DC,200011341,,,2023-07-14,114.51,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026222,500026223,SB21B,ORG,Williamsburg Chauffeur,,,,,,3306 Craggy Oak Ct,Ste 101,Williamsburg,VA,231881064,,,2023-07-14,357.50,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026213,500026223,SB21B,ORG,Valet Parking,,,,,,1200 S Courthouse Rd,,Arlington,VA,222046256,,,2023-07-14,33.39,0.00,Parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026204,500026223,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-07-14,983.40,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026205,500026223,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2023-07-14,2123.80,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026215,500026223,SB21B,ORG,Microsoft,,,,,,1 Microsoft Way,,Redmond,WA,980528300,,,2023-07-14,99.99,0.00,Software Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026206,500026223,SB21B,ORG,Enterprise Car Rental Alexandria,,,,,,5954 Richmond Hwy,,Alexandria,VA,223031871,,,2023-07-14,413.54,0.00,Car Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026216,500026223,SB21B,ORG,Lyft Ride,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-07-14,284.01,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026207,500026223,SB21B,ORG,Aramark,,,,,,6601 W Broad St,,Richmond,VA,232301723,,,2023-07-14,2165.69,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026217,500026223,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2023-07-14,315.42,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026208,500026223,SB21B,ORG,Galley Restaurant,,,,,,54 Jefferson Ave,,Nantucket,MA,025542272,,,2023-07-14,786.50,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026218,500026223,SB21B,ORG,Cranberry Transportation,,,,,,4 Salros Rd,,Nantucket,MA,025542794,,,2023-07-14,2080.18,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026228,500026223,SB21B,ORG,Lyft Ride,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-07-14,154.73,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026209,500026223,SB21B,ORG,Flowers On Chesnut,,,,,,1 Chestnut St,,Nantucket,MA,025543506,,,2023-07-14,475.00,0.00,Flowers for Donors,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026323,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-07-26,110.25,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026623,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-09-27,95.25,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026173,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-07-02,474.00,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026383,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-08-18,27670.96,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026390,500026383,SB21B,ORG,"NGP VAN, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-08-18,3250.00,0.00,Database Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026391,500026383,SB21B,ORG,The Monocle,,,,,,107 D St NE,,Washington,DC,200025657,,,2023-08-18,2308.80,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026382,500026383,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2023-08-18,1515.95,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026392,500026383,SB21B,ORG,Valet Parking,,,,,,1200 S Courthouse Rd,,Arlington,VA,222046256,,,2023-08-18,1075.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026393,500026383,SB21B,ORG,L'Ardente,,,,,,200 Massachusetts Ave NW,,Washington,DC,200011429,,,2023-08-18,3750.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026384,500026383,SB21B,ORG,Lyft Ride,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-08-18,368.10,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026394,500026383,SB21B,ORG,Balducci's,,,,,,40 Water St,Fl 5,Boston,MA,021093604,,,2023-08-18,497.61,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026395,500026383,SB21B,ORG,The Boeing Company,,,,,,929 Long Bridge Dr,,Arlington,VA,222024208,,,2023-08-18,2765.52,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026386,500026383,SB21B,ORG,Hotel George,,,,,,15 E St NW,,Washington,DC,200011501,,,2023-08-18,2989.70,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026396,500026383,SB21B,ORG,Enterprise Rent-A-Car,,,,,,2778 S Arlington Mill Dr,,Arlington,VA,222063402,,,2023-08-18,523.79,0.00,Car Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026387,500026383,SB21B,ORG,Hotel Roanoke,,,,,,110 Shenandoah Ave NE,,Roanoke,VA,240162025,,,2023-08-18,315.18,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026397,500026383,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2023-08-18,4058.84,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026388,500026383,SB21B,ORG,CCI Hotel,,,,,,3010 Lyndon B Johnson Fwy,Ste 1550,Dallas,TX,752342779,,,2023-08-18,339.56,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026398,500026383,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2023-08-18,975.40,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026399,500026383,SB21B,ORG,Saint Germain Catering,,,,,,8455 Tyco Rd,Ste K,Vienna,VA,221822210,,,2023-08-18,2873.55,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026293,,,IND,,Ahrens,Jennifer,Nadicksbernd,,,164 N Quarter,,Williamsburg,VA,231855152,,,2023-07-26,884.21,0.00,Catering/Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026290,500026293,SB21B,ORG,Straight Wharf,,,,,,6 Harbor Sq,,Nantucket,MA,025546107,,,2023-07-26,338.38,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026292,500026293,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2023-07-26,36.60,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026288,500026293,SB21B,ORG,Williamsburg Chauffeur,,,,,,3306 Craggy Oak Ct,Ste 101,Williamsburg,VA,231881064,,,2023-07-26,189.00,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026289,500026293,SB21B,ORG,Alpha Omega Winery,,,,,,1155 Mee Ln,,Saint Helena,CA,945749792,,,2023-07-26,253.81,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026244,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2023-07-19,2022.25,0.00,Airfare Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026243,500026244,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2023-07-19,2022.25,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026354,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-13,928.13,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026554,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-09-18,14280.97,0.00,CREDIT CARD PAYMENT,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026540,500026554,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2023-09-18,550.52,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026550,500026554,SB21B,ORG,Chopsmith,,,,,,11 District Sq SW,,Washington,DC,200242490,,,2023-09-18,720.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026541,500026554,SB21B,ORG,Lyft Ride,,,,,,2300 Harrison St,,San Francisco,CA,941102013,,,2023-09-18,64.95,0.00,Transportation Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026551,500026554,SB21B,ORG,"Washington National Stadium, LLC",,,,,,1500 S Capitol St SE,,Washington,DC,200033599,,,2023-09-18,3861.78,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026552,500026554,SB21B,ORG,Enterprise Car Rental Alexandria,,,,,,5954 Richmond Hwy,,Alexandria,VA,223031871,,,2023-09-18,654.77,0.00,Car Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026553,500026554,SB21B,ORG,American Airlines,,,,,,1 Skyview Dr,,Fort Worth,TX,761551801,,,2023-09-18,1080.80,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026546,500026554,SB21B,ORG,The Jefferson Hotel,,,,,,101 W Franklin St,,Richmond,VA,232205009,,,2023-09-18,1000.00,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026547,500026554,SB21B,ORG,RPM Italian,,,,,,650 K St NW,,Washington,DC,200011341,,,2023-09-18,2224.68,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026548,500026554,SB21B,ORG,Hill Country,,,,,,410 7Th St NW,,Washington,DC,200042217,,,2023-09-18,3337.50,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026549,500026554,SB21B,ORG,EzCater Tatte Bakery,,,,,,40 Water St,Fl 5,Boston,MA,021093604,,,2023-09-18,607.71,0.00,Catering/Events,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026194,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-07-09,697.19,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026425,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-20,547.09,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026475,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2023-08-25,150.25,0.00,Bank Service Charge,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026316,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-07-30,2217.93,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026626,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-30,1830.83,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026336,,,ORG,"MLT Strategic Fundraising, LLC",,,,,,620 N Vermont St,,Arlington,VA,222032021,,,2023-08-07,630.06,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026335,500026336,SB21B,ORG,Marriott Newport Beach,,,,,,900 Newport Center Dr,,Newport Beach,CA,926606206,,,2023-08-07,630.06,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00833350,500026556,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-17,3019.78,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026337,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-06,1145.55,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026487,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-31,527.33,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026468,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-08-27,284.41,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00833350,500026488,,,ORG,ActBlue,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-03,59.25,0.00,Processing Fee,,,,,,,,,,,,,,,,,,,,

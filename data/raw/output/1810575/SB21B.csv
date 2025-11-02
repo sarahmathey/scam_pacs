@@ -1,0 +1,961 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00193433,SB21B-417536,,,ORG,Paragon Payment Solutions ,,,,,,2141 East Broadway Rd,Ste 202,Tempe,AZ,85282,,,2024-07-02,356.23,0.00,Credit Card Service Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417299,,,ORG,Ascensus Trust ,,,,,,1655 43rd Street S,Ste 100,Fargo,ND,58103,,,2024-07-02,52949.07,0.00,Employment Pension/ 401(k),,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417300,,,ORG,Paragon Payment Solutions ,,,,,,2141 East Broadway Rd,Ste 202,Tempe,AZ,85282,,,2024-07-02,17324.87,0.00,Credit Card Service Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417537,,,ORG,First Data Merchant Services ,,,,,,PO Box 6010,,Hagerstown,MD,21741,,,2024-07-03,25.00,0.00,Credit Card Service Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417301,,,ORG,First Data Merchant Services ,,,,,,PO Box 6010,,Hagerstown,MD,21741,,,2024-07-03,4390.30,0.00,Credit Card Service Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417257,,,IND,,Avachat,Arushi,,,,175 Rocky Creek Palce,,Pleasanton,CA,94566,,,2024-07-05,470.98,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417258,,,IND,,Barnes,Saylor,,,,1004 Wymers Court,,Chesapeake,VA,23322,,,2024-07-05,565.19,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417259,,,IND,,DePreist-Sullivan,Isabella,,,,60 Hollywood Drive,,Hastings on Hudson,NY,10706,,,2024-07-05,1038.83,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417260,,,IND,,Frid Lotenberg,Twyla,,,,204 W109th,LL1,New York,NY,10025,,,2024-07-05,519.80,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417256,,,IND,,Jones,Amaree,,,,4395 Creekridge Lane,,Kernersville,NC,27284,,,2024-07-05,1021.50,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417272,,,IND,,Kurtulus,Meliz,,,,16 Sunset Park,,Montclair,NJ,07043,,,2024-07-05,536.38,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417261,,,IND,,Lenti-Navarro,Valery,,,,21 Maiden Lane,3a,New York,NY,10038,,,2024-07-05,454.83,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417262,,,IND,,Munoz Ramones,Gabriel,,,,18328 SW 148th rd,,Miami,FL,33187,,,2024-07-05,1038.83,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417263,,,IND,,Murray,Camille,,,,1635 Potter Drive,,Pottstown,PA,19464,,,2024-07-05,486.16,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417264,,,IND,,Nguyen,Tara,,,,5730 Westfield Street,,Yorba Linda,CA,92887,,,2024-07-05,928.93,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417265,,,IND,,Rastogi,Megha,,,,34 Park Hill Terrace,,Princeton Junction,NJ,08550,,,2024-07-05,936.71,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417266,,,IND,,Rice,Ellie,,,,229 Chestnut Street,,Englewood,NJ,07631,,,2024-07-05,1038.83,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417267,,,IND,,Scharf,Abigail,,,,2101 Champlain St NW,Apt 416,Washington,DC,20009,,,2024-07-05,900.98,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417268,,,IND,,Shea,Alvina,,,,27 Monterey Drive,,Daly City,CA,94015,,,2024-07-05,1022.34,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417269,,,IND,,Tennant,Emma,,,,2400 M St NW,631,Washington,DC,20037,,,2024-07-05,948.22,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417270,,,IND,,Worthington,Amelia Grace,,,,6536 44th Avenue SW,,Seattle,WA,98136,,,2024-07-05,1025.64,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417271,,,IND,,Yun,Yunji,,,,3700 O Street NW,,Washington,DC,20057,,,2024-07-05,899.84,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417292,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-05,3725.44,0.00,Taxes - Payroll ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417294,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-05,174.75,0.00,Payroll Service ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415944,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-12,36167.10,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415945,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-12,6602.77,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415946,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-12,4017.05,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415947,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-12,15491.09,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415948,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-12,49349.79,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415949,,,ORG,Impact Communications Inc. ,,,,,,"735 8th Street, SE Fl.2",,Washington,DC,20003,,,2024-07-12,1750.00,0.00,Consulting Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415950,,,ORG,Data Axle ,,,,,,Brooklandville,,Saint Louis,MO,63195,,,2024-07-12,1537.87,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415951,,,ORG,Data Axle ,,,,,,Brooklandville,,Saint Louis,MO,63195,,,2024-07-12,37.50,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415952,,,ORG,Data Axle ,,,,,,Brooklandville,,Saint Louis,MO,63195,,,2024-07-12,45.00,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415953,,,ORG,Data Axle ,,,,,,Brooklandville,,Saint Louis,MO,63195,,,2024-07-12,26.12,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415954,,,ORG,Data Axle ,,,,,,Brooklandville,,Saint Louis,MO,63195,,,2024-07-12,99.20,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415955,,,IND,,Fennelly,Kendall,,,,1331 Blackwalnut Court,,Annapolis,MD,21403,,,2024-07-12,2000.00,0.00,Research Consulting ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415956,,,ORG,Iron Mountain ,,,,,,P  O Box 27128,,New York,NY,10087,,,2024-07-12,3548.93,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415957,,,ORG,Resultant ,,,,,,Dept. 230,P.O. BOX 4985,Houston,TX,77210,,,2024-07-12,10560.00,0.00,Computer Supplies/Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415958,,,ORG,"Legato Security, LLC ",,,,,,PO Boc 1348,,Salt Lake City,UT,84110,,,2024-07-12,4732.00,0.00,Consulting Data-Technology,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415959,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-12,2307.48,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415960,,,ORG,Belardi Wong ,,,,,,PO BOX 5173,,New York,NY,10087,,,2024-07-12,8069.70,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415961,,,ORG,"Miller's Office Products, Inc. ",,,,,,PO Box 1537,,Newington,VA,22122,,,2024-07-12,361.65,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415962,,,ORG,"My Warchest, Inc. ",,,,,,4200 Wisconsin Ave.,NW #106-206,Washington,DC,20016,,,2024-07-12,3736.50,0.00,Polling/Surveys ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415963,,,ORG,Oasis Imagery and Film ,,,,,,6500 Sunset Blvd,,Hollywood,CA,90028,,,2024-07-12,5067.00,0.00,Consulting Social Media,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415964,,,ORG,Pantheon Analytics ,,,,,,2616 38th Ave SW,,Seattle,WA,98126,,,2024-07-12,2750.00,0.00,Consulting Data-Technology,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415966,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-12,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415967,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-12,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415968,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-12,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415969,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-12,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415970,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-12,290.06,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415971,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-12,197.50,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415972,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-12,215.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415973,,,ORG,Strive Messaging Inc. ,,,,,,PO Box 580,,Chester,VT,05143,,,2024-07-12,36100.00,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415974,,,ORG,Strive Messaging Inc. ,,,,,,PO Box 580,,Chester,VT,05143,,,2024-07-12,2166.00,0.00,Taxes - Sales & Use,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415976,,,ORG,3TONE ,,,,,,328 Argyle Road,,Brooklyn,NY,11218,,,2024-07-12,3000.00,0.00,Consulting Data-Technology,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415978,,,ORG,"Chapman Cubine Allen and Hussey, Inc.",,,,,,2000 15th Street North,Ste 550,Arlington,VA,22201,,,2024-07-12,10564.00,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415979,,,ORG,"Chapman Cubine Allen and Hussey, Inc.",,,,,,2000 15th Street North,Ste 550,Arlington,VA,22201,,,2024-07-12,24580.00,0.00,Consulting Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415980,,,ORG,"Chapman Cubine Allen and Hussey, Inc.",,,,,,2000 15th Street North,Ste 550,Arlington,VA,22201,,,2024-07-12,37647.58,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415983,,,ORG,CAREERS IN NONPROFITS ,,,,,,PO BOX 13188,,Milwaukee,WI,53213,,,2024-07-12,1908.00,0.00,Temporary Help ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415984,,,ORG,"Cogent Communications, Inc. ",,,,,,P.O. Box 791087,,Baltimore,MD,212791087,,,2024-07-12,3085.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415985,,,ORG,Sapphire Strategies ,,,,,,3225 McKinley St NW,,Washington,DC,20015,,,2024-07-12,20000.00,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415986,,,ORG,Sapphire Strategies ,,,,,,3225 McKinley St NW,,Washington,DC,20015,,,2024-07-12,20000.00,0.00,List Rental ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-415987,,,ORG,Sapphire Strategies ,,,,,,3225 McKinley St NW,,Washington,DC,20015,,,2024-07-12,10000.00,0.00,Consulting Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417075,,,IND,,Fines,Caroline,,,,10621 Regent Park Court,,Fairfax,VA,22030,,,2024-07-15,4404.17,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417076,,,IND,,Shah,Aneri,,,,4500 Connecticut Avenue Northwest,#904,Washington,DC,20008,,,2024-07-15,1090.57,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417077,,,IND,,Thomas,Sarah,,,,831 Marietta Pl NW,,Washington,DC,20011,,,2024-07-15,2382.16,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417078,,,IND,,Cohen,Angela,,,,"217 54th Street, NE",,Washington,DC,20019,,,2024-07-15,2032.05,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417079,,,IND,,Eick,Victoria,,,,2425 17th Street NW,Apt 118,Washington,DC,20009,,,2024-07-15,2577.28,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417080,,,IND,,Robinson,Denelle,,,,3902 Woodhaven Lane,,Bowie,MD,20715,,,2024-07-15,4336.13,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417081,,,IND,,Sharmin,Maria,,,,6006 7th Place Northwest,,Washington,DC,20011,,,2024-07-15,2001.31,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417082,,,IND,,Andrews,Sarah,,,,PO Box 1132,,Avon,CO,81620,,,2024-07-15,3630.83,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417083,,,IND,,Barrett,Lucy,,,,32 High Street,,Winooski,VT,05404,,,2024-07-15,3512.27,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417084,,,IND,,Collymore-Henry,Nai,,,,1247 Station Center Boulevard,,Suwanee,GA,30024,,,2024-07-15,3772.27,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417085,,,IND,,Durham,Lauren,,,,201 I St NE,Apt 702,Washington,DC,20002,,,2024-07-15,4796.38,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417086,,,IND,,Habenstreit,Noah,,,,2112 New Hampshire Ave NW,802,Washington,DC,20009,,,2024-07-15,3423.67,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417087,,,IND,,Mata,James,,,,368 Stewart Ave,,Columbus,OH,43206,,,2024-07-15,3425.16,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417088,,,IND,,Nunn,Anna,,,,308 S. Blount St.,401,Raleigh,NC,27601,,,2024-07-15,3762.45,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417089,,,IND,,Ray,Benjamin,,,,803 9th St NE,,Washington,DC,20002,,,2024-07-15,4638.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417090,,,IND,,Reed,Elise,,,,1605 28th Street S. #5,,Arlington,VA,22206,,,2024-07-15,1703.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417091,,,IND,,Robertson,Collyn,,,,3205 Grooms Street,Unit B,Austin,TX,78705,,,2024-07-15,3735.62,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417092,,,IND,,Silva Waki,Johanna,,,,415 Nevada Street,,San Francisco,CA,94110,,,2024-07-15,4809.78,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417093,,,IND,,Wagner,Chloe,,,,2216 N. Lincoln,Apt 2A,Chicago,IL,60614,,,2024-07-15,1765.51,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417094,,,IND,,Brown,Emma,,,,1312 Euclid St Nw,4,Washington,DC,20009,,,2024-07-15,3454.90,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417095,,,IND,,Fennelly,Kendall,,,,1331 Blackwalnut Court,,Annapolis,MD,21403,,,2024-07-15,1063.04,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417096,,,IND,,Howerton,Gabriella,,,,"1822 I St NE, #3",,Washington,DC,20001,,,2024-07-15,1845.39,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417097,,,IND,,Shivji,Alina,,,,"320 Florida Avenue NE, 429",,Washington,DC,20002,,,2024-07-15,2702.86,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417098,,,IND,,Sullivan,Cameron,,,,1000 I St NE,Apt 1,Washington,DC,20002,,,2024-07-15,3447.11,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417099,,,IND,,Vanway,Kathyrn,,,,45 Quarter Horse Dr,,Capon Bridge,WV,26711,,,2024-07-15,1708.97,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417100,,,IND,,Boone,Megan,,,,"101 G St. SW, Apt. A60",,Washington,DC,20024,,,2024-07-15,2196.45,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417101,,,IND,,Carrillo,Sarah,,,,329 S Washington Sq,Apt F,Lansing,MI,48933,,,2024-07-15,3185.88,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417102,,,IND,,Chrystal,Courtney,,,,1205 Half St SE,,Washington,DC,20003,,,2024-07-15,1718.96,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417103,,,IND,,Curmi,Sarah,,,,8868 Somerset Lane,,Ypsilanti,MI,48198,,,2024-07-15,5172.54,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417104,,,IND,,Elsenbast,Emily,,,,2751 N Milwaukee St,,Denver,CO,80205,,,2024-07-15,3628.31,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417105,,,IND,,Logan,Thaddeus,,,,3500 Rockmont Drive,Apt 2203,Denver,CO,80202,,,2024-07-15,3093.74,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417106,,,IND,,Maloney,Brittany,,,,9 Ambergreen Ct,,Middletown,OH,45044,,,2024-07-15,2712.74,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417107,,,IND,,McKenzie,Quiana,,,,6300 Terra Verde Drive,Unit 320,Raleigh,NC,27609,,,2024-07-15,3775.64,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417108,,,IND,,McNeal,Lestian,,,,152 S. Serrano Ave,,Los Angeles,CA,90004,,,2024-07-15,3171.18,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417109,,,IND,,Paprocki,Nicholas ,,,,124 Grandview Rd.,,Ardmore,PA,19003,,,2024-07-15,2974.45,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417110,,,IND,,Rankin,Devin,,,,2801 Williams Road,,Matthews,NC,28105,,,2024-07-15,3495.29,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417111,,,IND,,Rothmeier,Rebecca,,,,2801 Hennepin Ave,#196,Minneapolis,MN,55408,,,2024-07-15,3364.30,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417112,,,IND,,Waites,Janise,,,,745 Quebec Pl NW,,Washington,DC,20010,,,2024-07-15,1956.80,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417113,,,IND,,Wilke,Kimberly,,,,3315 Roswell Road NE,Apt 2032,Atlanta,GA,30305,,,2024-07-15,2907.37,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417114,,,IND,,Zaragoza,Josh,,,,8021 N. 15th Ave,,Phoenix,AZ,85021,,,2024-07-15,3520.81,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417115,,,IND,,Allison-Hearn,Emily,,,,120 Dellway Dr,,Nashville,TN,37207,,,2024-07-15,2598.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417116,,,IND,,Aquino Toledo,Yarianne,,,,2420 14th St NW,Apt 526,Washington,DC,20009,,,2024-07-15,3796.84,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417117,,,IND,,Bombardier,Kristen,,,,132 Saguaro Trail,,Georgetown,TX,78626,,,2024-07-15,1843.69,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417118,,,IND,,Medeiros,Jennifer,,,,3840 Porter St NW,Unit A379,Washington,DC,20016,,,2024-07-15,3112.69,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417119,,,IND,,Fox,Amelia,,,,"2007 Kalorama Rd, NW",Apt 1,Washington,DC,20009,,,2024-07-15,2606.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417120,,,IND,,Green,Courtney,,,,77 H Street NW,158,Washington,DC,20001,,,2024-07-15,2141.34,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417121,,,IND,,MacLeod,Fiona,,,,300 Morse Street NE,Apt 447,Washington,DC,20002,,,2024-07-15,2269.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417122,,,IND,,Reynolds,Elizabeth,,,,5213 Huntley Overlook Drive,,Durham,NC,27703,,,2024-07-15,6379.87,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417123,,,IND,,Spain,Sara,,,,24290 Letchworth Road,,Beachwood,OH,44122,,,2024-07-15,3256.75,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417124,,,IND,,Puentes,Rebeca,,,,921 Potomac Avenue SE,,Washington,DC,20003,,,2024-07-15,3356.99,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417125,,,IND,,Roberts,Sydney,,,,5929 Fairman Street,,Lakewood,CA,90713,,,2024-07-15,2124.97,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417126,,,IND,,Caldwell,Morgan,,,,1600 S Joyce St,Apt 506,Arlington,VA,22202,,,2024-07-15,2100.04,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417127,,,IND,,Cooper,Lizzie,,,,945 Route 35,,Cross River,NY,10518,,,2024-07-15,4609.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417128,,,IND,,Frost,Alyssa,,,,1815 13th St NW,,Washington,DC,20009,,,2024-07-15,1975.41,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417129,,,IND,,Hathaway,Elizabeth,,,,770 P Street NW ,Apt 614,Washington,DC,20004,,,2024-07-15,2242.73,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417130,,,IND,,Husain,Alina,,,,9686 Summerlakes Drive,,Carmel,IN,46032,,,2024-07-15,1929.28,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417131,,,IND,,Hutchison,Brianna,,,,12803 Shannon Hills Dr,,Houston,TX,77009,,,2024-07-15,2162.48,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417132,,,IND,,Korvin,Audrey,McFarland,,,9515 Dallas Avenue,,Silver Spring,MD,20901,,,2024-07-15,2487.09,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417133,,,IND,,Lidman,Anna,,,,37 Brookview Terrace,,Portland,ME,04102,,,2024-07-15,3824.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417134,,,IND,,McKenzie,Natasha,,,,1428 K Street SE,,Washington,DC,20003,,,2024-07-15,3775.48,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417135,,,IND,,Pfaehler,Amy,,,,10 Lakeside Ct,,Grosse Pointe,MI,48230,,,2024-07-15,4844.02,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417136,,,IND,,Ross,Stella,,,,923 N. Parish Place,,Burbank,CA,91506,,,2024-07-15,4583.32,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417137,,,IND,,Schumaker,Nicholas,,,,9894 Becket Ct,,Fairfax,VA,22032,,,2024-07-15,4974.83,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417138,,,IND,,Bieling,Andrea,,,,"1127 7th St, NE",Unit 1,Washington,DC,20002,,,2024-07-15,3518.89,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417139,,,IND,,Keegan,Julia,,,,4 Kelly Court,,Ossining,NY,10562,,,2024-07-15,1609.01,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417140,,,IND,,Leonard,Ashley,,,,4103 Saint Clair Pl,,Temple Hills,MD,20748,,,2024-07-15,2466.14,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417141,,,IND,,Morrisey,Sarah,,,,11607 Brookway Court,,Woodbridge,VA,22192,,,2024-07-15,2275.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417142,,,IND,,Bhogaraju,Shivani,,,,1550 North Clark Street,,Chicago,IL,60610,,,2024-07-15,1605.03,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417143,,,IND,,Bowers,Caroline,,,,2130 P St NW,Apt 808,Washington,DC,20037,,,2024-07-15,1969.69,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417144,,,IND,,Briddell,Kyra,,,,13185 Tory Loop,,Woodbridge,VA,22192,,,2024-07-15,2251.89,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417145,,,IND,,Frempong,Leslie,,,,25120 Panther Bend Court,#466,Spring,TX,77380,,,2024-07-15,4007.31,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417146,,,IND,,Loeffler,Meaghan,,,,1035 S Stresa Way,,Anaheim Hills,CA,92808,,,2024-07-15,2078.32,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417147,,,IND,,Macrae,Kelly,,,,799 Cherry Street,#3,Denver,CO,80220,,,2024-07-15,2019.17,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417148,,,IND,,Presley,Kathryn,,,,105 E Wayne Ave,,Silver Spring,MD,20901,,,2024-07-15,2583.20,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417149,,,IND,,Sparago,Christen,,,,2737 Devonshire PL NW,#503,Washington,DC,20008,,,2024-07-15,3667.77,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417150,,,IND,,Ulrey,Olivia,,,,620 S Columbus St,,Alexandria,VA,22314,,,2024-07-15,2639.37,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417151,,,IND,,Wilson,Cecilia,,,,46 Adams St NW,,Washington,DC,20001,,,2024-07-15,2368.11,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417152,,,IND,,Berkowitz,Jillian,,,,52 Mountainview Road,,Millburn,NJ,07041,,,2024-07-15,1896.66,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417153,,,IND,,Nelander,Maya,,,,713 Lamont Street NW,Apt 307,Washington,DC,20010,,,2024-07-15,3118.23,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417154,,,IND,,Mackler,Jessica,,,,6203 Vorlich Lane,,Bethesda,MD,20816,,,2024-07-15,9632.23,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417155,,,IND,,Malcolm,Ellen,R,,,"5060 Linnean Avenue, NW",,Washington,DC,20008,,,2024-07-15,909.51,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417156,,,IND,,Schaefer,Melissa,,,,201 Beryl Way,,Watervliet,NY,12189,,,2024-07-15,2251.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417157,,,IND,,White,Michelle,,,,2932 New Mexico Ave NW,,Washington,DC,20016,,,2024-07-15,5428.16,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417158,,,IND,,Arghal,Radha,,,,3573 Warder Street NW,Apt 8,Washington,DC,20010,,,2024-07-15,3924.06,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417159,,,IND,,Cajchun,Lesbia,,,,"2902 Kings Chapel Rd, #7",,Falls Church,VA,22042,,,2024-07-15,3463.02,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417160,,,IND,,Glick,Rachel,,,,734 Park Rd NW,Unit 101,Washington,DC,20010,,,2024-07-15,1896.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417161,,,IND,,Kaiser,Brittany,,,,6210 Belcrest Road,Apt 1210,Hyattsville,MD,20782,,,2024-07-15,2144.28,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417162,,,IND,,Keating,Ray,,,,816 Lucky Rd,,Severn,MD,21144,,,2024-07-15,2656.56,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417163,,,IND,,Kesler,Devereaux,,,,310 M St NW,Apt 4,Washington,DC,20001,,,2024-07-15,2260.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417164,,,IND,,Slack,Olivia,,,,339 Dora Ave,,Bremerton,WA,98312,,,2024-07-15,3397.27,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417165,,,IND,,Williams,Melissa,,,,15 South Irving Street,,Arlington,VA,22204,,,2024-07-15,4861.65,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417295,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-15,576.03,0.00,Payroll Service ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417290,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-15,141878.39,0.00,Taxes - Payroll ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417305,,,ORG,Velosio ,,,,,,PO Box 933191,,Cleveland,OH,44193,,,2024-07-15,3180.00,0.00,Computer Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417298,,,ORG,Ascensus Trust ,,,,,,1655 43rd Street S,Ste 100,Fargo,ND,58103,,,2024-07-16,53863.84,0.00,Employment Pension/ 401(k),,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416425,,,ORG,Blackbaud ,,,,,,PO Box 830413,,Philadelphia,PA,19182,,,2024-07-18,2000.00,0.00,Data Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416426,,,IND,,Cohen,Angela,,,,"217 54th Street, NE",,Washington,DC,20019,,,2024-07-18,148.39,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416428,,,ORG,HR Direct ,,,,,,PO Box 669390,,Pompano Beach,FL,33066,,,2024-07-18,17.15,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416429,,,ORG,"The MIS Department, Inc. ",,,,,,2115 N California Ave,,Chicago,IL,60647,,,2024-07-18,16823.00,0.00,Consulting Data-Technology,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416430,,,ORG,Noreast Group LLC ,,,,,,23 Exeter Street,,Providence,RI,02906,,,2024-07-18,7000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416431,,,ORG,Safeguard Shredding Attn: Accounts Receivable,,,,,,PO Box 3219,,Oakton,VA,22124,,,2024-07-18,85.00,0.00,Equipment Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416432,,,ORG,US Postal Service Attn: Postmaster,,,,,,900 Brentwood Rd NE,,Washington,DC,20018,,,2024-07-18,10000.00,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416465,,,ORG,Allied Printing Resources ,,,,,,33 Commerce Road,,Carlstadt,NJ,07072,,,2024-07-18,11310.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416466,,,ORG,"Askwright Creative, LLC ",,,,,,1015 Oak Way,,Madison,WI,53705,,,2024-07-18,3000.00,0.00,Consulting Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416467,,,ORG,First-Citizens Bank & Trust Co ,,,,,,21146 Network Place,,Chicago,IL,60673,,,2024-07-18,366.52,0.00,Equipment Maintenance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416468,,,ORG,"1800 M STREET REIT, LP ",,,,,,P.O. Box 21526,,New York,NY,10087,,,2024-07-18,69263.97,0.00,Rent ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416433,,,ORG,Armfield Harrison & Thomas Inc ,,,,,,20 South King Street,,Leesburg,VA,20175,,,2024-07-18,91107.74,0.00,Insurance General,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416434,,,ORG,"Gordon and Schwenkmeyer, Inc. ",,,,,,300 N. Sepulveda Blvd.,Suite 2050,El Segundo,CA,90245,,,2024-07-18,7303.80,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416435,,,ORG,"Gordon and Schwenkmeyer, Inc. ",,,,,,300 N. Sepulveda Blvd.,Suite 2050,El Segundo,CA,90245,,,2024-07-18,17276.28,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416436,,,ORG,"Gordon and Schwenkmeyer, Inc. ",,,,,,300 N. Sepulveda Blvd.,Suite 2050,El Segundo,CA,90245,,,2024-07-18,6565.80,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416437,,,ORG,"Gordon and Schwenkmeyer, Inc. ",,,,,,300 N. Sepulveda Blvd.,Suite 2050,El Segundo,CA,90245,,,2024-07-18,3982.98,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416438,,,ORG,"Gordon and Schwenkmeyer, Inc. ",,,,,,300 N. Sepulveda Blvd.,Suite 2050,El Segundo,CA,90245,,,2024-07-18,2314.53,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416439,,,ORG,"Gordon and Schwenkmeyer, Inc. ",,,,,,300 N. Sepulveda Blvd.,Suite 2050,El Segundo,CA,90245,,,2024-07-18,3480.23,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416440,,,IND,,Fennelly,Kendall,,,,1331 Blackwalnut Court,,Annapolis,MD,21403,,,2024-07-18,2000.00,0.00,Research Consulting ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416620,,,IND,,Fennelly,Kendall,,,,1331 Blackwalnut Court,,Annapolis,MD,21403,,,2024-07-18,2000.00,0.00,Research Consulting ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416442,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-18,1599.72,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416443,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-18,3482.64,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416444,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-18,2358.16,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416445,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-18,1696.30,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416446,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-18,3046.12,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416450,,,ORG,"EveryAction, Inc ",,,,,,"655 15th Stree, NW",Ste 560,Washington,DC,20005,,,2024-07-18,4134.00,0.00,Database Support ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416451,,,ORG,"EveryAction, Inc ",,,,,,"655 15th Stree, NW",Ste 560,Washington,DC,20005,,,2024-07-18,1824.21,0.00,Data Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416452,,,ORG,"Nova Label Co., Inc. ",,,,,,4819 Lydell Rd,,Cheverly,MD,20781,,,2024-07-18,954.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416453,,,ORG,Purchase Power ,,,,,,PO Box 371874,,Pittsburgh,PA,15250,,,2024-07-18,200.00,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416454,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-18,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416455,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-18,162.50,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416456,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-18,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416457,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-18,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416458,,,ORG,United Envelope ,,,,,,PO Box 10576,,Albany,NY,12201,,,2024-07-18,2119.52,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416459,,,ORG,Blackbaud ,,,,,,PO Box 830413,,Philadelphia,PA,19182,,,2024-07-18,2120.00,0.00,Data Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416460,,,ORG,CAREERS IN NONPROFITS ,,,,,,PO BOX 13188,,Milwaukee,WI,53213,,,2024-07-18,1258.75,0.00,Temporary Help ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416461,,,ORG,DCM ,,,,,,261 West 35th St,Suite 600,New York,NY,10001,,,2024-07-18,1276.80,0.00,Phone Banks ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416462,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-18,4360.94,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416463,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-18,34287.05,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416464,,,ORG,"DocuSign, Inc. ",,,,,,221 Main Street Ste 1000,,San Francisco,CA,94105,,,2024-07-18,10843.80,0.00,Computer Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417540,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,1011.87,0.00,Catering/Facilities ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417540-10000,SB21B-417540,SB21B,ORG,PISCO Y NASCA,,,,,,1823 L STREET NW,,WASHINGTON,DC,20036,,,2024-07-19,1011.87,0.00,Catering/Facilities ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417543,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,16.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417543-10000,SB21B-417543,SB21B,ORG,UNITED AIRLINES,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,8.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417543-20000,SB21B-417543,SB21B,ORG,UNITED AIRLINES,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,8.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417544,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,250.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417544-10000,SB21B-417544,SB21B,ORG,UNITED AIRLINES,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,10.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417544-20000,SB21B-417544,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,32.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417544-30000,SB21B-417544,SB21B,ORG,EAT BRGZ- WEST END,,,,,,1200 NEW HAMPSHIRE AVENUE NORT,,WASHINGTON,DC,20036,,,2024-07-19,42.90,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417544-40000,SB21B-417544,SB21B,ORG,PLANTA DC LLC,,,,,,1200 NEW HAMPSHIRE AVE NW,,WASHINGTON,DC,20036,,,2024-07-19,50.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417544-50000,SB21B-417544,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,55.45,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417544-60000,SB21B-417544,SB21B,ORG,YOURS TRULY DC,,,,,,1143 NEW HAMPSHIRE AVE NW,,WASHINGTON,DC,20037,,,2024-07-19,60.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417321,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,5.40,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417321-10000,SB21B-417321,SB21B,ORG,WACHETE S.R.O.,,,,,,BENISKOVE 1285/5,,PRAGUE,,150 00,,,2024-07-19,5.40,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417322,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,771.14,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417322-10000,SB21B-417322,SB21B,ORG,ISMAIL CAB,,,,,,-,,ALEXANDRIA,VA,22304,,,2024-07-19,28.18,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417322-20000,SB21B-417322,SB21B,ORG,OSCAR CARDONA,,,,,,-,,KENNER,LA,70065,,,2024-07-19,45.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417322-30000,SB21B-417322,SB21B,ORG,CURB SVC. - TAXI,,,,,,11-11 34TH AVENUE,,ASTORIA,NY,11106,,,2024-07-19,45.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417322-40000,SB21B-417322,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,298.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417322-50000,SB21B-417322,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,354.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417323,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,24.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417323-10000,SB21B-417323,SB21B,ORG,BURLINGTON INT AIRPORT,,,,,,1200 AIRPORT DRIVE SUITE,,SOUTH BURLINGTON,VT,05403,,,2024-07-19,24.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,572.04,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417324-10000,SB21B-417324,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,3.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-20000,SB21B-417324,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,4.73,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-30000,SB21B-417324,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,4.77,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-40000,SB21B-417324,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,11.86,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-50000,SB21B-417324,SB21B,ORG,STARBUCKS PRE-SECURITY DC,,,,,,REGAN INTL AIRPORT,,WASHINGTON,DC,20001,,,2024-07-19,14.03,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-60000,SB21B-417324,SB21B,ORG,TATTE BAKERY 630031,,,,,,1634 I STREET NW,,WASHINGTON,DC,20006,,,2024-07-19,19.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-70000,SB21B-417324,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,21.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-80000,SB21B-417324,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,23.65,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-90000,SB21B-417324,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,23.84,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-100000,SB21B-417324,SB21B,ORG,MAXWELL PARK SHAW,,,,,,1336 9TH ST NW,,WASHINGTON,DC,200014988,,,2024-07-19,40.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417324-110000,SB21B-417324,SB21B,ORG,THE CAPITAL HILTON,,,,,,1001 16TH STREET NW,,WASHINGTON,DC,20036,,,2024-07-19,404.67,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,2153.88,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417325-10000,SB21B-417325,SB21B,ORG,SBUX02698,,,,,,8310 GREENWAY BLVD,,MIDDLETON,WI,53562,,,2024-07-19,11.97,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-20000,SB21B-417325,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,26.35,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-30000,SB21B-417325,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,27.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-40000,SB21B-417325,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,48.93,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-50000,SB21B-417325,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,49.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-60000,SB21B-417325,SB21B,ORG,VTS SUN TAXI,,,,,,VTS SUN TAXI,,LONG ISLAND CITY,NY,11101,,,2024-07-19,56.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-70000,SB21B-417325,SB21B,ORG,VTS SUN TAXI,,,,,,VTS SUN TAXI,,LONG ISLAND CITY,NY,11101,,,2024-07-19,58.44,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-80000,SB21B-417325,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,112.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-90000,SB21B-417325,SB21B,ORG,LITTLEBIRD,,,,,,95 MONROE CENTER NW,,GRAND RAPIDS,MI,49503,,,2024-07-19,135.42,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-100000,SB21B-417325,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,247.43,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-110000,SB21B-417325,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,278.41,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-120000,SB21B-417325,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,541.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-130000,SB21B-417325,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,543.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417325-140000,SB21B-417325,SB21B,ORG,American Exoress,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,1138.65,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417332-10000,SB21B-417332,SB21B,ORG,STARBUCKS POST SEC MHT,,,,,,1001 WESTBROOK ST,,PORTLAND,ME,041021938,,,2024-07-19,16.34,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332-20000,SB21B-417332,SB21B,ORG,PRESSED CAFE BEDFORD,,,,,,216 SOUTH RIVER RD,,BEDFORD,NH,03110,,,2024-07-19,18.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332-30000,SB21B-417332,SB21B,ORG,DOUBLETREE BY HILTON MANC,,,,,,700 ELM ST,,MANCHESTER,NH,031012599,,,2024-07-19,28.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332-40000,SB21B-417332,SB21B,ORG,DOUBLETREE,,,,,,700 ELM STREET,,MANCHESTER,NH,03101,,,2024-07-19,43.64,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332-50000,SB21B-417332,SB21B,ORG,THE THIRSTY MOOSE TAPHOUSE - M,,,,,,795 ELM STREET,,MANCHESTER,NH,03101,,,2024-07-19,62.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332-60000,SB21B-417332,SB21B,ORG,BUDGET CREDIT CLUB DEPT.,,,,,,300 CENTRE POINTE DR.,,VIRGINIA BEACH,VA,234624415,,,2024-07-19,248.62,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332-70000,SB21B-417332,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,352.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417332-80000,SB21B-417332,SB21B,ORG,HILTON NET DIRECT RATES,,,,,,755 CROSSOVER LN,,MEMPHIS,TN,381174900,,,2024-07-19,368.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417340,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,-38.70,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417340-10000,SB21B-417340,SB21B,ORG,UNITED AIRLINES,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,-38.70,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417341,,,ORG,American Express ,,,,,,PO Box 360001,,American Express,FL,33336,,,2024-07-19,94.38,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417341-10000,SB21B-417341,SB21B,ORG,APPLE R116 CRABTREE VALLE,,,,,,4325 GLENWOOD AVE,,RALEIGH,NC,276124504,,,2024-07-19,94.38,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342,,,ORG,American Express ,,,,,,PO Box 360001,,American Express,FL,33336,,,2024-07-19,3483.88,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417342-10000,SB21B-417342,SB21B,ORG,JEREMIAHS ICE MATTHEWS NC,,,,,,3501 MATTHEWS MINT HILL RD,,MATTHEWS,NC,281053613,,,2024-07-19,7.69,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-20000,SB21B-417342,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,9.32,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-30000,SB21B-417342,SB21B,ORG,STARBUCKS COFFEE 65308,,,,,,436 TYVOLA ROAD,,CHARLOTTE,NC,28217,,,2024-07-19,10.72,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-40000,SB21B-417342,SB21B,ORG,DAILY BEER BAR,,,,,,611 CANAL STREET,,DURHAM,NC,27701,,,2024-07-19,11.16,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-50000,SB21B-417342,SB21B,ORG,BUC-EES 59,,,,,,165 STATE HWY 77,,HILLSBORO,TX,76645,,,2024-07-19,13.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-60000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,14.82,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-70000,SB21B-417342,SB21B,ORG,BUC-EES 59,,,,,,165 STATE HWY 77,,HILLSBORO,TX,76645,,,2024-07-19,15.35,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-80000,SB21B-417342,SB21B,ORG,SBUX14663,,,,,,SUITE 100,,AUSTIN,TX,78744,,,2024-07-19,15.42,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-90000,SB21B-417342,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,17.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-100000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,18.14,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-110000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,18.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-120000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,18.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-130000,SB21B-417342,SB21B,ORG,EXXONMOBIL CAT OUTSIDE,,,,,,CUST SVC 1 800 243 9966,,KANSAS CITY,MO,64141,,,2024-07-19,19.02,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-140000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,24.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-150000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,25.82,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-160000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,29.38,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-170000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,29.80,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-180000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,30.51,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-190000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,31.14,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-200000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,33.13,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-210000,SB21B-417342,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,37.75,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-220000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,40.34,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-230000,SB21B-417342,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,41.81,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-240000,SB21B-417342,SB21B,ORG,CHILI'S TYVOLA,,,,,,5521 WESTPARK DR,,CHARLOTTE,NC,28217,,,2024-07-19,43.26,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-250000,SB21B-417342,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,51.08,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-260000,SB21B-417342,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,51.76,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-270000,SB21B-417342,SB21B,ORG,TRU BY HILTON,,,,,,7900 E BEN WHITE BLVD,,AUSTIN,TX,78744,,,2024-07-19,151.33,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-280000,SB21B-417342,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30344,,,2024-07-19,302.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-290000,SB21B-417342,SB21B,ORG,DOUBLETREE CHARLOTTE EXEC,,,,,,5624 WESTPARK DR,,CHARLOTTE,NC,28217,,,2024-07-19,386.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-300000,SB21B-417342,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30344,,,2024-07-19,501.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-310000,SB21B-417342,SB21B,ORG,EMBASSY SUITES DALLAS PAR,,,,,,13131 N CENTRAL EXPRESSWY,,DALLAS,TX,75243,,,2024-07-19,646.39,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417342-320000,SB21B-417342,SB21B,ORG,HERTZ FINANCIAL CENTER,,,,,,GLOBAL PAYMENT SOLUTIONS,,OKLAHOMA CITY,OK,731325232,,,2024-07-19,833.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417343,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,118.98,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417343-10000,SB21B-417343,SB21B,ORG,THALES AVIONICS INC,,,,,,1110 W HIBISCUS BLVD,,MELBOURNE,FL,32901,,,2024-07-19,19.98,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417343-20000,SB21B-417343,SB21B,ORG,APPLE R050 THE GROVE,,,,,,NEC FAIRFAX AVE & 3RD ST,,SANTA MONICA,CA,90401,,,2024-07-19,99.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417344,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,668.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417344-10000,SB21B-417344,SB21B,ORG,LAZ PARKING M17154,,,,,,189 THE GROVE DRIVE,,LOS ANGELES,CA,90036,,,2024-07-19,5.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417344-20000,SB21B-417344,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30320,,,2024-07-19,41.53,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417344-30000,SB21B-417344,SB21B,ORG,SPIRIT A/L DIRECT SALES,,,,,,18121 E 8 MILE RD,,EASTPOINTE,MI,480213241,,,2024-07-19,54.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417344-40000,SB21B-417344,SB21B,ORG,WESTJET,,,,,,22 AERIAL PLACE NE,,CALGARY,,T2E3J1,,,2024-07-19,232.87,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417344-50000,SB21B-417344,SB21B,ORG,JOYCE DTLA,,,,,,2575 ELDEN AVE UNIT B,,COSTA MESA,CA,92627,,,2024-07-19,334.84,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,3198.84,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417345-10000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,1.41,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-20000,SB21B-417345,SB21B,ORG,BUZZED COFFEE LLC,,,,,,941 N VIRGINA ST,,RENO,NV,895095026,,,2024-07-19,7.74,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-30000,SB21B-417345,SB21B,ORG,BUZZED COFFEE LLC,,,,,,941 N VIRGINA ST,,RENO,NV,895095026,,,2024-07-19,7.74,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-40000,SB21B-417345,SB21B,ORG,STRBCKS BAGAGE CLAIM #153,,,,,,5757 WAYNE NEWTON BLVD,,LAS VEGAS,NV,891118037,,,2024-07-19,8.29,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-50000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,8.73,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-60000,SB21B-417345,SB21B,ORG,HUDSON NEWS,,,,,,LAS VEGAS DISTRIBUTION CE,,LAS VEGAS,NV,89119,,,2024-07-19,10.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-70000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,11.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-80000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,14.94,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-90000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,16.32,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-100000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,18.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-110000,SB21B-417345,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,19.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-120000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,20.93,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-130000,SB21B-417345,SB21B,ORG,7-ELEVEN STOREONLY,,,,,,CITY PLACE CENTER EAST,,DALLAS,TX,75204,,,2024-07-19,22.27,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-140000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,22.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-150000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,30.31,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-160000,SB21B-417345,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,35.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-170000,SB21B-417345,SB21B,ORG,HYATT PLACE,,,,,,1790 E PLUMB LN,,RENO,NV,895023614,,,2024-07-19,40.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-180000,SB21B-417345,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,43.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-190000,SB21B-417345,SB21B,ORG,GREAT FULL GARDENS - MIDTOWN,,,,,,789 EAST 2ND STREET,,RENO,NV,89502,,,2024-07-19,51.14,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-200000,SB21B-417345,SB21B,ORG,HUDSON NEWS,,,,,,LAS VEGAS DISTRIBUTION CE,,LAS VEGAS,NV,89119,,,2024-07-19,54.12,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-210000,SB21B-417345,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,54.59,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-220000,SB21B-417345,SB21B,ORG,SPIRIT A/L DIRECT SALES,,,,,,18121 E 8 MILE RD,,EASTPOINTE,MI,480213241,,,2024-07-19,55.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-230000,SB21B-417345,SB21B,ORG,LA CONDESA EATERY,,,,,,1642 S WELLS AVE,,RENO,NV,89502,,,2024-07-19,57.17,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-240000,SB21B-417345,SB21B,ORG,SPIRIT A/L DIRECT SALES,,,,,,18121 E 8 MILE RD,,EASTPOINTE,MI,480213241,,,2024-07-19,59.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-250000,SB21B-417345,SB21B,ORG,MAKERS AND FINDERS COFFEE - DT,,,,,,1120 S MAIN ST,,LAS VEGAS,NV,89104,,,2024-07-19,64.02,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-260000,SB21B-417345,SB21B,ORG,CHARLIES BAR AND GRILL,,,,,,3131 LAS VEGAS BLVD S,,LAS VEGAS,NV,891091967,,,2024-07-19,65.47,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-270000,SB21B-417345,SB21B,ORG,SPIRIT A/L DIRECT SALES,,,,,,18121 E 8 MILE RD,,EASTPOINTE,MI,480213241,,,2024-07-19,86.46,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-280000,SB21B-417345,SB21B,ORG,WYNN LAS VEGAS HOTEL,,,,,,3131 LAS VEGAS BLVD S,,LAS VEGAS,NV,891091967,,,2024-07-19,106.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-290000,SB21B-417345,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,363.41,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-300000,SB21B-417345,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,401.64,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-310000,SB21B-417345,SB21B,ORG,AMERICAN AIRLINES,,,,,,AMERICAN AIRLINES-CCS,,TULSA,OK,741331249,,,2024-07-19,549.46,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417345-320000,SB21B-417345,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,891.56,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417346,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,616.58,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417346-10000,SB21B-417346,SB21B,ORG,INSTACART,,,,,,"50 BEALE STREET, 6TH FLOOR",,SAN FRANCISCO,CA,94105,,,2024-07-19,5.00,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417346-20000,SB21B-417346,SB21B,ORG,INSTACART,,,,,,"50 BEALE STREET, 6TH FLOOR",,SAN FRANCISCO,CA,94105,,,2024-07-19,20.44,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417346-30000,SB21B-417346,SB21B,ORG,INSTACART,,,,,,"50 BEALE STREET, 6TH FLOOR",,SAN FRANCISCO,CA,94105,,,2024-07-19,134.00,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417346-40000,SB21B-417346,SB21B,ORG,SWEETGREEN,,,,,,3102 WEST 36TH STREET,,LOS ANGELES,CA,90018,,,2024-07-19,210.54,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417346-50000,SB21B-417346,SB21B,ORG,SWEETGREEN,,,,,,3102 WEST 36TH STREET,,LOS ANGELES,CA,90018,,,2024-07-19,237.60,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417346-60000,SB21B-417346,SB21B,ORG,CVS/PHARMACY #01347,,,,,,6 DUPONT CIR NW,,WASHINGTON,DC,200361108,,,2024-07-19,9.00,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417347,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,49.06,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417347-10000,SB21B-417347,SB21B,ORG,CAVA GRILL DUPONT,,,,,,1222 CONNECTICUT AVE NW,,WASHINGTON,DC,20036,,,2024-07-19,49.06,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417348,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,2786.43,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417348-10000,SB21B-417348,SB21B,ORG,"ELINA LIMO, INC. NYC GRO",,,,,,144-26 76TH ROAD,,QUEENS,NY,11367,,,2024-07-19,1286.93,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417348-20000,SB21B-417348,SB21B,ORG,"ELINA LIMO, INC. NYC GRO",,,,,,144-26 76TH ROAD,,QUEENS,NY,11367,,,2024-07-19,1499.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417349,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,1055.46,0.00,Computer Services,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417349-10000,SB21B-417349,SB21B,ORG,LINKTREE,,,,,,"LEVEL 6, 1-9 SACKVILLE ST",,COLLINGWOOD,VI,03066,,,2024-07-19,9.00,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417349-20000,SB21B-417349,SB21B,ORG,WPMU DEV,,,,,,2500 ACTON RD,,BIRMINGHAM,AL,35243,,,2024-07-19,10.00,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417349-30000,SB21B-417349,SB21B,ORG,"FRAME.IO, INC.",,,,,,345 PARK AVE,,SAN JOSE,CA,95110,,,2024-07-19,13.89,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417349-40000,SB21B-417349,SB21B,ORG,"FRAME.IO, INC.",,,,,,345 PARK AVE,,SAN JOSE,CA,95110,,,2024-07-19,14.83,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417349-50000,SB21B-417349,SB21B,ORG,"FRAME.IO, INC.",,,,,,345 PARK AVE,,SAN JOSE,CA,95110,,,2024-07-19,63.60,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417349-60000,SB21B-417349,SB21B,ORG,LITMUS,,,,,,675 MASSACHUSETTS AVE,,CAMBRIDGE,MA,021393309,,,2024-07-19,104.94,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417349-70000,SB21B-417349,SB21B,ORG,HOOTSUITE,,,,,,180 SANSOME ST #400,,SAN FRANCISCO,CA,94104,,,2024-07-19,839.20,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417350,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,24.94,0.00,Design/Graphics ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417350-10000,SB21B-417350,SB21B,ORG,CREATIVE MARKET,,,,,,600 CONGRESS AVE FL 14,,AUSTIN,TX,78701,,,2024-07-19,9.95,0.00,Design/Graphics ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417350-20000,SB21B-417350,SB21B,ORG,CANVA PTY LTD,,,,,,"2140 S DUPONT HIGHWAY, KENT",,CAMDEN,DE,19934,,,2024-07-19,14.99,0.00,Design/Graphics ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417353,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,165.87,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417353-10000,SB21B-417353,SB21B,ORG,HIPCITYVEG - 712 7TH ST DC,,,,,,200 S 40TH ST PHILADELPHIA 191,,PHILADELPHIA,PA,19104,,,2024-07-19,165.87,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417354,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,49.00,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417354-10000,SB21B-417354,SB21B,ORG,"RESTREAM, INC.",,,,,,"515 CONGRESS AVE, SUITE 1050",,AUSTIN,TX,78701,,,2024-07-19,49.00,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417355,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,200.00,0.00,Employee Training/ Planning,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417355-10000,SB21B-417355,SB21B,ORG,ARENA ACADEMY,,,,,,611 PENNSYLVANIA AVE SE #143,,WASHINGTON,DC,20003,,,2024-07-19,200.00,0.00,Employee Training/ Planning,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,38.88,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417356-10000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,0.66,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-20000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,1.60,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-30000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,2.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-40000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,2.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-50000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,3.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-60000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,3.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-70000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,3.77,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-80000,SB21B-417356,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,4.35,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417356-90000,SB21B-417356,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,17.80,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417357,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,94.33,0.00,Design/Graphics ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417357-10000,SB21B-417357,SB21B,ORG,SHOPIFY-CHARGE.COM,,,,,,1209 ORANGE ST,,WILMINGTON,DE,19801,,,2024-07-19,94.33,0.00,Design/Graphics ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417358,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,25.57,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417358-10000,SB21B-417358,SB21B,ORG,CVS/PHARMACY #00639,,,,,,242 MAIN STREET,,NASHUA,NH,030602946,,,2024-07-19,25.57,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417359,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,4.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417359-10000,SB21B-417359,SB21B,ORG,ON-STREET METERS 97612,,,,,,123 WALNUT STREET,,HARRISBURG,PA,17101,,,2024-07-19,4.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417360,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,75.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417360-10000,SB21B-417360,SB21B,ORG,DELTA AIR LINES,,,,,,DEPT 680 1030 DELTA BLVD,,ATLANTA,GA,30354,,,2024-07-19,75.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,5743.63,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417361-10000,SB21B-417361,SB21B,ORG,DUNKIN DONUTS 351602,,,,,,1159 NEW ROGERS ROAD,,BRISTOL,PA,19007,,,2024-07-19,3.17,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-20000,SB21B-417361,SB21B,ORG,DUNKIN DONUTS - FRANCHISE,,,,,,6000 SOUTH TERMINAL PKWY,,ATLANTA,GA,30320,,,2024-07-19,4.03,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-30000,SB21B-417361,SB21B,ORG,REVELSTOKE COFFEE,,,,,,100 NORTH MAIN STREET,,CONCORD,NH,03301,,,2024-07-19,4.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-40000,SB21B-417361,SB21B,ORG,ATLANTA ARPRT FOOD/BEV,,,,,,"DNC TVL HP SRV,STE DNC01",,ATLANTA,GA,30320,,,2024-07-19,4.60,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-50000,SB21B-417361,SB21B,ORG,GOLDBERGS,,,,,,6000 N TERMINAL PKWY,,ATLANTA,GA,303207400,,,2024-07-19,5.17,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-60000,SB21B-417361,SB21B,ORG,ANNA ROSE BAKERY & COFFEE SHOP,,,,,,100 N 2ND ST,,HARRISBURG,PA,17101,,,2024-07-19,5.29,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-70000,SB21B-417361,SB21B,ORG,TEATOTALLER CONCORD,,,,,,2 CAPITAL PLAZA,,CONCORD,NH,03301,,,2024-07-19,5.33,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-80000,SB21B-417361,SB21B,ORG,DUNKIN DONUTS 342231,,,,,,200 TERMINAL E,,EAST BOSTON,MA,02128,,,2024-07-19,5.56,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-90000,SB21B-417361,SB21B,ORG,DUNKIN DONUTS D8,,,,,,8500 EFFINGTON AVE,,PHILADELPHIA,PA,19153,,,2024-07-19,6.43,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-100000,SB21B-417361,SB21B,ORG,BROTHERS CORTADO,,,,,,3 BICENTIAL SQUARE,,CONCORD,NH,03301,,,2024-07-19,7.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-110000,SB21B-417361,SB21B,ORG,STARBUCKS ATRIUM TEMP (DE,,,,,,HARTSFIELD JACKSON INTL,,ATLANTA,GA,30320,,,2024-07-19,11.56,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-120000,SB21B-417361,SB21B,ORG,WORKS BAKERY CAFE 4 - CONCORD,,,,,,120 MAIN STREET,,KEENE,NH,03431,,,2024-07-19,11.71,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-130000,SB21B-417361,SB21B,ORG,BROTHERS CORTADO,,,,,,3 BICENTIAL SQUARE,,CONCORD,NH,03301,,,2024-07-19,12.97,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-140000,SB21B-417361,SB21B,ORG,BONHOEFFER'S CAFE & ESPRESSO,,,,,,8 FRANKLIN ST,,NASHUA,NH,03064,,,2024-07-19,15.07,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-150000,SB21B-417361,SB21B,ORG,3290 BOS FOXANDFLIGHT,,,,,,ONE HARBORSIDE DR,,EAST BOSTON,MA,02128,,,2024-07-19,51.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-160000,SB21B-417361,SB21B,ORG,3290 BOS FOXANDFLIGHT,,,,,,ONE HARBORSIDE DR,,EAST BOSTON,MA,02128,,,2024-07-19,55.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-170000,SB21B-417361,SB21B,ORG,ALLIANZ TRAVEL INS,,,,,,9950 MAYLAND DRIVE,,RICHMOND,VA,23233,,,2024-07-19,62.44,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-180000,SB21B-417361,SB21B,ORG,SPEAKER'S CORNER RESTAUR,,,,,,2 SOMERSET PKWY,,NASHUA,NH,03063,,,2024-07-19,63.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-190000,SB21B-417361,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,63.97,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-200000,SB21B-417361,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,67.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-210000,SB21B-417361,SB21B,ORG,DELTA AIR LINES,,,,,,DEPT 680 1030 DELTA BLVD,,ATLANTA,GA,30354,,,2024-07-19,75.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-220000,SB21B-417361,SB21B,ORG,NIFTY FIFTY'S,,,,,,2491 GRANT AVE,,PHILADELPHIA,PA,19114,,,2024-07-19,82.49,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-230000,SB21B-417361,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,84.84,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-240000,SB21B-417361,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,90.84,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-250000,SB21B-417361,SB21B,ORG,THE MILLWORKS HARRISBURG,,,,,,340 VERBEKE ST,,HARRISBURG,PA,17102,,,2024-07-19,170.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-260000,SB21B-417361,SB21B,ORG,THE FOUNDRY,,,,,,50 COMMERCIAL ST,,MANCHESTER,NH,03101,,,2024-07-19,179.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-270000,SB21B-417361,SB21B,ORG,DOUBLETREE HILTON PHILADE,,,,,,4509 ISLAND AVE,,PHILADELPHIA,PA,191533803,,,2024-07-19,185.02,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-280000,SB21B-417361,SB21B,ORG,HAMPTON INN,,,,,,407 AMHERST ST,,NASHUA,NH,03063,,,2024-07-19,233.85,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-290000,SB21B-417361,SB21B,ORG,HILTON HARRISBURG,,,,,,1 N 2ND ST,,HARRISBURG,PA,17101,,,2024-07-19,275.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-300000,SB21B-417361,SB21B,ORG,HILTON HARRISBURG,,,,,,1 N 2ND ST,,HARRISBURG,PA,17101,,,2024-07-19,275.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-310000,SB21B-417361,SB21B,ORG,HERTZ CAR RENTAL,,,,,,5601 NW EXPRESSWAY,,OKLAHOMA CITY,OK,73132,,,2024-07-19,292.14,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-320000,SB21B-417361,SB21B,ORG,DOUBLETREE BY HILTON NASH,,,,,,2 SOMERSET PKWY,,NASHUA,NH,03063,,,2024-07-19,409.92,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-330000,SB21B-417361,SB21B,ORG,HERTZ FINANCIAL CENTER,,,,,,GLOBAL PAYMENT SOLUTIONS,,OKLAHOMA CITY,OK,731325232,,,2024-07-19,540.35,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-340000,SB21B-417361,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30344,,,2024-07-19,666.94,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-350000,SB21B-417361,SB21B,ORG,HERTZ FINANCIAL CENTER,,,,,,GLOBAL PAYMENT SOLUTIONS,,OKLAHOMA CITY,OK,731325232,,,2024-07-19,823.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417361-360000,SB21B-417361,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30344,,,2024-07-19,891.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417362,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,107.44,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417362-10000,SB21B-417362,SB21B,ORG,ZUNI STREET BREWING CO,,,,,,2355 W 29TH AVE,,DENVER,CO,80211,,,2024-07-19,20.70,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417362-20000,SB21B-417362,SB21B,ORG,THE COOPERS TAVERN,,,,,,20 W MIFFLIN STREET,,MADISON,WI,537032523,,,2024-07-19,86.74,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417363,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,10.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417363-10000,SB21B-417363,SB21B,ORG,URBAN LAND INTEREST,,,,,,10 E DOTY ST,,MADISON,WI,537035120,,,2024-07-19,10.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417364,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,23.87,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417364-10000,SB21B-417364,SB21B,ORG,THE MARQUETTE HOTEL AND CAFE,,,,,,414 SOUTH BALDWIN STREET,,MADISON,WI,53703,,,2024-07-19,9.28,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417364-20000,SB21B-417364,SB21B,ORG,CHIPOTLE 0264,,,,,,951 E 120TH AVE,,DENVER,CO,802335719,,,2024-07-19,14.59,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,1773.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417365-10000,SB21B-417365,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,3.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-20000,SB21B-417365,SB21B,ORG,MCDONALD'S #16594,,,,,,8308 GREENWAY BLVD,,MIDDLETON,WI,53562,,,2024-07-19,5.26,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-30000,SB21B-417365,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,5.35,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-40000,SB21B-417365,SB21B,ORG,MIDDLETON GRACE COFFEE CO.,,,,,,1824 PARMENTER ST,,MIDDLETON,WI,53562,,,2024-07-19,6.31,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-50000,SB21B-417365,SB21B,ORG,UNITED AIRLINES,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,8.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-60000,SB21B-417365,SB21B,ORG,STARBUCKS CONC C M KE,,,,,,5300 S HOWELL AVE,,MILWAUKEE,WI,53207,,,2024-07-19,8.29,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-70000,SB21B-417365,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,9.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-80000,SB21B-417365,SB21B,ORG,CARBOY WINERY AT GOVNRS P,,,,,,400 E 7TH AVE,,DENVER,CO,80203,,,2024-07-19,12.23,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-90000,SB21B-417365,SB21B,ORG,COUSINS CONC C M KE,,,,,,5300 S HOWELL AVE,,MILWAUKEE,WI,53207,,,2024-07-19,13.54,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-100000,SB21B-417365,SB21B,ORG,LUCKY BUNS,,,,,,1 AVIATION CIR,,WASHINGTON,DC,20001,,,2024-07-19,19.15,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-110000,SB21B-417365,SB21B,ORG,BP FDMS CAT,,,,,,28100 TORCH PKWY,,WARRENVILLE,IL,605553938,,,2024-07-19,19.65,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-120000,SB21B-417365,SB21B,ORG,WE KNEAD DONUT,,,,,,12039 N PECOS ST,,WESTMINSTER,CO,80234,,,2024-07-19,21.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-130000,SB21B-417365,SB21B,ORG,JERSEY MIKES ONLINE UC,,,,,,2251 LANDMARK PL,,MANASQUAN,NJ,08736,,,2024-07-19,22.33,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-140000,SB21B-417365,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,24.06,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-150000,SB21B-417365,SB21B,ORG,HUBBARD AVENUE DINER,,,,,,7445 HUBBARD AVENUE,,MIDDLETON,WI,535623117,,,2024-07-19,26.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-160000,SB21B-417365,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,30.65,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-170000,SB21B-417365,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,38.30,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-180000,SB21B-417365,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,138.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-190000,SB21B-417365,SB21B,ORG,HOME2 SUITES-MILWAUKEE,,,,,,5880 S HOWELL AVE,,MILWAUKEE,WI,53207,,,2024-07-19,179.57,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-200000,SB21B-417365,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,212.05,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-210000,SB21B-417365,SB21B,ORG,ENTERPRISE RENT A CAR,,,,,,MADISON AIRPORT (IN TERMI,,MADISON,WI,53704,,,2024-07-19,317.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-220000,SB21B-417365,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,323.47,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417365-230000,SB21B-417365,SB21B,ORG,HILTON GARDEN INN MADISON,,,,,,1801 DEMING WAY,,MIDDLETON,WI,53562,,,2024-07-19,329.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,8298.29,0.00,Computer Services,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417366-10000,SB21B-417366,SB21B,ORG,SQUARESPACE INC.,,,,,,225 VARICK ST FL 12,,NEW YORK CITY,NY,100144383,,,2024-07-19,25.44,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-20000,SB21B-417366,SB21B,ORG,BACKBLAZE INC,,,,,,201 BALDWIN AVE,,SAN MATEO,CA,94401,,,2024-07-19,46.80,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-30000,SB21B-417366,SB21B,ORG,MAILCHIMP,,,,,,"675 PONCE DE LEON AVE, NE",,ATLANTA,GA,30308,,,2024-07-19,143.10,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-40000,SB21B-417366,SB21B,ORG,NEXCESS,,,,,,2203 EVA DR,,LANSING,MI,48917,,,2024-07-19,185.34,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-50000,SB21B-417366,SB21B,ORG,NEXCESS,,,,,,2203 EVA DR,,LANSING,MI,48917,,,2024-07-19,185.34,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-60000,SB21B-417366,SB21B,ORG,STITCH INC,,,,,,SUITE 1400,,SAN MATEO,CA,94402,,,2024-07-19,190.80,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-70000,SB21B-417366,SB21B,ORG,CLOUDFLARE PD,,,,,,101 TOWNSEND ST,,SAN FRANCISCO,CA,94107,,,2024-07-19,254.40,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-80000,SB21B-417366,SB21B,ORG,"WPENGINE, INC.",,,,,,"504 LAVACA ST., SUITE 1000",,AUSTIN,TX,78701,,,2024-07-19,335.00,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417366-90000,SB21B-417366,SB21B,ORG,AMAZON WEB SERVICES,,,,,,1512 2ND AVENUE,,SEATTLE,WA,98101,,,2024-07-19,6932.07,0.00,Computer Services,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,4526.96,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417367-10000,SB21B-417367,SB21B,ORG,NETWORK SOLUTIONS,,,,,,13861 SUNRISE VALLEY DR,,HERNDON,VA,201716124,,,2024-07-19,1.99,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-20000,SB21B-417367,SB21B,ORG,GOOGLE SERVICES,,,,,,1600 AMPHITHEATRE PKWY,,MOUNTAIN VIEW,CA,940431351,,,2024-07-19,12.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-30000,SB21B-417367,SB21B,ORG,GOOGLE SERVICES,,,,,,1600 AMPHITHEATRE PKWY,,MOUNTAIN VIEW,CA,940431351,,,2024-07-19,12.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-40000,SB21B-417367,SB21B,ORG,MICROSOFT,,,,,,8TH FLOOR,,DALLAS,TX,75202,,,2024-07-19,12.72,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-50000,SB21B-417367,SB21B,ORG,GOOGLE SERVICES,,,,,,1600 AMPHITHEATRE PKWY,,MOUNTAIN VIEW,CA,940431351,,,2024-07-19,24.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-60000,SB21B-417367,SB21B,ORG,AMAZON MARKEPLACE NA PA,,,,,,440 TERRY AVE N,,SEATTLE,WA,981095210,,,2024-07-19,24.25,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-70000,SB21B-417367,SB21B,ORG,AMAZON.COM LLC,,,,,,1516 2ND AVE,,SEATTLE,WA,981011543,,,2024-07-19,38.58,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-80000,SB21B-417367,SB21B,ORG,GOOGLE SERVICES,,,,,,1600 AMPHITHEATRE PKWY,,MOUNTAIN VIEW,CA,940431351,,,2024-07-19,44.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-90000,SB21B-417367,SB21B,ORG,"PRITUNL, INC",,,,,,1700 7TH AVE STE 116-211,,SEATTLE,WA,98101,,,2024-07-19,50.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-100000,SB21B-417367,SB21B,ORG,LIBERATED SYNDICATION,,,,,,5001 BAUM BLVD STE 770,,PITTSBURGH,PA,15213,,,2024-07-19,53.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-110000,SB21B-417367,SB21B,ORG,GOOGLE SERVICES,,,,,,1600 AMPHITHEATRE PKWY,,MOUNTAIN VIEW,CA,940431351,,,2024-07-19,159.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-120000,SB21B-417367,SB21B,ORG,MICROSOFT,,,,,,8TH FLOOR,,DALLAS,TX,75202,,,2024-07-19,233.20,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-130000,SB21B-417367,SB21B,ORG,"SLACK TECHNOLOGIES, LLC",,,,,,"155 5TH STREET, 6TH FLOOR",,SAN FRANCISCO,CA,94103,,,2024-07-19,998.44,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-140000,SB21B-417367,SB21B,ORG,MICROSOFT,,,,,,8TH FLOOR,,DALLAS,TX,75202,,,2024-07-19,1060.00,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417367-150000,SB21B-417367,SB21B,ORG,ADOBE WEBSALES,,,,,,801 N 34TH ST,,SEATTLE,WA,981038882,,,2024-07-19,1803.78,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417368,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,586.68,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417368-10000,SB21B-417368,SB21B,ORG,COMCAST-BELTWAY REGION RE,,,,,,8031 CORPORATE DRIVE,,NOTTINGHAM,MD,21236,,,2024-07-19,586.68,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417369,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,6.99,0.00,Postage ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417369-10000,SB21B-417369,SB21B,ORG,USPS PO FARRAGUT,,,,,,1800 M ST NW FRNT 1,,WASHINGTON,DC,20036,,,2024-07-19,6.99,0.00,Postage ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417370,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,3877.34,0.00,Telephone ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417370-10000,SB21B-417370,SB21B,ORG,VZWRLSS APOCC VISB,,,,,,TWO VERIZON PLACE,,ALPHARETTA,GA,30004,,,2024-07-19,1573.50,0.00,Telephone ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417370-20000,SB21B-417370,SB21B,ORG,CREXENDO,,,,,,1615 S 52ND ST,,TEMPE,AZ,85281,,,2024-07-19,2303.84,0.00,Telephone ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417371,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,16.82,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417371-10000,SB21B-417371,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,3.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417371-20000,SB21B-417371,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,13.82,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417372,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,48.40,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417372-10000,SB21B-417372,SB21B,ORG,PRET A MANGER 0079,,,,,,1800 M ST NW,,WASHINGTON,DC,20036,,,2024-07-19,48.40,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417373,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,28.75,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417373-10000,SB21B-417373,SB21B,ORG,CARBOY WINERY AT GOVNRS P,,,,,,400 E 7TH AVE,,DENVER,CO,80203,,,2024-07-19,11.77,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417373-20000,SB21B-417373,SB21B,ORG,QUEEN CITY COLLECTIVE COFFEE,,,,,,4999 W 44TH AVE,,DENVER,CO,80212,,,2024-07-19,16.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417374,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417374-10000,SB21B-417374,SB21B,ORG,American Exoress,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,976.37,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417375-10000,SB21B-417375,SB21B,ORG,WALGREENS 10071,,,,,,1217 22ND ST NW,,WASHINGTON,DC,200371203,,,2024-07-19,1.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375-20000,SB21B-417375,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,11.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375-30000,SB21B-417375,SB21B,ORG,DCA REAGAN - CAVA GRILL,,,,,,1 AVIATION CIR,,WASHINGTON,DC,200016000,,,2024-07-19,18.76,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375-40000,SB21B-417375,SB21B,ORG,UVC INC,,,,,,2711 26TH ST NE,,WASHINGTON,DC,20018,,,2024-07-19,23.76,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375-50000,SB21B-417375,SB21B,ORG,TRAVELERS...,,,,,,-,,ALEXANDRIA,VA,22309,,,2024-07-19,25.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375-60000,SB21B-417375,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,58.92,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375-70000,SB21B-417375,SB21B,ORG,YOURS TRULY DC,,,,,,1143 NEW HAMPSHIRE AVE NW,,WASHINGTON,DC,20037,,,2024-07-19,289.01,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417375-80000,SB21B-417375,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30344,,,2024-07-19,546.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,4070.18,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417376-10000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,2.73,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-20000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,2.87,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-30000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,4.28,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-40000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,4.57,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-50000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,4.70,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-60000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,5.28,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-70000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,5.68,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-80000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,7.03,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-90000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,7.67,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-100000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,8.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-110000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,9.04,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-120000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,11.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-130000,SB21B-417376,SB21B,ORG,RDU BURGERFI T2 6202295,,,,,,SUITE 2201,,MORRISVILLE,NC,27560,,,2024-07-19,15.46,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-140000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,18.97,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-150000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,22.37,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-160000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,22.43,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-170000,SB21B-417376,SB21B,ORG,DOORDASH,,,,,,303 2ND STREET,,SAN FRANCISCO,CA,94107,,,2024-07-19,24.28,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-180000,SB21B-417376,SB21B,ORG,"POTBELLY SANDWICH WORKS, LLC",,,,,,718 14TH STREET NW,,WASHINGTON,DC,20005,,,2024-07-19,26.07,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-190000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,26.73,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-200000,SB21B-417376,SB21B,ORG,THE POST DOWNTOWN,,,,,,58 NORTH MAIN STREET,,CONCORD,NH,03301,,,2024-07-19,29.17,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-210000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,30.09,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-220000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,32.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-230000,SB21B-417376,SB21B,ORG,SPEAKER'S CORNER RESTAUR,,,,,,2 SOMERSET PKWY,,NASHUA,NH,03063,,,2024-07-19,34.21,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-240000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,35.16,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-250000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,37.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-260000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,39.47,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-270000,SB21B-417376,SB21B,ORG,AA KIOSK,,,,,,4333 AMON CARTER BLVD,,FORT WORTH,TX,76155,,,2024-07-19,40.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-280000,SB21B-417376,SB21B,ORG,AA KIOSK,,,,,,4333 AMON CARTER BLVD,,FORT WORTH,TX,76155,,,2024-07-19,40.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-290000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,41.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-300000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,45.02,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-310000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,45.54,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-320000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,45.88,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-330000,SB21B-417376,SB21B,ORG,STRANGE BREW TAVERN,,,,,,88 MARKET STREET,,MANCHESTER,NH,03101,,,2024-07-19,47.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-340000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,50.29,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-350000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,51.54,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-360000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,52.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-370000,SB21B-417376,SB21B,ORG,SPEAKER'S CORNER RESTAUR,,,,,,2 SOMERSET PKWY,,NASHUA,NH,03063,,,2024-07-19,64.63,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-380000,SB21B-417376,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,98.44,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-390000,SB21B-417376,SB21B,ORG,COTTON,,,,,,75 ARMS ST.,,MANCHESTER,NH,03101,,,2024-07-19,109.89,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-400000,SB21B-417376,SB21B,ORG,DOUBLETREE BY HILTON MANC,,,,,,700 ELM ST,,MANCHESTER,NH,031012599,,,2024-07-19,178.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-410000,SB21B-417376,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,204.47,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-420000,SB21B-417376,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,217.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-430000,SB21B-417376,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,228.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-440000,SB21B-417376,SB21B,ORG,DOUBLETREE BY HILTON NASH,,,,,,2 SOMERSET PKWY,,NASHUA,NH,03063,,,2024-07-19,230.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-450000,SB21B-417376,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,242.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-460000,SB21B-417376,SB21B,ORG,JETBLUE ARC,,,,,,6322 S 3000 E,,SALT LAKE CITY,UT,841216945,,,2024-07-19,248.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-470000,SB21B-417376,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30320,,,2024-07-19,288.47,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-480000,SB21B-417376,SB21B,ORG,DOUBLETREE BY HILTON NASH,,,,,,2 SOMERSET PKWY,,NASHUA,NH,03063,,,2024-07-19,440.93,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417376-490000,SB21B-417376,SB21B,ORG,AMERICAN AIRLINES,,,,,,AMERICAN AIRLINES-CCS,,TULSA,OK,741331249,,,2024-07-19,587.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417377,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417377-10000,SB21B-417377,SB21B,ORG,American Exoress,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378,,,ORG,American Express ,,,,,,PO BOX 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,1462.38,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417378-10000,SB21B-417378,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,6.23,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-20000,SB21B-417378,SB21B,ORG,JUST WALK OUT,,,,,,410 TERRY AVENUE NORTH,,SEATTLE,WA,98109,,,2024-07-19,7.57,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-30000,SB21B-417378,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,8.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-40000,SB21B-417378,SB21B,ORG,SBUX14663,,,,,,SUITE 100,,AUSTIN,TX,78744,,,2024-07-19,8.52,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-50000,SB21B-417378,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,8.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-60000,SB21B-417378,SB21B,ORG,SIP WINE BAR,,,,,,3400 E SKY HARBOR BLVD,,PHOENIX,AZ,850344403,,,2024-07-19,15.17,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-70000,SB21B-417378,SB21B,ORG,UBER EATS,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,17.67,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-80000,SB21B-417378,SB21B,ORG,HUDSON NEWS DAL,,,,,,STE 150,,DALLAS,TX,75235,,,2024-07-19,18.73,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-90000,SB21B-417378,SB21B,ORG,BUC-EES 59,,,,,,165 STATE HWY 77,,HILLSBORO,TX,76645,,,2024-07-19,20.45,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-100000,SB21B-417378,SB21B,ORG,UBER EATS,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,23.17,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-110000,SB21B-417378,SB21B,ORG,3175 AUST MAD GREENS,,,,,,3400 TAHQUITZ CNYN WY,,AUSTIN,TX,78719,,,2024-07-19,23.91,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-120000,SB21B-417378,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,24.91,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-130000,SB21B-417378,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,36.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-140000,SB21B-417378,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,43.89,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-150000,SB21B-417378,SB21B,ORG,THE TAVERN,,,,,,922 W 12TH ST,,AUSTIN,TX,78703,,,2024-07-19,64.12,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-160000,SB21B-417378,SB21B,ORG,LA CASITA BAKESHOP,,,,,,580 WEST ARAPAHO RD SUITE 154,,RICHARDSON,TX,75080,,,2024-07-19,73.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-170000,SB21B-417378,SB21B,ORG,SOUTHWEST AIRLINES,,,,,,PO BOX 36611,,DALLAS,TX,75235,,,2024-07-19,207.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-180000,SB21B-417378,SB21B,ORG,SOUTHWEST AIRLINES,,,,,,PO BOX 36611,,DALLAS,TX,75235,,,2024-07-19,234.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-190000,SB21B-417378,SB21B,ORG,TRU BY HILTON,,,,,,7900 E BEN WHITE BLVD,,AUSTIN,TX,78744,,,2024-07-19,302.66,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417378-200000,SB21B-417378,SB21B,ORG,EMBASSY SUITES DALLAS PAR,,,,,,13131 N CENTRAL EXPRESSWY,,DALLAS,TX,75243,,,2024-07-19,315.65,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417380,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,34.85,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417380-10000,SB21B-417380,SB21B,ORG,THE UPS STORE #0654,,,,,,10332 MAIN ST,,FAIRFAX,VA,22030,,,2024-07-19,34.85,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417382,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,52.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417382-10000,SB21B-417382,SB21B,ORG,DAILY BEER BAR,,,,,,611 CANAL STREET,,DURHAM,NC,27701,,,2024-07-19,4.23,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417382-20000,SB21B-417382,SB21B,ORG,DAILY BEER BAR,,,,,,611 CANAL STREET,,DURHAM,NC,27701,,,2024-07-19,4.73,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417382-30000,SB21B-417382,SB21B,ORG,LUNA ROTISSERIE AND EMPANADAS ,,,,,,307 E MAIN ST,,CARRBORO,NC,27510,,,2024-07-19,43.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417383,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,47.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417383-10000,SB21B-417383,SB21B,ORG,LAZ PARKING M07120,,,,,,1800 M ST NW,,WASHINGTON,DC,20036,,,2024-07-19,47.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,339.71,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417384-10000,SB21B-417384,SB21B,ORG,GANNETT NEWSPAPER MG2,,,,,,10194 CROSSPOINT BLVD,,INDIANAPOLIS,IN,46256,,,2024-07-19,10.59,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-20000,SB21B-417384,SB21B,ORG,ATLANTA JOURNAL CONSTITUT,,,,,,223 PERIMETER CTR PKWY,,ATLANTA,GA,30346,,,2024-07-19,12.99,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-30000,SB21B-417384,SB21B,ORG,ATLANTA JOURNAL CONSTITUT,,,,,,223 PERIMETER CTR PKWY,,ATLANTA,GA,30346,,,2024-07-19,12.99,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-40000,SB21B-417384,SB21B,ORG,GANNETT NEWSPAPER MG2,,,,,,10194 CROSSPOINT BLVD,,INDIANAPOLIS,IN,46256,,,2024-07-19,15.89,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-50000,SB21B-417384,SB21B,ORG,LA TIMES-SUBSCRIPTIONS,,,,,,202 W 1ST ST,,LOS ANGELES,CA,900124105,,,2024-07-19,15.96,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-60000,SB21B-417384,SB21B,ORG,BALTIMORE SUN SUBCRIPTION,,,,,,501 N CALVERT ST,,BALTIMORE,MD,212781000,,,2024-07-19,19.96,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-70000,SB21B-417384,SB21B,ORG,THE SEATTLE TIMES,,,,,,1000 DENNY WAY,,SEATTLE,WA,98109,,,2024-07-19,19.96,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-80000,SB21B-417384,SB21B,ORG,GANNETT NEWSPAPER MG2,,,,,,10194 CROSSPOINT BLVD,,INDIANAPOLIS,IN,46256,,,2024-07-19,21.19,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-90000,SB21B-417384,SB21B,ORG,GANNETT NEWSPAPER MG2,,,,,,10194 CROSSPOINT BLVD,,INDIANAPOLIS,IN,46256,,,2024-07-19,21.19,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-100000,SB21B-417384,SB21B,ORG,BOSTON GLOBE HOME DELPBS,,,,,,1 EXCHANGE PLACE,,BOSTON,MA,02109,,,2024-07-19,27.72,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-110000,SB21B-417384,SB21B,ORG,PHILADELPHIA INQUIRER SUB,,,,,,801 MARKET ST,,PHILADELPHIA,PA,19107,,,2024-07-19,27.96,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-120000,SB21B-417384,SB21B,ORG,SUN SENTINEL SUBSCRIPTION,,,,,,SUITE B,,POMPANO BEACH,FL,330641074,,,2024-07-19,27.96,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-130000,SB21B-417384,SB21B,ORG,THE DALLAS MORNING NEWS S,,,,,,1954 COMMERCE,,DALLAS,TX,75201,,,2024-07-19,30.03,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-140000,SB21B-417384,SB21B,ORG,MIAMI HERALD SUBSCRIPTION,,,,,,3511 NW 91ST AVE,,MIAMI,FL,331321609,,,2024-07-19,33.99,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417384-150000,SB21B-417384,SB21B,ORG,DOW JONES & CO INC,,,,,,4300 ROUTE 1 NORTH,,MONMOUTH JUNCTION,NJ,08852,,,2024-07-19,41.33,0.00,Publication & Dues,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417385,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,459.39,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417385-10000,SB21B-417385,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,3.31,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417385-20000,SB21B-417385,SB21B,ORG,AMERICAN AIRLINES,,,,,,AMERICAN AIRLINES-CCS,,TULSA,OK,741331249,,,2024-07-19,94.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417385-30000,SB21B-417385,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,113.47,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417385-40000,SB21B-417385,SB21B,ORG,COURTYRD WASHNGTN DC DUPO,,,,,,1733 N STREET NW,,WASHINGTON,DC,20036,,,2024-07-19,248.13,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417386,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,51.79,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417386-10000,SB21B-417386,SB21B,ORG,DISTRICTTACO,,,,,,1919 M ST NW,,WASHINGTON,DC,20036,,,2024-07-19,51.79,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417387,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,546.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417387-10000,SB21B-417387,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,546.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417388,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,309.78,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417388-10000,SB21B-417388,SB21B,ORG,ANGEL FALLS COFFEE COMPANY,,,,,,"792W. MARKET ST. AKRON, OH",,AKRON,OH,44303,,,2024-07-19,10.25,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417388-20000,SB21B-417388,SB21B,ORG,EASTERN KILLE WEALTHY,,,,,,700 OTTAWA AVE NW,,GRAND RAPIDS,MI,495031428,,,2024-07-19,47.22,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417388-30000,SB21B-417388,SB21B,ORG,600 KITCHEN AND BAR,,,,,,600 E MICHIGAN AVE,,KALAMAZOO,MI,49007,,,2024-07-19,64.18,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417388-40000,SB21B-417388,SB21B,ORG,OLD CITY HALL,,,,,,814 SAGINAW ST,,BAY CITY,MI,487085613,,,2024-07-19,71.14,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417388-50000,SB21B-417388,SB21B,ORG,ZIVIO,,,,,,724 WEALTHY STREET SE,,GRAND RAPIDS,MI,49503,,,2024-07-19,116.99,0.00,Meeting/Conference ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,1482.76,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417389-10000,SB21B-417389,SB21B,ORG,POTBELLY SANDWICH WORKS,,,,,,718 14TH ST NW,,WASHINGTON,DC,200053205,,,2024-07-19,3.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-20000,SB21B-417389,SB21B,ORG,WALNUT & PARK CAFE,,,,,,322 W WALNUT ST,,KALAMAZOO,MI,49007,,,2024-07-19,4.71,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-30000,SB21B-417389,SB21B,ORG,EINSTEIN BAGELS 1946,,,,,,1751 W EXCHANGE ST,,AKRON,OH,443137653,,,2024-07-19,5.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-40000,SB21B-417389,SB21B,ORG,JIMMY JOHNS 2589,,,,,,1950 MARION-MT GILEAD RD,,MARION,OH,43302,,,2024-07-19,7.08,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-50000,SB21B-417389,SB21B,ORG,STARBUCKS COFFEE #70725,,,,,,198 MCKINLEY ST,,BAY CITY,MI,48708,,,2024-07-19,7.31,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-60000,SB21B-417389,SB21B,ORG,LOVES #711,,,,,,976 STATE ROUTE 97,,BELLVILLE,OH,44813,,,2024-07-19,9.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-70000,SB21B-417389,SB21B,ORG,DOUBLETREE HOTEL,,,,,,1 WENONAH PARK PL,,BAY CITY,MI,487085658,,,2024-07-19,10.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-80000,SB21B-417389,SB21B,ORG,BURGER KING #6024,,,,,,5014 E PICKARD ST,,MOUNT PLEASANT,MI,488581136,,,2024-07-19,13.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-90000,SB21B-417389,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,27.29,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-100000,SB21B-417389,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,32.30,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-110000,SB21B-417389,SB21B,ORG,FOUNDING FARMERS DINING,,,,,,1924 PENNSYLVANIA AVE NW,,WASHINGTON,DC,200063607,,,2024-07-19,32.33,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-120000,SB21B-417389,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,32.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-130000,SB21B-417389,SB21B,ORG,PF CHANG'S,,,,,,2401 RONALD REAGAN WASHINGTON ,,ARLINGTON,VA,22202,,,2024-07-19,34.76,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-140000,SB21B-417389,SB21B,ORG,EXXONMOBIL CAT OUTSIDE,,,,,,CUST SVC 1 800 243 9966,,KANSAS CITY,MO,64141,,,2024-07-19,40.04,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-150000,SB21B-417389,SB21B,ORG,BP FDMS CAT,,,,,,28100 TORCH PKWY,,WARRENVILLE,IL,605553938,,,2024-07-19,50.52,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-160000,SB21B-417389,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,154.22,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-170000,SB21B-417389,SB21B,ORG,TRAVEL RESERVATION US,,,,,,1111 EXPEDIA GROUP WAY W.,,SEATTLE,WA,98119,,,2024-07-19,165.39,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-180000,SB21B-417389,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,468.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417389-190000,SB21B-417389,SB21B,ORG,ENTERPRISE R A C 3844,,,,,,4600 INTERNATIONAL GTWY,,COLUMBUS,OH,432191779,,,2024-07-19,383.09,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417398,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,1006.50,0.00,Catering/Facilities ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417398-10000,SB21B-417398,SB21B,ORG,PISCO Y NASCA,,,,,,1823 L STREET NW,,WASHINGTON,DC,20036,,,2024-07-19,1006.50,0.00,Catering/Facilities ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417399,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,35.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417399-10000,SB21B-417399,SB21B,ORG,CAVA GRILL DUPONT,,,,,,1222 CONNECTICUT AVE NW,,WASHINGTON,DC,20036,,,2024-07-19,35.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417400,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,12.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417400-10000,SB21B-417400,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,12.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417401,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,39.90,0.00,Employee Recruitment,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417401-10000,SB21B-417401,SB21B,ORG,SENTRYLINK LLC,,,,,,7500 GREENWAY CENTER DRIVE,,GREENBELT,MD,20770,,,2024-07-19,19.95,0.00,Employee Recruitment,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417401-20000,SB21B-417401,SB21B,ORG,SENTRYLINK LLC,,,,,,7500 GREENWAY CENTER DRIVE,,GREENBELT,MD,20770,,,2024-07-19,19.95,0.00,Employee Recruitment,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417402,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,212.62,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417402-10000,SB21B-417402,SB21B,ORG,AMAZON MARKEPLACE NA PA,,,,,,440 TERRY AVE N,,SEATTLE,WA,981095210,,,2024-07-19,23.59,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417402-20000,SB21B-417402,SB21B,ORG,AMEXGIFTCARD.COM,,,,,,SUITE 5-2002,,ATLANTA,GA,30303,,,2024-07-19,28.95,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417402-30000,SB21B-417402,SB21B,ORG,AMAZON MARKEPLACE NA PA,,,,,,440 TERRY AVE N,,SEATTLE,WA,981095210,,,2024-07-19,33.92,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417402-40000,SB21B-417402,SB21B,ORG,AMAZON MARKEPLACE NA PA,,,,,,440 TERRY AVE N,,SEATTLE,WA,981095210,,,2024-07-19,36.63,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417402-50000,SB21B-417402,SB21B,ORG,AMAZON.COM LLC,,,,,,1516 2ND AVE,,SEATTLE,WA,981011543,,,2024-07-19,89.53,0.00,Office Supplies Expenses,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417403,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,623.77,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417403-10000,SB21B-417403,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,22.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417403-20000,SB21B-417403,SB21B,ORG,AMEX ASSURANCE CRLDC,,,,,,480 PILGRIM WAY STE 1400,,GREEN BAY,WI,54304,,,2024-07-19,26.25,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417403-30000,SB21B-417403,SB21B,ORG,WA METRO SMART BENEFITS,,,,,,600 5TH ST NW,,WASHINGTON,DC,200012610,,,2024-07-19,574.74,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404,,,ORG,Amercian Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,547.01,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417404-10000,SB21B-417404,SB21B,ORG,ELEMENTARY COFFEE CO.,,,,,,256 NORTH ST.,,HARRISBURG,PA,17101,,,2024-07-19,6.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-20000,SB21B-417404,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,10.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-30000,SB21B-417404,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-40000,SB21B-417404,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-50000,SB21B-417404,SB21B,ORG,MOYNIHAN BAR,,,,,,383 WEST 33RD STREET,,NEW YORK,NY,10001,,,2024-07-19,23.54,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-60000,SB21B-417404,SB21B,ORG,PASTRAMI QUEEN - MOYNIHAN STAT,,,,,,875 6TH AVEN,,NEW YORK CITY,NY,10001,,,2024-07-19,23.97,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-70000,SB21B-417404,SB21B,ORG,HOME 231,,,,,,231 NORTH STREET,,HARRISBURG,PA,17101,,,2024-07-19,29.14,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-80000,SB21B-417404,SB21B,ORG,ENTERPRISE TOLLS,,,,,,"66 POWERHOUSE RD, SUITE 3",,ROSLYN HEIGHTS,NY,11577,,,2024-07-19,58.75,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-90000,SB21B-417404,SB21B,ORG,SPRINGHILL SUITES HARRIS,,,,,,15 CAPITAL DR,,HARRISBURG,PA,171109446,,,2024-07-19,170.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417404-100000,SB21B-417404,SB21B,ORG,AMTRAK.COM,,,,,,"1 MASSACHUSETTS AVE., NW",,WASHINGTON,DC,20001,,,2024-07-19,195.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417405,,,ORG,American Express ,,,,,,PO Box 360001,,Ft Lauderdale,FL,33336,,,2024-07-19,42.52,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417405-10000,SB21B-417405,SB21B,ORG,REVERIE CAFE & BAR,,,,,,1517 EAST 35TH STREET,,MINNEAPOLIS,MN,55407,,,2024-07-19,42.52,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417406,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,519.92,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417406-10000,SB21B-417406,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,246.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417406-20000,SB21B-417406,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,272.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,140.50,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417407-10000,SB21B-417407,SB21B,ORG,INTELSAT INFLIGHT ASA,,,,,,111 N CANAL ST #1500,,CHICAGO,IL,60606,,,2024-07-19,8.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-20000,SB21B-417407,SB21B,ORG,ALASKA AIRLINES-IN FLGHT,,,,,,19300 INTERNATIONAL BLVD,,SEATTLE,WA,98188,,,2024-07-19,8.50,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-30000,SB21B-417407,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,10.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-40000,SB21B-417407,SB21B,ORG,INTELSAT INFLIGHT AIR,,,,,,303 S TECHNOLOGY CT,,BROOMFIELD,CO,800213411,,,2024-07-19,12.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-50000,SB21B-417407,SB21B,ORG,INTELSAT INFLIGHT AIR,,,,,,303 S TECHNOLOGY CT,,BROOMFIELD,CO,800213411,,,2024-07-19,12.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-60000,SB21B-417407,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,15.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-70000,SB21B-417407,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,16.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-80000,SB21B-417407,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,19.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-90000,SB21B-417407,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,19.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417407-100000,SB21B-417407,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,21.00,0.00,Internet Services ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417408,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,93.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417408-10000,SB21B-417408,SB21B,ORG,HILTON THE DUNIWAY PORTLA,,,,,,545 SW TAYLOR,,PORTLAND,OR,97204,,,2024-07-19,33.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417408-20000,SB21B-417408,SB21B,ORG,RESDNC INN BY MARIOTT GRN,,,,,,70 LOUIS STREET NW,,GRAND RAPIDS,MI,49503,,,2024-07-19,60.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417409,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,107.90,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417409-10000,SB21B-417409,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,19.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417409-20000,SB21B-417409,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,41.12,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417409-30000,SB21B-417409,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,47.78,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,5864.08,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417410-10000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,4.53,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-20000,SB21B-417410,SB21B,ORG,BASBLUE,,,,,,110 E. FERRY ST,,DETROIT,MI,48202,,,2024-07-19,5.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-30000,SB21B-417410,SB21B,ORG,CANDY BAR & SIREN CAFE- THE SI,,,,,,1509 BROADWAY ST,,DETROIT,MI,482262114,,,2024-07-19,6.30,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-40000,SB21B-417410,SB21B,ORG,SUNOCO INSIDE SALES,,,,,,8020 PARK LANE,,DALLAS,TX,75231,,,2024-07-19,6.87,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-50000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,8.51,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-60000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,9.08,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-70000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,9.68,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-80000,SB21B-417410,SB21B,ORG,CAPITAL HILTON BANQUET,,,,,,1001 16TH ST NW,,WASHINGTON,DC,200365701,,,2024-07-19,11.90,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-90000,SB21B-417410,SB21B,ORG,SOY GRILL,,,,,,G,,CLACKAMAS,OR,970157708,,,2024-07-19,18.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-100000,SB21B-417410,SB21B,ORG,VTS DISTRICT CAB/NON,,,,,,VTS DISTRICT CAB/NON,,WASHINGTON,DC,20019,,,2024-07-19,19.60,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-110000,SB21B-417410,SB21B,ORG,SBUX03386,,,,,,10225 SE SUNNYSIDE RD,,CLACKAMAS,OR,97015,,,2024-07-19,20.05,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-120000,SB21B-417410,SB21B,ORG,AUSTIN AIRPORT,,,,,,3600 PRESIDENTIAL BLVD,,AUSTIN,TX,787192510,,,2024-07-19,20.44,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-130000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,22.65,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-140000,SB21B-417410,SB21B,ORG,LYFT,,,,,,185 BERRY STREET #5000,,SAN FRANCISCO,CA,94107,,,2024-07-19,22.92,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-150000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,34.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-160000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,36.32,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-170000,SB21B-417410,SB21B,ORG,WOLFGANGS RESTAURANT,,,,,,1530 WEALTHY ST SE,,GRAND RAPIDS,MI,49506,,,2024-07-19,37.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-180000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,37.38,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-190000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,39.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-200000,SB21B-417410,SB21B,ORG,MAXWELL PARK SHAW,,,,,,1336 9TH ST NW,,WASHINGTON,DC,200014988,,,2024-07-19,40.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-210000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,42.58,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-220000,SB21B-417410,SB21B,ORG,BETTER HALF - PORTLAND,,,,,,25 N FREMONT ST,,PORTLAND,OR,97227,,,2024-07-19,46.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-230000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,48.40,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-240000,SB21B-417410,SB21B,ORG,PAADEE,,,,,,6 SE 28TH AVE,,PORTLAND,OR,97214,,,2024-07-19,50.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-250000,SB21B-417410,SB21B,ORG,BLUE DOG TAVERN,,,,,,638 STOCKING AVE NW.,,GRAND RAPIDS,MI,49504,,,2024-07-19,51.94,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-260000,SB21B-417410,SB21B,ORG,SPEEDWAY,,,,,,500 SPEEDWAY DR,,ENON,OH,453231056,,,2024-07-19,52.22,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-270000,SB21B-417410,SB21B,ORG,ROGERS ROOST,,,,,,33626 SCHOENHERR RD,,STERLING HEIG,MI,48312,,,2024-07-19,55.57,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-280000,SB21B-417410,SB21B,ORG,THE CAPITAL HILTON,,,,,,1001 16TH STREET NW,,WASHINGTON,DC,20036,,,2024-07-19,57.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-290000,SB21B-417410,SB21B,ORG,JIMMY JOHNS 296,,,,,,719 WASHINGTON,,BAY CITY,MI,48708,,,2024-07-19,62.86,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-300000,SB21B-417410,SB21B,ORG,LITTLE GRIDDLE,,,,,,3520 NE 42ND AVE,,PORTLAND,OR,97213,,,2024-07-19,70.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-310000,SB21B-417410,SB21B,ORG,PROST WINE BAR & CHARCUTE,,,,,,261 UPTOWN DR,,BAY CITY,MI,48708,,,2024-07-19,90.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-320000,SB21B-417410,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,114.90,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-330000,SB21B-417410,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,130.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-340000,SB21B-417410,SB21B,ORG,APIZZA SCHOLLS 2023,,,,,,4741 SE HAWTHORNE BLVD,,PORTLAND,OR,97215,,,2024-07-19,131.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-350000,SB21B-417410,SB21B,ORG,COURTYARD BY MARRIOTT,,,,,,2 EAST MAIN STREET,,BAY CITY,MI,48708,,,2024-07-19,170.94,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-360000,SB21B-417410,SB21B,ORG,THE SIREN HOTEL,,,,,,1509 BROADWAY ST,,DETROIT,MI,48226,,,2024-07-19,187.26,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-370000,SB21B-417410,SB21B,ORG,BUDGET CREDIT CLUB DEPT.,,,,,,300 CENTRE POINTE DR.,,VIRGINIA BEACH,VA,234624415,,,2024-07-19,428.43,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-380000,SB21B-417410,SB21B,ORG,AGODA COMPANY PTE.LTD.,,,,,,SUBMISSIONS USD,,UK,,A0 000,,,2024-07-19,452.40,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-390000,SB21B-417410,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,575.08,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-400000,SB21B-417410,SB21B,ORG,BUDGET CREDIT CLUB DEPT.,,,,,,300 CENTRE POINTE DR.,,VIRGINIA BEACH,VA,234624415,,,2024-07-19,712.80,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-410000,SB21B-417410,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,720.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417410-420000,SB21B-417410,SB21B,ORG,AGODA COMPANY PTE.LTD.,,,,,,SUBMISSIONS USD,,UK,,A0 000,,,2024-07-19,1199.53,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417411,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,6198.93,0.00,Subscription,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417411-10000,SB21B-417411,SB21B,ORG,LN PAYMENT CENTER,,,,,,9443 SPRINGBORO PIKE,,MIAMISBURG,OH,453424425,,,2024-07-19,6198.93,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417412,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,10.90,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417412-10000,SB21B-417412,SB21B,ORG,WACHETE S.R.O.,,,,,,BENISKOVE 1285/5,,PRAGUE,,150 00,,,2024-07-19,10.90,0.00,Computer Supplies/Hardware,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417418,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,299.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417418-10000,SB21B-417418,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,299.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417419,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,78.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417419-10000,SB21B-417419,SB21B,ORG,"COLONIAL PARKING, INC # 5",,,,,,30 MASSACHUSETTS AVE NE,,WASHINGTON,DC,20002,,,2024-07-19,25.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417419-20000,SB21B-417419,SB21B,ORG,METRO WASH AIRPORTS AUTH,,,,,,GARAGE A,,WASHINGTON,DC,20001,,,2024-07-19,53.00,0.00,Parking Fees ,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420,,,ORG,American Express ,,,,,,PO Box 360001,,Fort Lauderdale,FL,33336,,,2024-07-19,8005.74,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,See Attached Memo Entry
+SB21B,C00193433,SB21B-417420-10000,SB21B-417420,SB21B,ORG,RESDNC INN BY MARIOTT GRN,,,,,,70 LOUIS STREET NW,,GRAND RAPIDS,MI,49503,,,2024-07-19,5.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-20000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,5.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-30000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,5.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-40000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,6.21,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-50000,SB21B-417420,SB21B,ORG,AMTRAK TICKET COUNTER,,,,,,"1 MASSACHUSETTS AVE., NW",,WASHINGTON,DC,20001,,,2024-07-19,7.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-60000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,7.11,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-70000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,7.62,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-80000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,8.60,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-90000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,8.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-100000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,11.70,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-110000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,13.02,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-120000,SB21B-417420,SB21B,ORG,INTELSAT INFLIGHT AIR,,,,,,303 S TECHNOLOGY CT,,BROOMFIELD,CO,800213411,,,2024-07-19,15.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-130000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,15.22,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-140000,SB21B-417420,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,19.38,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-150000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,19.64,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-160000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,21.02,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-170000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,22.18,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-180000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,22.77,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-190000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,23.47,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-200000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,24.25,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-210000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,26.24,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-220000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,27.40,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-230000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,27.52,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-240000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,30.61,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-250000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,31.09,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-260000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,31.56,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-270000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,32.90,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-280000,SB21B-417420,SB21B,ORG,LE DESALES,,,,,,"1725 DESALES ST NW, WASHINGTON",,WASHINGTON,DC,20036,,,2024-07-19,34.60,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-290000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,35.59,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-300000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,43.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-310000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,44.90,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-320000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,52.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-330000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,58.53,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-340000,SB21B-417420,SB21B,ORG,OYAMEL DC LLC,,,,,,401 7TH ST NW,,WASHINGTON,DC,20004,,,2024-07-19,63.36,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-350000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,65.55,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-360000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,66.42,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-370000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,67.50,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-380000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,70.51,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-390000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,71.04,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-400000,SB21B-417420,SB21B,ORG,AMTRAK.COM,,,,,,"1 MASSACHUSETTS AVE., NW",,WASHINGTON,DC,20001,,,2024-07-19,73.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-410000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,91.98,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-420000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,101.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-430000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,103.73,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-440000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,105.13,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-450000,SB21B-417420,SB21B,ORG,OSTERIA LA BUCA - MELROSE,,,,,,5210 MELROSE AVE,,LOS ANGELES,CA,90038,,,2024-07-19,111.58,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-460000,SB21B-417420,SB21B,ORG,AMTRAK.COM,,,,,,"1 MASSACHUSETTS AVE., NW",,WASHINGTON,DC,20001,,,2024-07-19,113.00,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-470000,SB21B-417420,SB21B,ORG,LITTLEBIRD,,,,,,95 MONROE CENTER NW,,GRAND RAPIDS,MI,49503,,,2024-07-19,122.82,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-480000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,130.96,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-490000,SB21B-417420,SB21B,ORG,UBER,,,,,,1455 MARKET ST,,SAN FRANCISCO,CA,94103,,,2024-07-19,160.97,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-500000,SB21B-417420,SB21B,ORG,COURTYARD BY MARRIOTT,,,,,,4620 SOUTH 5TH ST,,MILWAUKEE,WI,53207,,,2024-07-19,175.67,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-510000,SB21B-417420,SB21B,ORG,FAIRFIELD INN MIDDLETON,,,,,,8212 GREENWAY BLVD,,MIDDLETON,WI,535623579,,,2024-07-19,83.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-520000,SB21B-417420,SB21B,ORG,MADISON DOWNTOWN MOXY,,,,,,823 E WASHINGTON AVE,,MADISON,WI,53703,,,2024-07-19,213.68,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-530000,SB21B-417420,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,231.99,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-540000,SB21B-417420,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,299.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-550000,SB21B-417420,SB21B,ORG,ALASKA AIRLINES,,,,,,20833 INTERNATIONAL BLVD,,SEATTLE,WA,981985950,,,2024-07-19,359.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-560000,SB21B-417420,SB21B,ORG,UNITED ELEC TICKETNG,,,,,,HSCAC - 12TH FLOOR,,HOUSTON,TX,77002,,,2024-07-19,359.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-570000,SB21B-417420,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,363.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-580000,SB21B-417420,SB21B,ORG,DELTA AIR LINES,,,,,,ATLANTA AIRPORT,,ATLANTA,GA,30344,,,2024-07-19,390.20,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-590000,SB21B-417420,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,488.48,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-600000,SB21B-417420,SB21B,ORG,MARRIOTT 33789 MARQUIS,,,,,,1535 BROADWAY,,NEW YORK,NY,100364077,,,2024-07-19,521.31,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-610000,SB21B-417420,SB21B,ORG,RESDNC INN BY MARIOTT GRN,,,,,,70 LOUIS STREET NW,,GRAND RAPIDS,MI,49503,,,2024-07-19,545.10,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-620000,SB21B-417420,SB21B,ORG,AMERICAN AIRLINES,,,,,,1 SKYVIEW DRIVE,,FORT WORTH,TX,76155,,,2024-07-19,694.95,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417420-630000,SB21B-417420,SB21B,ORG,SLS BEVERLY HILLS,,,,,,465 S. LA CIENEGA BOULEVA,,LOS ANGELES,CA,90048,,,2024-07-19,1015.15,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,X,Memo Entry
+SB21B,C00193433,SB21B-417273,,,IND,,Avachat,Arushi,,,,175 Rocky Creek Palce,,Pleasanton,CA,94566,,,2024-07-22,525.93,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417274,,,IND,,Barnes,Saylor,,,,1004 Wymers Court,,Chesapeake,VA,23322,,,2024-07-22,549.48,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417275,,,IND,,DePreist-Sullivan,Isabella,,,,60 Hollywood Drive,,Hastings on Hudson,NY,10706,,,2024-07-22,1093.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417276,,,IND,,Frid Lotenberg,Twyla,,,,204 W109th,LL1,New York,NY,10025,,,2024-07-22,528.77,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417277,,,IND,,Jones,Amaree,,,,4395 Creekridge Lane,,Kernersville,NC,27284,,,2024-07-22,1060.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417278,,,IND,,Kurtulus,Meliz,,,,16 Sunset Park,,Montclair,NJ,07043,,,2024-07-22,602.09,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417279,,,IND,,Lenti-Navarro,Valery,,,,21 Maiden Lane,3a,New York,NY,10038,,,2024-07-22,484.02,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417280,,,IND,,Munoz Ramones,Gabriel,,,,18328 SW 148th rd,,Miami,FL,33187,,,2024-07-22,1093.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417281,,,IND,,Murray,Camille,,,,1635 Potter Drive,,Pottstown,PA,19464,,,2024-07-22,509.86,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417282,,,IND,,Nguyen,Tara,,,,5730 Westfield Street,,Yorba Linda,CA,92887,,,2024-07-22,982.48,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417283,,,IND,,Rastogi,Megha,,,,34 Park Hill Terrace,,Princeton Junction,NJ,08550,,,2024-07-22,999.16,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417284,,,IND,,Rice,Ellie,,,,229 Chestnut Street,,Englewood,NJ,07631,,,2024-07-22,1113.96,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417285,,,IND,,Scharf,Abigail,,,,2101 Champlain St NW,Apt 416,Washington,DC,20009,,,2024-07-22,1042.81,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417286,,,IND,,Shea,Alvina,,,,27 Monterey Drive,,Daly City,CA,94015,,,2024-07-22,1075.35,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417287,,,IND,,Tennant,Emma,,,,2400 M St NW,631,Washington,DC,20037,,,2024-07-22,1036.70,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417288,,,IND,,Worthington,Amelia Grace,,,,6536 44th Avenue SW,,Seattle,WA,98136,,,2024-07-22,1072.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417289,,,IND,,Yun,Yunji,,,,3700 O Street NW,,Washington,DC,20057,,,2024-07-22,1026.32,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417293,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-22,4107.49,0.00,Taxes - Payroll ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417306,,,ORG,Cigna Only ,,,,,,1750 Lincoln Street,,Denver,CO,80274,,,2024-07-22,91820.06,0.00,Insurance Health/Life,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417296,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-22,729.13,0.00,Payroll Service ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417307,,,ORG,DC Treasurer ,,,,,,Office of Tax & Revenue,PO Box 419,Washington,DC,200440679,,,2024-07-22,139.69,0.00,Taxes - Sales & Use,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416579,,,ORG,A-B Partners ,,,,,,228 Park Ave S #73667,,New York,NY,10003,,,2024-07-25,17500.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416580,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-25,116633.00,0.00,Postage ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416581,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-25,3692.08,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416582,,,ORG,Direct Mail Solutions ,,,,,,4650 Oakleys Lane,Attn: Scott Miller,Richmond,VA,23231,,,2024-07-25,10008.80,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416583,,,ORG,Elias Law Group ,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,20001,,,2024-07-25,45000.00,0.00,Legal Services ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416584,,,ORG,"Engage, LLC ",,,,,,880 North East St.,Suite 205,Frederick,MD,21701,,,2024-07-25,255.42,0.00,Contribution Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416585,,,ORG,"Engage, LLC ",,,,,,880 North East St.,Suite 205,Frederick,MD,21701,,,2024-07-25,1696.61,0.00,Contribution Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416586,,,ORG,"Engage, LLC ",,,,,,880 North East St.,Suite 205,Frederick,MD,21701,,,2024-07-25,4983.52,0.00,Contribution Processing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416587,,,ORG,Gilbert & Wolfand ,,,,,,Suite 320,"2201 Wisconsin Ave., NW","Washington,",DC,20007,,,2024-07-25,24000.00,0.00,Accounting ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416588,,,ORG,Global Strategy Group ,,,,,,215 Park Avenue South,15th Floor,New York,NY,10003,,,2024-07-25,30000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416589,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-25,1796.60,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416590,,,ORG,L&E Meridian ,,,,,,8000 Corporate Court,,Springfield,VA,22153,,,2024-07-25,4034.40,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416591,,,ORG,Mutual of Omaha ,,,,,,Payment Processing Center,PO Box 2147,Omaha,NE,68103,,,2024-07-25,5316.65,0.00,Insurance Health/Life,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416593,,,ORG,Impact Research ,,,,,,260 Commerce Street,4th Floor,Montgomery,AL,36104,,,2024-07-25,23366.66,0.00,Polling/Surveys ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416594,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-25,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416595,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-25,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416596,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-25,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416597,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-25,197.50,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416598,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-25,100.00,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416599,,,ORG,QCT Production ,,,,,,650 Massachusetts Ave Suite 505,,Washington,DC,20001,,,2024-07-25,385.54,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416600,,,IND,,Reynolds,Elizabeth,,,,5213 Huntley Overlook Drive,,Durham,NC,27703,,,2024-07-25,349.74,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416601,,,ORG,Seay Strategies LLC ,,,,,,66 Quincy St,,Brooklyn,NY,11238,,,2024-07-25,12500.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416602,,,ORG,Twin Impact ,,,,,,13730 Erwin St,,Van Nuys,CA,91401,,,2024-07-25,17500.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416603,,,ORG,United Envelope ,,,,,,PO Box 10576,,Albany,NY,12201,,,2024-07-25,2681.20,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416604,,,ORG,United Parcel Service ,,,,,,P. O. Box 7247-0244,,Philadelphia,PA,191700001,,,2024-07-25,274.49,0.00,Deliveries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416605,,,IND,,Waites,Janise,,,,745 Quebec Pl NW,,Washington,DC,20010,,,2024-07-25,50.72,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416608,,,ORG,"Chapman Cubine Allen and Hussey, Inc.",,,,,,2000 15th Street North,Ste 550,Arlington,VA,22201,,,2024-07-25,16000.03,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416609,,,ORG,CAREERS IN NONPROFITS ,,,,,,PO BOX 13188,,Milwaukee,WI,53213,,,2024-07-25,1576.75,0.00,Temporary Help ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416610,,,ORG,CAREERS IN NONPROFITS ,,,,,,PO BOX 13188,,Milwaukee,WI,53213,,,2024-07-25,2418.13,0.00,Temporary Help ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416611,,,ORG,American Express Travel Related Services Co Inc,,,,,,PO Box 96001,,Los Angeles,CA,90096,,,2024-07-26,46.66,0.00,Travel/Accommodation /Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416612,,,ORG,Allied Printing Resources ,,,,,,33 Commerce Road,,Carlstadt,NJ,07072,,,2024-07-26,5199.30,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416613,,,ORG,Allied Printing Resources ,,,,,,33 Commerce Road,,Carlstadt,NJ,07072,,,2024-07-26,13420.84,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416614,,,ORG,Cenveo Worldwide Limited ,,,,,,P.O. BOX 74007456,,Chicago,IL,60674,,,2024-07-26,7549.87,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416615,,,ORG,Creative Print Group Inc ,,,,,,1560 Caton Center Drive,,Baltimore,MD,21227,,,2024-07-26,9171.20,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416616,,,ORG,Creative Print Group Inc ,,,,,,1560 Caton Center Drive,,Baltimore,MD,21227,,,2024-07-26,1954.02,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416617,,,ORG,Creative Print Group Inc ,,,,,,1560 Caton Center Drive,,Baltimore,MD,21227,,,2024-07-26,10920.26,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-416619,,,ORG,"Valley Press, Inc. ",,,,,,PO Box 1404,,Brooklandville,MD,21022,,,2024-07-26,1257.01,0.00,Direct Mail Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417308,,,ORG,Amalgamated Bank ,,,,,,275 Seventh Avenue,Attn:Loan Servicing Group,New York,NY,10001,,,2024-07-26,2989.79,0.00,Bank Charges ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417310,,,IND,,Malcolm,Ellen,R,,,"5060 Linnean Avenue, NW",,Washington,DC,20008,,,2024-07-29,661.34,0.00,Insurance Health/Life,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417166,,,IND,,Fines,Caroline,,,,10621 Regent Park Court,,Fairfax,VA,22030,,,2024-07-31,4404.17,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417167,,,IND,,Thomas,Sarah,,,,831 Marietta Pl NW,,Washington,DC,20011,,,2024-07-31,2382.16,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417168,,,IND,,Cohen,Angela,,,,"217 54th Street, NE",,Washington,DC,20019,,,2024-07-31,2032.05,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417169,,,IND,,Eick,Victoria,,,,2425 17th Street NW,Apt 118,Washington,DC,20009,,,2024-07-31,2577.28,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417170,,,IND,,Robinson,Denelle,,,,3902 Woodhaven Lane,,Bowie,MD,20715,,,2024-07-31,5295.13,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417171,,,IND,,Sharmin,Maria,,,,6006 7th Place Northwest,,Washington,DC,20011,,,2024-07-31,2001.31,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417172,,,IND,,Andrews,Sarah,,,,PO Box 1132,,Avon,CO,81620,,,2024-07-31,3630.83,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417173,,,IND,,Barrett,Lucy,,,,32 High Street,,Winooski,VT,05404,,,2024-07-31,3512.27,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417174,,,IND,,Collymore-Henry,Nai,,,,1247 Station Center Boulevard,,Suwanee,GA,30024,,,2024-07-31,3772.27,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417175,,,IND,,Durham,Lauren,,,,201 I St NE,Apt 702,Washington,DC,20002,,,2024-07-31,4796.38,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417176,,,IND,,Habenstreit,Noah,,,,2112 New Hampshire Ave NW,802,Washington,DC,20009,,,2024-07-31,3423.67,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417177,,,IND,,Mata,James,,,,368 Stewart Ave,,Columbus,OH,43206,,,2024-07-31,3425.16,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417178,,,IND,,Nunn,Anna,,,,308 S. Blount St.,401,Raleigh,NC,27601,,,2024-07-31,3762.45,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417179,,,IND,,Ray,Benjamin,,,,803 9th St NE,,Washington,DC,20002,,,2024-07-31,4638.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417180,,,IND,,Reed,Elise,,,,1605 28th Street S. #5,,Arlington,VA,22206,,,2024-07-31,1405.22,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417181,,,IND,,Robertson,Collyn,,,,3205 Grooms Street,Unit B,Austin,TX,78705,,,2024-07-31,3735.62,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417182,,,IND,,Silva Waki,Johanna,,,,415 Nevada Street,,San Francisco,CA,94110,,,2024-07-31,4809.78,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417183,,,IND,,Wagner,Chloe,,,,2216 N. Lincoln,Apt 2A,Chicago,IL,60614,,,2024-07-31,1765.51,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417184,,,IND,,Brown,Emma,,,,1312 Euclid St Nw,4,Washington,DC,20009,,,2024-07-31,3454.90,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417185,,,IND,,Fennelly,Kendall,,,,1331 Blackwalnut Court,,Annapolis,MD,21403,,,2024-07-31,1853.33,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417186,,,IND,,Howerton,Gabriella,,,,"1822 I St NE, #3",,Washington,DC,20001,,,2024-07-31,1845.39,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417187,,,IND,,Shivji,Alina,,,,"320 Florida Avenue NE, 429",,Washington,DC,20002,,,2024-07-31,2702.86,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417188,,,IND,,Sullivan,Cameron,,,,1000 I St NE,Apt 1,Washington,DC,20002,,,2024-07-31,3447.11,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417189,,,IND,,Vanway,Kathyrn,,,,45 Quarter Horse Dr,,Capon Bridge,WV,26711,,,2024-07-31,1708.97,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417190,,,IND,,Boone,Megan,,,,"101 G St. SW, Apt. A60",,Washington,DC,20024,,,2024-07-31,2196.45,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417191,,,IND,,Carrillo,Sarah,,,,329 S Washington Sq,Apt F,Lansing,MI,48933,,,2024-07-31,3185.88,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417192,,,IND,,Chrystal,Courtney,,,,1205 Half St SE,,Washington,DC,20003,,,2024-07-31,1718.96,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417193,,,IND,,Curmi,Sarah,,,,8868 Somerset Lane,,Ypsilanti,MI,48198,,,2024-07-31,5172.54,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417194,,,IND,,Elsenbast,Emily,,,,2751 N Milwaukee St,,Denver,CO,80205,,,2024-07-31,3628.31,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417195,,,IND,,Logan,Thaddeus,,,,3500 Rockmont Drive,Apt 2203,Denver,CO,80202,,,2024-07-31,3093.74,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417196,,,IND,,Maloney,Brittany,,,,9 Ambergreen Ct,,Middletown,OH,45044,,,2024-07-31,2712.78,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417197,,,IND,,McKenzie,Quiana,,,,6300 Terra Verde Drive,Unit 320,Raleigh,NC,27609,,,2024-07-31,3775.64,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417198,,,IND,,McNeal,Lestian,,,,152 S. Serrano Ave,,Los Angeles,CA,90004,,,2024-07-31,3171.18,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417199,,,IND,,Paprocki,Nicholas ,,,,124 Grandview Rd.,,Ardmore,PA,19003,,,2024-07-31,2974.45,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417200,,,IND,,Rankin,Devin,,,,2801 Williams Road,,Matthews,NC,28105,,,2024-07-31,3495.29,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417201,,,IND,,Rothmeier,Rebecca,,,,2801 Hennepin Ave,#196,Minneapolis,MN,55408,,,2024-07-31,3364.30,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417202,,,IND,,Waites,Janise,,,,745 Quebec Pl NW,,Washington,DC,20010,,,2024-07-31,1956.80,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417203,,,IND,,Wilke,Kimberly,,,,3315 Roswell Road NE,Apt 2032,Atlanta,GA,30305,,,2024-07-31,2907.37,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417204,,,IND,,Zaragoza,Josh,,,,8021 N. 15th Ave,,Phoenix,AZ,85021,,,2024-07-31,3520.81,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417205,,,IND,,Allison-Hearn,Emily,,,,120 Dellway Dr,,Nashville,TN,37207,,,2024-07-31,2598.46,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417206,,,IND,,Aquino Toledo,Yarianne,,,,2420 14th St NW,Apt 526,Washington,DC,20009,,,2024-07-31,3796.84,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417207,,,IND,,Bombardier,Kristen,,,,132 Saguaro Trail,,Georgetown,TX,78626,,,2024-07-31,1843.65,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417208,,,IND,,Medeiros,Jennifer,,,,3840 Porter St NW,Unit A379,Washington,DC,20016,,,2024-07-31,3112.69,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417209,,,IND,,Fox,Amelia,,,,"2007 Kalorama Rd, NW",Apt 1,Washington,DC,20009,,,2024-07-31,2606.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417210,,,IND,,Green,Courtney,,,,77 H Street NW,158,Washington,DC,20001,,,2024-07-31,2141.34,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417211,,,IND,,MacLeod,Fiona,,,,300 Morse Street NE,Apt 447,Washington,DC,20002,,,2024-07-31,2269.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417212,,,IND,,Reynolds,Elizabeth,,,,5213 Huntley Overlook Drive,,Durham,NC,27703,,,2024-07-31,6379.87,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417213,,,IND,,Spain,Sara,,,,24290 Letchworth Road,,Beachwood,OH,44122,,,2024-07-31,3256.75,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417214,,,IND,,Puentes,Rebeca,,,,921 Potomac Avenue SE,,Washington,DC,20003,,,2024-07-31,3320.36,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417215,,,IND,,Roberts,Sydney,,,,5929 Fairman Street,,Lakewood,CA,90713,,,2024-07-31,2124.97,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417216,,,IND,,Caldwell,Morgan,,,,1600 S Joyce St,Apt 506,Arlington,VA,22202,,,2024-07-31,2100.00,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417217,,,IND,,Cooper,Lizzie,,,,945 Route 35,,Cross River,NY,10518,,,2024-07-31,4609.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417218,,,IND,,Frost,Alyssa,,,,1815 13th St NW,,Washington,DC,20009,,,2024-07-31,2123.56,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417219,,,IND,,Hathaway,Elizabeth,,,,770 P Street NW ,Apt 614,Washington,DC,20004,,,2024-07-31,2242.73,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417220,,,IND,,Husain,Alina,,,,9686 Summerlakes Drive,,Carmel,IN,46032,,,2024-07-31,1929.32,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417221,,,IND,,Hutchison,Brianna,,,,12803 Shannon Hills Dr,,Houston,TX,77009,,,2024-07-31,2180.07,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417222,,,IND,,Korvin,Audrey,McFarland,,,9515 Dallas Avenue,,Silver Spring,MD,20901,,,2024-07-31,2487.13,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417223,,,IND,,Lidman,Anna,,,,37 Brookview Terrace,,Portland,ME,04102,,,2024-07-31,3824.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417224,,,IND,,McKenzie,Natasha,,,,1428 K Street SE,,Washington,DC,20003,,,2024-07-31,3775.48,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417225,,,IND,,Pfaehler,Amy,,,,10 Lakeside Ct,,Grosse Pointe,MI,48230,,,2024-07-31,4843.98,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417226,,,IND,,Ross,Stella,,,,923 N. Parish Place,,Burbank,CA,91506,,,2024-07-31,4583.32,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417227,,,IND,,Schumaker,Nicholas,,,,9894 Becket Ct,,Fairfax,VA,22032,,,2024-07-31,4974.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417228,,,IND,,Bieling,Andrea,,,,"1127 7th St, NE",Unit 1,Washington,DC,20002,,,2024-07-31,3518.89,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417229,,,IND,,Keegan,Julia,,,,4 Kelly Court,,Ossining,NY,10562,,,2024-07-31,1609.01,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417230,,,IND,,Leonard,Ashley,,,,4103 Saint Clair Pl,,Temple Hills,MD,20748,,,2024-07-31,2611.55,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417231,,,IND,,Morrisey,Sarah,,,,11607 Brookway Court,,Woodbridge,VA,22192,,,2024-07-31,2275.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417232,,,IND,,Bhogaraju,Shivani,,,,1550 North Clark Street,,Chicago,IL,60610,,,2024-07-31,1605.07,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417233,,,IND,,Bowers,Caroline,,,,2130 P St NW,Apt 808,Washington,DC,20037,,,2024-07-31,1969.69,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417234,,,IND,,Briddell,Kyra,,,,13185 Tory Loop,,Woodbridge,VA,22192,,,2024-07-31,2251.93,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417235,,,IND,,Frempong,Leslie,,,,25120 Panther Bend Court,#466,Spring,TX,77380,,,2024-07-31,4007.31,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417236,,,IND,,Loeffler,Meaghan,,,,1035 S Stresa Way,,Anaheim Hills,CA,92808,,,2024-07-31,2078.32,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417237,,,IND,,Macrae,Kelly,,,,799 Cherry Street,#3,Denver,CO,80220,,,2024-07-31,2019.17,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417238,,,IND,,Presley,Kathryn,,,,105 E Wayne Ave,,Silver Spring,MD,20901,,,2024-07-31,2583.20,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417239,,,IND,,Sparago,Christen,,,,2737 Devonshire PL NW,#503,Washington,DC,20008,,,2024-07-31,3667.77,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417240,,,IND,,Ulrey,Olivia,,,,620 S Columbus St,,Alexandria,VA,22314,,,2024-07-31,2639.37,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417241,,,IND,,Wilson,Cecilia,,,,46 Adams St NW,,Washington,DC,20001,,,2024-07-31,2368.11,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417242,,,IND,,Berkowitz,Jillian,,,,52 Mountainview Road,,Millburn,NJ,07041,,,2024-07-31,1896.66,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417243,,,IND,,Nelander,Maya,,,,713 Lamont Street NW,Apt 307,Washington,DC,20010,,,2024-07-31,3027.23,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417244,,,IND,,Mackler,Jessica,,,,6203 Vorlich Lane,,Bethesda,MD,20816,,,2024-07-31,9565.26,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417245,,,IND,,Malcolm,Ellen,R,,,"5060 Linnean Avenue, NW",,Washington,DC,20008,,,2024-07-31,909.47,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417246,,,IND,,Schaefer,Melissa,,,,201 Beryl Way,,Watervliet,NY,12189,,,2024-07-31,2251.79,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417247,,,IND,,White,Michelle,,,,2932 New Mexico Ave NW,,Washington,DC,20016,,,2024-07-31,5428.20,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417248,,,IND,,Arghal,Radha,,,,3573 Warder Street NW,Apt 8,Washington,DC,20010,,,2024-07-31,3924.06,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417249,,,IND,,Cajchun,Lesbia,,,,"2902 Kings Chapel Rd, #7",,Falls Church,VA,22042,,,2024-07-31,3463.02,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417250,,,IND,,Glick,Rachel,,,,734 Park Rd NW,Unit 101,Washington,DC,20010,,,2024-07-31,1896.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417251,,,IND,,Kaiser,Brittany,,,,6210 Belcrest Road,Apt 1210,Hyattsville,MD,20782,,,2024-07-31,2144.28,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417252,,,IND,,Keating,Ray,,,,816 Lucky Rd,,Severn,MD,21144,,,2024-07-31,1574.20,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417253,,,IND,,Kesler,Devereaux,,,,310 M St NW,Apt 4,Washington,DC,20001,,,2024-07-31,2260.42,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417254,,,IND,,Slack,Olivia,,,,339 Dora Ave,,Bremerton,WA,98312,,,2024-07-31,3397.27,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417255,,,IND,,Williams,Melissa,,,,15 South Irving Street,,Arlington,VA,22204,,,2024-07-31,4861.65,0.00,Salaries ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417303,,,ORG,ActBlue Technical Services ,,,,,,14 Arrow Street,,Cambridge,MA,02138,,,2024-07-31,38809.92,0.00,Credit Card Service Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417302,,,ORG,Blackbaud Merchant Services ,,,,,,2000 Daniel Island Drive,,Charleston,SC,29492,,,2024-07-31,493.97,0.00,Credit Card Service Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417297,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-31,1490.39,0.00,Payroll Service ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417291,,,ORG,Paylocity ,,,,,,3850 N. Wilke Road,,Arlington Heights,IL,60004,,,2024-07-31,141666.66,0.00,Taxes - Payroll ,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417304,,,ORG,Paypal ,,,,,,2211 North First Street,,San Jose,CA,95131,,,2024-07-31,1265.62,0.00,Credit Card Service Charges,,,,,,,,,,,,,,,,,,,,
+SB21B,C00193433,SB21B-417311,,,ORG,WEX Health ,,,,,,"4321 20th Ave, S",,Fargo,ND,58103,,,2024-07-31,4597.67,0.00,Insurance Health/Life,,,,,,,,,,,,,,,,,,,,

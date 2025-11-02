@@ -1,0 +1,71 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00835587,500741310,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-02,17.99,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741320,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-06,19.39,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741330,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-10,76.14,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741260,,,IND,,Harris,Nina,,,,6555 Barton Ave,Ste 510,Los Angeles,CA,900382588,,,2024-11-27,1811.76,0.00,Travel Reimbursement: See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741261,500741260,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-01,310.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741262,500741260,SB21B,ORG,Motto by Hilton NYC,,,,,,113 W 24th St,,New York,NY,100111901,,,2024-11-01,326.57,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741264,500741260,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-04,71.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741267,500741260,SB21B,ORG,Thrify Car Rental,,,,,,1805 E Sky Harbor Cir S,,Phoenix,AZ,850344805,,,2024-11-01,280.91,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741268,500741260,SB21B,ORG,Thrify Car Rental,,,,,,1805 E Sky Harbor Cir S,,Phoenix,AZ,850344805,,,2024-11-01,281.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741370,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-17,14.43,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500742070,,,ORG,The Hilton,,,,,,5711 W Century Blvd,,Los Angeles,CA,900455672,,,2024-11-29,1523.24,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500742080,,,ORG,"Crooked Media, Inc.",,,,,,6555 Barton Ave,Ste 510,Los Angeles,CA,900382588,,,2024-12-16,5627.74,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741311,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-02,21.91,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741321,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-06,2.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741331,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-10,33.81,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741431,,,ORG,"Crooked Media, Inc.",,,,,,6555 Barton Ave,Ste 510,Los Angeles,CA,900382588,,,2024-12-16,78791.74,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500739351,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-18,1450.80,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741371,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-17,14.67,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500742081,,,ORG,"Crooked Media, Inc.",,,,,,6555 Barton Ave,Ste 510,Los Angeles,CA,900382588,,,2024-12-16,130546.32,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741312,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-12-03,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500734622,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-27,4164.35,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741322,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-09,2.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741332,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-10,4.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741252,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-11-26,47.98,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741372,,,ORG,The Action Network,,,,,,1900 L St NW,Ste 900,Washington,DC,200365005,,,2024-12-23,424.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500734623,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-29,331.62,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741323,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-09,42.84,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741333,,,IND,,Fitzgerald,Maggie,,,,2303 14th St NW,Apt 422,Washington,DC,200094146,,,2024-12-10,920.23,0.00,Travel Reimbursement: See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741334,500741333,SB21B,ORG,Hyatt Hotels,,,,,,300 Light St,,Baltimore,MD,212021012,,,2024-12-10,665.94,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741335,500741333,SB21B,ORG,Park America,,,,,,1028 19th St NW,,Washington,DC,200365106,,,2024-12-10,227.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500740433,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-25,2010.92,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741253,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-11-26,6.65,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741373,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-12-30,157.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741314,,,ORG,Hyatt Hotels,,,,,,300 Light St,,Baltimore,MD,212021012,,,2024-12-05,1013.11,0.00,Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741324,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-09,25.88,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741254,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-11-26,44.37,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741305,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-02,35.25,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741325,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-09,27.04,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741275,,,ORG,CT Corporation,,,,,,PO Box 4349,,Carol Stream,IL,601974349,,,2024-11-27,115.62,0.00,State Registration,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741306,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-02,60.97,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741316,,,ORG,ShortSwitch,,,,,,215 Depot Ct SE,# 501,Leesburg,VA,201753017,,,2024-12-05,100.00,0.00,Website Maintenance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500734626,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-04,2056.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741326,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-09,30.98,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741366,,,ORG,Blue State Digital,,,,,,62187 Collection Center Drive,,Chicago,IL,606930001,,,2024-12-16,20000.00,0.00,Web Design,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741276,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,,2024-11-27,460.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741307,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-02,15.96,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741257,,,IND,,Koontz,Cara,,,,6555 Barton Ave,Ste 510,Los Angeles,CA,900382588,,,2024-11-27,1118.07,0.00,Travel Reimbursement: See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741256,500741257,SB21B,ORG,Hyatt Hotels,,,,,,300 Light St,,Baltimore,MD,212021012,,,2024-11-03,773.27,0.00,Lodging and Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741258,500741257,SB21B,ORG,Amtrak,,,,,,1 Massachusetts Ave NW,,Washington,DC,200011401,,,2024-11-01,193.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741259,500741257,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-01,151.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741367,,,COM,Granville County Democrats,,,,,,PO Box 1251,,Oxford,NC,275651251,,,2024-12-17,5000.00,0.00,Non-Federal Contribution from Contribution Account,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741277,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-11-27,135.48,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741308,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-02,24.76,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741318,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-05,18.91,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741338,,,ORG,Blue Crab Strategies,,,,,,1415 Chapin St NW,Apt 208,Washington,DC,200094512,,,2024-12-11,5000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741348,,,ORG,The Hollywood Roosevelt,,,,,,7000 Hollywood Blvd,,Los Angeles,CA,900286003,,,2024-12-15,598.42,0.00,Lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741368,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-17,40.44,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741278,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-11-27,19.99,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741309,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-02,57.94,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741319,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-06,221.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500734629,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-04,454.51,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741329,,,ORG,Mother Wolf,,,,,,1545 Wilcox Ave,,Los Angeles,CA,900287316,,,2024-12-09,61.36,0.00,Meals,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741339,,,IND,,Howe,Justine,,,,11732 Oxnard St,,North Hollywood,CA,916064720,,,2024-12-11,1760.07,0.00,Travel Reimbursement: See Below If Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741341,500741339,SB21B,ORG,Westin,,,,,,404 S Figueroa St,,Los Angeles,CA,900711710,,,2024-11-15,900.94,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741342,500741339,SB21B,ORG,Lyft,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-11-14,86.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500741343,500741339,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-11-15,536.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835587,500738869,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-11,2075.85,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741369,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-12-17,10.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500742079,,,ORG,"Crooked Media, Inc.",,,,,,6555 Barton Ave,Ste 510,Los Angeles,CA,900382588,,,2024-12-16,4236.77,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835587,500741279,,,ORG,Uber,,,,,,1515 3rd St,,San Francisco,CA,941582211,,,2024-11-27,12.90,0.00,Travel,,,,,,,,,,,,,,,,,,,,

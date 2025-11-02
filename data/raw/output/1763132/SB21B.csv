@@ -1,0 +1,44 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00377143,500362534,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-30,79.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500362536,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-10,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500362535,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-12-17,197.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500343699,,,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-07-31,4418.12,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500363136,500343699,SB21B,ORG,Federal Express,,,,,,PO Box 1140,,Memphis,TN,38101,,,2023-07-31,262.27,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500363138,500343699,SB21B,ORG,Perkins Coie LLP,,,,,,700 13th St NW,Ste 600,Washington,DC,200055998,,,2023-07-31,4069.60,0.00,Legal & Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500358549,,,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-08-28,1932.50,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500362527,500358549,SB21B,ORG,Perkins Coie LLP,,,,,,700 13th St NW,Ste 600,Washington,DC,200055998,,,2023-08-28,1932.50,0.00,Legal & Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500348418,,,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-09-29,2781.89,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358585,500348418,SB21B,ORG,Perkins Coie LLP,,,,,,700 13th St NW,Ste 600,Washington,DC,200055998,,,2023-09-29,2720.00,0.00,Legal & Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500358603,,,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-10-05,3604.36,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358606,500358603,SB21B,ORG,"Angerholzer Broz Consulting, LLC.",,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-10-05,1400.00,0.00,Fundraising Consulting Services,003,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500358608,500358603,SB21B,ORG,FedEx Corporation,,,,,,942 Shady Grove Rd S,,Memphis,TN,381204117,,,2023-10-05,203.66,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500358607,500358603,SB21B,ORG,Perkins Coie LLP,,,,,,700 13th St NW,Ste 600,Washington,DC,200055998,,,2023-10-05,1943.20,0.00,Legal & Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500358701,,,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-11-15,1695.00,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500362533,500358701,SB21B,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-11-15,695.00,0.00,Annual Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500362532,500358701,SB21B,ORG,Perkins Coie LLP,,,,,,700 13th St NW,Ste 600,Washington,DC,200055998,,,2023-11-15,1000.00,0.00,Legal & Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500358703,,,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-12-18,4651.05,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500362540,500358703,SB21B,ORG,Federal Express,,,,,,PO Box 1140,,Memphis,TN,38101,,,2023-12-18,77.95,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500362539,500358703,SB21B,ORG,Perkins Coie LLP,,,,,,700 13th St NW,Ste 600,Washington,DC,200055998,,,2023-12-18,4573.10,0.00,Legal & Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500361316,,,ORG,American Express,,,,,,PO Box 297885,,Fort Lauderdale,FL,33329,,,2023-12-21,85.38,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500362541,500361316,SB21B,ORG,Federal Express,,,,,,PO Box 1140,,Memphis,TN,38101,,,2023-12-21,85.38,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00377143,500361153,,,ORG,"Angerholzer Broz Consulting, LLC.",,,,,,499 S Capitol St SW,Ste 420,Washington,DC,200034027,,,2023-12-28,15034.23,0.00,Fundraising Event Tickets & Travel,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500342808,,,ORG,"BLDG Management Company, Inc.",,,,,,417 5th Ave,Ste 400,New York,NY,100162204,,,2023-07-01,504.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358552,,,ORG,"BLDG Management Company, Inc.",,,,,,417 5th Ave,Ste 400,New York,NY,100162204,,,2023-08-01,504.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358593,,,ORG,"BLDG Management Company, Inc.",,,,,,417 5th Ave,Ste 400,New York,NY,100162204,,,2023-09-01,504.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358611,,,ORG,"BLDG Management Company, Inc.",,,,,,417 5th Ave,Ste 400,New York,NY,100162204,,,2023-10-01,504.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358849,,,ORG,"BLDG Management Company, Inc.",,,,,,417 5th Ave,Ste 400,New York,NY,100162204,,,2023-11-01,504.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500361147,,,ORG,"BLDG Management Company, Inc.",,,,,,417 5th Ave,Ste 400,New York,NY,100162204,,,2023-12-01,504.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500342807,,,ORG,Dynamic SRG,,,,,,1501 Prospect Ter,,Peekskill,NY,105664830,,,2023-07-01,1250.00,0.00,Fundraising Consulting Services,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358551,,,ORG,Dynamic SRG,,,,,,1501 Prospect Ter,,Peekskill,NY,105664830,,,2023-08-01,1250.00,0.00,Fundraising Consulting Services,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358592,,,ORG,Dynamic SRG,,,,,,1501 Prospect Ter,,Peekskill,NY,105664830,,,2023-09-01,1250.00,0.00,Fundraising Consulting Services,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358612,,,ORG,Dynamic SRG,,,,,,1501 Prospect Ter,,Peekskill,NY,105664830,,,2023-10-01,1250.00,0.00,Fundraising Consulting Services,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358848,,,ORG,Dynamic SRG,,,,,,1501 Prospect Ter,,Peekskill,NY,105664830,,,2023-11-01,1250.00,0.00,Fundraising Consulting Services,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500361148,,,ORG,Dynamic SRG,,,,,,1501 Prospect Ter,,Peekskill,NY,105664830,,,2023-12-01,1250.00,0.00,Fundraising Consulting Services,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500361154,,,ORG,"EINNA, Inc.",,,,,,2024 Plainview Ave,,Far Rockaway,NY,116913616,,,2023-12-28,5500.00,0.00,Office Staffing Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500361152,,,ORG,Real Estate Roundtable,,,,,,801 Pennsylvania Ave NW,Ste 720,Washington,DC,200042686,,,2023-12-28,7215.43,0.00,Fundraising Event Catering & Tickets,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500343730,,,ORG,Verizon,,,,,,PO Box 489,,Newark,NJ,071010489,,,2023-07-13,297.79,0.00,Telephone,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500343731,,,ORG,Verizon,,,,,,PO Box 489,,Newark,NJ,071010489,,,2023-08-15,298.19,0.00,Telephone,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358584,,,ORG,Verizon,,,,,,PO Box 489,,Newark,NJ,071010489,,,2023-09-13,298.06,0.00,Telephone,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358609,,,ORG,Verizon,,,,,,PO Box 489,,Newark,NJ,071010489,,,2023-10-13,304.20,0.00,Telephone,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358700,,,ORG,Verizon,,,,,,PO Box 489,,Newark,NJ,071010489,,,2023-11-14,217.88,0.00,Telephone,,,,,,,,,,,,,,,,,,,,
+SB21B,C00377143,500358702,,,ORG,Verizon,,,,,,PO Box 489,,Newark,NJ,071010489,,,2023-12-13,216.41,0.00,Telephone,,,,,,,,,,,,,,,,,,,,

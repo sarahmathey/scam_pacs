@@ -1,0 +1,86 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00764233,500072895,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-01,328.94,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072975,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-04,1143.34,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072985,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-06,933.53,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072994,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-08,902.10,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073024,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-11,1197.19,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073066,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-13,589.27,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073090,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-15,798.27,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073190,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-18,1165.48,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073272,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-20,777.85,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073291,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-22,1662.76,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073303,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-25,3009.84,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073343,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-27,1803.27,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073376,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-29,1188.58,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073414,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-08-31,1010.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073436,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-08-29,334.65,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073131,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-08-12,20534.62,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073132,500073131,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-08-15,106.33,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073157,500073131,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-08-15,100.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073137,500073131,SB21B,ORG,Bellagio Hotel Las Vegas,,,,,,3600 Las Vegas Blvd S,,Las Vegas,NV,891094303,,,2024-08-15,68.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073138,500073131,SB21B,ORG,Bellagio Hotel Las Vegas,,,,,,3600 Las Vegas Blvd S,,Las Vegas,NV,891094303,,,2024-08-15,975.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073149,500073131,SB21B,ORG,Bellagio Hotel Las Vegas,,,,,,3600 Las Vegas Blvd S,,Las Vegas,NV,891094303,,,2024-08-15,329.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073150,500073131,SB21B,ORG,Bellagio Hotel Las Vegas,,,,,,3600 Las Vegas Blvd S,,Las Vegas,NV,891094303,,,2024-08-15,7.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073164,500073131,SB21B,ORG,"Everyaction, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-08-15,1736.28,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073147,500073131,SB21B,ORG,FedEx,,,,,,2903 Sprankel Ave,,Memphis,TN,381181534,,,2024-08-15,5.04,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073148,500073131,SB21B,ORG,FedEx,,,,,,2903 Sprankel Ave,,Memphis,TN,381181534,,,2024-08-15,7.90,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073156,500073131,SB21B,ORG,Fubo TV,,,,,,1330 Avenue Of The Americas,,New York,NY,100195400,,,2024-08-15,100.68,0.00,Internet Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073167,500073131,SB21B,ORG,Harvest Tide,,,,,,212 7Th St SE,,Washington,DC,200034311,,,2024-08-15,37.91,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073183,500073131,SB21B,ORG,HotelTonight.Com,,,,,,901 Market St,Ste 310,San Francisco,CA,941031752,,,2024-08-15,282.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073142,500073131,SB21B,ORG,Hudson News,,,,,,1 Meadowlands Plz,,East Rutherford,NJ,070732150,,,2024-08-15,26.17,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073181,500073131,SB21B,ORG,LinkedIn,,,,,,1015 Paper Mill Ct NW,,Washington,DC,200073619,,,2024-08-15,74.19,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073170,500073131,SB21B,ORG,Montgomery County Liquor & Wine (Potomac),,,,,,8715 Colesville Rd,,Silver Spring,MD,209103903,,,2024-08-15,154.74,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073168,500073131,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2024-08-15,260.96,0.00,Membership Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073158,500073131,SB21B,ORG,New Congressional Liquors,,,,,,404 1St St SE,,Washington,DC,200031826,,,2024-08-15,14.42,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073182,500073131,SB21B,ORG,New Congressional Liquors,,,,,,404 1St St SE,,Washington,DC,200031826,,,2024-08-15,42.61,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073140,500073131,SB21B,ORG,NYC Yellow Cab Taxi,,,,,,PO Box 128,,Brooklyn,NY,112260128,,,2024-08-15,24.14,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073141,500073131,SB21B,ORG,NYC Yellow Cab Taxi,,,,,,PO Box 128,,Brooklyn,NY,112260128,,,2024-08-15,53.69,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073145,500073131,SB21B,ORG,NYC Yellow Cab Taxi,,,,,,PO Box 128,,Brooklyn,NY,112260128,,,2024-08-15,22.31,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073146,500073131,SB21B,ORG,NYC Yellow Cab Taxi,,,,,,PO Box 128,,Brooklyn,NY,112260128,,,2024-08-15,42.20,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073151,500073131,SB21B,ORG,NYC Yellow Cab Taxi,,,,,,PO Box 128,,Brooklyn,NY,112260128,,,2024-08-15,21.38,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073133,500073131,SB21B,ORG,Reagan National Airport,,,,,,2401 Ronald Reagan Washington Nati,,Arlington,VA,22202,,,2024-08-15,87.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073136,500073131,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2024-08-15,6171.32,0.00,Telecommunication Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073159,500073131,SB21B,ORG,Tatango,,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2024-08-15,5874.52,0.00,Telecommunication Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073160,500073131,SB21B,ORG,The Eastern,,,,,,360 7Th St SE,,Washington,DC,200032504,,,2024-08-15,28.00,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073161,500073131,SB21B,ORG,The Eastern,,,,,,360 7Th St SE,,Washington,DC,200032504,,,2024-08-15,86.03,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073144,500073131,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-15,56.50,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073169,500073131,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-15,37.60,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073171,500073131,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-15,53.47,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073172,500073131,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-15,118.71,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073178,500073131,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-15,22.72,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073179,500073131,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-15,22.87,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073180,500073131,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-15,22.87,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073143,500073131,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-08-15,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073152,500073131,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-08-15,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073153,500073131,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-08-15,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073154,500073131,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-08-15,214.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073162,500073131,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-08-15,1728.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073184,500073131,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-08-15,476.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073186,500073131,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-08-15,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073188,500073131,SB21B,ORG,Verizon,,,,,,1095 Avenue Of The Americas,,New York,NY,100366797,,,2024-08-15,95.89,0.00,Internet Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500073342,,,ORG,"Amplify, LLC",,,,,,1250 I St NW,Ste 350,Washington,DC,200055977,,,2024-08-28,8000.00,0.00,Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073057,,,ORG,Anticipate Public Affairs,,,,,,4607 40Th St N,,Arlington,VA,222072961,,,2024-08-13,8000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073065,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-08-13,3490.46,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073061,,,ORG,"Everyaction, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-08-13,6625.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073062,,,ORG,"Everyaction, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-08-13,6625.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073127,,,ORG,First Bank & Trust,,,,,,359 W Main St,,Lebanon,VA,24266,,,2024-08-06,59.95,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073128,,,ORG,First Bank & Trust,,,,,,359 W Main St,,Lebanon,VA,24266,,,2024-08-06,9.95,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073130,,,ORG,FitzGerald Properties,,,,,,1447 Dolley Madison Blvd,Ste G1,Mclean,VA,221016040,,,2024-08-01,3500.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073124,,,ORG,"Intuit, Inc.",,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-08-09,104.94,0.00,Check Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073059,,,ORG,Mission Strategies LLC,,,,,,1835 7Th St NW,# 236,Washington,DC,200013107,,,2024-08-13,4000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073435,,,ORG,Mission Strategies LLC,,,,,,1835 7Th St NW,# 236,Washington,DC,200013107,,,2024-08-23,4000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073063,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-08-13,15000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073064,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-08-13,229.67,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073340,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-08-26,15000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073341,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-08-26,30000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073370,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-08-26,131410.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073392,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-08-30,15000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073060,,,ORG,"Olson Remcho, LLP",,,,,,555 Capitol Mall,Ste 400,Sacramento,CA,958144503,,,2024-08-13,8033.50,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073129,,,IND,,Perkins,Ja-Lon,,,,101 Burrell Ln,,Richlands,NC,285748421,,,2024-08-09,2000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073300,,,IND,,Perkins,Ja-Lon,,,,101 Burrell Ln,,Richlands,NC,285748421,,,2024-08-22,600.74,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073301,,,IND,,Perkins,Ja-Lon,,,,101 Burrell Ln,,Richlands,NC,285748421,,,2024-08-23,466.32,0.00,Travel Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073339,,,IND,,Perkins,Ja-Lon,,,,101 Burrell Ln,,Richlands,NC,285748421,,,2024-08-28,2000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073055,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-08-13,19500.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073056,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-08-13,5000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073302,,,ORG,Washington Gas,,,,,,1000 Maine Ave SW,,Washington,DC,200243494,,,2024-08-23,23.63,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500073058,,,IND,,Zamani,Jasmine,,,,6129 Long Meadow Rd,,Mclean,VA,221012312,,,2024-08-13,4000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,

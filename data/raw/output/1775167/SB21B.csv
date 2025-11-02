@@ -1,0 +1,49 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00772517,500056621,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-29,2543.81,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057412,,,ORG,"Democracy Engine, LLC",,,,,,2125 14th St NW,,Washington,DC,200094464,,,2024-02-22,502.55,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057242,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-12,1515.85,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057462,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-26,303.58,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057382,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-20,1882.02,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500056603,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2024-01-29,7961.55,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500058013,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-25,2417.25,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057163,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-05,2023.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500056673,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-01-26,105.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500058124,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-03-14,3340.61,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500058270,500058124,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-03-14,208.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058271,500058124,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-03-14,63.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058272,500058124,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-03-14,557.30,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058273,500058124,SB21B,ORG,Hilton Hotels Corporation,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2024-03-14,483.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058264,500058124,SB21B,ORG,Alaska Airlines,,,,,,PO Box 24948,,Seattle,WA,981240948,,,2024-03-14,-463.21,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058274,500058124,SB21B,ORG,Hilton Hotels Corporation,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2024-03-14,626.28,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058265,500058124,SB21B,ORG,Alaska Airlines,,,,,,PO Box 24948,,Seattle,WA,981240948,,,2024-03-14,-98.99,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058266,500058124,SB21B,ORG,Alaska Airlines,,,,,,PO Box 24948,,Seattle,WA,981240948,,,2024-03-14,463.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058267,500058124,SB21B,ORG,Alaska Airlines,,,,,,PO Box 24948,,Seattle,WA,981240948,,,2024-03-14,98.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058268,500058124,SB21B,ORG,Amtrak,,,,,,50 Massachusetts Ave NE,,Washington,DC,200024214,,,2024-03-14,454.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500058269,500058124,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-03-14,948.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500056444,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-16,176.78,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057664,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-02-27,130.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057864,,,ORG,"Democracy Engine, LLC",,,,,,2125 14th St NW,,Washington,DC,200094464,,,2024-03-07,434.78,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500058086,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Lbby 2,New York,NY,100018400,,,2024-03-27,95.50,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500056207,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-08,167.49,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057817,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-11,3062.86,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500058327,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-31,2883.08,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057657,,,ORG,"Democracy Engine, LLC",,,,,,2125 14th St NW,,Washington,DC,200094464,,,2024-02-29,739.55,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500056997,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-31,586.60,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057748,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-02-29,354.18,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057468,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-02-20,5282.88,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057620,500057468,SB21B,ORG,Hyatt Hotels Corporation,,,,,,71 S Wacker Dr,,Chicago,IL,606064637,,,2024-02-20,462.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057621,500057468,SB21B,ORG,Hyatt Hotels Corporation,,,,,,71 S Wacker Dr,,Chicago,IL,606064637,,,2024-02-20,462.15,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057622,500057468,SB21B,ORG,Hyatt Hotels Corporation,,,,,,71 S Wacker Dr,,Chicago,IL,606064637,,,2024-02-20,1016.86,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057623,500057468,SB21B,ORG,Hyatt Hotels Corporation,,,,,,71 S Wacker Dr,,Chicago,IL,606064637,,,2024-02-20,1037.49,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057624,500057468,SB21B,ORG,Cafe L'Europe,,,,,,31 S County Rd,,Palm Beach,FL,334804023,,,2024-02-20,241.88,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057625,500057468,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-20,1206.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057626,500057468,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-20,98.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057627,500057468,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-02-20,649.50,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057619,500057468,SB21B,ORG,Hilton Hotels Corporation,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2024-02-20,107.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00772517,500057898,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-18,4465.87,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500058009,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-03-28,318.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057429,,,ORG,"NGP VAN, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-02-27,106.00,0.00,Software Subscription,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057749,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-04,279.08,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057359,,,ORG,"Fulkerson, Kennedy & Company",,,,,,660 Pennsylvania Ave SE,Ste 201,Washington,DC,200034365,,,2024-02-21,8659.91,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500056569,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-01-22,1167.84,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00772517,500057899,,,ORG,"Democracy Engine, LLC",,,,,,2125 14th St NW,,Washington,DC,200094464,,,2024-03-14,395.10,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,

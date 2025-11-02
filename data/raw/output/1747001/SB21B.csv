@@ -1,0 +1,41 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00835041,500050675,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-05,487.76,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050676,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-12,519.26,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050677,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-19,595.37,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050678,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-26,498.85,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500050679,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-11-30,477.36,0.00,Merchant Processing Fees,003,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051220,,,ORG,AMALGAMATED BANK,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-11-29,101.55,0.00,BANK FEES,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051270,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,900.00,0.00,Staff Reimbursement: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051268,500051270,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-11-06,900.00,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051271,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,900.00,0.00,Staff Reimbursement: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051269,500051271,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-11-07,900.00,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051273,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,500.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051272,500051273,SB21B,ORG,Blueutopia,,,,,,PO Box 4486,,Seattle,WA,981940486,,,2023-11-01,500.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051275,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,350.00,0.00,Staff Reimbursement: See Below,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051274,500051275,SB21B,ORG,The Cook Political Report,,,,,,2311 Wilson Blvd,Fl 3,Arlington,VA,222015436,,,2023-11-01,350.00,0.00,MEDIA SUBSCRIPTION,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051284,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,250.00,0.00,Repayment of Staff Advance: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051283,500051284,SB21B,ORG,"Raise More, Inc.",,,,,,40 Ocean Pkwy,Apt 4A,Brooklyn,NY,112181530,,,2023-10-25,250.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051286,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,888.00,0.00,Repayment of Staff Advance: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051285,500051286,SB21B,ORG,Email on Acid,,,,,,112 E Pecan St,Ste 1135,San Antonio,TX,782051509,,,2023-10-26,888.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051288,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,3333.33,0.00,Repayment of Staff Advance: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051287,500051288,SB21B,ORG,Civic Shout,,,,,,16192 Coastal Hwy,,Lewes,DE,199583608,,,2023-10-25,3333.33,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051294,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,500.00,0.00,Staff Reimbursement: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051293,500051294,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-26,500.00,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051298,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,500.00,0.00,Repayment of Staff Advance: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051297,500051298,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-27,500.00,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051300,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,600.00,0.00,Repayment of Staff Advance: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051299,500051300,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-28,600.00,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051302,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,900.00,0.00,Repayment of Staff Advance: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051301,500051302,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-10-30,900.00,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051303,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,1.02,0.00,Staff Reimbursement,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500053081,,,IND,,Austin,David,,,,PO Box 702,,Somers Point,NJ,082440702,,,2023-11-16,900.00,0.00,Staff Reimbursement: See Below,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051266,500053081,SB21B,ORG,Facebook,,,,,,1 Hacker Way,,Menlo Park,CA,940251456,,,2023-11-01,900.00,0.00,ADVERTISING,004,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051282,,,ORG,Civic Shout,,,,,,16192 Coastal Hwy,,Lewes,DE,199583608,,,2023-11-27,3333.33,0.00,Staff Advance Memo Entry: ADVERTISING,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500051223,,,ORG,Civitech,,,,,,21750 Hardy Oak Blvd,Ste 104,San Antonio,TX,782584946,,,2023-11-03,8979.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051216,,,ORG,FRAISER,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2023-11-02,5000.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051217,,,ORG,FRAISER,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2023-11-09,7373.83,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051219,,,ORG,L2 DATA,,,,,,18912 N Creek Pkwy,,Bothell,WA,980118016,,,2023-11-06,289.03,0.00,Data,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051222,,,ORG,QUILLER,,,,,,321 N Clark St,Ste 730,Chicago,IL,606544767,,,2023-11-13,370.00,0.00,SOFTWARE,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051289,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2023-11-02,16084.21,0.00,ADVERTISING EXPENSES,004,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051224,,,ORG,Victory First Consulting,,,,,,8124 Bonaire Ct,,Silver Spring,MD,209104663,,,2023-11-30,1500.00,0.00,Compliance services,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500051290,,,ORG,Wildflower,,,,,,6903 Deatonhill Dr.,#24,Austin,TX,787455133,,,2023-11-02,4000.00,0.00,DIGITAL CONSULTING,001,,,,,,,,,,,,,,,,,,,

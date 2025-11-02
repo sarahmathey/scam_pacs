@@ -1,0 +1,103 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00630665,501183800,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-31,100.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183810,,,IND,,Monge,Regina,,,,2407 15th St NW,Apt 609,Washington,DC,200094137,,,2024-05-30,3000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183760,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-04-15,1472.86,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183770,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-06-10,1716.62,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183670,,,ORG,First National Bank Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-05-29,3842.11,0.00,Credit card payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183831,501183670,SB21B,ORG,UberEats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-04-26,272.04,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183822,501183670,SB21B,ORG,UberEats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-04-08,13.63,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183823,501183670,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-04-16,714.33,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183833,501183670,SB21B,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-05-04,215.00,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183834,501183670,SB21B,ORG,Quickbooks,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-05-08,95.40,0.00,Compliance Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183838,501183670,SB21B,ORG,"Airbnb, inc",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-04-23,1723.75,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183780,,,ORG,"Financial Innovations, Inc",,,,,,1 Weingeroff Blvd,,Cranston,RI,029104009,,,2024-05-21,277.07,0.00,Online Store Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183790,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-06-18,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183801,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-31,165.06,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183811,,,IND,,Monge,Regina,,,,2407 15th St NW,Apt 609,Washington,DC,200094137,,,2024-06-21,3000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183761,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-04-22,1645.17,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183661,,,ORG,Justice Democrats Nonfederal Account,,,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,28302.37,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183680,501183661,SB21B,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,5727.82,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183674,501183661,SB21B,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,2849.19,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183675,501183661,SB21B,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,8100.27,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183676,501183661,SB21B,IND,,Kaur,Supreet,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,1011.16,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183677,501183661,SB21B,IND,,Lamadrid,Vasthy,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,7101.66,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183678,501183661,SB21B,IND,,Rast,Rebecca,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,345.51,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183679,501183661,SB21B,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-04-25,3166.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183671,,,ORG,First National Bank Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-06-26,5568.64,0.00,Credit card payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183850,501183671,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-05-30,12.97,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183853,501183671,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-06-05,737.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183844,501183671,SB21B,ORG,Alamo Rent A Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-05-31,245.87,0.00,Car Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183845,501183671,SB21B,ORG,"Airbnb, inc",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-06-18,3380.26,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183846,501183671,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-06-20,283.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183857,501183671,SB21B,ORG,UberEats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-06-06,70.83,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183858,501183671,SB21B,ORG,"Airbnb, inc",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-06-10,374.38,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183771,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-06-17,2403.62,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183781,,,ORG,"Financial Innovations, Inc",,,,,,1 Weingeroff Blvd,,Cranston,RI,029104009,,,2024-06-07,318.44,0.00,Online Store Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183791,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-06-27,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183802,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-31,50.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183662,,,ORG,Justice Democrats Nonfederal Account,,,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,31693.29,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183690,501183662,SB21B,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,7154.25,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183691,501183662,SB21B,IND,,Kaur,Supreet,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,675.16,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183692,501183662,SB21B,IND,,Lamadrid,Vasthy,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,6433.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183693,501183662,SB21B,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,4013.66,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183694,501183662,SB21B,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,6064.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183688,501183662,SB21B,IND,,Allen,Tyler,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,3499.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183689,501183662,SB21B,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-30,3852.12,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183762,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-04-29,1747.04,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183772,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-06-24,2440.45,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183782,,,ORG,Lake Research Partners,,,,,,1101 17th St NW,Ste 301,Washington,DC,200364742,,,2024-04-08,12000.00,0.00,Polling,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183792,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-04-01,5300.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183803,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-31,100.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183763,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-04-30,493.61,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183663,,,ORG,Justice Democrats Nonfederal Account,,,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,36513.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183700,501183663,SB21B,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,8036.98,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183701,501183663,SB21B,IND,,Kaur,Supreet,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,1116.31,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183702,501183663,SB21B,IND,,Lamadrid,Vasthy,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,5053.41,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183703,501183663,SB21B,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,4159.28,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183704,501183663,SB21B,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,6443.79,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183698,501183663,SB21B,IND,,Allen,Tyler,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,7649.05,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183699,501183663,SB21B,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,4054.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183773,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-06-30,2526.15,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183783,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-04-04,9016.16,0.00,Email Fundraising Program,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183793,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-05-10,5936.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183804,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-14,156.62,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183764,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-05-06,807.74,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183774,,,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-04-22,37.15,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183784,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-04-10,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183794,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-05-30,6466.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183805,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-14,55.22,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183655,,,IND,,Rast,Rebecca,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-28,250.00,0.00,Reimbursement - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183654,501183655,SB21B,ORG,Starr Bar,,,,,,214 Starr St,,Brooklyn,NY,112372608,,,2024-05-11,250.00,0.00,Fundraising Event,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183765,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-05-13,1363.94,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183775,,,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-05-22,54.63,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183785,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-04-25,5000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183795,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-06-28,6466.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183806,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-06-14,100.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183766,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-05-20,1385.26,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183776,,,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-06-24,53.53,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183786,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-05-10,9000.00,0.00,Email Fundraising Program,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183796,,,ORG,Quickbooks,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-05-20,1.54,0.00,Compliance Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183807,,,IND,,Saaed,Jamila,,,,901 N Sierra Bonita Ave,,West Hollywood,CA,900466504,,,2024-05-10,2000.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183767,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-05-28,3394.79,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183777,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Fl 14,New York,NY,100016995,,,2024-04-26,152.00,0.00,Bank Charges & Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183787,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-05-29,5000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183797,,,ORG,Upswing Research & Strategy,,,,,,PO Box 73185,,Washington,DC,200563185,,,2024-05-16,15850.00,0.00,Research Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183808,,,IND,,Saaed,Jamila,,,,901 N Sierra Bonita Ave,,West Hollywood,CA,900466504,,,2024-06-12,1000.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183768,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-05-31,3033.72,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183778,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Fl 14,New York,NY,100016995,,,2024-05-24,111.04,0.00,Bank Charges & Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183788,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-06-12,9000.00,0.00,Email Fundraising Program,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183798,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-15,408.56,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183809,,,IND,,Monge,Regina,,,,2407 15th St NW,Apt 609,Washington,DC,200094137,,,2024-04-18,3000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183759,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-04-08,1396.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183769,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-06-03,488.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183669,,,ORG,First National Bank Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-04-26,888.13,0.00,Credit card payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183820,501183669,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-04-02,126.85,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183812,501183669,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-04-01,65.69,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183813,501183669,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-04-03,129.82,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183814,501183669,SB21B,ORG,Residence Inn,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-04-01,195.40,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183815,501183669,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-04-01,42.85,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183817,501183669,SB21B,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-04-04,215.00,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183818,501183669,SB21B,ORG,Quickbooks,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-04-08,95.40,0.00,Compliance Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501183779,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Fl 14,New York,NY,100016995,,,2024-06-28,89.02,0.00,Bank Charges & Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183789,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-06-13,5000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501183799,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-05-31,211.06,0.00,Mileage,,,,,,,,,,,,,,,,,,,,

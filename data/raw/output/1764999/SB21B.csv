@@ -1,0 +1,29 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00488387,500142341,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-02-12,261.42,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142342,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-02-20,711.00,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142343,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-02-26,344.25,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142503,,,PAC,ActBlue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-02-29,898.65,0.00,PAC Credit Card Processing Fee,,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142504,,,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-02-13,167.40,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142505,,,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-02-15,118.80,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142506,,,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-02-28,35.10,0.00,PAC Travel Expenses,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142604,,,ORG,Davidovich Bakery,,,,,,88 Essex St,,New York,NY,100025575,,,2024-02-07,491.02,0.00,PAC Member Event Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142602,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-02-12,431.10,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142346,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2024-02-02,140.85,0.00,PAC Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142344,500142346,SB21B,IND,,Sudolsky,Brian,,,,131 E 93Rd St,Apt 1CD,New York,NY,101281606,,,2024-02-02,112.50,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500142354,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2024-02-22,382.31,0.00,PAC Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142353,500142354,SB21B,IND,,Sudolsky,Brian,,,,131 E 93Rd St,Apt 1CD,New York,NY,101281606,,,2024-02-22,165.00,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500142356,500142354,SB21B,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2024-02-22,90.93,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500142355,500142354,SB21B,ORG,Verizon Wireless,,,,,,140 West St,,New York,NY,100072141,,,2024-02-22,126.38,0.00,PAC Utilities,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500142358,,,IND,,Dickstein Sudolsky,Marcia,,,,445 Park Ave,,New York,NY,100222606,,,2024-02-26,100.00,0.00,PAC Reimbursement - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142357,500142358,SB21B,IND,,Sudolsky,Brian,,,,131 E 93Rd St,Apt 1CD,New York,NY,101281606,,,2024-02-26,100.00,0.00,PAC Administrative Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00488387,500142596,,,ORG,JetBlue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2024-02-20,1244.50,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142597,,,ORG,JetBlue,,,,,,2701 Queens Plz N,,Long Island City,NY,111014020,,,2024-02-29,11.00,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142593,,,ORG,La Voglia NYC,,,,,,1645 3Rd Ave,,New York,NY,101283626,,,2024-02-21,350.52,0.00,PAC Meeting Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142585,,,ORG,Noglu,,,,,,1266 Madison Ave,,New York,NY,101280516,,,2024-02-13,65.80,0.00,PAC Meeting Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142583,,,ORG,"Political Compliance Management Services, LLC",,,,,,910 17Th St NW Ste 925,,Washington,DC,200062641,,,2024-02-09,512.39,0.00,PAC Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142578,,,ORG,Tideline Palm Beach,,,,,,2842 S Ocean Blvd,,Palm Beach,FL,334806233,,,2024-02-26,527.81,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142573,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2024-02-01,44.33,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142574,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2024-02-05,61.48,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142575,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2024-02-15,82.36,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142576,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2024-02-16,49.13,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,
+SB21B,C00488387,500142577,,,ORG,Uber,,,,,,455 Market St,,San Francisco,CA,941052420,,,2024-02-23,118.43,0.00,PAC Travel Expense,,,,,,,,,,,,,,,,,,,,

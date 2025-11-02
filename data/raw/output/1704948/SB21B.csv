@@ -1,0 +1,130 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00632133,500218144,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-01,97.13,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218149,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-04,86.21,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218150,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-04,0.20,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218167,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-11,325.70,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218168,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-11,1.98,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218204,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-18,375.18,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218273,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-25,224.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218336,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-25,1.98,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218315,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-26,395.64,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218324,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-26,55.00,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218211,,,ORG,American Express,,,,,,PO Box 6504488,,Dallas,TX,75265,,,2023-04-19,18047.03,0.00,Credit Card Payment - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218215,500218211,SB21B,ORG,Amazon Web Services,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2023-04-19,1513.14,0.00,Website Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218225,500218211,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2023-04-19,531.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218234,500218211,SB21B,ORG,"Box, Inc.",,,,,,900 Jefferson Ave,,Redwood City,CA,940631837,,,2023-04-19,79.50,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218232,500218211,SB21B,ORG,Breezy HR,,,,,,1450 Flagler Ave,Unit 24,Jacksonville,FL,322078572,,,2023-04-19,529.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218219,500218211,SB21B,ORG,Calendly,,,,,,1315 Peachtree St NE,,Atlanta,GA,303097515,,,2023-04-19,159.53,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218228,500218211,SB21B,ORG,CharterUp,,,,,,3525 Piedmont Rd NE,Bldg 5-210,Atlanta,GA,303051586,,,2023-04-19,-270.16,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218218,500218211,SB21B,ORG,Expensify.Com,,,,,,88 Kearny St,,San Francisco,CA,941085530,,,2023-04-19,190.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218246,500218211,SB21B,ORG,Fivetran,,,,,,1221 Broadway,Fl 20,Oakland,CA,946121837,,,2023-04-19,1000.47,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218212,500218211,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-19,952.76,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218216,500218211,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-19,53.42,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218217,500218211,SB21B,ORG,"Google, Inc.",,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-19,52.96,0.00,Phone Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218245,500218211,SB21B,ORG,Help Scout Help Desk,,,,,,131 Tremont St,,Boston,MA,021111317,,,2023-04-19,206.70,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218248,500218211,SB21B,ORG,Heroku,,,,,,1 Market St,Ste 300,San Francisco,CA,941051315,,,2023-04-19,1.18,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218249,500218211,SB21B,ORG,Heroku,,,,,,1 Market St,Ste 300,San Francisco,CA,941051315,,,2023-04-19,1714.05,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218239,500218211,SB21B,ORG,Hex Technologies Inc.,,,,,,2261 Market St,# 4233,San Francisco,CA,941141612,,,2023-04-19,158.46,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218247,500218211,SB21B,ORG,Intuit Inc.,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2023-04-19,90.10,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218256,500218211,SB21B,ORG,Klaviyo,,,,,,225 Franklin St,Ste 10,Boston,MA,021102815,,,2023-04-19,3395.39,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218214,500218211,SB21B,ORG,"Mailgun Technologies, Inc.",,,,,,535 Mission St,Fl 14,San Francisco,CA,941053253,,,2023-04-19,317.94,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218244,500218211,SB21B,ORG,Miro.Com,,,,,,201 Spear St,Ste 1100,San Francisco,CA,941056164,,,2023-04-19,1824.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218227,500218211,SB21B,ORG,Pingboard.Com,,,,,,608 W Monroe St,,Austin,TX,787043462,,,2023-04-19,174.20,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218224,500218211,SB21B,ORG,Punchbowl News,,,,,,600 Pennsylvania Ave SE,Unit 15261,Washington,DC,200037511,,,2023-04-19,1590.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218221,500218211,SB21B,ORG,Sanity.Io,,,,,,695 Minna St,,San Francisco,CA,941032717,,,2023-04-19,99.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218235,500218211,SB21B,ORG,Segment,,,,,,100 California St,Ste 700,San Francisco,CA,941114512,,,2023-04-19,84.80,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218257,500218211,SB21B,ORG,Snowflake Computing,,,,,,450 Concar Dr,,San Mateo,CA,944022681,,,2023-04-19,476.71,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218220,500218211,SB21B,ORG,Spirit Airlines,,,,,,2800 Executive Way,,Miramar,FL,330256542,,,2023-04-19,315.78,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218226,500218211,SB21B,ORG,Typeform,,,,,,370 Brannan St,,San Francisco,CA,941071817,,,2023-04-19,99.00,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218230,500218211,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2023-04-19,32.93,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218231,500218211,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2023-04-19,31.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218253,500218211,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2023-04-19,9.71,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218254,500218211,SB21B,ORG,"Uber Technologies, Inc.",,,,,,555 Market St,,San Francisco,CA,941052800,,,2023-04-19,7.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218233,500218211,SB21B,ORG,Vercel Inc.,,,,,,1046 Kearny St,,San Francisco,CA,941334525,,,2023-04-19,90.65,0.00,Computer Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218213,500218211,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-04-19,1875.51,0.00,Video Conferencing Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218237,500218211,SB21B,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-04-19,116.56,0.00,Video Conferencing Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218265,,,ORG,Amtrust North America,,,,,,PO Box 6939,,Cleveland,OH,441011939,,,2023-04-19,1441.48,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218171,,,ORG,AP Integro,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,024517341,,,2023-04-10,301.06,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218334,,,ORG,AP Integro,,,,,,1601 Trapelo Rd,Ste 280,Waltham,MA,024517341,,,2023-04-24,265.51,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218266,,,ORG,"Bee Compliance, LLC",,,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-19,7500.00,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218176,,,IND,,Bentall,Nia,L.,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2946.57,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218285,,,IND,,Bentall,Nia,L.,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2946.57,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218177,,,IND,,Briseus,Valencia,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2162.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218286,,,IND,,Briseus,Valencia,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2818.75,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218178,,,IND,,Buechler,Elizabeth,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,4750.38,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218287,,,IND,,Buechler,Elizabeth,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,4750.38,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218179,,,IND,,Caffrey,Matthew,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2446.43,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218288,,,IND,,Caffrey,Matthew,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2484.96,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218180,,,IND,,Carden,Derik,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,3313.40,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218289,,,IND,,Carden,Derik,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,3313.40,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218155,,,ORG,"Chatham Strategies, Inc.",,,,,,363 Bond St,Apt 558,Brooklyn,NY,112313787,,,2023-04-04,5000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218267,,,ORG,"Chatham Strategies, Inc.",,,,,,363 Bond St,Apt 558,Brooklyn,NY,112313787,,,2023-04-19,6000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218268,,,ORG,"Community.Com, Inc.",,,,,,1014 Broadway,# 536,Santa Monica,CA,904012808,,,2023-04-19,691.70,0.00,Direct Marketing - SMS Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218209,,,ORG,DC Health Link,,,,,,PO Box 97022,,Washington,DC,200907022,,,2023-04-17,19825.78,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218172,,,ORG,DC Office Of Finance And Treasury,,,,,,1101 4Th St SW,,Washington,DC,200244457,,,2023-04-13,250.00,0.00,Tax Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218181,,,IND,,Deisen,Madeleine,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2006.88,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218290,,,IND,,Deisen,Madeleine,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2006.88,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218201,,,IND,,Egemen,Mete,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-13,176.18,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218282,,,IND,,Egemen,Mete,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,166.56,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218269,,,ORG,"Everyaction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2023-04-19,2905.83,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218182,,,IND,,Forman,Scott,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,4014.51,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218291,,,IND,,Forman,Scott,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,4014.50,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218202,,,IND,,Gambrell,Bria,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-13,129.99,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218283,,,IND,,Gambrell,Bria,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,167.15,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218183,,,IND,,Garcia,Jennifer,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,1913.80,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218292,,,IND,,Garcia,Jennifer,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,1913.82,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218184,,,IND,,Grace,Heather,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2589.69,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218293,,,IND,,Grace,Heather,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2589.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218173,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-04-12,422.94,0.00,Payroll Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218174,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-04-13,113.12,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218175,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-04-13,39429.39,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218332,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-04-21,1.96,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218333,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-04-21,10.50,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218313,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-04-27,47321.64,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218314,,,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,,2023-04-27,116.64,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218185,,,IND,,Haque,Sheamanti,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,3448.12,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218294,,,IND,,Haque,Sheamanti,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,3448.10,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218186,,,IND,,Higgins,Patrick,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,3471.49,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218295,,,IND,,Higgins,Patrick,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,3471.50,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218187,,,IND,,Howell,Elizabeth,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2718.82,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218296,,,IND,,Howell,Elizabeth,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2718.83,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218188,,,IND,,James,Nicholas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2988.67,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218297,,,IND,,James,Nicholas,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2988.68,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218270,,,ORG,Janice Rottenberg LLC,,,,,,1530 14Th St NW,# 3B,Washington,DC,200053722,,,2023-04-19,15000.00,0.00,Strategic Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218157,,,ORG,John Hancock Investment Management,,,,,,200 Berkeley St,Ste 1,Boston,MA,021165022,,,2023-04-06,10203.43,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218208,,,ORG,John Hancock Investment Management,,,,,,200 Berkeley St,Ste 1,Boston,MA,021165022,,,2023-04-17,9426.60,0.00,Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218189,,,IND,,Kaplan,Janna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,1894.71,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218298,,,IND,,Kaplan,Janna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,1894.73,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218190,,,IND,,Langer,Anna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2988.49,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218299,,,IND,,Langer,Anna,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2988.48,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218191,,,IND,,Le,Phong,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2262.30,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218300,,,IND,,Le,Phong,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2262.30,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218192,,,IND,,LeDuc,Sara,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2105.66,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218301,,,IND,,LeDuc,Sara,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2105.66,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218203,,,IND,,Li,Winston,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-13,150.89,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218284,,,IND,,Li,Winston,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,150.88,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218193,,,IND,,Miller,David,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,3692.80,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218302,,,IND,,Miller,David,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,8320.60,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218194,,,IND,,Ochoa,Laura,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2624.32,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218303,,,IND,,Ochoa,Laura,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,3327.82,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218195,,,IND,,Pratt,Caitlin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2503.91,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218304,,,IND,,Pratt,Caitlin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2503.90,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218196,,,IND,,Radjy,Yasmin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,5398.56,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218305,,,IND,,Radjy,Yasmin,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,5398.57,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218197,,,IND,,Riveron,Andrea,M.,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,3341.04,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218306,,,IND,,Riveron,Andrea,M.,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,3341.05,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218198,,,IND,,Salavantis,Molly,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2675.33,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218307,,,IND,,Salavantis,Molly,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2675.31,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218156,,,ORG,"Salesberry Group, LLC",,,,,,5515 S Hyde Park Blvd,Apt 1N,Chicago,IL,606371544,,,2023-04-04,8500.00,0.00,Bookkeeping,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218335,,,ORG,"Salesberry Group, LLC",,,,,,5515 S Hyde Park Blvd,Apt 1N,Chicago,IL,606371544,,,2023-04-25,180.72,0.00,Bookkeeping,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218199,,,IND,,Snow,Julian,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,2428.44,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218308,,,IND,,Snow,Julian,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,2622.43,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218271,,,ORG,Snowflake Computing,,,,,,450 Concar Dr,,San Mateo,CA,944022681,,,2023-04-19,390.27,0.00,Computer Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218309,,,IND,,Tacka,Jade,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,4747.70,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218272,,,ORG,The Blackwell Group LLC,,,,,,2125 14Th St NW,Apt 503,Washington,DC,200098001,,,2023-04-19,8500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218159,,,ORG,The Guardian,,,,,,61 Broadway,,New York,NY,100062701,,,2023-04-03,275.40,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218158,,,ORG,Travelers,,,,,,PO Box 660317,,Dallas,TX,752660317,,,2023-04-04,1306.00,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218154,,,IND,,Wapnick,Carolyn,,,,40 Allen St,,Asheville,NC,288063327,,,2023-04-04,176.00,0.00,Reimbursement - See Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218153,500218154,SB21B,ORG,United States Postal Service,,,,,,8409 Lee Hwy,,Merrifield,VA,220811000,,,2023-04-04,176.00,0.00,Office Equipment Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00632133,500218200,,,IND,,Wasserman,Emily,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-14,3181.37,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00632133,500218310,,,IND,,Wasserman,Emily,,,,611 Pennsylvania Ave SE,# 192,Washington,DC,200034303,,,2023-04-27,3181.38,0.00,Salary,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,185 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00630665,501206400,,,ORG,Quickbooks,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-08-26,0.38,0.00,Compliance Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205310,,,ORG,Justice Democrats Nonfederal Account,,,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,26684.39,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205350,501205310,SB21B,IND,,Lamadrid,Vasthy,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,4687.89,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205311,501205310,SB21B,IND,,Allen,Tyler,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,5483.51,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205351,501205310,SB21B,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,5153.95,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205312,501205310,SB21B,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,3823.68,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205352,501205310,SB21B,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,2698.42,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205313,501205310,SB21B,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,4734.86,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205349,501205310,SB21B,IND,,Kaur,Supreet,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-01,102.08,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501206340,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,137.56,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206350,,,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,67.99,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206360,,,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,875.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206370,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-08-26,1249.61,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206380,,,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-09-23,10.93,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206390,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-07-23,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206401,,,ORG,Quickbooks,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-09-01,1.83,0.00,Compliance Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205241,,,ORG,Justice Democrats Nonfederal Account,,,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,36851.22,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205250,501205241,SB21B,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,6451.52,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205242,501205241,SB21B,IND,,Allen,Tyler,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,7721.47,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205243,501205241,SB21B,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,4196.85,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205244,501205241,SB21B,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,8111.68,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205246,501205241,SB21B,IND,,Kaur,Supreet,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,448.90,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205248,501205241,SB21B,IND,,Lamadrid,Vasthy,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,4370.61,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205249,501205241,SB21B,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,5550.19,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501206341,,,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-07-31,310.88,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206351,,,IND,,Monge,Regina,,,,2407 15th St NW,Apt 609,Washington,DC,200094137,,,2024-07-19,1500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206361,,,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,350.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206371,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-08-31,859.82,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206381,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Fl 14,New York,NY,100016995,,,2024-07-26,110.28,0.00,Bank Charges & Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206391,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-08-16,9000.00,0.00,Email Fundraising Program,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206402,,,ORG,Upswing Research & Strategy,,,,,,PO Box 73185,,Washington,DC,200563185,,,2024-07-18,8900.00,0.00,Research Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206342,,,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-07-31,500.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206352,,,IND,,Monge,Regina,,,,2407 15th St NW,Apt 609,Washington,DC,200094137,,,2024-07-19,1500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206362,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-07-08,1102.12,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206372,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-09-03,118.09,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206382,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Fl 14,New York,NY,100016995,,,2024-08-29,112.50,0.00,Bank Charges & Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206392,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-07-24,5000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206403,,,ORG,Upswing Research & Strategy,,,,,,PO Box 73185,,Washington,DC,200563185,,,2024-07-29,24000.00,0.00,Research Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206343,,,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,350.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206353,,,IND,,Monge,Regina,,,,2407 15th St NW,Apt 609,Washington,DC,200094137,,,2024-08-16,1500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206363,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-07-15,1279.02,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206373,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-09-09,1045.61,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206383,,,ORG,Amalgamated Bank,,,,,,275 7th Ave,Fl 14,New York,NY,100016995,,,2024-09-26,122.77,0.00,Bank Charges & Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206393,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-07-26,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206344,,,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,500.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206354,,,IND,,Monge,Regina,,,,2407 15th St NW,Apt 609,Washington,DC,200094137,,,2024-08-16,1500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206364,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-07-22,1829.07,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206374,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-09-16,1000.22,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206384,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-09-06,6996.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205294,,,ORG,Justice Democrats Nonfederal Account,,,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-30,41802.53,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205300,501205294,SB21B,IND,,Lamadrid,Vasthy,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-30,5377.96,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205301,501205294,SB21B,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-30,6640.16,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205302,501205294,SB21B,IND,,Simpson,Geoffrey,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-30,6583.19,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205296,501205294,SB21B,IND,,Allen,Tyler,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-30,7723.66,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205297,501205294,SB21B,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-30,6257.66,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205298,501205294,SB21B,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-01,8097.07,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205299,501205294,SB21B,IND,,Kaur,Supreet,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-30,1122.83,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501206394,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-09-09,9000.00,0.00,Email Fundraising Program,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205215,,,ORG,First National Bank Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-07-26,7974.07,0.00,Credit card payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205290,501205215,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-05,236.15,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205261,501205215,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-05,11.94,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205281,501205215,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-01,313.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205291,501205215,SB21B,ORG,"Airbnb, inc",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-07-05,1471.75,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205272,501205215,SB21B,ORG,La Bella Havana,,,,,,35 Main St,,Yonkers,NY,107012739,,,2024-07-10,267.07,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205282,501205215,SB21B,ORG,United Airlines,,,,,,PO Box 6649,,Chicago,IL,606806605,,,2024-07-01,216.97,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205263,501205215,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-05,5.58,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205283,501205215,SB21B,ORG,"Airbnb, inc",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-07-03,466.19,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205264,501205215,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-05,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205274,501205215,SB21B,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-07-02,20.00,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205284,501205215,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-07-03,459.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205265,501205215,SB21B,ORG,Courtyard by Marriott,,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-07-06,818.11,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205275,501205215,SB21B,ORG,Quickbooks,,,,,,2700 Coast Ave,,Mountain View,CA,940431140,,,2024-07-02,95.40,0.00,Compliance Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205285,501205215,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-03,16.68,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205256,501205215,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-01,426.35,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205286,501205215,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-07-03,553.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205258,501205215,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-03,18.95,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205288,501205215,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-01,896.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205279,501205215,SB21B,ORG,Chicken and Whisk,,,,,,1738 14th St NW,,Washington,DC,200094426,,,2024-07-01,286.31,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205289,501205215,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-01,612.21,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501206335,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,700.00,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206345,,,IND,,Saaed,Jamila,,,,901 N Sierra Bonita Ave,,West Hollywood,CA,900466504,,,2024-08-16,500.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206355,,,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,350.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206365,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-07-29,2176.50,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206375,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-09-23,1056.92,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206385,,,ORG,Grassroots Analytics,,,,,,645 Prospect Hill Rd,,Rutland,VT,057019442,,,2024-07-11,5000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206395,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-08-01,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205216,,,ORG,First National Bank Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-08-27,7496.01,0.00,Credit card payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205320,501205216,SB21B,ORG,"Delta Airlines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-07-22,464.52,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205321,501205216,SB21B,ORG,Priceline.com,,,,,,800 Connecticut Ave,,Norwalk,CT,068541631,,,2024-07-24,1309.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205322,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-24,44.16,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205332,501205216,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-07-03,25.35,0.00,Web Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205323,501205216,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-07-25,78.74,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205333,501205216,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-17,610.95,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205343,501205216,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-25,100.00,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205314,501205216,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 61434,San Francisco,CA,941045401,,,2024-07-01,87.65,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205324,501205216,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 61434,San Francisco,CA,941045401,,,2024-07-25,53.05,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205344,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-25,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205315,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-08,39.80,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205335,501205216,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-07-22,40.99,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205345,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-26,11.95,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205316,501205216,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-18,448.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205326,501205216,SB21B,ORG,Gordon Loewen Research,,,,,,2226 Garfield Ave,# B1,Minneapolis,MN,554053200,,,2024-07-02,2550.00,0.00,Research Consulting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205336,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-22,27.49,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205346,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-26,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205317,501205216,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-18,304.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205327,501205216,SB21B,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-07-05,10.00,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205337,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-22,19.93,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205318,501205216,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-07-18,28.83,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205338,501205216,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-07-22,37.09,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205348,501205216,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-07-26,31.16,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205319,501205216,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-07-19,718.96,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501206336,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,137.56,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206346,,,IND,,Saaed,Jamila,,,,901 N Sierra Bonita Ave,,West Hollywood,CA,900466504,,,2024-08-16,500.00,0.00,Graphic Design,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206356,,,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,254.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206366,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-07-31,933.47,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206376,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-09-30,170.29,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206386,,,ORG,Grassroots Analytics,,,,,,645 Prospect Hill Rd,,Rutland,VT,057019442,,,2024-07-11,5000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206396,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-08-06,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205217,,,ORG,First National Bank Omaha,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-09-26,6145.94,0.00,Credit card payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501205400,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-19,56.36,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205420,501205217,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-08-08,52.89,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205360,501205217,SB21B,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-08-05,10.00,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205370,501205217,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-07-30,22.13,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205380,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-05,19.90,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205401,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-22,41.37,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205411,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-06,27.51,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205421,501205217,SB21B,ORG,"Delta Airlines, Inc.",,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-08-08,28.01,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205381,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-05,24.95,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205402,501205217,SB21B,ORG,Chowbus,,,,,,224 S Michigan Ave,Ste 400,Chicago,IL,606042518,,,2024-07-29,249.18,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205412,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-06,23.54,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205422,501205217,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 61434,San Francisco,CA,941045401,,,2024-08-12,18.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205372,501205217,SB21B,ORG,The Whiskey Ring,,,,,,2651 Cherokee St,,Saint Louis,MO,631183129,,,2024-07-30,247.17,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205392,501205217,SB21B,ORG,United Airlines,,,,,,PO Box 6649,,Chicago,IL,606806605,,,2024-08-12,417.97,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205413,501205217,SB21B,ORG,United Airlines,,,,,,PO Box 6649,,Chicago,IL,606806605,,,2024-08-07,353.48,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205383,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-06,15.94,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205393,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-12,3.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205414,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-07,24.50,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205364,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-29,158.67,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205374,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-01,73.93,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205384,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-06,43.34,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205394,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-12,35.46,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205405,501205217,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-08-01,122.22,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205365,501205217,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-07-29,5.86,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205375,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-02,70.22,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205385,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-06,10.74,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205395,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-12,63.03,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205406,501205217,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 61434,San Francisco,CA,941045401,,,2024-08-01,26.82,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205416,501205217,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 61434,San Francisco,CA,941045401,,,2024-08-07,33.68,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205366,501205217,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-07-29,35.15,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205376,501205217,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-08-05,33.88,0.00,Web Hosting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205386,501205217,SB21B,ORG,The Mud House,,,,,,2101 Cherokee St,,Saint Louis,MO,631183224,,,2024-08-07,46.52,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205396,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-12,19.11,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205397,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-14,7.19,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205408,501205217,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-08-02,235.99,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205358,501205217,SB21B,ORG,Sweetwater Sound,,,,,,5501 US-30,,Fort Wayne,IN,46818,,,2024-08-02,427.01,0.00,Fundraiser: Entertianment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205378,501205217,SB21B,ORG,"Airbnb, inc",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2024-08-05,1022.17,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205388,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-07,16.32,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205398,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-19,74.02,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205409,501205217,SB21B,ORG,Lyft,,,,,,548 Market St,Ste 61434,San Francisco,CA,941045401,,,2024-08-05,16.99,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205419,501205217,SB21B,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,,2024-08-08,459.98,0.00,Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205359,501205217,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-08-02,10.89,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205389,501205217,SB21B,ORG,Uber,,,,,,1455 Market St,Ste 400,San Francisco,CA,941031355,,,2024-08-08,6.42,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501205399,501205217,SB21B,ORG,Uber Eats,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-08-19,11.58,0.00,Meal,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00630665,501206337,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-30,300.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206347,,,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,203.59,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206357,,,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,15.80,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206367,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-08-05,1935.94,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206377,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-09-30,1127.15,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206387,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-07-16,9000.00,0.00,Email Fundraising Program,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206397,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-08-09,10000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206338,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,150.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206348,,,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,300.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206358,,,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,31.22,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206368,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-08-12,3613.33,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206378,,,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-07-22,17.48,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206388,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-07-05,5000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206398,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-09-10,5000.00,0.00,Advertising - Digital,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206339,,,IND,,Rojas,Alexandra,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,400.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206349,,,IND,,Danelski,Rosemary,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-08-29,104.53,0.00,Mileage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206359,,,IND,,Andrabi,Usamah,,,,1390 Columbia Ave,# 261,Lancaster,PA,176034743,,,2024-09-13,75.00,0.00,Per Diem,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206369,,,ORG,"ActBlue Technologies, Inc.",,,,,,14 Arrow St,Ste 11,Cambridge,MA,021385106,,,2024-08-19,1380.41,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206379,,,ORG,WPY Action Network,,,,,,350 Convention Way,Ste 200,Redwood City,CA,940631436,,,2024-08-22,34.96,0.00,Fundraising Tools & Subscriptions,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206389,,,ORG,"Middle Seat Consulting, LLC",,,,,,PO Box 21600,,Washington,DC,200099600,,,2024-07-18,50000.00,0.00,Email Fundraising Program,,,,,,,,,,,,,,,,,,,,
+SB21B,C00630665,501206399,,,ORG,"NGP VAN, Inc.",,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-08-02,6466.00,0.00,Software,,,,,,,,,,,,,,,,,,,,

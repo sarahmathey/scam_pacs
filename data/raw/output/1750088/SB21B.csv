@@ -1,0 +1,66 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00517235,500880510,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-07-26,165.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500900350,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-12-27,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500883101,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-08-25,15.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500876821,,,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2023-07-14,318.00,0.00,Software Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500884131,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-09-08,2407.18,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500886932,500884131,SB21B,ORG,The Alley,,,,,,121 Teresina Ln,,Taos,NM,875715921,,,2023-09-08,797.18,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500886933,500884131,SB21B,ORG,Santa Fe Party Rental,,,,,,1006 Cordova Pl,,Santa Fe,NM,875051661,,,2023-09-08,610.00,0.00,Event Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500886934,500884131,SB21B,ORG,Emerge New Mexico,,,,,,500 Marquette Ave NW,Ste 280,Albuquerque,NM,871025300,,,2023-09-08,1000.00,0.00,Event Sponsorship,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500879322,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-07-19,2474.15,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500879350,500879322,SB21B,ORG,The Henri DC,,,,,,1301 Pennsylvania Ave NW,,Washington,DC,200041701,,,2023-07-19,2200.80,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500879351,500879322,SB21B,ORG,Slipstream,,,,,,82 I St SE,,Washington,DC,200038200,,,2023-07-19,-40.70,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500879352,500879322,SB21B,ORG,Slipstream,,,,,,82 I St SE,,Washington,DC,200038200,,,2023-07-19,314.05,0.00,Meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500897922,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-11-29,29.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500886582,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-25,256.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500892582,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-10-16,3840.42,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500892620,500892582,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-10-16,46.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892621,500892582,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-10-16,1802.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892624,500892582,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-10-16,-250.89,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892625,500892582,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-10-16,-58.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892626,500892582,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-10-16,58.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892617,500892582,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-10-16,46.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892627,500892582,SB21B,ORG,Alaska Airlines,,,,,,PO Box 68900,,Seattle,WA,981680900,,,2023-10-16,250.89,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892618,500892582,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-10-16,855.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892628,500892582,SB21B,ORG,Hilton Hotels,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2023-10-16,859.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892619,500892582,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660100,,,2023-10-16,46.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500886592,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-09-26,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500892413,,,ORG,Getaway Grill,,,,,,8 Elias P Sanchez Rd,,Los Lunas,NM,870317516,,,2023-10-12,4327.50,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500897353,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-11-13,5250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500892583,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-10-16,25449.79,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500892610,500892583,SB21B,ORG,Inn and Spa at Loretto,,,,,,211 Old Santa Fe Trl,,Santa Fe,NM,875012106,,,2023-10-16,724.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892611,500892583,SB21B,ORG,Inn and Spa at Loretto,,,,,,211 Old Santa Fe Trl,,Santa Fe,NM,875012106,,,2023-10-16,1086.51,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892612,500892583,SB21B,ORG,Inn and Spa at Loretto,,,,,,211 Old Santa Fe Trl,,Santa Fe,NM,875012106,,,2023-10-16,1086.51,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892613,500892583,SB21B,ORG,Santa Fe Party Rental,,,,,,1006 Cordova Pl,,Santa Fe,NM,875051661,,,2023-10-16,-113.92,0.00,Event Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892614,500892583,SB21B,ORG,Santa Fe Party Rental,,,,,,1006 Cordova Pl,,Santa Fe,NM,875051661,,,2023-10-16,606.05,0.00,Event Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892615,500892583,SB21B,ORG,Hilton Hotels,,,,,,7930 Jones Branch Dr,,McLean,VA,221023388,,,2023-10-16,859.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892616,500892583,SB21B,ORG,Restaurant Martin,,,,,,526 Galisteo St,,Santa Fe,NM,875012610,,,2023-10-16,15782.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892607,500892583,SB21B,ORG,La Plazuela at La Fonda on the Plaza,,,,,,100 E San Francisco St,,Santa Fe,NM,875012110,,,2023-10-16,775.24,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892608,500892583,SB21B,ORG,RPM Italian,,,,,,601 Massachusetts Ave NW,,Washington,DC,200015369,,,2023-10-16,3557.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892609,500892583,SB21B,ORG,Inn and Spa at Loretto,,,,,,211 Old Santa Fe Trl,,Santa Fe,NM,875012106,,,2023-10-16,1086.51,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500876824,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-07-14,4250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500886244,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-18,79.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500881064,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-08-11,5250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500897415,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-11-22,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500890515,,,IND,,Abeyta,Amado,,,,34 Johnson Mesa,,Santa Fe,NM,875084809,,,2023-09-13,600.00,0.00,Event Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500880425,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-07-31,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,13097425I,13097425,SA11AI,IND,,Murray,Jeff,,,,1214 Ingleside Ave,# A,Mclean,VA,221012815,,,2023-09-15,1988.73,0.00,Event Space and Catering,,,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00517235,500893025,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-10-26,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500892406,,,ORG,"NGP VAN, Inc.",,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,,2023-10-03,318.00,0.00,Software Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500890516,,,IND,,Otero,Josephine,,,,195 El Cerro Mission Rd,,Los Lunas,NM,870317874,,,2023-09-13,437.50,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500902046,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-12-29,30.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500887786,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-09-30,237.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500890517,,,IND,,Eichwald,Ashley,M.,,,9 Tres Ninas,,Los Lunas,NM,870316480,,,2023-09-13,250.00,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500893627,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-10-27,165.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500882847,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-08-24,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500899597,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-12-11,5250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500886938,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-09-22,5250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500887868,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-09-27,0.25,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500902498,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-11-28,250.00,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500902499,500902498,SB21B,ORG,Bistro Cacao,,,,,,316 Massachusetts Ave NE,,Washington,DC,200025702,,,2023-11-28,250.00,0.00,Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500880809,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2023-08-04,1138.20,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500880831,500880809,SB21B,ORG,Bittersweet Catering,,,,,,823 King St,,Alexandria,VA,223143016,,,2023-08-04,388.20,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500880832,500880809,SB21B,ORG,RPM Italian,,,,,,601 Massachusetts Ave NW,,Washington,DC,200015369,,,2023-08-04,750.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00517235,500892409,,,ORG,Strathdee Group,,,,,,PO Box 15096,,Washington,DC,200030096,,,2023-10-16,5250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500897289,,,ORG,ActBlue Technical Services,,,,,,PO Box 382110,,Cambridge,MA,022382110,,,2023-11-27,79.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00517235,500875699,,,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,# 143,Washington,DC,200034303,,,2023-07-11,1501.50,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,

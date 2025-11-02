@@ -1,0 +1,31 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00735738,500079732,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-05,72.14,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500079733,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-05,0.40,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500079734,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-11,267.14,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500079735,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-18,30.75,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500082292,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-25,32.02,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081811,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-12,2100.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081812,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-17,1050.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081813,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-18,2225.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081814,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-23,3297.50,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081815,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-24,1827.50,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081816,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-26,990.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081817,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-30,1100.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081818,,,ORG,Astral Transportation,,,,,,4662 191st Ave SE,,Issaquah,WA,980279316,,,2024-09-30,710.00,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081809,,,ORG,CharterUP,,,,,,3525 Piedmont Rd NE,Bldg 5-210,Atlanta,GA,303051586,,,2024-09-09,288.50,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081810,,,ORG,CharterUP,,,,,,3525 Piedmont Rd NE,Bldg 5-210,Atlanta,GA,303051586,,,2024-09-10,2596.51,0.00,Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500082289,,,ORG,Democracy Engine,,,,,,2125 14th St NW,Apt 101W,Washington,DC,200094497,,,2024-09-26,203.26,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081725,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-09-12,2478.33,0.00,Payroll - Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500082297,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-09-12,4743.63,0.00,Payroll (Vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500082309,500082297,SB21B,IND,,Getzug,Jacob,,,,705 Saint Marks Ave,Apt 4C,Brooklyn,NY,112163783,,,2024-09-12,633.59,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500082301,500082297,SB21B,IND,,Kramer,Alex,,,,65 S Portland Ave,Apt 4,Brooklyn,NY,112171373,,,2024-09-12,2303.36,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500082313,500082297,SB21B,IND,,Taglin,Lee,,,,11 Monroe Pl,Apt 3,Brooklyn,NY,112012633,,,2024-09-12,1236.44,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500082311,500082297,SB21B,IND,,Villanova,Kate,,,,3035 41st St,Apt 2L,Astoria,NY,111033417,,,2024-09-12,570.24,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500081728,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-09-13,82.00,0.00,Payroll - Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500081726,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-09-26,2874.77,0.00,Payroll - Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500082299,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-09-26,5245.66,0.00,Payroll (Vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00735738,500082310,500082299,SB21B,IND,,Getzug,Jacob,,,,705 Saint Marks Ave,Apt 4C,Brooklyn,NY,112163783,,,2024-09-26,512.21,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500082302,500082299,SB21B,IND,,Kramer,Alex,,,,65 S Portland Ave,Apt 4,Brooklyn,NY,112171373,,,2024-09-26,2172.10,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500082314,500082299,SB21B,IND,,Taglin,Lee,,,,11 Monroe Pl,Apt 3,Brooklyn,NY,112012633,,,2024-09-26,2219.82,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500082312,500082299,SB21B,IND,,Villanova,Kate,,,,3035 41st St,Apt 2L,Astoria,NY,111033417,,,2024-09-26,341.53,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00735738,500081729,,,ORG,Paychex,,,,,,911 Panorama Trl S,,Rochester,NY,146252311,,,2024-09-27,82.00,0.00,Payroll - Fee,,,,,,,,,,,,,,,,,,,,

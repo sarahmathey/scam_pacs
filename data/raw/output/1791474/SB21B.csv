@@ -1,0 +1,39 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00436022,501165392,,,ORG,Actblue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-05-01,0.99,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501166620,,,ORG,Actblue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-05-08,3.95,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501170326,,,ORG,Actblue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-05-22,118.70,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171258,,,ORG,Actblue Technical Services,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-05-30,3.95,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171814,,,ORG,Benchmark Strategies,,,,,,PO Box 70179,,Washington,DC,200240179,,,2024-05-01,3962.74,0.00,Reimbursement(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171815,501171814,SB21B,ORG,New York Historical Society Museum,,,,,,170 Central Park W,,New York,NY,100245152,,,2024-05-01,3919.50,0.00,Event supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171850,,,ORG,Benchmark Strategies,,,,,,PO Box 70179,,Washington,DC,200240179,,,2024-05-01,16000.00,0.00,PAC Fundraising consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171819,,,ORG,Benchmark Strategies,,,,,,PO Box 70179,,Washington,DC,200240179,,,2024-05-21,24402.09,0.00,Reimbursement(vendors that aggregate over $200 listed below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171822,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,365.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171823,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,450.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171824,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,450.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171825,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,626.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171826,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,626.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171827,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,626.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171829,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,98.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171830,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,244.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171831,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,499.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171832,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,770.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171835,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,173.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171836,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,244.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171837,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,607.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171838,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,651.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171839,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,164.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171841,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,85.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171846,501171819,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-05-21,328.00,0.00,Ground transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171843,501171819,SB21B,ORG,Empire Steak House,,,,,,233 W 49Th St,,New York,NY,100197404,,,2024-05-21,203.74,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171844,501171819,SB21B,ORG,Empire Steak House,,,,,,233 W 49Th St,,New York,NY,100197404,,,2024-05-21,1997.22,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171845,501171819,SB21B,ORG,Empire Steak House,,,,,,233 W 49Th St,,New York,NY,100197404,,,2024-05-21,13214.12,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171820,501171819,SB21B,ORG,"NGP Van, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2024-05-21,192.03,0.00,Computer support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171840,501171819,SB21B,ORG,Sinplicty Catering,,,,,,6402 Arlington Blvd,# B150,Falls Church,VA,220422356,,,2024-05-21,1526.35,0.00,PAC Catering/meals,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171821,501171819,SB21B,ORG,Surveymonkey.Com,,,,,,1 Curiosity Way,,San Mateo,CA,944032396,,,2024-05-21,50.00,0.00,Computer software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00436022,501171848,,,ORG,"Campaign Compliance, Inc.",,,,,,946 Bandmann Trl,,Missoula,MT,598028834,,,2024-05-05,2000.00,0.00,Compliance consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171852,,,ORG,First Interstate Bank,,,,,,PO Box 4667,,Missoula,MT,598064667,,,2024-05-01,0.50,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171854,,,ORG,First Interstate Bank,,,,,,PO Box 4667,,Missoula,MT,598064667,,,2024-05-14,96.08,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171855,,,ORG,First Interstate Bank,,,,,,PO Box 4667,,Missoula,MT,598064667,,,2024-05-21,24.50,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171847,,,ORG,"Lotte Hotel New York Palace, LLC",,,,,,455 Madison Ave,,New York,NY,100226845,,,2024-05-03,80133.53,0.00,Event lodging,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171849,,,ORG,Mandate Media,,,,,,PO Box 80151,,Portland,OR,972801151,,,2024-05-01,650.00,0.00,PAC Media consultant,,,,,,,,,,,,,,,,,,,,
+SB21B,C00436022,501171851,,,ORG,"Northern Compass Group, LLC",,,,,,310 K St,Ste 401,Anchorage,AK,995012039,,,2024-05-01,4500.00,0.00,PAC Media consultant,,,,,,,,,,,,,,,,,,,,

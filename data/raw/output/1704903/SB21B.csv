@@ -1,0 +1,122 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00147512,VNV6YA3RYD8,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-03,260.22,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3RYE6,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-03,1287.25,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3RYF3,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-10,1777.83,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3RYG1,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-17,1332.82,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3RYH9,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2023-04-24,1307.88,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ80,,,ORG,Addison Strategies,,,,,,205 Yoakum Pkwy,Unit 1524,Alexandria,VA,223043840,,,2023-04-24,46000.00,0.00,Administrative & Managerial Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ07,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-03,260.88,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SK41,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-04,25.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SHZ9,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2023-04-26,245.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJB4,,,ORG,Amalgamated Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2023-04-10,100.98,0.00,Credit Card Payment - See Itemization Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJD0,VNV6YA3SJB4,SB21B,ORG,Amalgamated Cardmember Services,,,,,,PO Box 790408,,Saint Louis,MO,631790408,,,2023-03-10,1.98,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SJC2,VNV6YA3SJB4,SB21B,ORG,Eventor Pro,,,,,,9122 Baltimore Ave,,College Park,MD,207401359,,,2023-03-10,99.00,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SJ15,,,IND,,Ardagna,Nicholas,M.,,,16424 S Wilson Ln,,Plainfield,IL,605867306,,,2023-04-01,300.00,0.00,Legal Compliance Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJH1,,,ORG,Buffer Pro Systems,,,,,,1458B Aaron Ct,,Jefferson City,MO,651012863,,,2023-04-10,50.00,0.00,Social Media Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJJ9,,,ORG,Buffer Pro Systems,,,,,,1458B Aaron Ct,,Jefferson City,MO,651012863,,,2023-04-25,15.00,0.00,Social Media Management,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJW8,,,ORG,Comcast,,,,,,900 Michigan Ave NE,,Washington,DC,200171833,,,2023-04-17,538.38,0.00,Telecommunication Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ72,,,ORG,"Every Action, Inc.",,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,,2023-04-24,36426.67,0.00,Software & Support,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SK59,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2023-04-04,73301.36,0.00,Credit Card Payment - See Itemization Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SN03,VNV6YA3SK59,SB21B,ORG,"1-800-Flowers.Com, Inc.",,,,,,1600 Stewart Ave,,Westbury,NY,115906696,,,2023-03-23,180.21,0.00,Fundraising Event - Flowers,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKN6,VNV6YA3SK59,SB21B,ORG,"Airbnb, Inc.",,,,,,888 Brannan St,,San Francisco,CA,941034928,,,2023-03-29,899.33,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKR9,VNV6YA3SK59,SB21B,ORG,Amazon.Com,,,,,,126 C St NW,Fl 3,Washington,DC,200012141,,,2023-03-01,141.66,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKV3,VNV6YA3SK59,SB21B,ORG,Amazon.Com,,,,,,126 C St NW,Fl 3,Washington,DC,200012141,,,2023-03-02,51.84,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMT6,VNV6YA3SK59,SB21B,ORG,Amazon.Com,,,,,,126 C St NW,Fl 3,Washington,DC,200012141,,,2023-03-21,139.88,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMY8,VNV6YA3SK59,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-03-23,722.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN29,VNV6YA3SK59,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-03-28,697.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM68,VNV6YA3SK59,SB21B,ORG,Apple,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-03-07,8.47,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM92,VNV6YA3SK59,SB21B,ORG,Apple,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-03-13,4558.13,0.00,Office Equipment,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SK91,VNV6YA3SK59,SB21B,ORG,Atlas Restaurant,,,,,,650 S Exeter St,Ste 1095,Baltimore,MD,212024200,,,2023-03-06,1638.66,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMH5,VNV6YA3SK59,SB21B,IND,,Bolser,Rebekah,,,,1934 Amarillo Dr,,Hamilton,OH,450131842,,,2023-03-15,1170.00,0.00,Digital Communication Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKY5,VNV6YA3SK59,SB21B,ORG,Cambria Hotels,,,,,,69 Q St SW,,Washington,DC,200243439,,,2023-03-02,5000.00,0.00,Fundraising Event - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SK83,VNV6YA3SK59,SB21B,ORG,Charleston Marriott,,,,,,170 Lockwood Blvd,,Charleston,SC,294035123,,,2023-03-06,406.26,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SK75,VNV6YA3SK59,SB21B,ORG,Colonial Parking,,,,,,1050 K St NW,,Washington,DC,200014417,,,2023-03-02,19.00,0.00,Parking Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKC5,VNV6YA3SK59,SB21B,ORG,Colonial Parking,,,,,,1050 K St NW,,Washington,DC,200014417,,,2023-03-16,25.00,0.00,Parking Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKJ2,VNV6YA3SK59,SB21B,ORG,Colonial Parking,,,,,,1050 K St NW,,Washington,DC,200014417,,,2023-03-27,20.00,0.00,Parking Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKP4,VNV6YA3SK59,SB21B,ORG,Colonial Parking,,,,,,1050 K St NW,,Washington,DC,200014417,,,2023-03-30,25.00,0.00,Parking Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKS7,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-02,28.75,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKW9,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-02,127.13,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKX7,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-02,104.37,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM01,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-03,73.15,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM42,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-07,73.60,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM76,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-09,71.42,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMA0,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-13,64.63,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMC5,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-14,86.10,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMG7,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-15,24.06,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMJ3,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-17,70.30,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMN6,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-20,9.99,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMR0,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-21,204.53,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMX0,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-22,23.59,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN37,VNV6YA3SK59,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-28,167.73,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM18,VNV6YA3SK59,SB21B,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-03-03,255.30,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMP4,VNV6YA3SK59,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-03-20,1834.26,0.00,Fundraising Event - Merchandise,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMV4,VNV6YA3SK59,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-03-22,60.59,0.00,Fundraising Event - Merchandise,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKZ3,VNV6YA3SK59,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034071,,,2023-03-03,165.00,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM26,VNV6YA3SK59,SB21B,ORG,RSVP Catering,,,,,,2930 Prosperity Ave,,Fairfax,VA,220312209,,,2023-03-03,1171.75,0.00,Fundraising Event - Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM84,VNV6YA3SK59,SB21B,ORG,"Shopify, Inc.",,,,,,151 O'Connor Street,,Ottowa,ON,,,,2023-03-09,372.06,0.00,Fundraising Event - Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN45,VNV6YA3SK59,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2023-03-28,10.13,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM50,VNV6YA3SK59,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-03-08,5300.00,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SME1,VNV6YA3SK59,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-03-14,530.00,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMK1,VNV6YA3SK59,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-03-17,2650.00,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMZ5,VNV6YA3SK59,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-03-23,904.18,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMM9,VNV6YA3SK59,SB21B,ORG,Ten Eighty LLC,,,,,,1080 Tilman Rd,,Charlottesville,VA,229016332,,,2023-03-17,5000.00,0.00,Multimedia Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SK67,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-01,33.02,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKQ1,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-01,25.04,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKT5,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-02,163.25,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMB7,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-13,46.05,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMD3,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-14,79.18,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKF8,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-21,164.05,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMW2,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-22,76.22,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN11,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-27,116.20,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN53,VNV6YA3SK59,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-03-28,64.87,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKM8,VNV6YA3SK59,SB21B,ORG,United Airlines,,,,,,PO Box 66100,,Chicago,IL,606660097,,,2023-03-27,998.90,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SKA9,VNV6YA3SK59,SB21B,ORG,Virgin Hotels,,,,,,550 Baronne St,,New Orleans,LA,701131002,,,2023-03-14,772.88,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SM34,VNV6YA3SK59,SB21B,ORG,Waldorf Astoria,,,,,,1100 Pennsylvania Ave NW,,Washington,DC,200042501,,,2023-03-06,25270.00,0.00,Fundraising Event - Lodging & Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SMQ2,VNV6YA3SK59,SB21B,ORG,Waldorf Astoria,,,,,,1100 Pennsylvania Ave NW,,Washington,DC,200042501,,,2023-03-20,9947.23,0.00,Fundraising Event - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN61,,,ORG,First Bankcard,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2023-04-20,92855.14,0.00,Credit Card Payment - See Itemization Below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SND6,VNV6YA3SN61,SB21B,ORG,Amazon.Com,,,,,,126 C St NW,Fl 3,Washington,DC,200012141,,,2023-03-30,147.34,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNY0,VNV6YA3SN61,SB21B,ORG,Amazon.Com,,,,,,126 C St NW,Fl 3,Washington,DC,200012141,,,2023-04-07,98.17,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SP06,VNV6YA3SN61,SB21B,ORG,Amazon.Com,,,,,,126 C St NW,Fl 3,Washington,DC,200012141,,,2023-04-10,16.93,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNF2,VNV6YA3SN61,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-03-30,219.21,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNK3,VNV6YA3SN61,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-04-07,1012.52,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SP48,VNV6YA3SN61,SB21B,ORG,American Airlines,,,,,,PO Box 619616,,Dallas,TX,752619616,,,2023-04-12,159.40,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNR3,VNV6YA3SN61,SB21B,ORG,Apple,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-04-04,91.74,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNV7,VNV6YA3SN61,SB21B,ORG,Apple,,,,,,1 Infinite Loop,,Cupertino,CA,950142083,,,2023-04-05,8.47,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNM1,VNV6YA3SN61,SB21B,IND,,Bolser,Rebekah,,,,1934 Amarillo Dr,,Hamilton,OH,450131842,,,2023-04-03,1867.45,0.00,Digital Communication Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN87,VNV6YA3SN61,SB21B,ORG,Conrad Hotel,,,,,,102 N End Ave,,New York,NY,102821238,,,2023-03-27,15000.00,0.00,Fundraising Event - Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNC8,VNV6YA3SN61,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-03-30,56.13,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNN9,VNV6YA3SN61,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-04-03,28.59,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNX2,VNV6YA3SN61,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-04-06,20.28,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNZ8,VNV6YA3SN61,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-04-07,60.52,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SP14,VNV6YA3SN61,SB21B,ORG,"Door Dash, Inc.",,,,,,116 New Montgomery St,Fl 4,San Francisco,CA,941053638,,,2023-04-10,19.43,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNQ5,VNV6YA3SN61,SB21B,ORG,Google Inc.,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2023-04-04,267.12,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN94,VNV6YA3SN61,SB21B,ORG,Lin Lines,,,,,,1801 E Tahquitz Canyon Way,Ste 100,Palm Springs,CA,922627121,,,2023-03-28,4115.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SP30,VNV6YA3SN61,SB21B,ORG,Lin Lines,,,,,,1801 E Tahquitz Canyon Way,Ste 100,Palm Springs,CA,922627121,,,2023-04-12,4115.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SP22,VNV6YA3SN61,SB21B,ORG,Marriott Desert Springs,,,,,,1091 Pinehurst Ln,,Palm Desert,CA,922601636,,,2023-04-10,40830.92,0.00,Fundraising Event - Lodging & Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNB0,VNV6YA3SN61,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-03-28,9727.21,0.00,Fundraising Event - Merchandise,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNE4,VNV6YA3SN61,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-03-31,7982.74,0.00,Fundraising Event - Merchandise,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNT9,VNV6YA3SN61,SB21B,ORG,MFABI,,,,,,1028 Franklin Ave,,Brooklyn,NY,112252403,,,2023-04-05,600.00,0.00,Fundraising Event - Merchandise,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNS1,VNV6YA3SN61,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034071,,,2023-04-05,165.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SN79,VNV6YA3SN61,SB21B,ORG,Revive Events & Catering,,,,,,203 Florida Ave NW,,Washington,DC,200011801,,,2023-03-27,2731.00,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNA2,VNV6YA3SN61,SB21B,ORG,Target,,,,,,6100 Arlington Blvd,,Falls Church,VA,220442901,,,2023-03-28,101.32,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNW5,VNV6YA3SN61,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-04-06,2650.00,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SP56,VNV6YA3SN61,SB21B,ORG,"Tatango, Inc.",,,,,,2211 Elliott Ave,Ste 200,Seattle,WA,981213622,,,2023-04-11,530.00,0.00,Software & Support,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SNP7,VNV6YA3SN61,SB21B,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-04,30.18,0.00,Food & Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00147512,VNV6YA3SJ64,,,ORG,"Frobenius, Conaway & Co., PC",,,,,,6411 Ivy Ln,Ste 308,Greenbelt,MD,207701405,,,2023-04-24,1023.75,0.00,Accounting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ98,,,ORG,Honigman LLP,,,,,,1440 New York Ave NW,Ste 200,Washington,DC,200052111,,,2023-04-24,3680.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJA6,,,ORG,Internal Revenue Service,,,,,,201 W Rivercenter Blvd,,Covington,KY,410111424,,,2023-04-20,820.00,0.00,Federal Tax Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJE8,,,ORG,Jalama Wines,,,,,,119 La Plz,,Palm Springs,CA,922626382,,,2023-04-03,635.00,0.00,Fundraising Event - Entertainment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ31,,,ORG,Katz Compliance LLC,,,,,,PO Box 33079,,Washington,DC,200330079,,,2023-04-07,1798.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ49,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2023-04-07,8000.00,0.00,Digital Advertising & Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ56,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2023-04-21,24830.00,0.00,Digital Advertising & Fundraising Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJ23,,,ORG,The Civil Company,,,,,,900 N Broadway,Apt 334,Los Angeles,CA,900124067,,,2023-04-06,2500.00,0.00,Communications Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJK7,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-11,5.00,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJM5,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-12,109.42,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJN3,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-13,66.42,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJP1,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-14,45.37,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJQ9,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-17,184.38,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJR7,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-21,8.47,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJS4,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-24,61.92,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJT2,,,ORG,"Uber Technologies, Inc.",,,,,,182 Howard St,# 8,San Francisco,CA,941051611,,,2023-04-26,101.89,0.00,Transportation,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SJF5,,,ORG,"Your Way IT Solutions, LLC",,,,,,9301 Largo Dr W,Ste 204,Upper Marlboro,MD,207744884,,,2023-04-03,500.00,0.00,Software Support,,,,,,,,,,,,,,,,,,,,
+SB21B,C00147512,VNV6YA3SK26,,,ORG,"Zoom Video Communications, Inc.",,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,,2023-04-28,498.20,0.00,Software & Support,,,,,,,,,,,,,,,,,,,,

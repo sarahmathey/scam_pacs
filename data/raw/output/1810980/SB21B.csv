@@ -1,0 +1,79 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00764233,500072109,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-02,1118.89,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072110,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-04,1414.22,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072114,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-07,6615.99,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072290,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-09,1498.50,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072449,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-11,1179.73,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072537,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-14,2007.44,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072645,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-16,1709.26,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072679,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-18,1214.80,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072808,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-22,2279.52,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072747,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-23,2926.76,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072779,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-25,1030.94,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072792,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-28,1691.61,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072849,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-30,1086.63,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072850,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-07-31,468.81,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072828,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-07-26,350.15,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072254,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-07-08,4412.87,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072274,500072254,SB21B,ORG,Aloft Hotels,,,,,,109 E 7Th St,,Austin,TX,787013208,,,2024-07-08,272.02,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072255,500072254,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-07-08,190.88,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072260,500072254,SB21B,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-07-08,100.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072281,500072254,SB21B,ORG,Cecconi's,,,,,,55 Water St,,Brooklyn,NY,112011052,,,2024-07-08,72.73,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072282,500072254,SB21B,ORG,Cecconi's,,,,,,55 Water St,,Brooklyn,NY,112011052,,,2024-07-08,195.97,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072257,500072254,SB21B,ORG,Fubo TV,,,,,,1330 Avenue Of The Americas,,New York,NY,100195400,,,2024-07-08,100.68,0.00,Internet Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072258,500072254,SB21B,ORG,HotelTonight.Com,,,,,,901 Market St,Ste 310,San Francisco,CA,941031752,,,2024-07-08,1586.00,0.00,Lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072270,500072254,SB21B,ORG,LinkedIn,,,,,,1015 Paper Mill Ct NW,,Washington,DC,200073619,,,2024-07-08,74.19,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072266,500072254,SB21B,ORG,National Democratic Club,,,,,,30 Ivy St SE,,Washington,DC,200034006,,,2024-07-08,72.77,0.00,Membership Fee,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072268,500072254,SB21B,ORG,New Congressional Liquors,,,,,,404 1St St SE,,Washington,DC,200031826,,,2024-07-08,69.90,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072271,500072254,SB21B,ORG,New Congressional Liquors,,,,,,404 1St St SE,,Washington,DC,200031826,,,2024-07-08,107.66,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072276,500072254,SB21B,ORG,New Congressional Liquors,,,,,,404 1St St SE,,Washington,DC,200031826,,,2024-07-08,63.28,0.00,Food and Beverage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072275,500072254,SB21B,ORG,Reagan National Airport,,,,,,2401 Ronald Reagan Washington Nati,,Arlington,VA,22202,,,2024-07-08,35.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072256,500072254,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-08,53.50,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072263,500072254,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-08,34.20,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072278,500072254,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-08,24.87,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072279,500072254,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-08,42.88,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072280,500072254,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-08,113.74,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072284,500072254,SB21B,ORG,Uber Technologies Inc,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-07-08,196.21,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072277,500072254,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-07-08,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072286,500072254,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-07-08,486.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072285,500072254,SB21B,ORG,Verizon,,,,,,1095 Avenue Of The Americas,,New York,NY,100366797,,,2024-07-08,95.89,0.00,Internet Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00764233,500072233,,,ORG,Anticipate Public Affairs,,,,,,4607 40Th St N,,Arlington,VA,222072961,,,2024-07-10,8000.00,0.00,Communications Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072663,,,ORG,Apollo Artistry,,,,,,1165 N Clark St,Ste 700,Chicago,IL,606102821,,,2024-07-18,500.00,0.00,Digital Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072234,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-07-01,3525.49,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072235,,,ORG,"Capitol Compliance Associates, Inc.",,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-07-05,3525.49,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072237,,,ORG,"Everyaction, Inc",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-07-01,6625.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072238,,,ORG,First Bank & Trust,,,,,,359 W Main St,,Lebanon,VA,24266,,,2024-07-03,59.95,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072239,,,ORG,First Bank & Trust,,,,,,359 W Main St,,Lebanon,VA,24266,,,2024-07-03,9.95,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072240,,,ORG,FitzGerald Properties,,,,,,1447 Dolley Madison Blvd,Ste G1,Mclean,VA,221016040,,,2024-07-01,3500.00,0.00,Rent,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072241,,,ORG,GQR,,,,,,1101 15Th St NW,Ste 900,Washington,DC,200055002,,,2024-07-10,14975.00,0.00,Polling,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072242,,,ORG,"Intuit, Inc.",,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-07-10,95.40,0.00,Check Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072247,,,ORG,"Management Personnel Xchange, LLC",,,,,,8409 Lee Hwy,Unit 830,Merrifield,VA,221168229,,,2024-07-01,1000.00,0.00,Administration Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072245,,,ORG,Mission Strategies LLC,,,,,,1835 7Th St NW,# 236,Washington,DC,200013107,,,2024-07-01,4000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072246,,,ORG,Mission Strategies LLC,,,,,,1835 7Th St NW,# 236,Washington,DC,200013107,,,2024-07-10,4000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072662,,,ORG,Mosaic,,,,,,4801 Viewpoint Pl,,Hyattsville,MD,207811100,,,2024-07-18,6003.58,0.00,Promotional Materials,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072225,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-01,46035.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072232,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-03,7500.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072226,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-05,16810.54,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072227,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-11,15000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072228,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-11,15000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072229,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-11,15000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072230,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-11,18000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072231,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-11,10000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072659,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-12,51383.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072660,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-18,10000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072661,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-18,12500.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072713,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-23,12500.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072806,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-24,15000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072775,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-07-29,20000.00,0.00,Digital Fundraising Services & Social Media Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072248,,,ORG,"Olson Remcho, LLP",,,,,,555 Capitol Mall,Ste 400,Sacramento,CA,958144503,,,2024-07-10,1296.00,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072243,,,IND,,Perkins,Ja-Lon,,,,101 Burrell Ln,,Richlands,NC,285748421,,,2024-07-10,2000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072714,,,IND,,Perkins,Ja-Lon,,,,101 Burrell Ln,,Richlands,NC,285748421,,,2024-07-23,2000.00,0.00,Administrative Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072250,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-07-08,18000.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072251,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-07-08,19500.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072252,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-07-08,19500.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072805,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-07-19,19500.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072807,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-07-24,19500.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072944,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-07-31,19500.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072945,,,ORG,Three Marie LLC,,,,,,7105 Masters Dr,,Potomac,MD,208543846,,,2024-07-31,19500.00,0.00,Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072827,,,ORG,Washington Gas,,,,,,1000 Maine Ave SW,,Washington,DC,200243494,,,2024-07-26,19.20,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00764233,500072244,,,IND,,Zamani,Jasmine,,,,6129 Long Meadow Rd,,Mclean,VA,221012312,,,2024-07-10,4000.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,

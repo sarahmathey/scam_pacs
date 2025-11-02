@@ -1,0 +1,26 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00838912,500181242,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-10-02,25446.58,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500181241,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-10-02,721.48,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500181243,,,ORG,"Democracy Engine, Inc PAC",,,,,,237 Florida Ave NW,,Washington,DC,200011801,,,2023-10-12,2445.29,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500181244,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-10-27,326.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500180406,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2023-10-31,6455.78,0.00,Credit Card Payment,,,,,,,,,,,,,,,,,,,,Details below if itemized
+SB21B,C00838912,500180417,500180406,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-09-20,323.12,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180412,500180406,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-09-22,362.25,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180413,500180406,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-09-22,1097.49,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180411,500180406,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-09-23,1204.62,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180414,500180406,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-09-23,1422.97,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180418,500180406,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-09-24,225.63,0.00,Travel; Airfare,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180409,500180406,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-09-25,970.45,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180410,500180406,SB21B,ORG,Egencia,,,,,,1111 Expedia Group Way W,,Seattle,WA,981191111,,,2023-09-25,743.55,0.00,Travel and accommodations,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180415,500180406,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2023-09-25,13.83,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180416,500180406,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2023-09-26,75.87,0.00,Transportation,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180419,500180406,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-09-26,8.00,0.00,Internet access,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500180420,500180406,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2023-09-27,8.00,0.00,Internet access,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00838912,500183201,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-11-02,5804.50,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500183203,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-11-13,33142.00,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500183199,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-11-29,207.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500183202,,,ORG,Paragon Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,,2023-12-04,4195.04,0.00,Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500183204,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-12-08,33458.59,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500183205,,,PTY,DNC Travel Escrow,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-12-11,14226.86,0.00,Travel,,C00773911,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500183200,,,ORG,Amalgamated Bank,,,,,,275 7Th Ave,,New York,NY,100016708,,,2023-12-29,192.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00838912,500183387,,,PTY,DNC Services Corp./Dem. Nat'l Committee,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,,2023-12-31,1228.75,0.00,Salary & Overhead Expenses,,C00010603,,,,,,,,,,,,,,,,,,

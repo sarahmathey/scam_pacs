@@ -1,0 +1,22 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00787317,500147950,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-05-24,15.00,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147960,,,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-05-02,443.60,0.00,Travel - Airfare,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,4898321I,4898321,SA11C,PAC,Elect Democratic Women,,,,,,918 Pennsylvania Ave SE,,Washington,DC,200032140,,,2024-04-16,113.63,0.00,Fundraising event space,,C00685297,,,,,,,,,,,,,,,,,,* In-Kind Received
+SB21B,C00787317,500147951,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-06-28,0.50,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147961,,,IND,,McDevitt,Mark,,,,815 Q St NW,,Washington,DC,200013211,,,2024-04-24,4531.98,0.00,"Reimbursement - lodging, transportation, parking",,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147962,500147961,SB21B,ORG,Hotel Terra,,,,,,3335 Village Dr,,Teton Village,WY,83025,,,2024-03-18,3690.16,0.00,Travel - lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00787317,500147964,500147961,SB21B,ORG,National,,,,,,PO Box 700,,Midvale,UT,840470674,,,2024-03-18,496.82,0.00,Travel - rental vehicle,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00787317,500147965,500147961,SB21B,ORG,Reagan National Airport,,,,,,2401 Ronald Reagan Washington Nati,,Arlington,VA,22202,,,2024-03-18,145.00,0.00,Travel - parking,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00787317,500147966,500147961,SB21B,ORG,The Robey,,,,,,2018 W North Ave,,Chicago,IL,606475414,,,2024-03-14,200.00,0.00,Travel - lodging,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00787317,500147952,,,ORG,North Side Ventures LLC,,,,,,PO Box 9536,,Lowell,MA,018539536,,,2024-06-21,2250.00,0.00,Consulting - Compliance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147953,,,ORG,DoorDash,,,,,,303 2nd St,Ste 800,San Francisco,CA,941071366,,,2024-04-11,44.08,0.00,Meeting food and beverage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147954,,,ORG,M.C. Perkins Cove,,,,,,111 Perkins Cove Rd,,Ogunquit,ME,03907,,,2024-05-03,365.00,0.00,Fundraiser food and beverage,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147955,,,ORG,NGP VAN,,,,,,48 Grove St,Ste 202,Somerville,MA,021442500,,,2024-04-02,106.25,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147946,,,ORG,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-06-03,197.50,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147956,,,ORG,NGP VAN,,,,,,48 Grove St,Ste 202,Somerville,MA,021442500,,,2024-05-03,106.25,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147947,,,ORG,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-06-17,136.06,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147957,,,ORG,NGP VAN,,,,,,48 Grove St,Ste 202,Somerville,MA,021442500,,,2024-06-03,106.25,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147948,,,ORG,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,,2024-06-30,395.00,0.00,Credit card processing fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147958,,,ORG,"The Frost Group, LLC",,,,,,219 Pennsylvania Ave SE,Fl 3,Washington,DC,200031107,,,2024-05-20,1282.67,0.00,Consulting - fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147949,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-04-26,140.00,0.00,Bank fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00787317,500147959,,,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-05-02,149.10,0.00,Travel - Airfare,,,,,,,,,,,,,,,,,,,,

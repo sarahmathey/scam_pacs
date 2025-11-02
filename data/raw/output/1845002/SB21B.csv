@@ -1,0 +1,45 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00525600,500074384,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-06,11.93,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074385,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-13,19.33,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074537,,,ORG,Actblue Technical Services,,,,,,366 Summer St,,West Somerville,MA,021443132,,,2024-10-16,5.96,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074307,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-15,3611.94,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074309,500074307,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-15,204.40,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074311,500074307,SB21B,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-10-15,39.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074310,500074307,SB21B,ORG,Jetblue Airways,,,,,,6322 S 300,Ste G10,Salt Lake City,UT,84121,,,2024-10-15,446.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074312,500074307,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-15,4.34,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074313,500074307,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-15,4.79,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074314,500074307,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-15,22.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074315,500074307,SB21B,ORG,LYFT,,,,,,185 Berry St,Ste 5000,San Francisco,CA,941072503,,,2024-10-15,22.32,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074318,500074307,SB21B,ORG,Public Storage,,,,,,1230 S Capitol St SE,,Washington,DC,200033523,,,2024-10-15,300.14,0.00,Storage,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074320,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,134.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074321,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,211.04,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074322,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,18.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074323,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,11.07,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074324,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,3.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074325,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,41.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074326,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,9.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074327,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,46.42,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074328,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,11.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074329,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,26.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074330,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,34.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074331,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,34.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074332,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,34.44,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074333,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,48.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074334,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,50.12,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074335,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,64.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074336,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,64.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074337,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,18.94,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074338,500074307,SB21B,ORG,Uber,,,,,,1455 Market St,,San Francisco,CA,941031331,,,2024-10-15,43.72,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074339,500074307,SB21B,ORG,Verizon Wireless,,,,,,2 Verizon Pl,,Alpharetta,GA,300048510,,,2024-10-15,287.79,0.00,Telephone Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074340,500074307,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-10-15,195.37,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074341,500074307,SB21B,ORG,W Chicago,,,,,,644 N Lake Shore Dr,,Chicago,IL,606113017,,,2024-10-15,543.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074342,500074307,SB21B,ORG,Work Loft,,,,,,1 Spring St,,Marblehead,MA,019453313,,,2024-10-15,347.50,0.00,Office Rent,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074343,500074307,SB21B,ORG,WPEngine.Com,,,,,,504 Lavaca St,,Austin,TX,787012900,,,2024-10-15,30.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074344,500074307,SB21B,ORG,Zoom Video Communications,,,,,,55 Almaden Blvd,Ste 6,San Jose,CA,951131608,,,2024-10-15,199.72,0.00,Video Conferencing Service,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00525600,500074392,,,ORG,Blue Cross Blue Shield,,,,,,101 Huntington Ave,Ste 1300,Boston,MA,021997611,,,2024-10-01,852.63,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074396,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-10-15,2613.26,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074399,,,ORG,Complete Payroll Solutions,,,,,,64 Water St,,Attleboro,MA,027032056,,,2024-10-15,46.74,0.00,Payroll Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074410,,,IND,,Conahan,Stefanie,,,,69 Gale Rd,,Swampscott,MA,019072809,,,2024-10-15,3281.74,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074402,,,IND,,Graham,Emily,,,,427 Pacific St,Apt 2,Brooklyn,NY,112172204,,,2024-10-15,2393.14,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074390,,,IND,,Rustum,Annabel,,,,111 Montgomery St,Apt 6F,Brooklyn,NY,112252053,,,2024-10-15,1223.29,0.00,Salary,,,,,,,,,,,,,,,,,,,,
+SB21B,C00525600,500074414,,,ORG,Von Nida Consulting,,,,,,1349 Jefferson Ave,Apt 3,Brooklyn,NY,112215312,,,2024-10-03,2500.00,0.00,Professional Services-Fundraising,,,,,,,,,,,,,,,,,,,,

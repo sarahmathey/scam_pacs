@@ -1,0 +1,118 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00785816,500572600,,,ORG,NGP VAN Inc,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-11-27,643.46,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572830,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2024-11-27,41473.28,0.00,Credit Card Payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572840,500572830,SB21B,ORG,Ace Hardware,,,,,,4640 E Broadway Blvd,,Tucson,AZ,857113512,,,2024-11-27,2586.44,0.00,Fundraising Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572850,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,108.77,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572860,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,84.46,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572870,500572830,SB21B,ORG,Loews Regency Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-11-27,15.73,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572880,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1440.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572890,500572830,SB21B,ORG,Tommie Hotel,,,,,,6516 Selma Ave,,Los Angeles,CA,900286216,,,2024-11-27,404.81,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572841,500572830,SB21B,ORG,Ace Hardware,,,,,,4640 E Broadway Blvd,,Tucson,AZ,857113512,,,2024-11-27,-624.84,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572851,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,86.22,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572861,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,88.16,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572871,500572830,SB21B,ORG,Loews Regency Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-11-27,18.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572881,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1251.31,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572891,500572830,SB21B,ORG,Hotel Congress,,,,,,311 E Congress St,,Tucson,AZ,857011811,,,2024-11-27,4681.14,0.00,Event Space Rental,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572842,500572830,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-27,190.70,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572852,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,95.97,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572862,500572830,SB21B,ORG,Delta,,,,,,1030 Delta Blvd,Dept 982,Atlanta,GA,303541989,,,2024-11-27,1048.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572872,500572830,SB21B,ORG,Omni Hotels,,,,,,700 San Jacinto E 8Th St,,Austin,TX,78701,,,2024-11-27,261.06,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572882,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1885.59,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572892,500572830,SB21B,ORG,Wyndham,,,,,,22 Sylvan Way,,Parsippany,NJ,070543801,,,2024-11-27,735.23,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572843,500572830,SB21B,ORG,Amazon,,,,,,410 Terry Ave N,,Seattle,WA,981095210,,,2024-11-27,105.78,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572853,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,118.07,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572863,500572830,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2024-11-27,214.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572873,500572830,SB21B,ORG,Residence Inn,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-11-27,536.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572883,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1980.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572844,500572830,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-27,817.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572854,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,102.25,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572864,500572830,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2024-11-27,226.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572874,500572830,SB21B,ORG,Residence Inn,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,,2024-11-27,549.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572884,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,277.43,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572845,500572830,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-27,700.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572855,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,88.59,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572865,500572830,SB21B,ORG,High Country Motor Lodge,,,,,,1000 W Route 66,,Flagstaff,AZ,860016212,,,2024-11-27,262.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572875,500572830,SB21B,ORG,Simon & Schuster,,,,,,1230 Avenue Of The Americas,,New York,NY,100201513,,,2024-11-27,1173.37,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572885,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1662.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572846,500572830,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-27,573.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572856,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,83.90,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572866,500572830,SB21B,ORG,High Country Motor Lodge,,,,,,1000 W Route 66,,Flagstaff,AZ,860016212,,,2024-11-27,262.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572876,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1020.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572886,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1628.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572847,500572830,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-27,340.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572857,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,84.43,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572867,500572830,SB21B,ORG,Hyatt,,,,,,150 N Riverside Plz,,Chicago,IL,606061598,,,2024-11-27,183.66,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572877,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1528.80,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572887,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1225.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572848,500572830,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-27,731.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572858,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,88.59,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572868,500572830,SB21B,ORG,Bumperactive,,,,,,5907 Burnet Rd,,Austin,TX,787573224,,,2024-11-27,3801.28,0.00,Printing,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572878,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1134.55,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572888,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,2465.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572849,500572830,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-11-27,290.47,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572859,500572830,SB21B,ORG,Urban Stems,,,,,,615 L St NW,# 1230,Washington,DC,200013653,,,2024-11-27,88.40,0.00,Supporter Gifts,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572869,500572830,SB21B,ORG,Loews Regency Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-11-27,86.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572879,500572830,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-11-27,1874.25,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572889,500572830,SB21B,ORG,The Henry,,,,,,4455 E Camelback Rd,,Phoenix,AZ,850182843,,,2024-11-27,806.61,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500573350,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-15,0.79,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572570,,,ORG,"The Money Wheel, LLC",,,,,,PO Box 97241,,Phoenix,AZ,850607241,,,2024-11-27,770.00,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572580,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,176.42,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572590,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,81.14,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572601,,,ORG,Paragon,,,,,,1101 Connecticut Ave NW,Ste 450,Washington,DC,200364359,,,2024-12-02,370.27,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500573351,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-22,0.40,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572571,,,ORG,Carroll Consulting Group LLC,,,,,,2824 E Avalon Dr,,Phoenix,AZ,850167502,,,2024-11-27,3250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572581,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,35.65,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572591,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,167.70,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572602,,,ORG,Carroll Consulting Group LLC,,,,,,2824 E Avalon Dr,,Phoenix,AZ,850167502,,,2024-12-20,3250.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572832,,,ORG,American Express,,,,,,PO Box 650448,,Dallas,TX,752650448,,,2024-12-16,12542.18,0.00,Credit Card Payment - Vendors that aggregate above $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572900,500572832,SB21B,ORG,Delta,,,,,,1030 Delta Blvd,Dept 982,Atlanta,GA,303541989,,,2024-12-16,488.48,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572910,500572832,SB21B,ORG,Sheraton,,,,,,1 Star Pt,,Stamford,CT,069028911,,,2024-12-16,581.84,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572901,500572832,SB21B,ORG,Enterprise Rent A Car,,,,,,600 Corporate Park Dr,,Saint Louis,MO,631054204,,,2024-12-16,808.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572911,500572832,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-12-16,1755.74,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572912,500572832,SB21B,ORG,Sunny's Executive Sedan Services,,,,,,23765 Pebble Run Pl,Ste 100,Sterling,VA,201664450,,,2024-12-16,132.60,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572903,500572832,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2024-12-16,1336.39,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572913,500572832,SB21B,ORG,The Corner Store,,,,,,475 W Broadway,,New York,NY,100125309,,,2024-12-16,438.36,0.00,Fundraising Event Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572904,500572832,SB21B,ORG,Hilton,,,,,,7930 Jones Branch Dr,Ste 100,McLean,VA,221023389,,,2024-12-16,313.46,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572905,500572832,SB21B,ORG,Loews Regency Hotel,,,,,,540 Park Ave,,New York,NY,100657366,,,2024-12-16,2693.09,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572906,500572832,SB21B,ORG,Marriott Tucson-University,,,,,,880 E 2Nd St,,Tucson,AZ,857194838,,,2024-12-16,242.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572907,500572832,SB21B,ORG,Marriott Tucson-University,,,,,,880 E 2Nd St,,Tucson,AZ,857194838,,,2024-12-16,242.03,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572897,500572832,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-12-16,912.95,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572908,500572832,SB21B,ORG,Safeway,,,,,,5918 Stoneridge Mall Rd,,Pleasanton,CA,945883229,,,2024-12-16,300.42,0.00,Fundraising Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572898,500572832,SB21B,ORG,Amtrak,,,,,,60 Massachusetts Ave NE,,Washington,DC,200024285,,,2024-12-16,1054.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572909,500572832,SB21B,ORG,Safeway,,,,,,5918 Stoneridge Mall Rd,,Pleasanton,CA,945883229,,,2024-12-16,22.77,0.00,Fundraising Event Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572899,500572832,SB21B,ORG,Budget Rent A Car,,,,,,5102 W Latham St,,Phoenix,AZ,850431770,,,2024-12-16,1114.11,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500573352,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-29,0.24,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572572,,,ORG,Carroll Consulting Group LLC,,,,,,2824 E Avalon Dr,,Phoenix,AZ,850167502,,,2024-11-27,658.62,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572582,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,93.48,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572592,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,167.44,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572603,,,ORG,Ross Strategies LLC,,,,,,2515 W Superior St,Apt 3,Chicago,IL,606121139,,,2024-12-20,3750.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572563,,,IND,,Cox,Jennifer,,,,PO Box 27202,,Tucson,AZ,857267202,,,2024-12-24,486.16,0.00,Reimbursement - vendors that aggregate over $200 listed below,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572562,500572563,SB21B,ORG,Wyndham,,,,,,22 Sylvan Way,,Parsippany,NJ,070543801,,,2024-10-20,486.16,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00785816,500572573,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,112.09,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572583,,,ORG,Ross Strategies LLC,,,,,,2515 W Superior St,Apt 3,Chicago,IL,606121139,,,2024-11-27,3750.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572593,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,57.86,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572604,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-12-30,156.75,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572564,,,IND,,Cox,Jennifer,,,,PO Box 27202,,Tucson,AZ,857267202,,,2024-11-27,10000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572574,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,66.74,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572584,,,ORG,Sazerac,,,,,,507 C St NE,,Washington,DC,200025809,,,2024-11-27,403.16,0.00,Event Space Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572594,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,354.83,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572565,,,IND,,Cox,Jennifer,,,,PO Box 27202,,Tucson,AZ,857267202,,,2024-12-24,10000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572575,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,119.31,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572585,,,ORG,Ross Strategies LLC,,,,,,2515 W Superior St,Apt 3,Chicago,IL,606121139,,,2024-11-27,1477.44,0.00,Reimbursement - Fundraising Event Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572595,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,93.79,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572566,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-30,0.24,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572576,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,1136.37,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572586,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,29.00,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572596,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,7.98,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572567,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-12-08,106.30,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572577,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,97.96,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572587,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,29.00,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572597,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,21.73,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572568,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-11-27,130.75,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572578,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,46.89,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572588,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,14.62,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572598,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,42.33,0.00,Reimbursement - Shipping,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572569,,,ORG,"The Money Wheel, LLC",,,,,,PO Box 97241,,Phoenix,AZ,850607241,,,2024-11-27,1630.00,0.00,Compliance Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572579,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,61.83,0.00,Reimbursement - Travel,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572589,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,157.93,0.00,Reimbursement - Office Supplies,,,,,,,,,,,,,,,,,,,,
+SB21B,C00785816,500572599,,,ORG,HM Consulting,,,,,,114 Lexington Dr,,Silver Spring,MD,209012531,,,2024-11-27,42.33,0.00,Reimbursement - Shipping,,,,,,,,,,,,,,,,,,,,

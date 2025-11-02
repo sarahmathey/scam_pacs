@@ -1,0 +1,52 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00609388,500687780,,,ORG,"A New Way Consulting, LLC",,,,,,26423 134th Pl SE,,Kent,WA,980423543,,,2024-09-03,4127.50,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500678214,,,ORG,ActBlue Technical Services,,,,,,336 Summer St,,Somerville,MA,021443146,,,2024-09-01,2.39,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687574,,,ORG,ActBlue Technical Services,,,,,,336 Summer St,,Somerville,MA,021443146,,,2024-09-03,63.02,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500678709,,,ORG,ActBlue Technical Services,,,,,,336 Summer St,,Somerville,MA,021443146,,,2024-09-08,46.30,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500679370,,,ORG,ActBlue Technical Services,,,,,,336 Summer St,,Somerville,MA,021443146,,,2024-09-15,73.80,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500680940,,,ORG,ActBlue Technical Services,,,,,,336 Summer St,,Somerville,MA,021443146,,,2024-09-22,113.90,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500682481,,,ORG,ActBlue Technical Services,,,,,,336 Summer St,,Somerville,MA,021443146,,,2024-09-29,2867.10,0.00,Credit Card Processing Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687936,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-09-26,887.03,0.00,Bank Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687885,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-09-11,5645.84,0.00,"Credit Card Payment, See Below",,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687952,500687885,SB21B,ORG,Action Network,,,,,,1900 L St NW,Ste 900,Washington,DC,200365005,,,2024-09-11,73.26,0.00,Email Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687978,500687885,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-09-11,343.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687967,500687885,SB21B,ORG,Delta Airlines,,,,,,1030 Delta Blvd,,Atlanta,GA,303541989,,,2024-09-11,1260.92,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687965,500687885,SB21B,ORG,Google LLC,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-09-11,345.60,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687964,500687885,SB21B,ORG,Holiday Inn,,,,,,3 Ravinia Dr,Ste 100,Atlanta,GA,303462121,,,2024-09-11,1106.85,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687966,500687885,SB21B,ORG,"Marriott International, Inc.",,,,,,10400 Fernwood Rd,,Bethesda,MD,208171102,,,2024-09-11,480.70,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687954,500687885,SB21B,ORG,Pendry Chicago,,,,,,230 N Michigan Ave,,Chicago,IL,606015906,,,2024-09-11,1005.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687991,500687885,SB21B,ORG,Squarespace Inc.,,,,,,8 Clarkson St,,New York,NY,100144301,,,2024-09-11,30.53,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687953,500687885,SB21B,ORG,"Uber Technologies, Inc.",,,,,,636 W 28th St,,New York,NY,100011108,,,2024-09-11,521.98,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687987,500687885,SB21B,ORG,Wifi On Board,,,,,,111 N Canal St,Ste 1500,Chicago,IL,606067205,,,2024-09-11,29.97,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687979,500687885,SB21B,ORG,WP Engine,,,,,,504 Lavaca St,Ste 1000,Austin,TX,787012857,,,2024-09-11,115.00,0.00,Website Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687951,500687885,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,,San Jose,CA,951131608,,,2024-09-11,26.50,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00609388,500687573,,,ORG,Authorize.Net,,,,,,808 E Utah Valley Dr,,American Fork,UT,840039707,,,2024-09-03,30.00,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687890,,,ORG,Building Beyond Collective,,,,,,3570 Forrest Park Rd SE,,Atlanta,GA,303543415,,,2024-09-17,4250.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687888,,,ORG,Conexion Political LLC,,,,,,209 Peninsula Dr,,Moneta,VA,241212120,,,2024-09-12,11658.94,0.00,Video Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687887,,,ORG,"Corporate Innovations, LLC",,,,,,5321 Great Oak Way,Ste F,Columbus,OH,432134532,,,2024-09-12,2250.00,0.00,Website Design Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687784,,,ORG,"CSG, LLC",,,,,,114 N Main St,Ste 201,Concord,NH,033014962,,,2024-09-03,14966.54,0.00,Staff Time,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687785,,,ORG,"CSG, LLC",,,,,,114 N Main St,Ste 201,Concord,NH,033014962,,,2024-09-03,20000.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687786,,,ORG,"CSG, LLC",,,,,,114 N Main St,Ste 201,Concord,NH,033014962,,,2024-09-03,41515.28,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687889,,,ORG,"CSG, LLC",,,,,,114 N Main St,Ste 201,Concord,NH,033014962,,,2024-09-12,75000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687927,,,ORG,"CSG, LLC",,,,,,114 N Main St,Ste 201,Concord,NH,033014962,,,2024-09-24,37500.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687928,,,ORG,"CSG, LLC",,,,,,114 N Main St,Ste 201,Concord,NH,033014962,,,2024-09-24,150000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687948,,,ORG,"CSG, LLC",,,,,,114 N Main St,Ste 201,Concord,NH,033014962,,,2024-09-27,15399.42,0.00,Staff Time,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687920,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-09-24,762.45,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687789,,,ORG,"EveryAction, Inc.",,,,,,PO Box 392264,,Pittsburgh,PA,152519264,,,2024-09-06,333.56,0.00,Database Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687779,,,ORG,Jeremy Halbert-Harris Group LLC,,,,,,750 Piedmont Ave NE,,Atlanta,GA,303081424,,,2024-09-03,3750.00,0.00,Stategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687782,,,ORG,Jessica L. Pace,,,,,,6558 Plymouth Ave,,Saint Louis,MO,631302654,,,2024-09-03,4583.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687788,,,ORG,"Premier Political Compliance, Inc.",,,,,,1032 15th St NW,Ste 247,Washington,DC,200051502,,,2024-09-06,7500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687804,,,ORG,Technicolor Political,,,,,,1805 W Monterey Ave,Unit 43043,Chicago,IL,606434232,,,2024-09-06,7700.00,0.00,Media Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687918,,,ORG,Technicolor Political,,,,,,1805 W Monterey Ave,Unit 43043,Chicago,IL,606434232,,,2024-09-23,70947.95,0.00,Media & Digital Production,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687891,,,ORG,"The Culture Lab, Inc.",,,,,,260 Chapman Rd,Ste 104B,Newark,DE,197025410,,,2024-09-18,2500.00,0.00,Digital Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687783,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-03,6373.15,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687812,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-10,2820.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687814,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-10,9340.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687819,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-10,10610.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687925,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-24,15910.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687939,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-26,35190.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687940,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-26,17558.40,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687944,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-26,32690.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687993,,,ORG,The Pivot Group Inc.,,,,,,712 H St NE,Unit 606,Washington,DC,200023627,,,2024-09-27,98750.00,0.00,Printing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687778,,,ORG,Trinity Shawnice Willard,,,,,,2167 Sinaloa Ave,,Altadena,CA,910013347,,,2024-09-03,1706.00,0.00,Strategic Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00609388,500687923,,,ORG,Unbendable Media LLC,,,,,,PO Box 21099,,Washington,DC,200090599,,,2024-09-24,4000.00,0.00,Communication Consulting Services,,,,,,,,,,,,,,,,,,,,

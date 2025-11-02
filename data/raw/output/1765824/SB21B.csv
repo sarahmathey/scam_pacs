@@ -1,0 +1,65 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00365536,500431681,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-02-05,2042.64,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431975,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-02-12,4527.82,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432765,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-02-19,7321.42,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433537,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-02-26,5011.57,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433538,,,ORG,ActBlue Technical Services,,,,,,14 Arrow St,,Cambridge,MA,021385106,,,2024-02-29,3807.11,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431911,,,ORG,ADT Security Services,,,,,,1501 W Yamato Rd,,Boca Raton,FL,334314438,,,2024-02-05,103.10,0.00,Office Security,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432465,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-02-12,6843.81,0.00,Mortgage Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433850,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-02-27,10.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433851,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-02-27,45.76,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433852,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-02-27,108.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433853,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-02-27,323.39,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432464,,,ORG,"Anne Lewis Strategies, LLC Dba MissionWired",,,,,,650 Massachusetts Ave NW,Ste 505,Washington,DC,200010198,,,2024-02-13,12400.00,0.00,Direct Mail Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431907,,,ORG,Bittersweet Catering,,,,,,823 King St,,Alexandria,VA,223143016,,,2024-02-05,227.87,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431908,,,ORG,Bittersweet Catering,,,,,,823 King St,,Alexandria,VA,223143016,,,2024-02-05,839.53,0.00,Catering,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431912,,,ORG,Comcast,,,,,,1701 John F Kennedy Blvd,Fl 30,Philadelphia,PA,191032855,,,2024-02-05,404.74,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433854,,,ORG,DC Treasurer,,,,,,1100 4Th St SW,,Washington,DC,200244451,,,2024-02-27,14553.24,0.00,Property Tax Payment,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433211,,,ORG,FNBO,,,,,,PO Box 2818,,Omaha,NE,681032818,,,2024-02-21,5901.84,0.00,"Credit Card Payment, See Memos Below if Itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433200,500433211,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-02-21,675.19,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500433203,500433211,SB21B,ORG,American Airlines,,,,,,4333 Amon Carter Blvd,,Fort Worth,TX,761552605,,,2024-02-21,30.45,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500433189,500433211,SB21B,ORG,Paraiso,,,,,,1101 Pennsylvania Ave SE,,Washington,DC,200032277,,,2024-02-21,4128.38,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500433196,500433211,SB21B,ORG,Wayfair,,,,,,4 Copley Pl,Fl 7,Boston,MA,021166504,,,2024-02-21,597.81,0.00,Office Supplies,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500431556,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-02-02,13.59,0.00,Software Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431557,,,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-02-02,109.78,0.00,Software Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431909,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-02-05,73.00,0.00,Employee Retirement Plan Service Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431910,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-02-06,1731.77,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433169,,,ORG,Guideline,,,,,,3050 S Delaware St,Ste 202,San Mateo,CA,944032394,,,2024-02-21,1731.77,0.00,Employee Retirement Plan,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431544,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-02-02,104.05,0.00,Payroll Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431545,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-02-02,4692.96,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431549,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-02-02,90.00,0.00,Payroll Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431547,500431549,SB21B,IND,,Castaneda,Diana,,,,1137 N Johnson St,,Arlington,VA,222015078,,,2024-02-02,30.00,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500431548,500431549,SB21B,IND,,Gutierrez,Danna,,,,1122 Bladensburg Rd NE,Apt 201,Washington,DC,200022693,,,2024-02-02,30.00,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500431546,500431549,SB21B,IND,,McGroary,Victoria,,,,1615 G St SE,,Washington,DC,200033132,,,2024-02-02,30.00,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500431552,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-02-02,10218.89,0.00,Salaries,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431550,500431552,SB21B,IND,,Castaneda,Diana,,,,1137 N Johnson St,,Arlington,VA,222015078,,,2024-02-02,3262.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500431551,500431552,SB21B,IND,,Gutierrez,Danna,,,,1122 Bladensburg Rd NE,Apt 201,Washington,DC,200022693,,,2024-02-02,1952.24,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500431553,500431552,SB21B,IND,,McGroary,Victoria,,,,1615 G St SE,,Washington,DC,200033132,,,2024-02-02,3973.67,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500431554,500431552,SB21B,IND,,Renteria,Paloma,,,,532 Harvest Glen Dr,,Richardson,TX,750815605,,,2024-02-02,1030.96,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432475,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-02-16,4650.01,0.00,Payroll Taxes,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432481,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-02-16,10218.88,0.00,Salaries,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432477,500432481,SB21B,IND,,Castaneda,Diana,,,,1137 N Johnson St,,Arlington,VA,222015078,,,2024-02-16,3262.02,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432478,500432481,SB21B,IND,,Gutierrez,Danna,,,,1122 Bladensburg Rd NE,Apt 201,Washington,DC,200022693,,,2024-02-16,1952.22,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432479,500432481,SB21B,IND,,McGroary,Victoria,,,,1615 G St SE,,Washington,DC,200033132,,,2024-02-16,3973.68,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432480,500432481,SB21B,IND,,Renteria,Paloma,,,,532 Harvest Glen Dr,,Richardson,TX,750815605,,,2024-02-16,1030.96,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432482,,,ORG,Gusto,,,,,,500 3Rd St,Ste 405,San Francisco,CA,941071889,,,2024-02-16,90.00,0.00,Payroll Reimbursement,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432483,500432482,SB21B,IND,,Castaneda,Diana,,,,1137 N Johnson St,,Arlington,VA,222015078,,,2024-02-16,30.00,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432484,500432482,SB21B,IND,,Gutierrez,Danna,,,,1122 Bladensburg Rd NE,Apt 201,Washington,DC,200022693,,,2024-02-16,30.00,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432485,500432482,SB21B,IND,,McGroary,Victoria,,,,1615 G St SE,,Washington,DC,200033132,,,2024-02-16,30.00,0.00,Cell Phone Reimbursement,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00365536,500432470,,,ORG,Katz Compliance,,,,,,PO Box 33079,,Washington,DC,200330079,,,2024-02-14,7063.91,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432476,,,ORG,MJ Siding Corp,,,,,,6113 Walton Ave,,Suitland,MD,207463862,,,2024-02-12,300.00,0.00,Office Cleaning Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433866,,,ORG,MJ Siding Corp,,,,,,6113 Walton Ave,,Suitland,MD,207463862,,,2024-02-26,300.00,0.00,Office Cleaning Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431541,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-02-02,41229.64,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432471,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-02-14,48590.99,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432472,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-02-14,100000.00,0.00,Texting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433213,,,ORG,Mothership Strategies,,,,,,1328 Florida Ave NW,Ste C,Washington,DC,200094827,,,2024-02-23,18701.67,0.00,List Acquisition and Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433167,,,ORG,NGP VAN/EveryAction Inc,,,,,,1445 New York Ave NW,Ste 200,Washington,DC,200052158,,,2024-02-20,12720.00,0.00,Software Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431561,,,IND,,Pena,Gabriel,,,,1608 Rhode Island Ave NW,,Washington,DC,200363206,,,2024-02-02,386.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431915,,,ORG,Perkins Coie,,,,,,607 14Th St NW,,Washington,DC,200052000,,,2024-02-08,11670.80,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433870,,,IND,,Ruiz Kortright,Kaideliz,M,,,VILLA GEORGETTI Clle,E-10,Barceloneta,PR,00617,,,2024-02-02,434.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431555,,,ORG,Strathdee Group LLC,,,,,,PO Box 15096,,Washington,DC,200030096,,,2024-02-02,20000.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433212,,,ORG,Technology Insurance Company,,,,,,3925 Brookside Pkwy,,Alpharetta,GA,300224429,,,2024-02-21,973.00,0.00,Workers Comp Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500431560,,,IND,,Trujillo-Banuelos,Alan,,,,9325 Sylmar Ave,Apt 9,Panorama City,CA,914026940,,,2024-02-02,720.00,0.00,Stipend,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500433170,,,ORG,Washington Gas,,,,,,PO Box 37747,,Philadelphia,PA,191015047,,,2024-02-23,220.53,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432473,,,ORG,Waste Management,,,,,,PO Box 13648,,Philadelphia,PA,191013648,,,2024-02-15,350.63,0.00,Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00365536,500432474,,,ORG,Waterlogic,,,,,,77 McCullough Dr,Ste 10,New Castle,DE,197202089,,,2024-02-16,75.79,0.00,Utilities,,,,,,,,,,,,,,,,,,,,

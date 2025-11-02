@@ -1,0 +1,66 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00538835,500028919,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-08,395.00,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028943,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-15,19.75,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029021,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-22,130.35,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029281,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-09-29,39.50,0.00,Merchant Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028618,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-07-26,29.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028619,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-07-26,32.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029317,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-08-29,16.25,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029320,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-08-29,14.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029318,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-09-26,16.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029319,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,Frnt 1,Washington,DC,200061245,,,2024-09-26,14.00,0.00,Bank Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028620,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-07-01,355.56,0.00,Credit Card Payment - Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029432,500028620,SB21B,ORG,New York Times,,,,,,620 8Th Ave,,New York,NY,100181618,,,2024-07-01,20.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029428,500028620,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2024-07-01,100.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029429,500028620,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2024-07-01,100.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029436,500028620,SB21B,ORG,United Airlines,,,,,,609 Main St,,Houston,TX,770023167,,,2024-07-01,31.99,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029437,500028620,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2024-07-01,12.67,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029438,500028620,SB21B,ORG,UPS Store,,,,,,1490 Quarterpath Rd,Ste 5A,Williamsburg,VA,231856544,,,2024-07-01,15.10,0.00,Shipping,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029444,500028620,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-07-01,33.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029321,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-08-05,638.67,0.00,Credit Card Payment - below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029433,500029321,SB21B,ORG,New York Times,,,,,,620 8Th Ave,,New York,NY,100181618,,,2024-08-05,20.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029434,500029321,SB21B,ORG,New York Times,,,,,,620 8Th Ave,,New York,NY,100181618,,,2024-08-05,20.00,0.00,Subscription,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029430,500029321,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2024-08-05,100.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029423,500029321,SB21B,ORG,"Thompson Austin, By Hyatt",,,,,,506 San Jacinto Blvd,,Austin,TX,787013624,,,2024-08-05,27.57,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029424,500029321,SB21B,ORG,"Thompson Austin, By Hyatt",,,,,,506 San Jacinto Blvd,,Austin,TX,787013624,,,2024-08-05,341.35,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029435,500029321,SB21B,ORG,Uber,,,,,,800 Market St,,San Francisco,CA,941023033,,,2024-08-05,72.17,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029445,500029321,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-08-05,33.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029323,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-08-28,263.72,0.00,Credit Card Payment - below if itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029431,500029323,SB21B,ORG,"NGP VAN, Inc",,,,,,1445 New York Ave NW,# 20,Washington,DC,200052134,,,2024-08-28,100.00,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029446,500029323,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-08-28,53.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029322,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-09-18,33.58,0.00,"Credit Card Payment, - below if itemized",,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029443,500029322,SB21B,ORG,Zoom,,,,,,55 Almaden Blvd,Ste 600,San Jose,CA,951131612,,,2024-09-18,33.58,0.00,Software,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500028621,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-07-22,2157.80,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029324,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-08-01,2291.37,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029325,,,ORG,Capitol Compliance Associates,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,200037508,,,2024-09-10,2001.96,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028622,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-07-12,2754.88,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029393,500028622,SB21B,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-07-12,699.69,0.00,Payroll Taxes & Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029387,500028622,SB21B,IND,,Jordan,Kryste'l,A.,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-07-12,1219.14,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029385,500028622,SB21B,IND,,Saye,Tara,,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-07-12,836.05,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500028623,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-07-30,2825.87,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029392,500028623,SB21B,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-07-30,695.67,0.00,Payroll Taxes & Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029388,500028623,SB21B,IND,,Jordan,Kryste'l,A.,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-07-30,1294.14,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029386,500028623,SB21B,IND,,Saye,Tara,,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-07-30,836.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029327,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-08-15,1103.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029391,500029327,SB21B,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-08-15,267.72,0.00,Payroll Taxes & Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029380,500029327,SB21B,IND,,Saye,Tara,,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-08-15,836.04,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029328,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-08-30,1152.74,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029390,500029328,SB21B,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-08-30,316.68,0.00,Payroll Taxes & Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029381,500029328,SB21B,IND,,Saye,Tara,,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-08-30,836.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029329,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-09-12,1103.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029389,500029329,SB21B,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-09-12,267.70,0.00,Payroll Taxes & Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029382,500029329,SB21B,IND,,Saye,Tara,,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-09-12,836.05,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029330,,,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-09-27,1152.75,0.00,Payroll,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029384,500029330,SB21B,ORG,Dominion Payroll Service,,,,,,306 E Main St,,Richmond,VA,232193820,,,2024-09-27,316.69,0.00,Payroll Taxes & Fees,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500029383,500029330,SB21B,IND,,Saye,Tara,,,,1490-5A Quarterpath Rd,#272,Williamsburg,VA,231856544,,,2024-09-27,836.06,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00538835,500028624,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-07-26,7128.95,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029335,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-09-10,1911.65,0.00,Legal Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028625,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-07-31,4750.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029337,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-08-29,4750.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029338,,,ORG,"Funding Solutions, LLC",,,,,,164 N Quarter,,Williamsburg,VA,231855152,,,2024-09-30,4750.00,0.00,Fundraising Consulting Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028626,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-07-11,100.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500028627,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-07-29,27.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029344,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-08-12,100.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029341,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-08-27,27.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029343,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-09-11,65.00,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00538835,500029342,,,ORG,Intuit,,,,,,2632 Marine Way,,Mountain View,CA,940431126,,,2024-09-27,90.00,0.00,Software,,,,,,,,,,,,,,,,,,,,

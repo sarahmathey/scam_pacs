@@ -1,0 +1,58 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00835041,500136030,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-20,21504.38,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136031,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-27,71605.55,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136032,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-10-31,25823.84,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136033,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-03,18489.31,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136035,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-05,6988.55,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136036,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-10,2865.02,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136037,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-17,2927.27,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136038,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-24,3721.72,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136039,,,PAC,ActBlue,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-11-25,277.38,0.00,Merchant Processing Fees,001,C00401224,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500137141,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-23,100.00,0.00,Bank Fee,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135520,,,ORG,Amalgamated Bank,,,,,,1825 K St NW,,Washington,DC,200061202,,,2024-10-29,130.00,0.00,Banking fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135517,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-19,500.60,0.00,Credit Card Payment - see below if itemized,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136649,500135517,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-17,39.00,0.00,Credit Card Fee,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500136652,500135517,SB21B,ORG,BILL.Com,,,,,,6220 America Center Dr,Ste 100,San Jose,CA,950022563,,,2024-11-06,143.33,0.00,Software,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500136650,500135517,SB21B,ORG,Twitter,,,,,,1355 Market St,,San Francisco,CA,941031307,,,2024-11-17,219.27,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500135519,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-19,5083.03,0.00,Credit Card Payment - see below if itemized,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136658,500135519,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-19,-21.90,0.00,Pre-payment credit applied,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500136657,500135519,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-10-19,72.14,0.00,Software,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500136655,500135519,SB21B,ORG,Hockeystick LLC,,,,,,403 E Melbourne Ave,,Silver Spring,MD,209013627,,,2024-10-21,5000.00,0.00,Texting,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500136654,500135519,SB21B,ORG,Staples,,,,,,500 Staples Dr,,Framingham,MA,017024478,,,2024-10-21,-17.99,0.00,Office supplies,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500136656,500135519,SB21B,ORG,Staples,,,,,,500 Staples Dr,,Framingham,MA,017024478,,,2024-10-21,17.99,0.00,Office supplies,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500135516,,,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-25,168.32,0.00,Credit Card Payment - see below if itemized,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500136647,500135516,SB21B,ORG,American Express,,,,,,200 Vesey St,,New York,NY,102851000,,,2024-11-22,96.18,0.00,Credit Card Interest Payment,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500136648,500135516,SB21B,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,,2024-11-19,72.14,0.00,Utilities - Internet,001,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00835041,500135745,,,ORG,"Baker, Donelson, Bearman, Caldwell, & Berkowitz, PC",,,,,,200 E Broward Blvd,Ste 2000,Fort Lauderdale,FL,333011927,,,2024-11-05,2879.00,0.00,Legal Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135742,,,ORG,"Baker, Donelson, Bearman, Caldwell, & Berkowitz, PC",,,,,,200 E Broward Blvd,Ste 2000,Fort Lauderdale,FL,333011927,,,2024-11-18,432.00,0.00,Legal Fees,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135524,,,ORG,Comcast,,,,,,1701 John F Kennedy Blvd,,Philadelphia,PA,191032833,,,2024-10-31,95.99,0.00,Utilities - Internet,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135748,,,ORG,"DJA Strategies, Inc.",,,,,,651 N Broad St,Ste 201,Middletown,DE,197096402,,,2024-11-01,19000.00,0.00,Fundraising Consultant,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135526,,,ORG,Fraiser,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2024-11-04,10000.00,0.00,Software and Data Purchase,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135525,,,ORG,Fraiser,,,,,,200 Spectrum Center Dr,Ste 30,Irvine,CA,926185003,,,2024-11-07,42535.98,0.00,Software and Data Purchase,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135747,,,ORG,Grassroots Analytics,,,,,,645 Prospect Hill Rd,,Rutland,VT,057019442,,,2024-11-04,848420.67,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135744,,,ORG,Lauren Ashcraft,,,,,,2561 48Th St,Fl 2,Long Island City,NY,111031110,,,2024-11-12,525.00,0.00,Consulting - Editing and Copywriting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135750,,,ORG,Left Flank Strategies LLC,,,,,,1621 Central Ave,,Cheyenne,WY,820014531,,,2024-10-31,7500.00,0.00,Consulting - Communications,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135527,,,ORG,Leverage,,,,,,469 Luray Pl NW,,Washington,DC,200102526,,,2024-11-14,9440.00,0.00,Text Rental,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135751,,,ORG,Message Digital,,,,,,PO Box 391527,,Mountain View,CA,940391527,,,2024-10-29,47088.46,0.00,Email Software,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135752,,,ORG,Message Digital,,,,,,PO Box 391527,,Mountain View,CA,940391527,,,2024-10-29,319000.00,0.00,Email Software,003,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135754,,,ORG,Middle Seat Consulting,,,,,,1436 U St NW,Ste 404,Washington,DC,200093998,,,2024-10-23,150000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135522,,,ORG,Middle Seat Consulting,,,,,,1436 U St NW,Ste 404,Washington,DC,200093998,,,2024-10-30,100000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135528,,,ORG,Middle Seat Consulting,,,,,,1436 U St NW,Ste 404,Washington,DC,200093998,,,2024-10-30,5000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135749,,,ORG,Middle Seat Consulting,,,,,,1436 U St NW,Ste 404,Washington,DC,200093998,,,2024-10-31,150000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135523,,,ORG,Middle Seat Consulting,,,,,,1436 U St NW,Ste 404,Washington,DC,200093998,,,2024-11-04,150000.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135743,,,ORG,Middle Seat Consulting,,,,,,1436 U St NW,Ste 404,Washington,DC,200093998,,,2024-11-13,12500.00,0.00,Digital Advertising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135530,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-10-28,600.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135531,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-10-28,600.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135532,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-10-28,300.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135533,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-10-28,150.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135534,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-10-28,1900.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135535,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-11-04,2050.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135536,,,ORG,NGP VAN,,,,,,655 15Th St NW,Ste 650,Washington,DC,200055738,,,2024-11-12,300.00,0.00,Software,001,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135746,,,ORG,Open Labs,,,,,,1800 M St NW,Frnt 1,Washington,DC,200365828,,,2024-11-05,42210.00,0.00,Message research and testing,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500137046,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2024-10-25,28383.64,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500137043,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2024-10-29,40794.46,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500137044,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2024-10-29,589986.52,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500137037,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2024-11-13,65136.96,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500137039,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2024-11-13,143125.53,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500137041,,,ORG,Switchboard,,,,,,PO Box 33485,,Washington,DC,200330485,,,2024-11-13,106275.55,0.00,Texting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00835041,500135753,,,ORG,Victory First Consulting LLC,,,,,,8124 Bonaire Ct,,Silver Spring,MD,209104663,,,2024-10-29,3000.00,0.00,Consulting - Compliance,001,,,,,,,,,,,,,,,,,,,

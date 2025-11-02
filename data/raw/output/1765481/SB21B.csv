@@ -1,0 +1,23 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00348607,500495282,,,ORG,"192 Lexington Avenue, LLC",,,,,,8 W 40Th St,Fl 3,New York,NY,100183902,,,2024-02-01,2353.48,0.00,Rent & Utilities,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495284,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-02-19,197.67,0.00,Credit Card Payment-See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495283,500495284,SB21B,ORG,Time Warner Cable Of NYC,,,,,,PO Box 9227,,Uniondale,NY,115559227,,,2024-02-19,197.67,0.00,Telephone/Cable,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495285,,,ORG,Elias Law Group,,,,,,250 Massachusetts Ave NW,Ste 400,Washington,DC,200015825,,,2024-02-16,2036.70,0.00,Professional Service-Legal,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495287,,,ORG,Empire BlueCross,,,,,,PO Box 11792,,Newark,NJ,071014792,,,2024-02-01,3424.58,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495290,,,ORG,Fulkerson Kennedy & Company,,,,,,220 I St NE,Ste 250,Washington,DC,200024693,,,2024-02-01,10500.00,0.00,Consulting Services-Fundraising,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495291,,,ORG,Guardian,,,,,,PO Box 824404,,Philadelphia,PA,191824404,,,2024-02-01,146.12,0.00,Health Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495293,,,ORG,"NGP Van, Inc",,,,,,1225 I St NW,Ste 1225,Washington,DC,200055918,,,2024-02-15,796.88,0.00,Software,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495294,,,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-02-12,87.00,0.00,Payroll Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495299,,,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-02-15,14479.78,0.00,Payroll Payment (See Below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495300,500495299,SB21B,IND,,Bart,Samuel,E.,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-02-15,2677.78,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495313,500495299,SB21B,IND,,Kutryb,Nicholas,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-02-15,4477.61,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495314,500495299,SB21B,IND,,Newton,Samuel,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-02-15,1461.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495298,500495299,SB21B,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-02-15,5862.63,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495319,,,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-02-29,14410.78,0.00,Payroll Payment (See Below),,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495316,500495319,SB21B,IND,,Bart,Samuel,E.,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-02-29,2677.77,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495317,500495319,SB21B,IND,,Kutryb,Nicholas,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-02-29,4477.61,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495318,500495319,SB21B,IND,,Newton,Samuel,,,,192 Lexington Ave,Rm 1001,New York,NY,100166823,,,2024-02-29,1461.76,0.00,Payroll,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495315,500495319,SB21B,ORG,"Paychex, Inc.",,,,,,1565 Jefferson Rd,Ste 210,Rochester,NY,146233178,,,2024-02-29,5793.64,0.00,Payroll Taxes/Withholdings,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00348607,500495320,,,ORG,Schmutter Strull Fleisch Inc.,,,,,,80 Maiden Ln,Rm 1203,New York,NY,100384811,,,2024-02-29,903.13,0.00,Insurance,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495295,,,ORG,"Secure Blue, LLC",,,,,,1201 Britania Ln,,Annapolis,MD,214034354,,,2024-02-01,495.00,0.00,Computer Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00348607,500495296,,,ORG,"Verdolino & Lowey, P.C.",,,,,,124 Washington St,Ste 101,Foxboro,MA,020351368,,,2024-02-20,2575.41,0.00,Professional Services-Accounting,,,,,,,,,,,,,,,,,,,,

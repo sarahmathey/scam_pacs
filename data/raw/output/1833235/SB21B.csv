@@ -1,0 +1,21 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB21B,C00652164,500642891,,,ORG,MS Public Affairs LLC,,,,,,38 Rea Avenue Ext,,Hawthorne,NJ,075063334,,,2024-03-18,5000.00,0.00,Political Strategy Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500642902,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-03-15,3153.72,0.00,Payroll - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500642920,500642902,SB21B,IND,,Pardee,Daniel,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-03-15,1157.48,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500642918,500642902,SB21B,IND,,Baitman,Benjamin,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-03-15,1332.68,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500642919,500642902,SB21B,IND,,Hoffman,Claire,,,,PO Box 584,,Ridgewood,NJ,074510584,,,2024-03-15,663.56,0.00,Salary,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500642892,,,IND,,Szott,Ryne,C.,,,7 Medford Pl,,Wayne,NJ,074705313,,,2024-03-18,500.00,0.00,Driving Services,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500642903,,,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,,2024-03-19,8330.85,0.00,Credit Card Payment - See Below if Itemized,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500648750,500642903,SB21B,ORG,MBA Consulting Group,,,,,,611 Pennsylvania Ave SE,Ste 143,Washington,DC,200034303,,,2024-03-19,1500.00,0.00,Compliance Services,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648763,500642903,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-03-19,369.10,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648754,500642903,SB21B,ORG,The St. Regis Bal Harbour Resort,,,,,,9703 Collins Ave,,Bal Harbour,FL,331542243,,,2024-03-19,4500.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648755,500642903,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-03-19,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648765,500642903,SB21B,ORG,Starr Restaurants,,,,,,325 Chestnut St,,Philadelphia,PA,191062615,,,2024-03-19,2043.48,0.00,Catering,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648746,500642903,SB21B,ORG,Canyons Village at Park City,,,,,,4000 Canyons Resort Dr,,Park City,UT,840986546,,,2024-03-19,-417.67,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648766,500642903,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-03-19,11.20,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648747,500642903,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-03-19,-11.20,0.00,Refund from Vendor,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648759,500642903,SB21B,ORG,United Airlines,,,,,,233 S Wacker Dr,,Chicago,IL,606067147,,,2024-03-19,8.00,0.00,Travel,,,,,,,,,,,,,,,,,,,X,*
+SB21B,C00652164,500648655,,,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,,2024-03-31,19.75,0.00,Credit Card Processing Fee,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500642887,,,ORG,The Frost Group,,,,,,660 Pennsylvania Ave SE,Ste 202,Washington,DC,200034357,,,2024-03-18,2500.00,0.00,Fundraising Consulting,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500642898,,,ORG,Payroll Data Processing,,,,,,4224 Henderson Blvd,,Tampa,FL,336295611,,,2024-03-15,1032.41,0.00,Payroll Taxes and Fees,,,,,,,,,,,,,,,,,,,,
+SB21B,C00652164,500642889,,,ORG,The Frost Group,,,,,,660 Pennsylvania Ave SE,Ste 202,Washington,DC,200034357,,,2024-03-18,1227.19,0.00,Travel,,,,,,,,,,,,,,,,,,,,
